@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>sp</title>
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/fonts/fontawesome-all.min.css">
+    <link rel="stylesheet" href="assets/fonts/ionicons.min.css">
+    <link rel="stylesheet" href="assets/fonts/material-icons.min.css">
+    <link rel="stylesheet" href="assets/fonts/simple-line-icons.min.css">
+    <link rel="stylesheet" href="assets/fonts/typicons.min.css">
+    <link rel="stylesheet" href="assets/css/Footer-Dark.css">
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="stylesheet" href="assets/css/untitled.css">
+</head>
+
+<body>
+    <nav class="navbar navbar-light navbar-expand-md sticky-top shadow-sm" id="navBar" style="border-bottom-style: solid;background: var(--bs-white);">
+        <div class="container-fluid"><a class="navbar-brand" id="navbarBrand" href="#"><img id="brandLogo" src="assets/img/logo.png"></a><button data-bs-toggle="collapse" class="navbar-toggler" data-bs-target="#navBarCollapse" id="navbarToggler"><span class="visually-hidden" id="toggleNav">Toggle navigation</span><span class="navbar-toggler-icon" id="toggleIcon"></span></button>
+            <div class="collapse navbar-collapse" id="navBarCollapse">
+                <ul class="navbar-nav" id="navBarMenu">
+                    <li class="nav-item" id="navItem1"><a class="nav-link" id="navItemLink1" href="index.html">Pantalla principal/Inicio</a></li>
+                    <li class="nav-item" id="navItem2"><a class="nav-link" id="navItemLink2" href="download.html">Asistente descarga</a></li>
+                    <li class="nav-item" id="navItem3"><a class="nav-link" id="navItemLink3" href="authorProfile.html">Perfil autor</a></li>
+                    <li class="nav-item" id="navItem4"><a class="nav-link active" id="navItemLink4" href="docDetails.html">Biografía</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div id="main" style="margin: 10px;padding: 10px;">
+        <div class="container" id="mContainer">
+            <div class="row" id="mRow">
+                <div class="col-md-4 col-lg-2 col-xl-3 text-center" id="mC1"><img class="rounded-circle shadow-sm" id="authorPic" src="assets/img/VaultBoy.jpeg" width="150" height="150" alt="Foto del autor">
+                    <p id="authorNameC1"><a class="text-center link-dark link-first-level" id="authorNameLink" href="#">Nombre del autor</a></p>
+                    <div class="shadow-sm" id="authIDs" style="padding-left: 5px;">
+                        <h5 id="authIDsHeader">Identificadores</h5>
+                        <div class="row" id="orcidRow" style="margin-bottom: 12px;margin-right: 0px;margin-left: 0px;">
+                            <div class="col-xl-1 align-self-start" id="orcidC1" style="padding-right: 0px;padding-left: 0px;"><img id="orcidIcon" src="assets/img/orcidicon.png" width="28px" height="28px"></div>
+                            <div class="col-xl-11 align-self-start" id="orcidC2">
+                                <p class="text-start text-third-level" id="orcidTitle" style="font-weight: bold;padding: 0px;padding-top: 0px;margin-bottom: 0px;">ORCiD</p>
+                                <p class="text-start link-third-level" id="orcidLinkP" style="margin: 0px;margin-bottom: 0px;"><a class="text-break link-dark" id="orcidLink" href="#">https://orcid.org/0000-0002-8184-551X<br></a></p>
+                            </div>
+                        </div>
+                        <div class="row" id="gscRow" style="margin-bottom: 12px;margin-right: 0px;margin-left: 0px;">
+                            <div class="col-xl-1 align-self-start" id="gscC1" style="padding-right: 0px;padding-left: 0px;"><img id="gscIcon" src="assets/img/googleicon.png" width="28px" height="28px"></div>
+                            <div class="col-xl-11 align-self-start" id="gscC2">
+                                <p class="text-start text-third-level" id="gscTitle" style="font-weight: bold;padding: 0px;padding-top: 0px;margin-bottom: 0px;">Google Scholar Citations</p>
+                                <p class="text-start" id="gscLinkP" style="margin: 0px;margin-bottom: 0px;"><a class="text-break link-dark link-third-level" id="gscLink" href="#">kyTHOh0AAAAJ<br></a></p>
+                            </div>
+                        </div>
+                        <div class="row" id="wosRow" style="margin-bottom: 12px;margin-right: 0px;margin-left: 0px;">
+                            <div class="col-xl-1 align-self-start" id="wosC1" style="padding-right: 0px;padding-left: 0px;"><img id="wosIcon" src="assets/img/wosicon.png" width="28px" height="28px"></div>
+                            <div class="col-xl-11 align-self-start" id="wosC2">
+                                <p class="text-start text-third-level" id="wosTitle" style="font-weight: bold;padding: 0px;padding-top: 0px;margin-bottom: 0px;">WOS ResearcherID</p>
+                                <p class="text-start link-third-level" id="wosLinkP" style="margin: 0px;margin-bottom: 0px;"><a class="text-break link-dark" id="wosLink" href="#">I-8406-2012<br></a></p>
+                            </div>
+                        </div>
+                        <div class="row" id="scRow" style="margin-bottom: 12px;margin-right: 0px;margin-left: 0px;">
+                            <div class="col-xl-1 align-self-start" id="scC1" style="padding-right: 0px;padding-left: 0px;"><img id="scIcon" src="assets/img/scopusicon.png" width="28px" height="28px"></div>
+                            <div class="col-xl-11 align-self-start" id="scC2">
+                                <p class="text-start text-third-level" id="scTitle" style="font-weight: bold;padding: 0px;padding-top: 0px;margin-bottom: 0px;">Scopus Author Identifier</p>
+                                <p class="text-start link-third-level" id="scLinkP" style="margin: 0px;margin-bottom: 0px;"><a class="text-break link-dark" id="scLink" href="#">6603458416<br></a></p>
+                            </div>
+                        </div>
+                        <div class="row" id="rgRow" style="margin-bottom: 12px;margin-right: 0px;margin-left: 0px;">
+                            <div class="col-xl-1 align-self-start" id="rgC1" style="padding-right: 0px;padding-left: 0px;"><img id="rgIcon" src="assets/img/rsicon.png" width="28px" height="28px"></div>
+                            <div class="col-xl-11 align-self-start" id="rgC2">
+                                <p class="text-start text-third-level" id="rsTitle" style="font-weight: bold;padding: 0px;padding-top: 0px;margin-bottom: 0px;">ResearchGate Profile</p>
+                                <p class="text-start link-third-level" id="rsLinkP" style="margin: 0px;margin-bottom: 0px;"><a class="text-break link-dark" id="rsLink" href="#">Perfil de ResearchGate<br></a></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-7 col-xl-9" id="mC2" style="padding-left: 14px;">
+                    <h3 id="authorName">Nombre y apellidos del autor</h3>
+                    <div class="row" id="summaryLine" style="margin-top: 10px;">
+                        <div class="col-lg-3 text-end" id="slC1">
+                            <p id="slPub">### Publicaciones</p>
+                        </div>
+                        <div class="col-lg-9 col-xl-3" id="slC2">
+                            <p id="slCit">### Citas</p>
+                        </div>
+                        <div class="col" id="slC3">
+                            <p id="slHi">## H-Index</p>
+                        </div>
+                        <div class="col-xl-4" id="slC4">
+                            <p id="slCiting">## Artículos citantes</p>
+                        </div>
+                    </div>
+                    <div class="row" id="affiliations" style="margin-top: 10px;">
+                        <div class="col-lg-3 col-xl-3 text-end" id="affC1">
+                            <p id="affTitle" class="secondary-text-second-level">Afiliaciones</p>
+                        </div>
+                        <div class="col-lg-9 col-xl-9" id="affC2"><div class="page-content page-container" id="page-content">
+    <div class="padding">
+        <div class="row">
+            <div class="col">
+                <div class="timeline p-4 block mb-4 text-third-level">
+                    <div class="tl-item active">
+                        <div class="tl-dot b-warning"></div>
+                        <div class="tl-content">
+                            <div class="">
+                                <a href="#" class="link-dark">
+                                    Universidad de Granada
+                                </a>
+                                Granada, Andalucía, ES
+                            </div>
+                            <div class="tl-date text-muted">DD-MM-AAAA to present</div>
+                            <div class=""> <b>Profesor</b> (Facultad de Comunicación y Documentación)</div>
+                        </div>
+                    </div>
+                    <div class="tl-item">
+                        <div class="tl-dot b-primary"></div>
+                        <div class="tl-content">
+                            <div class="">
+                                <a href="#" class="link-dark">
+                                    Universidad de Granada
+                                </a>
+                                Granada, Andalucía, ES
+                            </div>
+                            <div class="tl-date text-muted mt-1">DD-MM-AAAA to DD-MM-AAAA</div>
+                            <div class=""> <b>Posdoctoral researcher</b> (Departamento de Información y Comunicación)</div>
+                        </div>
+                    </div>
+                    <label for="show">
+                          <span class="btn ms-5"><i class="material-icons">unfold_more</i>{ Mostrar más }</span>
+                    </label>
+                    <input type="radio" id="show" name="group">
+
+                    <label for="hide">
+                          <span class="btn ms-5"><i class="material-icons">unfold_less</i>{ Ocultar }</span>
+                    </label>
+                    <input type="radio" id="hide" name="group">
+                    <div id="content">
+                    <div class="tl-item">
+                        <div class="tl-dot b-primary"></div>
+                        <div class="tl-content">
+                            <div class="">
+                                <a href="#" class="link-dark">
+                                    Universidad de Granada
+                                </a>
+                                Granada, Andalucía, ES
+                            </div>
+                            <div class="tl-date text-muted mt-1">DD-MM-AAAA to DD-MM-AAAA</div>
+                            <div class=""> <b>Lecturer</b> (Departamento de Información y Comunicación)</div>
+                        </div>
+                    </div>
+                    <div class="tl-item">
+                        <div class="tl-dot b-primary"></div>
+                        <div class="tl-content">
+                            <div class="">
+                                <a href="#" class="link-dark">
+                                    Universidad de Granada
+                                </a>
+                                Granada, Andalucía, ES
+                            </div>
+                            <div class="tl-date text-muted mt-1">DD-MM-AAAA to DD-MM-AAAA</div>
+                            <div class="">  <b>Graduate Teaching Assistant (FPU programme)</b> (Departamento de Información y Comunicación)</div>
+                        </div>
+                    </div>
+                    <div class="tl-item">
+                        <div class="tl-dot b-danger"></div>
+                        <div class="tl-content">
+                            <div class="">
+                                <a href="#" class="link-dark">
+                                    Universidad de Granada
+                                </a>
+                                Granada, Andalucía, ES
+                            </div>
+                            <div class="tl-date text-muted mt-1">DD-MM-AAAA to DD-MM-AAAA</div>
+                            <div class="">  <b>PhD in Social Sciences</b>(Social Sciences Doctoral Programme)</div>
+                        </div>
+                    </div>
+                    <div class="tl-item">
+                        <div class="tl-dot b-danger"></div>
+                        <div class="tl-content">
+                            <div class="">
+                                <a href="#" class="link-dark">
+                                    Universidad de Granada
+                                </a>
+                                Granada, Andalucía, ES
+                            </div>
+                            <div class="tl-date text-muted mt-1">DD-MM-AAAA to DD-MM-AAAA</div>
+                            <div class="">  <b>Licenciatura en Documentación</b>(Departamento de Información y Comunicación)</div>
+                        </div>
+                    </div>
+                    <div class="tl-item">
+                        <div class="tl-dot b-danger"></div>
+                        <div class="tl-content">
+                            <div class="">
+                                <a href="#" class="link-dark">
+                                    Universidad de Granada
+                                </a>
+                                Granada, Andalucía, ES
+                            </div>
+                            <div class="tl-date text-muted mt-1">DD-MM-AAAA to DD-MM-AAAA</div>
+                            <div class="">  <b> Diplomatura en Biblioteconomía y Documentación</b>(Departamento de Información y Comunicación)</div>
+                        </div>
+                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div></div>
+                    </div>
+                    <div class="row" id="emails" style="margin-top: 10px;">
+                        <div class="col-lg-3 text-end" id="emC1">
+                            <p id="emTitle" class="secondary-text-second-level">Emails</p>
+                        </div>
+                        <div class="col-lg-9" id="emC2">
+                            <p id="emP1" class="link-second-level"><a class="link-dark" href="#">correo@dominio</a></p>
+                            <p id="emP2" class="link-second-level"><a class="link-dark" href="#">correo@dominio</a></p>
+                        </div>
+                    </div>
+                    <div class="row" id="areas" style="margin-top: 10px;">
+                        <div class="col-lg-3 text-end" id="arC1">
+                            <p id="arTitle" class="secondary-text-second-level">Áreas temáticas</p>
+                        </div>
+                        <div class="col-lg-9" id="arC2">
+                            <div id="arDiv"><a class="btn btn-outline-dark btn-second-level" role="button" id="arBtn1" style="margin-right: 4px; margin-bottom: 4px;">Área temática 1</a><a class="btn btn-outline-dark btn-second-level" role="button" id="arBtn2" style="margin-right: 4px; margin-bottom: 4px;">Área temática 2</a><a class="btn btn-outline-dark btn-second-level" role="button" id="arBtn3" style="margin-right: 4px; margin-bottom: 4px;">Área temática 3</a><a class="btn btn-outline-dark btn-second-level" role="button" id="arBtn4" style="margin-right: 4px; margin-bottom: 4px;">Área temática 4</a><a class="btn btn-outline-dark btn-second-level" role="button" id="arBtn5" style="margin-right: 4px; margin-bottom: 4px;">Área temática 5</a></div>
+                        </div>
+                    </div>
+                    <div class="row" id="position" style="margin-top: 10px;">
+                        <div class="col-lg-3 text-end" id="posC1">
+                            <p id="posTitle" class="secondary-text-second-level">Ocupación actual</p>
+                        </div>
+                        <div class="col-lg-9" id="posC2">
+                            <p id="posContent" class="text-second-level">Example, Professor of....</p>
+                        </div>
+                    </div>
+                    <div class="row" id="biography" style="margin-top: 10px;">
+                        <div class="col-lg-3 text-end" id="bioC1">
+                            <p id="bioTitle" class="secondary-text-second-level">Biografía</p>
+                        </div>
+                        <div class="col-lg-9" id="bioC2">
+                            <p id="bioContent" class="text-second-level">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer id="footer" class="footer-dark">
+        <div class="container" id="footerContainer">
+            <div class="row" id="fcrow">
+                <div class="col-sm-6 col-md-3 item" id="fColServ">
+                    <h3 id="servHead">Servicios</h3>
+                    <ul id="servList">
+                        <li><a href="#">Datos bibliométricos</a></li>
+                        <li><a href="#">Soporte de uso</a></li>
+                        <li></li>
+                    </ul>
+                </div>
+                <div class="col-sm-6 col-md-3 item" id="fColAbout">
+                    <h3>About</h3>
+                    <ul>
+                        <li>Scholar+</li>
+                        <li>Equipo</li>
+                    </ul>
+                </div>
+                <div class="col-md-6 item text" id="fColText">
+                    <h3>Scholar+</h3>
+                    <p>App que permite la descarga de registros, datos de publicación, impacto y metadatos adicionales de Google Scholar, OpenAlex, CrossRef, Web of Science y Scopus.</p>
+                </div>
+                <div class="col item social" id="fColSocial"><a href="#"><i class="icon ion-social-facebook"></i></a><a href="#"><i class="icon ion-social-twitter"></i></a><a href="#"><i class="icon ion-social-snapchat"></i></a><a href="#"><i class="icon ion-social-instagram"></i></a></div>
+            </div>
+            <p id="copyright" class="copyright">Scholar+ © 2022</p>
+        </div>
+    </footer>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="assets/js/bs-init.js"></script>
+    <script src="assets/js/popover.js"></script>
+</body>
+
+</html>

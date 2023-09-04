@@ -1,0 +1,2046 @@
+
+    {
+        "search_metadata":
+        {
+            "id": "62384fb460739342e93431ee",
+            "status": "Success",
+            "json_endpoint": "https://serpapi.com/searches/ace1cb2cc51739bb/62384fb460739342e93431ee.json",
+            "created_at": "2022-03-21 10:13:08 UTC",
+            "processed_at": "2022-03-21 10:13:08 UTC",
+            "google_scholar_author_url": "https://scholar.google.com/citations?user=ozjAngUAAAAJ&hl=en&cstart=0&pagesize=100",
+            "raw_html_file": "https://serpapi.com/searches/ace1cb2cc51739bb/62384fb460739342e93431ee.html",
+            "total_time_taken": 0.57
+        }
+        ,
+        "search_parameters":
+        {
+            "engine": "google_scholar_author",
+            "author_id": "ozjAngUAAAAJ",
+            "hl": "en",
+            "start": 0,
+            "num": "100"
+        }
+        ,
+        "author":
+        {
+            "name": "Rafael Ruiz-Perez",
+            "affiliations": "Profesor de Documentación. Grupo EC3-Universidad de Granada. Spain",
+            "email": "Verified email at ugr.es",
+            "interests":
+            [
+                {
+                    "title": "Library & Information Studies",
+                    "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:library_%26_information_studies",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Alibrary_%2526_information_studies"
+                }
+                ,
+                {
+                    "title": "Science Evaluation - Scientific Communication",
+                    "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:science_evaluation_scientific_communication",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ascience_evaluation_scientific_communication"
+                }
+                ,
+                {
+                    "title": "Scientific Journals Evaluation-Research Evaluation",
+                    "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:scientific_journals_evaluation_research_evaluation",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ascientific_journals_evaluation_research_evaluation"
+                }
+            ]
+            ,
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ozjAngUAAAAJ&citpid=3"
+        }
+        ,
+        "articles":
+        [
+            {
+                "title": "Google Scholar como herramienta para la evaluación científica.",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:UeHWp8X0CEIC",
+                "citation_id": "ozjAngUAAAAJ:UeHWp8X0CEIC",
+                "authors": "D Torres-Salinas, R Ruiz-Pérez, E Delgado-López-Cózar",
+                "publication": "El profesional de la información 18 (5), 501-510, 2009",
+                "cited_by":
+                {
+                    "value": 203,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9321060152170934684",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=9321060152170934684&engine=google_scholar&hl=en",
+                    "cites_id": "9321060152170934684"
+                }
+                ,
+                "year": "2009"
+            }
+            ,
+            {
+                "title": "La edición de revistas científicas directrices, criterios y modelos de evaluación",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:bbjcffOLshcC",
+                "citation_id": "ozjAngUAAAAJ:bbjcffOLshcC",
+                "authors": "ED López-Cózar, R Ruiz-Pérez, E Jiménez-Contreras",
+                "publication": "Presencia 4, 5.1, 2006",
+                "cited_by":
+                {
+                    "value": 195,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11406548678513694039,18345322217544484566,9228370778704044544,6674059432994390331,6063772549564690993,3280732103214570950,16950969291096269001,11371046373582163801,6739972342646860002",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11406548678513694039%2C18345322217544484566%2C9228370778704044544%2C6674059432994390331%2C6063772549564690993%2C3280732103214570950%2C16950969291096269001%2C11371046373582163801%2C6739972342646860002&engine=google_scholar&hl=en",
+                    "cites_id": "11406548678513694039,18345322217544484566,9228370778704044544,6674059432994390331,6063772549564690993,3280732103214570950,16950969291096269001,11371046373582163801,6739972342646860002"
+                }
+                ,
+                "year": "2006"
+            }
+            ,
+            {
+                "title": "Análisis bibliométrico y de redes sociales aplicado a las tesis bibliométricas defendidas en España (1976-2002): temas, escuelas científicas y redes académicas",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:qjMakFHDy7sC",
+                "citation_id": "ozjAngUAAAAJ:qjMakFHDy7sC",
+                "authors": "E Delgado López-Cózar, D Torres-Salinas, E Jiménez-Contreras, ...",
+                "publication": "Revista española de documentación científica 29 (4), 493-524, 2006",
+                "cited_by":
+                {
+                    "value": 155,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6714741127776607141,8679999696661633412,3834610439581944298",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=6714741127776607141%2C8679999696661633412%2C3834610439581944298&engine=google_scholar&hl=en",
+                    "cites_id": "6714741127776607141,8679999696661633412,3834610439581944298"
+                }
+                ,
+                "year": "2006"
+            }
+            ,
+            {
+                "title": "Criterios del Institute for Scientific Information para la selección de revistas científicas. Su aplicación a las revistas españolas: metodología e indicadores",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:u-x6o8ySG0sC",
+                "citation_id": "ozjAngUAAAAJ:u-x6o8ySG0sC",
+                "authors": "R Ruiz-Pérez, E Delgado, E Jiménez-Contreras",
+                "publication": "International journal of clinical and health psychology 6 (2), 401-424, 2006",
+                "cited_by":
+                {
+                    "value": 129,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17384433545761932253,13485164909664202426,3183980255723898704",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=17384433545761932253%2C13485164909664202426%2C3183980255723898704&engine=google_scholar&hl=en",
+                    "cites_id": "17384433545761932253,13485164909664202426,3183980255723898704"
+                }
+                ,
+                "year": "2006"
+            }
+            ,
+            {
+                "title": "Spanish personal name variations in national and international biomedical databases: implications for information retrieval and bibliometric studies",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:KUbvn5osdkgC",
+                "citation_id": "ozjAngUAAAAJ:KUbvn5osdkgC",
+                "authors": "R Ruiz-Pérez, ED López-Cózar, E Jiménez-Contreras",
+                "publication": "Journal of the Medical Library Association 90 (4), 411, 2002",
+                "cited_by":
+                {
+                    "value": 125,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14705098271352106730,643582297122362645,11755361221879853876",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=14705098271352106730%2C643582297122362645%2C11755361221879853876&engine=google_scholar&hl=en",
+                    "cites_id": "14705098271352106730,643582297122362645,11755361221879853876"
+                }
+                ,
+                "year": "2002"
+            }
+            ,
+            {
+                "title": "Impact-factor rewards affect Spanish research",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:d1gkVwhDpl0C",
+                "citation_id": "ozjAngUAAAAJ:d1gkVwhDpl0C",
+                "authors": "E Jimenez-Contreras, E Delgado López- Cózar, R Ruiz-Pérez",
+                "publication": "Nature 417 (6892), 829, 2002",
+                "cited_by":
+                {
+                    "value": 110,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4174566271723900872",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=4174566271723900872&engine=google_scholar&hl=en",
+                    "cites_id": "4174566271723900872"
+                }
+                ,
+                "year": "2002"
+            }
+            ,
+            {
+                "title": "Principios y criterios utilizados en España por la Comisión Nacional Evaluadora de la Actividad Investigadora (CNEAI) para la valoración de las publicaciones científicas: 1989-2009",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:Se3iqnhoufwC",
+                "citation_id": "ozjAngUAAAAJ:Se3iqnhoufwC",
+                "authors": "R Ruiz Pérez, E Delgado López-Cózar, E Jiménez Contreras",
+                "publication": "Psicothema 22 (4), 898-908, 2010",
+                "cited_by":
+                {
+                    "value": 90,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17318596058626149865,10643399715879304031",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=17318596058626149865%2C10643399715879304031&engine=google_scholar&hl=en",
+                    "cites_id": "17318596058626149865,10643399715879304031"
+                }
+                ,
+                "year": "2010"
+            }
+            ,
+            {
+                "title": "El análisis documental: bases terminológicas, conceptualización y estructura operativa",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:Tyk-4Ss8FVUC",
+                "citation_id": "ozjAngUAAAAJ:Tyk-4Ss8FVUC",
+                "authors": "R Ruiz Pérez",
+                "publication": "Granada, Universidad de Granada, 1992",
+                "cited_by":
+                {
+                    "value": 77,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6587442756661595656,4267192952863383625",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=6587442756661595656%2C4267192952863383625&engine=google_scholar&hl=en",
+                    "cites_id": "6587442756661595656,4267192952863383625"
+                }
+                ,
+                "year": "1992"
+            }
+            ,
+            {
+                "title": "La edición de revistas científicas: directrices, criterios y modelos de evaluación",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:SZzxPo9m4nkC",
+                "citation_id": "ozjAngUAAAAJ:SZzxPo9m4nkC",
+                "authors": "E Delgado, R Ruiz-Pérez, E Jiménez-Contreras",
+                "publication": "Madrid: FECYT, 2006",
+                "cited_by":
+                {
+                    "value": 57,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9590429838486517189",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=9590429838486517189&engine=google_scholar&hl=en",
+                    "cites_id": "9590429838486517189"
+                }
+                ,
+                "year": "2006"
+            }
+            ,
+            {
+                "title": "La comunicación y edición científica: fundamentos conceptuales. Granada: Universidad de Granada, 2009",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:XiSMed-E-HIC",
+                "citation_id": "ozjAngUAAAAJ:XiSMed-E-HIC",
+                "authors": "E Delgado López-Cózar, R Ruiz Pérez",
+                "publication": "Universidad de Granada, 2009",
+                "cited_by":
+                {
+                    "value": 54,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16744506664653982946",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=16744506664653982946&engine=google_scholar&hl=en",
+                    "cites_id": "16744506664653982946"
+                }
+                ,
+                "year": "2009"
+            }
+            ,
+            {
+                "title": "State of the library and information science blogosphere after social networks boom: A metric approach",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:hqOjcs7Dif8C",
+                "citation_id": "ozjAngUAAAAJ:hqOjcs7Dif8C",
+                "authors": "D Torres-Salinas, Á Cabezas-Clavijo, R Ruiz-Pérez, ED López-Cózar",
+                "publication": "Library & Information Science Research 33 (2), 168-174, 2011",
+                "cited_by":
+                {
+                    "value": 44,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13277695654475099842,8291660055223216488",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=13277695654475099842%2C8291660055223216488&engine=google_scholar&hl=en",
+                    "cites_id": "13277695654475099842,8291660055223216488"
+                }
+                ,
+                "year": "2011"
+            }
+            ,
+            {
+                "title": "El análisis de las tesis doctorales como indicador evaluativo: reflexiones y propuestas",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:S16KYo8Pm5AC",
+                "citation_id": "ozjAngUAAAAJ:S16KYo8Pm5AC",
+                "authors": "E Jiménez-Contreras, R Ruiz-Pérez, ED López-Cózar",
+                "publication": "Revista de Investigación Educativa 32 (2), 295-308, 2014",
+                "cited_by":
+                {
+                    "value": 42,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16397623817826677",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=16397623817826677&engine=google_scholar&hl=en",
+                    "cites_id": "16397623817826677"
+                }
+                ,
+                "year": "2014"
+            }
+            ,
+            {
+                "title": "E. Delgado López-Cózar",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:2mikiJ1VBVsC",
+                "citation_id": "ozjAngUAAAAJ:2mikiJ1VBVsC",
+                "authors": "R Ruiz-Pérez",
+                "publication": "Jiménez-Contreras E.“Spanish personal name variations in national and …, 2002",
+                "cited_by":
+                {
+                    "value": 41,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14792784620268983224",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=14792784620268983224&engine=google_scholar&hl=en",
+                    "cites_id": "14792784620268983224"
+                }
+                ,
+                "year": "2002"
+            }
+            ,
+            {
+                "title": "Anales de Medicina Interna: normalización, difusión e indicadores bibliométricos (I). Análisis normativo",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:2P1L_qKh6hAC",
+                "citation_id": "ozjAngUAAAAJ:2P1L_qKh6hAC",
+                "authors": "R Ruiz-Pérez, E Delgado-Lopez-Cozar, E Jimenez-Contreras",
+                "publication": "Anales de Medicina Interna, 1997",
+                "cited_by":
+                {
+                    "value": 39,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1399152743952569585,12773988626380560031,965590568621613913",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=1399152743952569585%2C12773988626380560031%2C965590568621613913&engine=google_scholar&hl=en",
+                    "cites_id": "1399152743952569585,12773988626380560031,965590568621613913"
+                }
+                ,
+                "year": "1997"
+            }
+            ,
+            {
+                "title": "Las revistas universitarias en el marco de los criterios de evaluación de la actividad investigadora en España",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:1Aeql8wG3wEC",
+                "citation_id": "ozjAngUAAAAJ:1Aeql8wG3wEC",
+                "authors": "R Ruiz-Pérez, A Martín-Martín, ED López-Cózar",
+                "publication": "Revista española de documentación científica 38 (2), e081-e081, 2015",
+                "cited_by":
+                {
+                    "value": 37,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6864666759514910038,10329375784852235844",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=6864666759514910038%2C10329375784852235844&engine=google_scholar&hl=en",
+                    "cites_id": "6864666759514910038,10329375784852235844"
+                }
+                ,
+                "year": "2015"
+            }
+            ,
+            {
+                "title": "Producción española en biblioteconomía y documentación con visibilidad internacional a través del Web of Science (1995-2004).",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:zA6iFVUQeVQC",
+                "citation_id": "ozjAngUAAAAJ:zA6iFVUQeVQC",
+                "authors": "E Jiménez-Contreras, E Delgado-López-Cózar, R Ruiz-Pérez",
+                "publication": "El profesional de la información 15 (3), 373-383, 2006",
+                "cited_by":
+                {
+                    "value": 37,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13127685673630644872,18371711806531149963",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=13127685673630644872%2C18371711806531149963&engine=google_scholar&hl=en",
+                    "cites_id": "13127685673630644872,18371711806531149963"
+                }
+                ,
+                "year": "2006"
+            }
+            ,
+            {
+                "title": "INRECS: Índice de impacto de las revistas españolas de ciencias sociales",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:YsMSGLbcyi4C",
+                "citation_id": "ozjAngUAAAAJ:YsMSGLbcyi4C",
+                "authors": "E Delgado López-Cózar, E Jiménez Contreras, R Ruiz Pérez, ...",
+                "publication": "Biblio 3w: revista bibliográfica de geografía y ciencias sociales 10, 2007",
+                "cited_by":
+                {
+                    "value": 35,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2142656118225148515,9100602503755603179,3380192599799922251",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=2142656118225148515%2C9100602503755603179%2C3380192599799922251&engine=google_scholar&hl=en",
+                    "cites_id": "2142656118225148515,9100602503755603179,3380192599799922251"
+                }
+                ,
+                "year": "2007"
+            }
+            ,
+            {
+                "title": "Calidad editorial, difusión e indicadores bibliométricos de la Revista Española de Enfermedades Digestivas",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:2osOgNQ5qMEC",
+                "citation_id": "ozjAngUAAAAJ:2osOgNQ5qMEC",
+                "authors": "ED López Cózar, R Ruiz Pérez, E Jiménez Contreras",
+                "publication": "Rev Esp Enferm Dig 91, 1-32, 1999",
+                "cited_by":
+                {
+                    "value": 32,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17911607294471516636,5975700114884893282,10497425947361243579,659368522192377177",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=17911607294471516636%2C5975700114884893282%2C10497425947361243579%2C659368522192377177&engine=google_scholar&hl=en",
+                    "cites_id": "17911607294471516636,5975700114884893282,10497425947361243579,659368522192377177"
+                }
+                ,
+                "year": "1999"
+            }
+            ,
+            {
+                "title": "Qué es y cómo utilizar el Índice de Impacto de Revistas Españolas de Ciencias Jurídicas",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:WF5omc3nYNoC",
+                "citation_id": "ozjAngUAAAAJ:WF5omc3nYNoC",
+                "authors": "E Delgado López-Cózar, R Ruiz Pérez, E Jiménez Contreras",
+                "publication": "Aula abierta, 2010",
+                "cited_by":
+                {
+                    "value": 31,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4066546576836137852",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=4066546576836137852&engine=google_scholar&hl=en",
+                    "cites_id": "4066546576836137852"
+                }
+                ,
+                "year": "2010"
+            }
+            ,
+            {
+                "title": "La autoría científica en las áreas de ciencia y tecnología: políticas internacionales y prácticas editoriales en las revistas científicas españolas",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:kz9GbA2Ns4gC",
+                "citation_id": "ozjAngUAAAAJ:kz9GbA2Ns4gC",
+                "authors": "R Ruíz-Pérez, D Marcos Cartagena, E Delgado López-Cózar",
+                "publication": "Consejo Superior de Investigaciones Científicas (CSIC), 2014",
+                "cited_by":
+                {
+                    "value": 30,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2053005728355921069",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=2053005728355921069&engine=google_scholar&hl=en",
+                    "cites_id": "2053005728355921069"
+                }
+                ,
+                "year": "2014"
+            }
+            ,
+            {
+                "title": "JOURNAL SCHOLAR: Una alternativa internacional, gratuita y de libre acceso para medir el impacto de las revistas de Arte, Humanidades y Ciencias Sociales",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:ldfaerwXgEUC",
+                "citation_id": "ozjAngUAAAAJ:ldfaerwXgEUC",
+                "authors": "E Delgado López-Cózar, E Orduña-Malea, D Marcos Cartagena, ...",
+                "cited_by":
+                {
+                    "value": 30,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12858599386920432924",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=12858599386920432924&engine=google_scholar&hl=en",
+                    "cites_id": "12858599386920432924"
+                }
+                ,
+                "year": "2012"
+            }
+            ,
+            {
+                "title": "Índice H de las revistas científicas españolas según Google Scholar Metrics (2008-2012)",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:nrtMV_XWKgEC",
+                "citation_id": "ozjAngUAAAAJ:nrtMV_XWKgEC",
+                "authors": "JM Ayllón Millán, R Ruiz-Pérez, E Delgado López-Cózar",
+                "publication": "EC3: Evaluación de la Ciencia y de la Comunicación Científica, 2013",
+                "cited_by":
+                {
+                    "value": 29,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11128127411813649763,8065654908910887990,6498275095531806661",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11128127411813649763%2C8065654908910887990%2C6498275095531806661&engine=google_scholar&hl=en",
+                    "cites_id": "11128127411813649763,8065654908910887990,6498275095531806661"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "Research excellence in Spain: main or secondary roles for researchers?].",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:R3hNpaxXUhUC",
+                "citation_id": "ozjAngUAAAAJ:R3hNpaxXUhUC",
+                "authors": "E Jiménez-Contreras, D Torres-Salinas, R Ruiz-Pérez, LCE Delgado",
+                "publication": "Medicina clínica 134 (2), 76, 2010",
+                "cited_by":
+                {
+                    "value": 29,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18214097090327829850,3222927846898641869",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=18214097090327829850%2C3222927846898641869&engine=google_scholar&hl=en",
+                    "cites_id": "18214097090327829850,3222927846898641869"
+                }
+                ,
+                "year": "2010"
+            }
+            ,
+            {
+                "title": "H Index Scholar: el índice h de los profesores de las universidades públicas españolas en humanidades y ciencias sociales",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:URolC5Kub84C",
+                "citation_id": "ozjAngUAAAAJ:URolC5Kub84C",
+                "authors": "E Delgado-López-Cózar, E Orduña-Malea, E Jiménez-Contreras, ...",
+                "publication": "Profesional de la Información 23 (1), 087-094, 2014",
+                "cited_by":
+                {
+                    "value": 27,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13357469822395706447,11860366662008520764",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=13357469822395706447%2C11860366662008520764&engine=google_scholar&hl=en",
+                    "cites_id": "13357469822395706447,11860366662008520764"
+                }
+                ,
+                "year": "2014"
+            }
+            ,
+            {
+                "title": "España y los 25 grandes de la ciencia mundial en cifras (1992-2008)",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:ufrVoPGSRksC",
+                "citation_id": "ozjAngUAAAAJ:ufrVoPGSRksC",
+                "authors": "E Delgado-López-Cózar, E Jiménez-Contreras, R Ruiz-Pérez",
+                "publication": "El profesional de la información 18 (1), 81-86, 2009",
+                "cited_by":
+                {
+                    "value": 27,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10676852027081725136",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10676852027081725136&engine=google_scholar&hl=en",
+                    "cites_id": "10676852027081725136"
+                }
+                ,
+                "year": "2009"
+            }
+            ,
+            {
+                "title": "INRECS: Índice de impacto de las revistas españolas de ciencias sociales.",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:i8eIfGGcn98C",
+                "citation_id": "ozjAngUAAAAJ:i8eIfGGcn98C",
+                "authors": "E Delgado-López-Cózar, R Ruiz-Pérez, E Jiménez-Contreras, ...",
+                "publication": "Biblio 3W, Revista bibliográfica de geografía y ciencias sociales 10 (574), 2005",
+                "cited_by":
+                {
+                    "value": 27,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2142656118225148515",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=2142656118225148515&engine=google_scholar&hl=en",
+                    "cites_id": "2142656118225148515"
+                }
+                ,
+                "year": "2005"
+            }
+            ,
+            {
+                "title": "La ciencia española a través del Web of Science (1996-2007): las disciplinas.",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:Y0pCki6q_DkC",
+                "citation_id": "ozjAngUAAAAJ:Y0pCki6q_DkC",
+                "authors": "E Delgado-López-Cózar, E Jiménez-Contreras, R Ruiz-Pérez",
+                "publication": "El profesional de la Información 18 (4), 437-443, 2009",
+                "cited_by":
+                {
+                    "value": 24,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5139782243818533191",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=5139782243818533191&engine=google_scholar&hl=en",
+                    "cites_id": "5139782243818533191"
+                }
+                ,
+                "year": "2009"
+            }
+            ,
+            {
+                "title": "Criterios Medline para la selección de revistas científicas. Metodología e indicadores. Aplicación a las revistas médicas españolas con especial atención a las de salud pública",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:8k81kl-MbHgC",
+                "citation_id": "ozjAngUAAAAJ:8k81kl-MbHgC",
+                "authors": "ED López-Cózar, R Ruiz-Pérez, E Jiménez-Contreras",
+                "publication": "Rev Esp Salud Pública 80 (5), 521-551, 2006",
+                "cited_by":
+                {
+                    "value": 23,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14818287124845308348",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=14818287124845308348&engine=google_scholar&hl=en",
+                    "cites_id": "14818287124845308348"
+                }
+                ,
+                "year": "2006"
+            }
+            ,
+            {
+                "title": "Spanish name indexing errors in international databases",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:8AbLer7MMksC",
+                "citation_id": "ozjAngUAAAAJ:8AbLer7MMksC",
+                "authors": "EJC R. Ruiz-Pérez, E Delgado López-Cózar",
+                "publication": "The lancet 361, 351-52, 2003",
+                "cited_by":
+                {
+                    "value": 22,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11069490829167397666",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11069490829167397666&engine=google_scholar&hl=en",
+                    "cites_id": "11069490829167397666"
+                }
+                ,
+                "year": "2003"
+            }
+            ,
+            {
+                "title": "Complementos bibliométricos de Thomson Scientific en la Web: buenos, bonitos y gratuitos",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:eQOLeE2rZwMC",
+                "citation_id": "ozjAngUAAAAJ:eQOLeE2rZwMC",
+                "authors": "R Ruiz-Pérez, E Jiménez-Contreras, E Delgado-López-Cózar",
+                "publication": "El profesional de la información 17 (5), 559-563, 2008",
+                "cited_by":
+                {
+                    "value": 18,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12006061898137646516",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=12006061898137646516&engine=google_scholar&hl=en",
+                    "cites_id": "12006061898137646516"
+                }
+                ,
+                "year": "2008"
+            }
+            ,
+            {
+                "title": "Impact of the impact factor in Spain.",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:LkGwnXOMwfcC",
+                "citation_id": "ozjAngUAAAAJ:LkGwnXOMwfcC",
+                "authors": "E Delgado-López-Cózar, R Ruiz-Pérez, E Jiménez-Contreras",
+                "publication": "British medical journal 334 (7593), 2007",
+                "cited_by":
+                {
+                    "value": 17,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11638720132240670379",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11638720132240670379&engine=google_scholar&hl=en",
+                    "cites_id": "11638720132240670379"
+                }
+                ,
+                "year": "2007"
+            }
+            ,
+            {
+                "title": "Delgado López-Cózar E, Jiménez Contreras E. Criterios del Institute for Scientific Information para la selección de revistas científicas. Su aplicación a las revistas españolas …",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:wTekDMGr9GkC",
+                "citation_id": "ozjAngUAAAAJ:wTekDMGr9GkC",
+                "authors": "R Ruiz Pérez",
+                "publication": "Int J Clin Health Psychol 6 (2), 401-24, 2006",
+                "cited_by":
+                {
+                    "value": 16,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4744959490325369103",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=4744959490325369103&engine=google_scholar&hl=en",
+                    "cites_id": "4744959490325369103"
+                }
+                ,
+                "year": "2006"
+            }
+            ,
+            {
+                "title": "La hipertensión de bata blanca en atención primaria. Estudio mediante monitorización ambulatoria de la presión arterial",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:6e4D8M0GhXMC",
+                "citation_id": "ozjAngUAAAAJ:6e4D8M0GhXMC",
+                "authors": "E Márquez, R Ruiz, JJ Casado, JL Martín, JA Reposo, C Baquero",
+                "publication": "Aten Primaria 16, 373-377, 1996",
+                "cited_by":
+                {
+                    "value": 16,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2750087475826339858",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=2750087475826339858&engine=google_scholar&hl=en",
+                    "cites_id": "2750087475826339858"
+                }
+                ,
+                "year": "1996"
+            }
+            ,
+            {
+                "title": "Índice H de las revistas españolas de Ciencias Sociales y Jurídicas según Google Scholar (2002-2011)",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:N5tVd3kTz84C",
+                "citation_id": "ozjAngUAAAAJ:N5tVd3kTz84C",
+                "authors": "E Delgado López-Cózar, D Marcos Cartagena, E Jiménez Contreras, ...",
+                "publication": "EC3: Evaluación de la Ciencia y la Comunicación Científica, 2013",
+                "cited_by":
+                {
+                    "value": 15,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16728492148015432735",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=16728492148015432735&engine=google_scholar&hl=en",
+                    "cites_id": "16728492148015432735"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "Tejido tiroideo ectópico intralaríngeo. Presentación de un caso clínico y revisión de la literatura",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:GDem9OnCwu8C",
+                "citation_id": "ozjAngUAAAAJ:GDem9OnCwu8C",
+                "authors": "V Jiménez, R Ruiz, A Dávila, E Fernández, JM Ruiz, JA Pérez, ...",
+                "publication": "Acta Otorrinolaringol Esp 53, 54-9, 2002",
+                "cited_by":
+                {
+                    "value": 14,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5328722933129025103",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=5328722933129025103&engine=google_scholar&hl=en",
+                    "cites_id": "5328722933129025103"
+                }
+                ,
+                "year": "2002"
+            }
+            ,
+            {
+                "title": "Choice of author access points for online catalogs of monographs in Spanish",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:W7OEmFMy1HYC",
+                "citation_id": "ozjAngUAAAAJ:W7OEmFMy1HYC",
+                "authors": "R Ruiz-Pérez",
+                "publication": "Cataloging & classification quarterly 26 (4), 5-33, 1999",
+                "cited_by":
+                {
+                    "value": 14,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1365239845396411290",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=1365239845396411290&engine=google_scholar&hl=en",
+                    "cites_id": "1365239845396411290"
+                }
+                ,
+                "year": "1999"
+            }
+            ,
+            {
+                "title": "Características de la dinámica familiar en familias desplazadas por la violencia usuarias del proyecto hogares comunitarios de bienestar del sector Rancho Grande de Montería …",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:Qs68GpkTGbMC",
+                "citation_id": "ozjAngUAAAAJ:Qs68GpkTGbMC",
+                "authors": "A Cifuentes, Y Massiris, R Ruiz",
+                "publication": "Barranquilla: Universidad del Norte, 1998",
+                "cited_by":
+                {
+                    "value": 14,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7958882835918575658",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=7958882835918575658&engine=google_scholar&hl=en",
+                    "cites_id": "7958882835918575658"
+                }
+                ,
+                "year": "1998"
+            }
+            ,
+            {
+                "title": "Adaptive evacuation management system based on monitoring techniques",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:JoHZYnTS1h4C",
+                "citation_id": "ozjAngUAAAAJ:JoHZYnTS1h4C",
+                "authors": "JA Munoz, V Calero, I Marin, P Chavez, R Perez",
+                "publication": "IEEE Latin America Transactions 13 (11), 3621-3626, 2015",
+                "cited_by":
+                {
+                    "value": 13,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15696128421184383173",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15696128421184383173&engine=google_scholar&hl=en",
+                    "cites_id": "15696128421184383173"
+                }
+                ,
+                "year": "2015"
+            }
+            ,
+            {
+                "title": "Cumplimiento de los criterios sobre autoría científica en las revistas españolas de biomedicina y ciencias de la salud incluidas en los Journal Citation Reports",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:TQgYirikUcIC",
+                "citation_id": "ozjAngUAAAAJ:TQgYirikUcIC",
+                "authors": "R Ruiz-Pérez, D Marcos-Cartagena, E Delgado López-Cózar",
+                "publication": "Revista española de salud pública 84 (6), 809-825, 2010",
+                "cited_by":
+                {
+                    "value": 13,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3845816526177935750,6103047263143185308",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=3845816526177935750%2C6103047263143185308&engine=google_scholar&hl=en",
+                    "cites_id": "3845816526177935750,6103047263143185308"
+                }
+                ,
+                "year": "2010"
+            }
+            ,
+            {
+                "title": "Las diez claves sobre métricas alternativas",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:JdL-Xu2nR38C",
+                "citation_id": "ozjAngUAAAAJ:JdL-Xu2nR38C",
+                "authors": "D Torres-Salinas, R Ruiz-Pérez",
+                "cited_by":
+                {
+                    "value": 12,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15100490471922309984",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15100490471922309984&engine=google_scholar&hl=en",
+                    "cites_id": "15100490471922309984"
+                }
+                ,
+                "year": "2015"
+            }
+            ,
+            {
+                "title": "Google Scholar:¿ una herramienta para la evaluación de la ciencia?",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:aqlVkmm33-oC",
+                "citation_id": "ozjAngUAAAAJ:aqlVkmm33-oC",
+                "authors": "D Torres-Salinas, RR Pérez, ED López-Cozar",
+                "publication": "Anuario ThinkEPI 4 (1), 254-257, 2010",
+                "cited_by":
+                {
+                    "value": 12,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12439061046900801137",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=12439061046900801137&engine=google_scholar&hl=en",
+                    "cites_id": "12439061046900801137"
+                }
+                ,
+                "year": "2010"
+            }
+            ,
+            {
+                "title": "A model for assessing compliance of scientific journals with international standards",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:u_35RYKgDlwC",
+                "citation_id": "ozjAngUAAAAJ:u_35RYKgDlwC",
+                "authors": "ED Lopez-Cozar, RR Perez",
+                "publication": "Libri 45 (3-4), 145-159, 1995",
+                "cited_by":
+                {
+                    "value": 12,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18379831003931324498",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=18379831003931324498&engine=google_scholar&hl=en",
+                    "cites_id": "18379831003931324498"
+                }
+                ,
+                "year": "1995"
+            }
+            ,
+            {
+                "title": "Directrices fundamentales para la normalización de revistas científicas: recomendaciones destinadas a autores, directores y editores",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:4OULZ7Gr8RgC",
+                "citation_id": "ozjAngUAAAAJ:4OULZ7Gr8RgC",
+                "authors": "RR Pérez, MP Molina",
+                "publication": "Universidad de Granada, Grupo trabajo UNESCO, 1990",
+                "cited_by":
+                {
+                    "value": 12,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3133888653843763671,368595338532302778",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=3133888653843763671%2C368595338532302778&engine=google_scholar&hl=en",
+                    "cites_id": "3133888653843763671,368595338532302778"
+                }
+                ,
+                "year": "1990"
+            }
+            ,
+            {
+                "title": "Nivel de conocimiento sobre salud oral en padres de niños con habilidades especiales, Trujillo. 2015",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:2hrGa7H818QC",
+                "citation_id": "ozjAngUAAAAJ:2hrGa7H818QC",
+                "authors": "R Pérez",
+                "publication": "Tesis para optar por el título de Cirujano Dentista]. Trujillo-Perú …, 2015",
+                "cited_by":
+                {
+                    "value": 11,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=84916187401326958",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=84916187401326958&engine=google_scholar&hl=en",
+                    "cites_id": "84916187401326958"
+                }
+                ,
+                "year": "2015"
+            }
+            ,
+            {
+                "title": "Índice H de las revistas científicas españolas según Google Scholar Metrics (2007-2011)",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:dTyEYWd-f8wC",
+                "citation_id": "ozjAngUAAAAJ:dTyEYWd-f8wC",
+                "authors": "E Delgado López-Cózar, JM Ayllón Millán, R Ruiz-Pérez",
+                "publication": "EC3: Evaluación de la Ciencia y de la Comunicación Científica, 2013",
+                "cited_by":
+                {
+                    "value": 11,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11136700011206074953",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11136700011206074953&engine=google_scholar&hl=en",
+                    "cites_id": "11136700011206074953"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "Índice H de las revistas españolas de Ciencias Sociales según Google Scholar (2001-2010)",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:SdhP9T11ey4C",
+                "citation_id": "ozjAngUAAAAJ:SdhP9T11ey4C",
+                "authors": "E Delgado López-Cózar, D Marcos Cartagena, Á Cabezas-Clavijo, ...",
+                "cited_by":
+                {
+                    "value": 11,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11949334363543506475,133454464195642405,8727375271565037715",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11949334363543506475%2C133454464195642405%2C8727375271565037715&engine=google_scholar&hl=en",
+                    "cites_id": "11949334363543506475,133454464195642405,8727375271565037715"
+                }
+                ,
+                "year": "2012"
+            }
+            ,
+            {
+                "title": "El manejo integrado costero en Cuba: un camino, grandes retos",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:_cFkbNEifk0C",
+                "citation_id": "ozjAngUAAAAJ:_cFkbNEifk0C",
+                "authors": "JA Cabrera, G García, O Rey, PM Alcolado, R Pérez, D Salabarría, ...",
+                "publication": "Manejo Costero Integrado y Política Pública en Iberoamérica: Un diagnóstico …, 2010",
+                "cited_by":
+                {
+                    "value": 11,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11524805462903835172",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11524805462903835172&engine=google_scholar&hl=en",
+                    "cites_id": "11524805462903835172"
+                }
+                ,
+                "year": "2010"
+            }
+            ,
+            {
+                "title": "Tratamiento de los nombres españoles en las bases de datos internacionales: Su incidencia en la recuperación de información y en los análisis bibliométricos",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:0EnyYjriUFMC",
+                "citation_id": "ozjAngUAAAAJ:0EnyYjriUFMC",
+                "authors": "R Ruiz Pérez, E Delgado López-Cózar, E Jiménez Contreras, ...",
+                "publication": "La representación y la organización del conocimiento en sus distintas …, 1999",
+                "cited_by":
+                {
+                    "value": 11,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=854580313920204921",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=854580313920204921&engine=google_scholar&hl=en",
+                    "cites_id": "854580313920204921"
+                }
+                ,
+                "year": "1999"
+            }
+            ,
+            {
+                "title": "La Compañia de Jesús en Colombia y Centro-América después de su restauración",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:MtS25d97-7AC",
+                "citation_id": "ozjAngUAAAAJ:MtS25d97-7AC",
+                "authors": "R Pérez",
+                "publication": "LN de Gaviria, 1898",
+                "cited_by":
+                {
+                    "value": 11,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18354269604494221204",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=18354269604494221204&engine=google_scholar&hl=en",
+                    "cites_id": "18354269604494221204"
+                }
+                ,
+                "year": "1898"
+            }
+            ,
+            {
+                "title": "Taxonomía de diseños y muestreo en investigación cualitativa. Un intento de síntesis entre las aproximaciones teórica y emergente. Ámbitos",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:8xglSJ46CyEC",
+                "citation_id": "ozjAngUAAAAJ:8xglSJ46CyEC",
+                "authors": "R Pérez, L Lagos, R Mardones, F Sáez",
+                "publication": "Revista Internacional de comunicación 39, 2017",
+                "cited_by":
+                {
+                    "value": 10,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18176842656506967744",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=18176842656506967744&engine=google_scholar&hl=en",
+                    "cites_id": "18176842656506967744"
+                }
+                ,
+                "year": "2017"
+            }
+            ,
+            {
+                "title": "Spanish scientific journals on Psychology: demography, editorial tendencies and impact.[Ponencia].",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:bEWYMUwI8FkC",
+                "citation_id": "ozjAngUAAAAJ:bEWYMUwI8FkC",
+                "authors": "E Jiménez-Contreras, E Delgado-Lopez-Cozar, R Ruiz-Pérez, ...",
+                "cited_by":
+                {
+                    "value": 10,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10988971141488901662,7132316154341503439",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10988971141488901662%2C7132316154341503439&engine=google_scholar&hl=en",
+                    "cites_id": "10988971141488901662,7132316154341503439"
+                }
+                ,
+                "year": "2008"
+            }
+            ,
+            {
+                "title": "Consequences of applying cataloguing codes for author entries to the Spanish national library online catalogs",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:KlAtU1dfN6UC",
+                "citation_id": "ozjAngUAAAAJ:KlAtU1dfN6UC",
+                "authors": "R Ruiz-Pérez",
+                "publication": "Cataloging & classification quarterly 32 (3), 31-55, 2001",
+                "cited_by":
+                {
+                    "value": 10,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8936545113497301494",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=8936545113497301494&engine=google_scholar&hl=en",
+                    "cites_id": "8936545113497301494"
+                }
+                ,
+                "year": "2001"
+            }
+            ,
+            {
+                "title": "Situación de la Población Adulta mayor",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:o0tJHVzi6PsC",
+                "citation_id": "ozjAngUAAAAJ:o0tJHVzi6PsC",
+                "authors": "A Sánchez, N Hidalgo, H Benavides, C Gutiérrez, R Ruiz",
+                "publication": "Enero-Febrero-Marzo, 2017",
+                "cited_by":
+                {
+                    "value": 9,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2778261312282095094",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=2778261312282095094&engine=google_scholar&hl=en",
+                    "cites_id": "2778261312282095094"
+                }
+                ,
+                "year": "2017"
+            }
+            ,
+            {
+                "title": "Clasificación y caracterización de las entidades: Una propuesta para su tratamiento",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:3fE2CSJIrl8C",
+                "citation_id": "ozjAngUAAAAJ:3fE2CSJIrl8C",
+                "authors": "R Ruiz Perez",
+                "publication": "Consejo Superior de Investigaciones Científicas (España), 1998",
+                "cited_by":
+                {
+                    "value": 9,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4014718989780372786",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=4014718989780372786&engine=google_scholar&hl=en",
+                    "cites_id": "4014718989780372786"
+                }
+                ,
+                "year": "1998"
+            }
+            ,
+            {
+                "title": "Ciencia, tecnología y proyecto nacional",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:3YQzwbzlpKYC",
+                "citation_id": "ozjAngUAAAAJ:3YQzwbzlpKYC",
+                "authors": "R Pérez, J Rangel",
+                "publication": "Colección de la biblioteca de la educación superior. Serie Ensayos. México …, 2005",
+                "cited_by":
+                {
+                    "value": 8,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4057441598973295617",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=4057441598973295617&engine=google_scholar&hl=en",
+                    "cites_id": "4057441598973295617"
+                }
+                ,
+                "year": "2005"
+            }
+            ,
+            {
+                "title": "Las nuevas técnicas de gestión y su aplicación en la administración pública municipal",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:npT69zEmqdIC",
+                "citation_id": "ozjAngUAAAAJ:npT69zEmqdIC",
+                "authors": "R Pérez",
+                "publication": "Primer Encuentro Iberoamericano de Contabilidad de Gestión, Universidad …, 2000",
+                "cited_by":
+                {
+                    "value": 8,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15196115318843733415",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15196115318843733415&engine=google_scholar&hl=en",
+                    "cites_id": "15196115318843733415"
+                }
+                ,
+                "year": "2000"
+            }
+            ,
+            {
+                "title": "Normalización y calidad editorial de la revista de Progresos de Obstetricia y Ginecología",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:Mojj43d5GZwC",
+                "citation_id": "ozjAngUAAAAJ:Mojj43d5GZwC",
+                "authors": "R Ruiz-Pérez",
+                "publication": "Progresos de Obstetricia y Ginecología 42 (1), 90-103, 1999",
+                "cited_by":
+                {
+                    "value": 8,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=402610760759618794",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=402610760759618794&engine=google_scholar&hl=en",
+                    "cites_id": "402610760759618794"
+                }
+                ,
+                "year": "1999"
+            }
+            ,
+            {
+                "title": "Toward the enhacement of scientific journals as media for scientific communication",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:TFP_iSt0sucC",
+                "citation_id": "ozjAngUAAAAJ:TFP_iSt0sucC",
+                "authors": "E Delgado Lopez-Cozar, R Ruiz Perez, E Jimenez Contreras",
+                "publication": "ANALES DE MEDICINA INTERNA-MADRID-ORGANO OFICIAL DE LA SOCIEDAD ESPANOLA DE …, 1997",
+                "cited_by":
+                {
+                    "value": 8,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12768461069384429227,7132674469323085997",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=12768461069384429227%2C7132674469323085997&engine=google_scholar&hl=en",
+                    "cites_id": "12768461069384429227,7132674469323085997"
+                }
+                ,
+                "year": "1997"
+            }
+            ,
+            {
+                "title": "Directrices fundamentales para la normalización",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:9o6PfxSMcEIC",
+                "citation_id": "ozjAngUAAAAJ:9o6PfxSMcEIC",
+                "authors": "R Ruiz Pérez, M Pinto Molina",
+                "publication": "Boletín de la Asociaçiện Andaluza de Bibliotecarios, 57, 1990",
+                "cited_by":
+                {
+                    "value": 8,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4482464693338595732",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=4482464693338595732&engine=google_scholar&hl=en",
+                    "cites_id": "4482464693338595732"
+                }
+                ,
+                "year": "1990"
+            }
+            ,
+            {
+                "title": "La imagen, su medición y nuevas técnicas de mejora de imagen",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:geVfx-PNG5EC",
+                "citation_id": "ozjAngUAAAAJ:geVfx-PNG5EC",
+                "authors": "R Pérez",
+                "publication": "Publitecnia 60, 49-66, 1981",
+                "cited_by":
+                {
+                    "value": 8,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7766393035965644544",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=7766393035965644544&engine=google_scholar&hl=en",
+                    "cites_id": "7766393035965644544"
+                }
+                ,
+                "year": "1981"
+            }
+            ,
+            {
+                "title": "Las redes sociales y el activismo",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:LZ55yeyZZb4C",
+                "citation_id": "ozjAngUAAAAJ:LZ55yeyZZb4C",
+                "authors": "R Pérez, O Camacho, G Arroyo",
+                "publication": "PAAKAT: Revista de Tecnología y Sociedad 4 (7), 2014",
+                "cited_by":
+                {
+                    "value": 7,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10795688158971448189",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10795688158971448189&engine=google_scholar&hl=en",
+                    "cites_id": "10795688158971448189"
+                }
+                ,
+                "year": "2014"
+            }
+            ,
+            {
+                "title": "Normalización de revistas científicas: método de evaluación",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:5nxA0vEk-isC",
+                "citation_id": "ozjAngUAAAAJ:5nxA0vEk-isC",
+                "authors": "ED López-Cózar, RR Pérez",
+                "publication": "Universidad de Salamanca, Servicio de Archivos y Bibliotecas, 1998",
+                "cited_by":
+                {
+                    "value": 7,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6952086249801786969",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=6952086249801786969&engine=google_scholar&hl=en",
+                    "cites_id": "6952086249801786969"
+                }
+                ,
+                "year": "1998"
+            }
+            ,
+            {
+                "title": "El concepto de unidad bibliográfica y su importancia en el contexto de la descripción en dos niveles y de la catalogación analítica",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:fPk4N6BV_jEC",
+                "citation_id": "ozjAngUAAAAJ:fPk4N6BV_jEC",
+                "authors": "R Ruiz-Pérez",
+                "publication": "Revista española de documentación científica 14 (2), 217-227, 1991",
+                "cited_by":
+                {
+                    "value": 7,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15980767676752122474",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15980767676752122474&engine=google_scholar&hl=en",
+                    "cites_id": "15980767676752122474"
+                }
+                ,
+                "year": "1991"
+            }
+            ,
+            {
+                "title": "Fortalecimiento de la identidad cultural a través",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:LGh1lRt-7sUC",
+                "citation_id": "ozjAngUAAAAJ:LGh1lRt-7sUC",
+                "authors": "D Salabarría, A Medina, R Pérez",
+                "publication": "ISLAS, 2019",
+                "cited_by":
+                {
+                    "value": 6,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14643802748825519903",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=14643802748825519903&engine=google_scholar&hl=en",
+                    "cites_id": "14643802748825519903"
+                }
+                ,
+                "year": "2019"
+            }
+            ,
+            {
+                "title": "Seguridad informática",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:mzRTpvMFn3IC",
+                "citation_id": "ozjAngUAAAAJ:mzRTpvMFn3IC",
+                "authors": "LA Romero, R Pérez, G Escriva, D Ramada",
+                "publication": "Conceptos generales. Universidad de Salamanca, 2013",
+                "cited_by":
+                {
+                    "value": 6,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13452026234781995823",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=13452026234781995823&engine=google_scholar&hl=en",
+                    "cites_id": "13452026234781995823"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "Los retos competitivos de Revista Española de Sanidad Penitenciaria",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:YOwf2qJgpHMC",
+                "citation_id": "ozjAngUAAAAJ:YOwf2qJgpHMC",
+                "authors": "R Ruiz-Pérez",
+                "publication": "Revista Española de Sanidad Penitenciaria 8 (1), 2012",
+                "cited_by":
+                {
+                    "value": 6,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7488905300335329266",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=7488905300335329266&engine=google_scholar&hl=en",
+                    "cites_id": "7488905300335329266"
+                }
+                ,
+                "year": "2012"
+            }
+            ,
+            {
+                "title": "El manejo costero integrado en Cuba: un camino, grandes retos",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:tJ_1M1FLfZ0C",
+                "citation_id": "ozjAngUAAAAJ:tJ_1M1FLfZ0C",
+                "authors": "JA Cabrera, G García, O Rey, P Alcolado, R Pérez, JM Martínez, ...",
+                "publication": "Manejo Costero Integrado y Política Pública en Iberoamérica: Un diagnóstico …, 2009",
+                "cited_by":
+                {
+                    "value": 6,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11053552873194089693",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11053552873194089693&engine=google_scholar&hl=en",
+                    "cites_id": "11053552873194089693"
+                }
+                ,
+                "year": "2009"
+            }
+            ,
+            {
+                "title": "Medline criteria for scientific journals selection. Methodology and indicators. Application to Spanish medical journals paying special attention to public health",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:wH03y5nBhxsC",
+                "citation_id": "ozjAngUAAAAJ:wH03y5nBhxsC",
+                "authors": "R Ruiz-Pérez, E Jiménez-Contreras",
+                "publication": "Revista Espanola de Salud Publica 80 (5), 521-551, 2006",
+                "cited_by":
+                {
+                    "value": 6,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3152342670614953901",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=3152342670614953901&engine=google_scholar&hl=en",
+                    "cites_id": "3152342670614953901"
+                }
+                ,
+                "year": "2006"
+            }
+            ,
+            {
+                "title": "Evaluación de archivos de la Sociedad Española de Oftalmología según criterios del «Institute for Scientific Information» para la selección de revistas científicas",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:_TjUWtciUekC",
+                "citation_id": "ozjAngUAAAAJ:_TjUWtciUekC",
+                "authors": "R Ruiz-Pérez, E Delgado López-Cózar, E Jiménez-Contreras",
+                "publication": "Archivos de la Sociedad Española de Oftalmología 81 (5), 245-268, 2006",
+                "cited_by":
+                {
+                    "value": 6,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8864351485485697805",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=8864351485485697805&engine=google_scholar&hl=en",
+                    "cites_id": "8864351485485697805"
+                }
+                ,
+                "year": "2006"
+            }
+            ,
+            {
+                "title": "Education for cataloging in Spanish Universities: A descriptive and critical study",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:qxL8FJ1GzNcC",
+                "citation_id": "ozjAngUAAAAJ:qxL8FJ1GzNcC",
+                "authors": "R Ruiz-Perez, ED López-Cózar",
+                "publication": "Cataloging & classification quarterly 41 (3-4), 291-307, 2006",
+                "cited_by":
+                {
+                    "value": 6,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12345820410715425045",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=12345820410715425045&engine=google_scholar&hl=en",
+                    "cites_id": "12345820410715425045"
+                }
+                ,
+                "year": "2006"
+            }
+            ,
+            {
+                "title": "El profesional de la información en el Social Science Citation Index",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:kRWSkSYxWN8C",
+                "citation_id": "ozjAngUAAAAJ:kRWSkSYxWN8C",
+                "authors": "E Delgado-Lopez-Cozar, R Ruiz-Pérez, E Jimenez-Contreras",
+                "publication": "International Journal of Clinical and Health Psychology 6 (2), 401-424, 2006",
+                "cited_by":
+                {
+                    "value": 6,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16960877669413952598",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=16960877669413952598&engine=google_scholar&hl=en",
+                    "cites_id": "16960877669413952598"
+                }
+                ,
+                "year": "2006"
+            }
+            ,
+            {
+                "title": "Elección de puntos de acceso de autor. Implicaciones de las reglas de catalogación en los catalogos automatizados de la bibliotecas universitarias españolas.",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:_kc_bZDykSQC",
+                "citation_id": "ozjAngUAAAAJ:_kc_bZDykSQC",
+                "authors": "R Ruiz-Pérez",
+                "publication": "Revista española de documentación científica 23 (4), 437-460, 2000",
+                "cited_by":
+                {
+                    "value": 6,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10788148625820316828",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10788148625820316828&engine=google_scholar&hl=en",
+                    "cites_id": "10788148625820316828"
+                }
+                ,
+                "year": "2000"
+            }
+            ,
+            {
+                "title": "Potencial productivo en tres híbridos de Urochloa",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:6_6x9JMR98MC",
+                "citation_id": "ozjAngUAAAAJ:6_6x9JMR98MC",
+                "authors": "A Bernal, VH Velázquez, R Ruíz, AR Quero, EA Pizarro, A Cantú, ...",
+                "publication": "III Congreso Mundial de Ganadería Tropical, 100-104, 2016",
+                "cited_by":
+                {
+                    "value": 5,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16138098297219347220",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=16138098297219347220&engine=google_scholar&hl=en",
+                    "cites_id": "16138098297219347220"
+                }
+                ,
+                "year": "2016"
+            }
+            ,
+            {
+                "title": "Aplicación del neumoperitoneo progresivo preoperatorio en las afecciones parietales complejas",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:EVUe1p4rgj0C",
+                "citation_id": "ozjAngUAAAAJ:EVUe1p4rgj0C",
+                "authors": "OC Torres, L Theys, R Ferreira, E Gonzalez, R Perez",
+                "publication": "Anales de la Facultad de Ciencias Médicas 46 (2), 35-44, 2013",
+                "cited_by":
+                {
+                    "value": 5,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12241009215545369866",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=12241009215545369866&engine=google_scholar&hl=en",
+                    "cites_id": "12241009215545369866"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "International visibility and impact of the Spanish research on prison health (2002-2011)",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:eMMeJKvmdy0C",
+                "citation_id": "ozjAngUAAAAJ:eMMeJKvmdy0C",
+                "authors": "R Ruíz-Pérez, N Robinson-García",
+                "publication": "Rev Esp Sanid Penit 15, 23-34, 2013",
+                "cited_by":
+                {
+                    "value": 5,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10589604951367375225,12259163526991784756",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10589604951367375225%2C12259163526991784756&engine=google_scholar&hl=en",
+                    "cites_id": "10589604951367375225,12259163526991784756"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "Variaciones de rigidez de vía en zonas de transición",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:-XtG2q47PdUC",
+                "citation_id": "ozjAngUAAAAJ:-XtG2q47PdUC",
+                "authors": "A Tijera, R Ruiz, V Cuéllar, M Rodríguez",
+                "publication": "Revista Digital del Cedex, 103-103, 2012",
+                "cited_by":
+                {
+                    "value": 5,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10229355240783381615",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10229355240783381615&engine=google_scholar&hl=en",
+                    "cites_id": "10229355240783381615"
+                }
+                ,
+                "year": "2012"
+            }
+            ,
+            {
+                "title": "3D motion analisys of activities of daily living: implication in neurorehabilitation",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:RwQ8IgSj6xkC",
+                "citation_id": "ozjAngUAAAAJ:RwQ8IgSj6xkC",
+                "authors": "U Costa, E Opisso, R Pérez, JM Tormos, J Medina",
+                "publication": "Proceedings of the International Gait and Clinical Movement Analysis …, 2010",
+                "cited_by":
+                {
+                    "value": 5,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1664711886986923400",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=1664711886986923400&engine=google_scholar&hl=en",
+                    "cites_id": "1664711886986923400"
+                }
+                ,
+                "year": "2010"
+            }
+            ,
+            {
+                "title": "La Orientación educativa en la educación de la personalidad de los adolescentes",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:BMiRioqqltAC",
+                "citation_id": "ozjAngUAAAAJ:BMiRioqqltAC",
+                "authors": "R Pérez",
+                "publication": "Tesis presentada en opción al grado científico de Doctor en Ciencias …, 2007",
+                "cited_by":
+                {
+                    "value": 5,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17191373942589426661",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=17191373942589426661&engine=google_scholar&hl=en",
+                    "cites_id": "17191373942589426661"
+                }
+                ,
+                "year": "2007"
+            }
+            ,
+            {
+                "title": "Indicadores tecnológicos de la Región de la Murcia: análisis de patentes y modelos de utilidad",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:lSLsV1MU4ZUC",
+                "citation_id": "ozjAngUAAAAJ:lSLsV1MU4ZUC",
+                "authors": "E Jiménez-Contreras, E Delgado López-Cózar, R Ruiz-Pérez, ...",
+                "publication": "Murcia: Fundación Séneca, 2006",
+                "cited_by":
+                {
+                    "value": 5,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=276495310999976599",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=276495310999976599&engine=google_scholar&hl=en",
+                    "cites_id": "276495310999976599"
+                }
+                ,
+                "year": "2006"
+            }
+            ,
+            {
+                "title": "El papel de la resolución de problemas en el aprendizaje de los estudiantes de primaria de Lima Cercado",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:n2kG1_zAmykC",
+                "citation_id": "ozjAngUAAAAJ:n2kG1_zAmykC",
+                "authors": "R Pérez",
+                "publication": "Universidad Nacional Mayor de San Marcos. Lima, Perú, 2005",
+                "cited_by":
+                {
+                    "value": 5,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5163092635336209723",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=5163092635336209723&engine=google_scholar&hl=en",
+                    "cites_id": "5163092635336209723"
+                }
+                ,
+                "year": "2005"
+            }
+            ,
+            {
+                "title": "La Mejora de la Efectividad Personal y Organizacional",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:zDhyt2jClVkC",
+                "citation_id": "ozjAngUAAAAJ:zDhyt2jClVkC",
+                "authors": "R Perez",
+                "publication": "Recuperado de: http://www. actiongroup. com. ar/la-mejora-de-la …, 2002",
+                "cited_by":
+                {
+                    "value": 5,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9067909935620565799",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=9067909935620565799&engine=google_scholar&hl=en",
+                    "cites_id": "9067909935620565799"
+                }
+                ,
+                "year": "2002"
+            }
+            ,
+            {
+                "title": "Metodología y diseños en la investigación científica (2da ed.) Edit",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:Xxrp-jDxsD4C",
+                "citation_id": "ozjAngUAAAAJ:Xxrp-jDxsD4C",
+                "authors": "H Caceda, R Pérez",
+                "publication": "Mantaro. Lima, Perú, 2001",
+                "cited_by":
+                {
+                    "value": 5,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16528395798333058217",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=16528395798333058217&engine=google_scholar&hl=en",
+                    "cites_id": "16528395798333058217"
+                }
+                ,
+                "year": "2001"
+            }
+            ,
+            {
+                "title": "Anales de Medicina Interna: normalización, difusión e indicadores bibliométricos.(II). Análisis bibliométrico",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:5ugPr518TE4C",
+                "citation_id": "ozjAngUAAAAJ:5ugPr518TE4C",
+                "authors": "E Jimenez-Contreras, E Delgado-Lopez-Cozar, R Ruiz-Pérez",
+                "publication": "Anales de Medicina Interna 14 (8), 394-398, 1998",
+                "cited_by":
+                {
+                    "value": 5,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9769820071297229378",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=9769820071297229378&engine=google_scholar&hl=en",
+                    "cites_id": "9769820071297229378"
+                }
+                ,
+                "year": "1998"
+            }
+            ,
+            {
+                "title": "Indicadores bibliometricos al servicio de la política científica.[Comunicación].",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:rO6llkc54NcC",
+                "citation_id": "ozjAngUAAAAJ:rO6llkc54NcC",
+                "authors": "E Ruiz de Osma, E Jiménez-Contreras, E Delgado-López-Cózar, ...",
+                "publication": "Universidad de Extremadura 1, 419-426, 1996",
+                "cited_by":
+                {
+                    "value": 5,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15122803453036829516",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15122803453036829516&engine=google_scholar&hl=en",
+                    "cites_id": "15122803453036829516"
+                }
+                ,
+                "year": "1996"
+            }
+            ,
+            {
+                "title": "Metodología para la evaluación de programas educativos",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:MaiMEk8tZqMC",
+                "citation_id": "ozjAngUAAAAJ:MaiMEk8tZqMC",
+                "authors": "R Pérez",
+                "publication": "MEDINA, A. y VILLAR, LM (Coords.): Evaluación de programas, centros y …, 1995",
+                "cited_by":
+                {
+                    "value": 5,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=942493630023360149",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=942493630023360149&engine=google_scholar&hl=en",
+                    "cites_id": "942493630023360149"
+                }
+                ,
+                "year": "1995"
+            }
+            ,
+            {
+                "title": "La normalización de las revistas científicas: resultados de un análisis de muestreo",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:roLk4NBRz8UC",
+                "citation_id": "ozjAngUAAAAJ:roLk4NBRz8UC",
+                "authors": "RR Pérez",
+                "publication": "Documentación de las Ciencias de la Información, 217-229, 1989",
+                "cited_by":
+                {
+                    "value": 5,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=967049743095328928",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=967049743095328928&engine=google_scholar&hl=en",
+                    "cites_id": "967049743095328928"
+                }
+                ,
+                "year": "1989"
+            }
+            ,
+            {
+                "title": "La formación del científico en el área biomédica",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:knQODA9bSJkC",
+                "citation_id": "ozjAngUAAAAJ:knQODA9bSJkC",
+                "authors": "R Pérez",
+                "publication": "Ciencia 39, 77-84, 1988",
+                "cited_by":
+                {
+                    "value": 5,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7490013225532364386",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=7490013225532364386&engine=google_scholar&hl=en",
+                    "cites_id": "7490013225532364386"
+                }
+                ,
+                "year": "1988"
+            }
+            ,
+            {
+                "title": "el marquesado del Cenete",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:LpHykl0McycC",
+                "citation_id": "ozjAngUAAAAJ:LpHykl0McycC",
+                "authors": "J Albarracín, J Martínez Ruiz, M Espinar, R Ruiz Pérez",
+                "publication": "Historia, toponimia, onomástica, según documentos árabes inéditos 2, 1986",
+                "cited_by":
+                {
+                    "value": 5,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11798339752596512738",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11798339752596512738&engine=google_scholar&hl=en",
+                    "cites_id": "11798339752596512738"
+                }
+                ,
+                "year": "1986"
+            }
+            ,
+            {
+                "title": "The Emerging Sources Citation Index and the internationalization of Spanish scientific journals, with special reference to Psychology journals",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:s_OEDnM-dbEC",
+                "citation_id": "ozjAngUAAAAJ:s_OEDnM-dbEC",
+                "authors": "R Ruiz-Pérez, E Jiménez-Contreras",
+                "publication": "Psicothema 31 (4), 376-383, 2019",
+                "cited_by":
+                {
+                    "value": 4,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17199018223075491588",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=17199018223075491588&engine=google_scholar&hl=en",
+                    "cites_id": "17199018223075491588"
+                }
+                ,
+                "year": "2019"
+            }
+            ,
+            {
+                "title": "Los Emerging Sources Citation Index y la internacionalización de las revistas científi cas españolas, con especial mención a las de Psicología",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:SFU-2amZ4xQC",
+                "citation_id": "ozjAngUAAAAJ:SFU-2amZ4xQC",
+                "authors": "R Ruiz Pérez, E Jiménez Contreras",
+                "publication": "Colegio Oficial de Psicólogos del Principado de Asturias; Universidad de Oviedo, 2019",
+                "cited_by":
+                {
+                    "value": 4,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2463086367499394382",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=2463086367499394382&engine=google_scholar&hl=en",
+                    "cites_id": "2463086367499394382"
+                }
+                ,
+                "year": "2019"
+            }
+            ,
+            {
+                "title": "Internacionalización de la Revista Española de Sanidad Penitenciaria: De Medline a Web of Science",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:t7zJ5fGR-2UC",
+                "citation_id": "ozjAngUAAAAJ:t7zJ5fGR-2UC",
+                "authors": "R Ruiz-Pérez, E Delgado López-Cózar",
+                "publication": "Revista española de sanidad penitenciaria 15 (2), 39-43, 2013",
+                "cited_by":
+                {
+                    "value": 4,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9898462687632614139",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=9898462687632614139&engine=google_scholar&hl=en",
+                    "cites_id": "9898462687632614139"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "Calidad editorial: instrucciones a autores y protocolos",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:OU6Ihb5iCvQC",
+                "citation_id": "ozjAngUAAAAJ:OU6Ihb5iCvQC",
+                "authors": "R Ruiz-Pérez",
+                "publication": "Jornadas de difusión de los resultados de la I Evaluación voluntaria de la …, 2008",
+                "cited_by":
+                {
+                    "value": 4,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9947431556006594029",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=9947431556006594029&engine=google_scholar&hl=en",
+                    "cites_id": "9947431556006594029"
+                }
+                ,
+                "year": "2008"
+            }
+            ,
+            {
+                "title": "Comentarios al artículo de V. Herrera Solana y G. Liberatore.",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:ZeXyd9-uunAC",
+                "citation_id": "ozjAngUAAAAJ:ZeXyd9-uunAC",
+                "authors": "E Jiménez-Contreras, E Delgado-Lopez-Cozar, R Ruiz-Pérez",
+                "publication": "Revista Española de Documentación Científica 31 (3), 433-436, 2008",
+                "cited_by":
+                {
+                    "value": 4,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14291593331167724602,5389295026540698165",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=14291593331167724602%2C5389295026540698165&engine=google_scholar&hl=en",
+                    "cites_id": "14291593331167724602,5389295026540698165"
+                }
+                ,
+                "year": "2008"
+            }
+            ,
+            {
+                "title": "The impact of Spanish social sciences as seen through the Spanish research Journals",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:Zph67rFs4hoC",
+                "citation_id": "ozjAngUAAAAJ:Zph67rFs4hoC",
+                "authors": "E Jiménez-Contreras, E Delgado-Lopez-Cozar, M Moneda-Corrochano, ...",
+                "publication": "Austrian Research Centers GmbH, 2008",
+                "cited_by":
+                {
+                    "value": 4,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9651563177999074073",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=9651563177999074073&engine=google_scholar&hl=en",
+                    "cites_id": "9651563177999074073"
+                }
+                ,
+                "year": "2008"
+            }
+            ,
+            {
+                "title": "IN-RECS: índice de impacto de las revistas españolas deficiencias sociales una nueva herramienta para medir el impacto de la investigación española",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:HevVnK7dagcC",
+                "citation_id": "ozjAngUAAAAJ:HevVnK7dagcC",
+                "authors": "E Delgado, E Jiménez, R Ruiz, MJ Gacto, D Torres, M Moneda, R Ruiz, ...",
+                "publication": "Revista Bibliográfica de Geografía y Ciencias Sociales 10 (574), 1-6, 2005",
+                "cited_by":
+                {
+                    "value": 4,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10544893007073619402",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10544893007073619402&engine=google_scholar&hl=en",
+                    "cites_id": "10544893007073619402"
+                }
+                ,
+                "year": "2005"
+            }
+            ,
+            {
+                "title": "Co-network analysis",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:eJXPG6dFmWUC",
+                "citation_id": "ozjAngUAAAAJ:eJXPG6dFmWUC",
+                "authors": "E Jiménez-Contreras, E Delgado-López-Cózar, R Ruiz-Pérez, ...",
+                "publication": "Proceedings of ISSI 2005, 10th, 2005",
+                "cited_by":
+                {
+                    "value": 4,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1719492339461016662",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=1719492339461016662&engine=google_scholar&hl=en",
+                    "cites_id": "1719492339461016662"
+                }
+                ,
+                "year": "2005"
+            }
+            ,
+            {
+                "title": "Normalizar las revistas científicas: Una tarea prioritaria.",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:vV6vV6tmYwMC",
+                "citation_id": "ozjAngUAAAAJ:vV6vV6tmYwMC",
+                "authors": "E Delgado-Lopez-Cozar, R Ruiz-Pérez, E Jiménez-Contreras",
+                "publication": "RCOE. Revista del Consejo General de Colegios de Odontólogos y Estomatólogos …, 1997",
+                "cited_by":
+                {
+                    "value": 4,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11613283090872523894",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11613283090872523894&engine=google_scholar&hl=en",
+                    "cites_id": "11613283090872523894"
+                }
+                ,
+                "year": "1997"
+            }
+            ,
+            {
+                "title": "Giant pigmented nevi: clinical, histopatologic and therapeutic considerantions",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:ECvNt0vk_34C",
+                "citation_id": "ozjAngUAAAAJ:ECvNt0vk_34C",
+                "authors": "R Ruiz, L Tamayo, A Laterza, C Durán",
+                "publication": "J Pediatr 120 (6), 906-911, 1992",
+                "cited_by":
+                {
+                    "value": 4,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8990582081286351820",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=8990582081286351820&engine=google_scholar&hl=en",
+                    "cites_id": "8990582081286351820"
+                }
+                ,
+                "year": "1992"
+            }
+            ,
+            {
+                "title": "Sistemas operativos en red",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:DoBzxrgsGIIC",
+                "citation_id": "ozjAngUAAAAJ:DoBzxrgsGIIC",
+                "authors": "R Romero, R Pérez, G Escrivá",
+                "publication": "Macmillan Iberia, SA, 2013",
+                "cited_by":
+                {
+                    "value": 3,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15435297708963198444",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15435297708963198444&engine=google_scholar&hl=en",
+                    "cites_id": "15435297708963198444"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "Los incidentes en los embargos ejecutivos ante la Primera Sala de la Cámara Civil del Juzgado de Primera Instancia del Distrito Judicial de Puerto Plata en el período enero …",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ozjAngUAAAAJ&pagesize=100&citation_for_view=ozjAngUAAAAJ:ThYxFsVAhEkC",
+                "citation_id": "ozjAngUAAAAJ:ThYxFsVAhEkC",
+                "authors": "R Francisco, R Pérez",
+                "cited_by":
+                {
+                    "value": 3,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15305462296331285355",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15305462296331285355&engine=google_scholar&hl=en",
+                    "cites_id": "15305462296331285355"
+                }
+                ,
+                "year": "2013"
+            }
+        ]
+        ,
+        "cited_by":
+        {
+            "table":
+            [
+                {
+                    "citations":
+                    {
+                        "all": 2373,
+                        "since_2017": 811
+                    }
+                }
+                ,
+                {
+                    "h_index":
+                    {
+                        "all": 25,
+                        "since_2017": 15
+                    }
+                }
+                ,
+                {
+                    "i10_index":
+                    {
+                        "all": 51,
+                        "since_2017": 18
+                    }
+                }
+            ]
+            ,
+            "graph":
+            [
+                {
+                    "year": 1999,
+                    "citations": 10
+                }
+                ,
+                {
+                    "year": 2000,
+                    "citations": 8
+                }
+                ,
+                {
+                    "year": 2001,
+                    "citations": 6
+                }
+                ,
+                {
+                    "year": 2002,
+                    "citations": 7
+                }
+                ,
+                {
+                    "year": 2003,
+                    "citations": 24
+                }
+                ,
+                {
+                    "year": 2004,
+                    "citations": 27
+                }
+                ,
+                {
+                    "year": 2005,
+                    "citations": 21
+                }
+                ,
+                {
+                    "year": 2006,
+                    "citations": 44
+                }
+                ,
+                {
+                    "year": 2007,
+                    "citations": 61
+                }
+                ,
+                {
+                    "year": 2008,
+                    "citations": 78
+                }
+                ,
+                {
+                    "year": 2009,
+                    "citations": 92
+                }
+                ,
+                {
+                    "year": 2010,
+                    "citations": 90
+                }
+                ,
+                {
+                    "year": 2011,
+                    "citations": 117
+                }
+                ,
+                {
+                    "year": 2012,
+                    "citations": 267
+                }
+                ,
+                {
+                    "year": 2013,
+                    "citations": 163
+                }
+                ,
+                {
+                    "year": 2014,
+                    "citations": 189
+                }
+                ,
+                {
+                    "year": 2015,
+                    "citations": 157
+                }
+                ,
+                {
+                    "year": 2016,
+                    "citations": 137
+                }
+                ,
+                {
+                    "year": 2017,
+                    "citations": 149
+                }
+                ,
+                {
+                    "year": 2018,
+                    "citations": 216
+                }
+                ,
+                {
+                    "year": 2019,
+                    "citations": 151
+                }
+                ,
+                {
+                    "year": 2020,
+                    "citations": 148
+                }
+                ,
+                {
+                    "year": 2021,
+                    "citations": 139
+                }
+                ,
+                {
+                    "year": 2022,
+                    "citations": 8
+                }
+            ]
+        }
+        ,
+        "public_access":
+        {
+            "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=ozjAngUAAAAJ",
+            "available": 8,
+            "not_available": 0
+        }
+        ,
+        "co_authors":
+        [
+            {
+                "name": "Emilio Delgado López-Cózar",
+                "link": "https://scholar.google.com/citations?user=kyTHOh0AAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=kyTHOh0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "kyTHOh0AAAAJ",
+                "affiliations": "Professor Research Methods, Facultad de Comunicación y Documentación, Universidad de Granada",
+                "email": "Verified email at ugr.es",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=kyTHOh0AAAAJ&citpid=7"
+            }
+            ,
+            {
+                "name": "Evaristo Jimenez-Contreras",
+                "link": "https://scholar.google.com/citations?user=EJ34B9wAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=EJ34B9wAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "EJ34B9wAAAAJ",
+                "affiliations": "Profesor de Bibliometría, EC3 - Universidad de Granada",
+                "email": "Verified email at ugr.es",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=EJ34B9wAAAAJ&citpid=2"
+            }
+            ,
+            {
+                "name": "Daniel Torres-Salinas",
+                "link": "https://scholar.google.com/citations?user=wQUrJIoAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=wQUrJIoAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "wQUrJIoAAAAJ",
+                "affiliations": "Universidad de Granada - Dpto Información y Comunicación, EC3metrics spin off",
+                "email": "Verified email at ugr.es",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=wQUrJIoAAAAJ&citpid=4"
+            }
+            ,
+            {
+                "name": "Diego Marcos Cartagena",
+                "link": "https://scholar.google.com/citations?user=LaVtLncAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=LaVtLncAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "LaVtLncAAAAJ",
+                "affiliations": "iMarina",
+                "email": "Verified email at scimarina.com",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=LaVtLncAAAAJ&citpid=3"
+            }
+            ,
+            {
+                "name": "Álvaro Cabezas-Clavijo",
+                "link": "https://scholar.google.com/citations?user=z9mQzfYAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=z9mQzfYAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "z9mQzfYAAAAJ",
+                "affiliations": "Universidad Internacional de la Rioja (UNIR)",
+                "email": "Verified email at unir.net",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=z9mQzfYAAAAJ&citpid=8"
+            }
+            ,
+            {
+                "name": "Enrique Orduña-Malea",
+                "link": "https://scholar.google.com/citations?user=g6bEUdkAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=g6bEUdkAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "g6bEUdkAAAAJ",
+                "affiliations": "Technical University of Valencia (ror.org/01460j859)",
+                "email": "Verified email at upv.es",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=g6bEUdkAAAAJ&citpid=21"
+            }
+            ,
+            {
+                "name": "Alberto Martín-Martín",
+                "link": "https://scholar.google.com/citations?user=YlPd48UAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=YlPd48UAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "YlPd48UAAAAJ",
+                "affiliations": "Postdoctoral researcher, Universidad de Granada, Spain.",
+                "email": "Verified email at ugr.es",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=YlPd48UAAAAJ&citpid=13"
+            }
+            ,
+            {
+                "name": "María José Gacto",
+                "link": "https://scholar.google.com/citations?user=LoFYQUMAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=LoFYQUMAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "LoFYQUMAAAAJ",
+                "affiliations": "University of Jaén",
+                "email": "Verified email at ujaen.es",
+                "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+            }
+            ,
+            {
+                "name": "Antonio G. Lopez-Herrera",
+                "link": "https://scholar.google.com/citations?user=3zoQAYkAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=3zoQAYkAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "3zoQAYkAAAAJ",
+                "affiliations": "Associate Professor of Computer Science and Artificial Intelligence, University of Granada",
+                "email": "Verified email at decsai.ugr.es",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=3zoQAYkAAAAJ&citpid=5"
+            }
+            ,
+            {
+                "name": "María Pinto",
+                "link": "https://scholar.google.com/citations?user=LTyqhDQAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=LTyqhDQAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "LTyqhDQAAAAJ",
+                "affiliations": "Catedrática Universidad Granada",
+                "email": "Verified email at ugr.es",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=LTyqhDQAAAAJ&citpid=2"
+            }
+            ,
+            {
+                "name": "Nicolás Robinson-García",
+                "link": "https://scholar.google.com/citations?user=Jd6KNkQAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=Jd6KNkQAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "Jd6KNkQAAAAJ",
+                "affiliations": "Information and Communication Studies department, University of Granada",
+                "email": "Verified email at ugr.es",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Jd6KNkQAAAAJ&citpid=5"
+            }
+            ,
+            {
+                "name": "Gabriel Gijon-Nogueron",
+                "link": "https://scholar.google.com/citations?user=k-utwkcAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=k-utwkcAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "k-utwkcAAAAJ",
+                "affiliations": "Profesor del departamento de Enfermeria y Podologia. Universidad de Malaga",
+                "email": "Verified email at uma.es",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=k-utwkcAAAAJ&citpid=3"
+            }
+            ,
+            {
+                "name": "Juan Manuel Ayllón Millán",
+                "link": "https://scholar.google.com/citations?user=iy8GqLsAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=iy8GqLsAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "iy8GqLsAAAAJ",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=iy8GqLsAAAAJ&citpid=4"
+            }
+        ]
+        ,
+        "serpapi_pagination":
+        {
+            "next": "https://serpapi.com/search.json?author_id=ozjAngUAAAAJ&engine=google_scholar_author&hl=en&num=100&start=100"
+        }
+    }

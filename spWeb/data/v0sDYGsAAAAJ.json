@@ -1,0 +1,2126 @@
+
+    {
+        "search_metadata":
+        {
+            "id": "6238520cf716ee0879aef9aa",
+            "status": "Success",
+            "json_endpoint": "https://serpapi.com/searches/1de6a4dc11c754aa/6238520cf716ee0879aef9aa.json",
+            "created_at": "2022-03-21 10:23:08 UTC",
+            "processed_at": "2022-03-21 10:23:08 UTC",
+            "google_scholar_author_url": "https://scholar.google.com/citations?user=v0sDYGsAAAAJ&hl=en&cstart=0&pagesize=100",
+            "raw_html_file": "https://serpapi.com/searches/1de6a4dc11c754aa/6238520cf716ee0879aef9aa.html",
+            "total_time_taken": 0.20
+        }
+        ,
+        "search_parameters":
+        {
+            "engine": "google_scholar_author",
+            "author_id": "v0sDYGsAAAAJ",
+            "hl": "en",
+            "start": 0,
+            "num": "100"
+        }
+        ,
+        "author":
+        {
+            "name": "Anne-Wil Harzing",
+            "affiliations": "Professor of International Management - Middlesex University - Tilburg University",
+            "email": "Verified email at mdx.ac.uk",
+            "website": "http://www.harzing.com/",
+            "interests":
+            [
+                {
+                    "title": "International Business",
+                    "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:international_business",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ainternational_business"
+                }
+                ,
+                {
+                    "title": "International HRM",
+                    "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:international_hrm",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ainternational_hrm"
+                }
+                ,
+                {
+                    "title": "Scientometrics",
+                    "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:scientometrics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ascientometrics"
+                }
+                ,
+                {
+                    "title": "International Management",
+                    "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:international_management",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ainternational_management"
+                }
+                ,
+                {
+                    "title": "Expatriation",
+                    "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:expatriation",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aexpatriation"
+                }
+            ]
+            ,
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=v0sDYGsAAAAJ&citpid=9"
+        }
+        ,
+        "articles":
+        [
+            {
+                "title": "Publish or Perish",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:X3EXpuCuTEcC",
+                "citation_id": "v0sDYGsAAAAJ:X3EXpuCuTEcC",
+                "authors": "AW Harzing",
+                "publication": "http://www.harzing.com/pop.htm, 2007",
+                "cited_by":
+                {
+                    "value": 1361,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=173642479405854146,10050484421992033543,6616839566311341068,937375606443310806,8012045333996070603,6990320036584978246,12449151326934188660,10203817670332944167,3782712668256483638,9036503108613274616,9556363399868799192,17541037298681616707,5979641592776083052,3629544540515406808,14266141060634562369,14583932744890626332,1387760707291469948,5316771806465671601,15307732912484866096,12616953958375076601,5095087071621977648,9870385115816829194,5845368929181301874,7969404413071006879,3715278727190921858,3025055154889739364,8647150044780628791,3011242300216905449,16336460733102856122",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=173642479405854146%2C10050484421992033543%2C6616839566311341068%2C937375606443310806%2C8012045333996070603%2C6990320036584978246%2C12449151326934188660%2C10203817670332944167%2C3782712668256483638%2C9036503108613274616%2C9556363399868799192%2C17541037298681616707%2C5979641592776083052%2C3629544540515406808%2C14266141060634562369%2C14583932744890626332%2C1387760707291469948%2C5316771806465671601%2C15307732912484866096%2C12616953958375076601%2C5095087071621977648%2C9870385115816829194%2C5845368929181301874%2C7969404413071006879%2C3715278727190921858%2C3025055154889739364%2C8647150044780628791%2C3011242300216905449%2C16336460733102856122&engine=google_scholar&hl=en",
+                    "cites_id": "173642479405854146,10050484421992033543,6616839566311341068,937375606443310806,8012045333996070603,6990320036584978246,12449151326934188660,10203817670332944167,3782712668256483638,9036503108613274616,9556363399868799192,17541037298681616707,5979641592776083052,3629544540515406808,14266141060634562369,14583932744890626332,1387760707291469948,5316771806465671601,15307732912484866096,12616953958375076601,5095087071621977648,9870385115816829194,5845368929181301874,7969404413071006879,3715278727190921858,3025055154889739364,8647150044780628791,3011242300216905449,16336460733102856122"
+                }
+                ,
+                "year": "2007"
+            }
+            ,
+            {
+                "title": "When knowledge wins: Transcending the sense and nonsense of academic rankings",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:GMADQvFTV88C",
+                "citation_id": "v0sDYGsAAAAJ:GMADQvFTV88C",
+                "authors": "NJ Adler, AW Harzing",
+                "publication": "The Academy of Management Learning and Education 8 (1), 72-95, 2009",
+                "cited_by":
+                {
+                    "value": 971,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7448899516736811866,6875457713863630203",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=7448899516736811866%2C6875457713863630203&engine=google_scholar&hl=en",
+                    "cites_id": "7448899516736811866,6875457713863630203"
+                }
+                ,
+                "year": "2009"
+            }
+            ,
+            {
+                "title": "Google Scholar, Scopus and the Web of Science: A longitudinal and cross-disciplinary comparison",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:U1INVdoRapcC",
+                "citation_id": "v0sDYGsAAAAJ:U1INVdoRapcC",
+                "authors": "AW Harzing, S Alakangas",
+                "publication": "Scientometrics 106 (2), 787-804, 2016",
+                "cited_by":
+                {
+                    "value": 946,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1803283446955356482",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=1803283446955356482&engine=google_scholar&hl=en",
+                    "cites_id": "1803283446955356482"
+                }
+                ,
+                "year": "2016"
+            }
+            ,
+            {
+                "title": "Acquisitions versus greenfield investments: International strategy and management of entry modes",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:bVPaY08nMUAC",
+                "citation_id": "v0sDYGsAAAAJ:bVPaY08nMUAC",
+                "authors": "AW Harzing",
+                "publication": "Strategic Management Journal 23 (3), 211-227, 2002",
+                "cited_by":
+                {
+                    "value": 844,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12101173864617199975,2261031296666413041,12704155792383835783,16120990562794077201,5566320615918513921",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=12101173864617199975%2C2261031296666413041%2C12704155792383835783%2C16120990562794077201%2C5566320615918513921&engine=google_scholar&hl=en",
+                    "cites_id": "12101173864617199975,2261031296666413041,12704155792383835783,16120990562794077201,5566320615918513921"
+                }
+                ,
+                "year": "2002"
+            }
+            ,
+            {
+                "title": "Google Scholar as a new source for citation analysis?",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:nwfoItMF7hMC",
+                "citation_id": "v0sDYGsAAAAJ:nwfoItMF7hMC",
+                "authors": "AW Harzing, R van der Wal",
+                "publication": "Ethics in Science and Environmental Politics 8 (1), 61-73, 2008",
+                "cited_by":
+                {
+                    "value": 830,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14645980044213828527,18075225237387229516,11967516315529713942,14137424227692335685",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=14645980044213828527%2C18075225237387229516%2C11967516315529713942%2C14137424227692335685&engine=google_scholar&hl=en",
+                    "cites_id": "14645980044213828527,18075225237387229516,11967516315529713942,14137424227692335685"
+                }
+                ,
+                "year": "2008"
+            }
+            ,
+            {
+                "title": "Response styles in cross-national survey research: A 26-country Study",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:amGTJ5MrhowC",
+                "citation_id": "v0sDYGsAAAAJ:amGTJ5MrhowC",
+                "authors": "AW Harzing",
+                "publication": "International Journal of Cross Cultural Management 6 (2), 243-266, 2006",
+                "cited_by":
+                {
+                    "value": 800,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10270700796699755758",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10270700796699755758&engine=google_scholar&hl=en",
+                    "cites_id": "10270700796699755758"
+                }
+                ,
+                "year": "2006"
+            }
+            ,
+            {
+                "title": "An empirical analysis and extension of the Bartlett and Ghoshal typology of multinational companies",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:5WkdyjDMKEYC",
+                "citation_id": "v0sDYGsAAAAJ:5WkdyjDMKEYC",
+                "authors": "AW Harzing",
+                "publication": "Journal of International Business Studies 31 (1), 101-120, 2000",
+                "cited_by":
+                {
+                    "value": 714,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1638953536963703141",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=1638953536963703141&engine=google_scholar&hl=en",
+                    "cites_id": "1638953536963703141"
+                }
+                ,
+                "year": "2000"
+            }
+            ,
+            {
+                "title": "Of bears, bumble-bees, and spiders: The role of expatriates in controlling foreign subsidiaries",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:mtq4Lr8gjtYC",
+                "citation_id": "v0sDYGsAAAAJ:mtq4Lr8gjtYC",
+                "authors": "AW Harzing",
+                "publication": "Journal of World Business 36 (4), 366-379, 2001",
+                "cited_by":
+                {
+                    "value": 664,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17982525606071663197,9276797964050933903",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=17982525606071663197%2C9276797964050933903&engine=google_scholar&hl=en",
+                    "cites_id": "17982525606071663197,9276797964050933903"
+                }
+                ,
+                "year": "2001"
+            }
+            ,
+            {
+                "title": "International Human Resource Management",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:0U2LDkvwOo4C",
+                "citation_id": "v0sDYGsAAAAJ:0U2LDkvwOo4C",
+                "authors": "AW Harzing, A Pinnington",
+                "publication": "Sage Publications, 2010",
+                "cited_by":
+                {
+                    "value": 660,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3754426880962440783,14142722645033727963,15823451704481418245",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=3754426880962440783%2C14142722645033727963%2C15823451704481418245&engine=google_scholar&hl=en",
+                    "cites_id": "3754426880962440783,14142722645033727963,15823451704481418245"
+                }
+                ,
+                "year": "2010"
+            }
+            ,
+            {
+                "title": "Managing the multinationals: An international study of control mechanisms",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:8EtwcdHaCyAC",
+                "citation_id": "v0sDYGsAAAAJ:8EtwcdHaCyAC",
+                "authors": "AW Harzing",
+                "publication": "Edward Elgar, 1999",
+                "cited_by":
+                {
+                    "value": 607,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6771964095121097542",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=6771964095121097542&engine=google_scholar&hl=en",
+                    "cites_id": "6771964095121097542"
+                }
+                ,
+                "year": "1999"
+            }
+            ,
+            {
+                "title": "Language management in multinational companies",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:IkxDsZK-5NQC",
+                "citation_id": "v0sDYGsAAAAJ:IkxDsZK-5NQC",
+                "authors": "AJ Feely, AW Harzing",
+                "publication": "Cross Cultural Management: An International Journal 10 (2), 37-52, 2003",
+                "cited_by":
+                {
+                    "value": 557,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9491033975989683348",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=9491033975989683348&engine=google_scholar&hl=en",
+                    "cites_id": "9491033975989683348"
+                }
+                ,
+                "year": "2003"
+            }
+            ,
+            {
+                "title": "The persistent myth of high expatriate failure rates",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:TmnWbB_axlEC",
+                "citation_id": "v0sDYGsAAAAJ:TmnWbB_axlEC",
+                "authors": "AW Harzing",
+                "publication": "The International Journal of Human Resource Management 6 (2), 457-474, 1995",
+                "cited_by":
+                {
+                    "value": 552,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15223793783800696444",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15223793783800696444&engine=google_scholar&hl=en",
+                    "cites_id": "15223793783800696444"
+                }
+                ,
+                "year": "1995"
+            }
+            ,
+            {
+                "title": "Knowledge-sharing and social interaction within MNEs",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:C1EYyJaxJZIC",
+                "citation_id": "v0sDYGsAAAAJ:C1EYyJaxJZIC",
+                "authors": "N Noorderhaven, AW Harzing",
+                "publication": "Journal of International Business Studies 40 (5), 719-741, 2009",
+                "cited_by":
+                {
+                    "value": 519,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4427547538359519751,16257447557048226932",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=4427547538359519751%2C16257447557048226932&engine=google_scholar&hl=en",
+                    "cites_id": "4427547538359519751,16257447557048226932"
+                }
+                ,
+                "year": "2009"
+            }
+            ,
+            {
+                "title": "Country‐of‐origin, localization, or dominance effect? An empirical investigation of HRM practices in foreign subsidiaries",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:9djSGow2EaoC",
+                "citation_id": "v0sDYGsAAAAJ:9djSGow2EaoC",
+                "authors": "M Pudelko, AW Harzing",
+                "publication": "Human Resource Management 46 (4), 535-559, 2007",
+                "cited_by":
+                {
+                    "value": 516,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12457274571164544112,6249839765208256598",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=12457274571164544112%2C6249839765208256598&engine=google_scholar&hl=en",
+                    "cites_id": "12457274571164544112,6249839765208256598"
+                }
+                ,
+                "year": "2007"
+            }
+            ,
+            {
+                "title": "The relative impact of country of origin and universal contingencies on internationalization strategies and corporate control in multinational enterprises: worldwide and …",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:uAP7c9r_Rr8C",
+                "citation_id": "v0sDYGsAAAAJ:uAP7c9r_Rr8C",
+                "authors": "AW Harzing, A Sorge",
+                "publication": "Organization Studies 24 (2), 187-214, 2003",
+                "cited_by":
+                {
+                    "value": 505,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8482998889370700357,14462251863335830216",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=8482998889370700357%2C14462251863335830216&engine=google_scholar&hl=en",
+                    "cites_id": "8482998889370700357,14462251863335830216"
+                }
+                ,
+                "year": "2003"
+            }
+            ,
+            {
+                "title": "The Publish or Perish Book: Your guide to Effective and Responsible Citation Analysis",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:cZB_oU3SkdIC",
+                "citation_id": "v0sDYGsAAAAJ:cZB_oU3SkdIC",
+                "authors": "AW Harzing",
+                "publication": "Tarma Software Research Pty Ltd, Melbourne Australia, 2010",
+                "cited_by":
+                {
+                    "value": 492,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12528596830718617583,933212011292394781,12875576871591378586,14332545710623676154,11932822927543291254,9300796020140485486,2803668258119396154,15216023454144217078",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=12528596830718617583%2C933212011292394781%2C12875576871591378586%2C14332545710623676154%2C11932822927543291254%2C9300796020140485486%2C2803668258119396154%2C15216023454144217078&engine=google_scholar&hl=en",
+                    "cites_id": "12528596830718617583,933212011292394781,12875576871591378586,14332545710623676154,11932822927543291254,9300796020140485486,2803668258119396154,15216023454144217078"
+                }
+                ,
+                "year": "2010"
+            }
+            ,
+            {
+                "title": "Who's in charge? An empirical study of executive staffing practices in foreign subsidiaries",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:YiBZ6_7J9mkC",
+                "citation_id": "v0sDYGsAAAAJ:YiBZ6_7J9mkC",
+                "authors": "AW Harzing",
+                "publication": "Human Resource Management 40 (2), 139-158, 2001",
+                "cited_by":
+                {
+                    "value": 486,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13043134343110859703,15404831650347856832",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=13043134343110859703%2C15404831650347856832&engine=google_scholar&hl=en",
+                    "cites_id": "13043134343110859703,15404831650347856832"
+                }
+                ,
+                "year": "2001"
+            }
+            ,
+            {
+                "title": "Response rates in international mail surveys: results of a 22-country study",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:yXZqsUWzai8C",
+                "citation_id": "v0sDYGsAAAAJ:yXZqsUWzai8C",
+                "authors": "AW Harzing",
+                "publication": "International Business Review 6 (6), 641-665, 1997",
+                "cited_by":
+                {
+                    "value": 481,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17192539281378762018",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=17192539281378762018&engine=google_scholar&hl=en",
+                    "cites_id": "17192539281378762018"
+                }
+                ,
+                "year": "1997"
+            }
+            ,
+            {
+                "title": "The language barrier and its implications for HQ-subsidiary relationships",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:eGJUmgNLeWAC",
+                "citation_id": "v0sDYGsAAAAJ:eGJUmgNLeWAC",
+                "authors": "AW Harzing, AJ Feely",
+                "publication": "Cross Cultural Management: An International Journal 15 (1), 49-61, 2008",
+                "cited_by":
+                {
+                    "value": 449,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17651219230347239366",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=17651219230347239366&engine=google_scholar&hl=en",
+                    "cites_id": "17651219230347239366"
+                }
+                ,
+                "year": "2008"
+            }
+            ,
+            {
+                "title": "A Google Scholar h‐index for journals: An alternative metric to measure journal impact in Economics and Business",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:lsEYeSe2tpEC",
+                "citation_id": "v0sDYGsAAAAJ:lsEYeSe2tpEC",
+                "authors": "AW Harzing, R van der Wal",
+                "publication": "JASIST 60 (1), 41-46, 2009",
+                "cited_by":
+                {
+                    "value": 400,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2197961669116031273",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=2197961669116031273&engine=google_scholar&hl=en",
+                    "cites_id": "2197961669116031273"
+                }
+                ,
+                "year": "2009"
+            }
+            ,
+            {
+                "title": "Babel in business: The language barrier and its solutions in the HQ-subsidiary relationship",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:0a-0BRjGxG0C",
+                "citation_id": "v0sDYGsAAAAJ:0a-0BRjGxG0C",
+                "authors": "AW Harzing, K Köster, U Magner",
+                "publication": "Journal of World Business 46 (3), 279-287, 2011",
+                "cited_by":
+                {
+                    "value": 333,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2885978172239704907,9131739928937369064",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=2885978172239704907%2C9131739928937369064&engine=google_scholar&hl=en",
+                    "cites_id": "2885978172239704907,9131739928937369064"
+                }
+                ,
+                "year": "2011"
+            }
+            ,
+            {
+                "title": "The impact of language barriers on trust formation in multinational teams",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:zSM0IxRRLoQC",
+                "citation_id": "v0sDYGsAAAAJ:zSM0IxRRLoQC",
+                "authors": "H Tenzer, M Pudelko, AW Harzing",
+                "publication": "Journal of International Business Studies 45 (5), 508-535, 2014",
+                "cited_by":
+                {
+                    "value": 308,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2740282799949504340",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=2740282799949504340&engine=google_scholar&hl=en",
+                    "cites_id": "2740282799949504340"
+                }
+                ,
+                "year": "2014"
+            }
+            ,
+            {
+                "title": "The role of culture in entry-mode studies: from neglect to myopia?",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:7hTFQKV_Y-MC",
+                "citation_id": "v0sDYGsAAAAJ:7hTFQKV_Y-MC",
+                "authors": "AW Harzing",
+                "publication": "Advances in International Management 15 (1), 75-127, 2003",
+                "cited_by":
+                {
+                    "value": 308,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18106761042329282355",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=18106761042329282355&engine=google_scholar&hl=en",
+                    "cites_id": "18106761042329282355"
+                }
+                ,
+                "year": "2003"
+            }
+            ,
+            {
+                "title": "Expatriate failure: time to abandon the concept?",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:aMQnNzTHVu4C",
+                "citation_id": "v0sDYGsAAAAJ:aMQnNzTHVu4C",
+                "authors": "AW Harzing, C Christensen",
+                "publication": "Career Development International 9 (7), 616-626, 2004",
+                "cited_by":
+                {
+                    "value": 288,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16350115272071791700",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=16350115272071791700&engine=google_scholar&hl=en",
+                    "cites_id": "16350115272071791700"
+                }
+                ,
+                "year": "2004"
+            }
+            ,
+            {
+                "title": "Cross-national industrial mail surveys: Why do response rates differ between countries?",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:L7JqRCIhofwC",
+                "citation_id": "v0sDYGsAAAAJ:L7JqRCIhofwC",
+                "authors": "AW Harzing",
+                "publication": "Industrial Marketing Management 29 (3), 243-254, 2000",
+                "cited_by":
+                {
+                    "value": 270,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1130287522782481339",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=1130287522782481339&engine=google_scholar&hl=en",
+                    "cites_id": "1130287522782481339"
+                }
+                ,
+                "year": "2000"
+            }
+            ,
+            {
+                "title": "Are our referencing errors undermining our scholarship and credibility? The case of expatriate failure rates",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:q8yTKY340rsC",
+                "citation_id": "v0sDYGsAAAAJ:q8yTKY340rsC",
+                "authors": "AW Harzing",
+                "publication": "Journal of Organizational Behavior 23 (1), 127-148, 2002",
+                "cited_by":
+                {
+                    "value": 265,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5725919917544284735",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=5725919917544284735&engine=google_scholar&hl=en",
+                    "cites_id": "5725919917544284735"
+                }
+                ,
+                "year": "2002"
+            }
+            ,
+            {
+                "title": "A knowledge transfer perspective of strategic assignment purposes and their path-dependent outcomes",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:kqeZabM7ilsC",
+                "citation_id": "v0sDYGsAAAAJ:kqeZabM7ilsC",
+                "authors": "JB Hocking, M Brown, AW Harzing",
+                "publication": "The International Journal of Human Resource Management 15 (3), 565-586, 2004",
+                "cited_by":
+                {
+                    "value": 257,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7801972170317971080",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=7801972170317971080&engine=google_scholar&hl=en",
+                    "cites_id": "7801972170317971080"
+                }
+                ,
+                "year": "2004"
+            }
+            ,
+            {
+                "title": "Host country specific factors and the transfer of human resource management practices in multinational companies",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:-_cDHGlXAtsC",
+                "citation_id": "v0sDYGsAAAAJ:-_cDHGlXAtsC",
+                "authors": "B Myloni, AWK Harzing, H Mirza",
+                "publication": "International Journal of Manpower 25 (6), 518-534, 2004",
+                "cited_by":
+                {
+                    "value": 257,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7329245591339554847",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=7329245591339554847&engine=google_scholar&hl=en",
+                    "cites_id": "7329245591339554847"
+                }
+                ,
+                "year": "2004"
+            }
+            ,
+            {
+                "title": "Knowledge flows in MNCs: An empirical test and extension of Gupta and Govindarajan's typology of subsidiary roles",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:DG0Btp6lGL8C",
+                "citation_id": "v0sDYGsAAAAJ:DG0Btp6lGL8C",
+                "authors": "AW Harzing, N Noorderhaven",
+                "publication": "International Business Review 15 (3), 195-214, 2006",
+                "cited_by":
+                {
+                    "value": 243,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3551029980675118883",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=3551029980675118883&engine=google_scholar&hl=en",
+                    "cites_id": "3551029980675118883"
+                }
+                ,
+                "year": "2006"
+            }
+            ,
+            {
+                "title": "An analysis of the functions of international transfer of managers in MNCs",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:EApWrIGyWYwC",
+                "citation_id": "v0sDYGsAAAAJ:EApWrIGyWYwC",
+                "authors": "AW Harzing",
+                "publication": "Employee Relations 23 (6), 581-598, 2001",
+                "cited_by":
+                {
+                    "value": 237,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12338963188195978423",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=12338963188195978423&engine=google_scholar&hl=en",
+                    "cites_id": "12338963188195978423"
+                }
+                ,
+                "year": "2001"
+            }
+            ,
+            {
+                "title": "Does the use of English-language questionnaires in cross-national research obscure national differences?",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:QB0F--xbfh4C",
+                "citation_id": "v0sDYGsAAAAJ:QB0F--xbfh4C",
+                "authors": "AW Harzing",
+                "publication": "International Journal of Cross Cultural Management 5 (2), 213-224, 2005",
+                "cited_by":
+                {
+                    "value": 234,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7496641542290756814,5515320040125847350,17927277827057394855",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=7496641542290756814%2C5515320040125847350%2C17927277827057394855&engine=google_scholar&hl=en",
+                    "cites_id": "7496641542290756814,5515320040125847350,17927277827057394855"
+                }
+                ,
+                "year": "2005"
+            }
+            ,
+            {
+                "title": "Language competencies, policies and practices in multinational corporations: A comprehensive review and comparison of Anglophone, Asian, Continental European and Nordic MNCs",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:iRVS5cWFCuIC",
+                "citation_id": "v0sDYGsAAAAJ:iRVS5cWFCuIC",
+                "authors": "AW Harzing, M Pudelko",
+                "publication": "Journal of World Business 48 (1), 87-97, 2013",
+                "cited_by":
+                {
+                    "value": 232,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11896825166633074386",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11896825166633074386&engine=google_scholar&hl=en",
+                    "cites_id": "11896825166633074386"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "The role of international assignees' social capital in creating inter-unit intellectual capital: A cross-level model",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:bODvOFH0kxoC",
+                "citation_id": "v0sDYGsAAAAJ:bODvOFH0kxoC",
+                "authors": "BS Reiche, AW Harzing, ML Kraimer",
+                "publication": "Journal of International Business Studies 40 (3), 509-526, 2009",
+                "cited_by":
+                {
+                    "value": 227,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6525042333331804936",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=6525042333331804936&engine=google_scholar&hl=en",
+                    "cites_id": "6525042333331804936"
+                }
+                ,
+                "year": "2009"
+            }
+            ,
+            {
+                "title": "A preliminary test of Google Scholar as a source for citation data: a longitudinal study of Nobel prize winners",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:XptqmJ6C52sC",
+                "citation_id": "v0sDYGsAAAAJ:XptqmJ6C52sC",
+                "authors": "AW Harzing",
+                "publication": "Scientometrics 94 (3), 1057-1075, 2013",
+                "cited_by":
+                {
+                    "value": 225,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12629522407564648680",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=12629522407564648680&engine=google_scholar&hl=en",
+                    "cites_id": "12629522407564648680"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "The “country-of-origin effect” in multinational corporations: sources, mechanisms and moderating conditions",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:iMbXGt5dmAEC",
+                "citation_id": "v0sDYGsAAAAJ:iMbXGt5dmAEC",
+                "authors": "NG Noorderhaven, AW Harzing",
+                "publication": "Management International Review 43 (2), 47-66, 2003",
+                "cited_by":
+                {
+                    "value": 197,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=184342144775034228",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=184342144775034228&engine=google_scholar&hl=en",
+                    "cites_id": "184342144775034228"
+                }
+                ,
+                "year": "2003"
+            }
+            ,
+            {
+                "title": "The bridging role of expatriates and inpatriates in knowledge transfer in multinational corporations",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:KH-Iy8IzxhYC",
+                "citation_id": "v0sDYGsAAAAJ:KH-Iy8IzxhYC",
+                "authors": "AW Harzing, M Pudelko, B Sebastian Reiche",
+                "publication": "Human Resource Management 55 (4), 679-695, 2016",
+                "cited_by":
+                {
+                    "value": 190,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9957561598717742957",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=9957561598717742957&engine=google_scholar&hl=en",
+                    "cites_id": "9957561598717742957"
+                }
+                ,
+                "year": "2016"
+            }
+            ,
+            {
+                "title": "Comment: Descending from the ivory tower: reflections on the relevance and future of country‐of‐origin research",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:OwUwxyS7Fk8C",
+                "citation_id": "v0sDYGsAAAAJ:OwUwxyS7Fk8C",
+                "authors": "A Josiassen, AW Harzing",
+                "publication": "European Management Review 5 (4), 264-270, 2008",
+                "cited_by":
+                {
+                    "value": 189,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15758549867000497234",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15758549867000497234&engine=google_scholar&hl=en",
+                    "cites_id": "15758549867000497234"
+                }
+                ,
+                "year": "2008"
+            }
+            ,
+            {
+                "title": "Rating versus ranking: What is the best way to reduce response and language bias in cross-national research?",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:sc_hyC0iex0C",
+                "citation_id": "v0sDYGsAAAAJ:sc_hyC0iex0C",
+                "authors": "AW Harzing, J Baldueza, W Barner-Rasmussen, C Barzantny, A Canabal, ...",
+                "publication": "International Business Review 18 (4), 417-432, 2009",
+                "cited_by":
+                {
+                    "value": 184,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15224063639233105820",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15224063639233105820&engine=google_scholar&hl=en",
+                    "cites_id": "15224063639233105820"
+                }
+                ,
+                "year": "2009"
+            }
+            ,
+            {
+                "title": "Balancing global and local strategic contexts: Expatriate knowledge transfer, applications, and learning within a transnational organization",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:judUAtIFz0MC",
+                "citation_id": "v0sDYGsAAAAJ:judUAtIFz0MC",
+                "authors": "JB Hocking, M Brown, AW Harzing",
+                "publication": "Human Resource Management 46 (4), 513-533, 2007",
+                "cited_by":
+                {
+                    "value": 177,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11897710159632414093",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11897710159632414093&engine=google_scholar&hl=en",
+                    "cites_id": "11897710159632414093"
+                }
+                ,
+                "year": "2007"
+            }
+            ,
+            {
+                "title": "Why do international assignees stay? An organizational embeddedness perspective",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:KgQn5aR88cEC",
+                "citation_id": "v0sDYGsAAAAJ:KgQn5aR88cEC",
+                "authors": "BS Reiche, ML Kraimer, AW Harzing",
+                "publication": "Journal of International Business Studies 42 (4), 521-544, 2011",
+                "cited_by":
+                {
+                    "value": 174,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12261885504737953108",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=12261885504737953108&engine=google_scholar&hl=en",
+                    "cites_id": "12261885504737953108"
+                }
+                ,
+                "year": "2011"
+            }
+            ,
+            {
+                "title": "Ranking journals in business and management: a statistical analysis of the Harzing data set",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:xZ4F5NOCMJ0C",
+                "citation_id": "v0sDYGsAAAAJ:xZ4F5NOCMJ0C",
+                "authors": "J Mingers, AW Harzing",
+                "publication": "European Journal of Information Systems 16 (4), 303-316, 2007",
+                "cited_by":
+                {
+                    "value": 174,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7803946353193143574",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=7803946353193143574&engine=google_scholar&hl=en",
+                    "cites_id": "7803946353193143574"
+                }
+                ,
+                "year": "2007"
+            }
+            ,
+            {
+                "title": "Challenges in international survey research: A review with illustrations and suggested solutions for best practice",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:oe-dhlAyNXgC",
+                "citation_id": "v0sDYGsAAAAJ:oe-dhlAyNXgC",
+                "authors": "AW Harzing, BS Reiche, M Pudelko",
+                "publication": "European Journal of International Management 7 (1), 112-134, 2013",
+                "cited_by":
+                {
+                    "value": 173,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2745226914197181981,3441500451174150772,18398040692272831413,7010276638412325263",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=2745226914197181981%2C3441500451174150772%2C18398040692272831413%2C7010276638412325263&engine=google_scholar&hl=en",
+                    "cites_id": "2745226914197181981,3441500451174150772,18398040692272831413,7010276638412325263"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "Planned change in organizations: The influence of national culture",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:LIyjJRbbAUMC",
+                "citation_id": "v0sDYGsAAAAJ:LIyjJRbbAUMC",
+                "authors": "AW Harzing, G Hofstede",
+                "publication": "Research in the Sociology of Organizations 14 (1), 297-340, 1996",
+                "cited_by":
+                {
+                    "value": 163,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11678956440049295195",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11678956440049295195&engine=google_scholar&hl=en",
+                    "cites_id": "11678956440049295195"
+                }
+                ,
+                "year": "1996"
+            }
+            ,
+            {
+                "title": "Why and how does shared language affect subsidiary knowledge inflows? A social identity perspective",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:4Ol-GlP6dRYC",
+                "citation_id": "v0sDYGsAAAAJ:4Ol-GlP6dRYC",
+                "authors": "S Reiche, AW Harzing, M Pudelko",
+                "publication": "Journal of International Business Studies 46 (5), 528-551, 2015",
+                "cited_by":
+                {
+                    "value": 159,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12355688205431000516",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=12355688205431000516&engine=google_scholar&hl=en",
+                    "cites_id": "12355688205431000516"
+                }
+                ,
+                "year": "2015"
+            }
+            ,
+            {
+                "title": "Journal quality list",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:hmHAmvAdi5MC",
+                "citation_id": "v0sDYGsAAAAJ:hmHAmvAdi5MC",
+                "authors": "AW Harzing",
+                "publication": "http://www.harzing.com, 2001",
+                "cited_by":
+                {
+                    "value": 157,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5196238593114029865,8486482317691267200,16688684569914229228,14092119456885422289,11441757255801624990,9338529374998460778",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=5196238593114029865%2C8486482317691267200%2C16688684569914229228%2C14092119456885422289%2C11441757255801624990%2C9338529374998460778&engine=google_scholar&hl=en",
+                    "cites_id": "5196238593114029865,8486482317691267200,16688684569914229228,14092119456885422289,11441757255801624990,9338529374998460778"
+                }
+                ,
+                "year": "2001"
+            }
+            ,
+            {
+                "title": "Do we need to distance ourselves from the distance concept? Why home and host country context might matter more than (cultural) distance",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:lRnXHr2tBKsC",
+                "citation_id": "v0sDYGsAAAAJ:lRnXHr2tBKsC",
+                "authors": "AW Harzing, M Pudelko",
+                "publication": "Management International Review 56 (1), 1-34, 2016",
+                "cited_by":
+                {
+                    "value": 142,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8602140776072888418",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=8602140776072888418&engine=google_scholar&hl=en",
+                    "cites_id": "8602140776072888418"
+                }
+                ,
+                "year": "2016"
+            }
+            ,
+            {
+                "title": "A longitudinal study of Google Scholar coverage between 2012 and 2013",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:ms1Q_PLG2XUC",
+                "citation_id": "v0sDYGsAAAAJ:ms1Q_PLG2XUC",
+                "authors": "AW Harzing",
+                "publication": "Scientometrics 98 (1), 565-575, 2014",
+                "cited_by":
+                {
+                    "value": 142,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=402458309111200977",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=402458309111200977&engine=google_scholar&hl=en",
+                    "cites_id": "402458309111200977"
+                }
+                ,
+                "year": "2014"
+            }
+            ,
+            {
+                "title": "Language in International Business: A Review and Agenda for Future Research",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:-vXcM0OzXVYC",
+                "citation_id": "v0sDYGsAAAAJ:-vXcM0OzXVYC",
+                "authors": "H Tenzer, S Terjesen, AW Harzing",
+                "publication": "Management International Review 57 (6), 815-854, 2017",
+                "cited_by":
+                {
+                    "value": 136,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11003689721110324336",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11003689721110324336&engine=google_scholar&hl=en",
+                    "cites_id": "11003689721110324336"
+                }
+                ,
+                "year": "2017"
+            }
+            ,
+            {
+                "title": "International assignments",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:z_wzLGcYjwAC",
+                "citation_id": "v0sDYGsAAAAJ:z_wzLGcYjwAC",
+                "authors": "BS Reiche, AW Harzing",
+                "publication": "International Human Resource Management, 185-226, 2011",
+                "cited_by":
+                {
+                    "value": 135,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2713481472259705022",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=2713481472259705022&engine=google_scholar&hl=en",
+                    "cites_id": "2713481472259705022"
+                }
+                ,
+                "year": "2011"
+            }
+            ,
+            {
+                "title": "Can we use Google Scholar to identify highly-cited documents?",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:9joYaGoTWqkC",
+                "citation_id": "v0sDYGsAAAAJ:9joYaGoTWqkC",
+                "authors": "A Martin-Martin, E Orduna-Malea, AW Harzing, ED López-Cózar",
+                "publication": "Journal of Informetrics 11 (1), 152-163, 2017",
+                "cited_by":
+                {
+                    "value": 132,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8284348386382193990",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=8284348386382193990&engine=google_scholar&hl=en",
+                    "cites_id": "8284348386382193990"
+                }
+                ,
+                "year": "2017"
+            }
+            ,
+            {
+                "title": "Standardization and contextualization: A study of language and leadership across 17 countries",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:dhlC0B1VZgkC",
+                "citation_id": "v0sDYGsAAAAJ:dhlC0B1VZgkC",
+                "authors": "L Zander, AI Mockaitis, AW Harzing, PJ Baldueza, FW Barner-Rasmussen, ...",
+                "publication": "Journal of World Business 46 (3), 296-304, 2011",
+                "cited_by":
+                {
+                    "value": 114,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4823231615241615979,10259286611992844637",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=4823231615241615979%2C10259286611992844637&engine=google_scholar&hl=en",
+                    "cites_id": "4823231615241615979,10259286611992844637"
+                }
+                ,
+                "year": "2011"
+            }
+            ,
+            {
+                "title": "Human Resource Management in Greece",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:VyOdxF-JhwgC",
+                "citation_id": "v0sDYGsAAAAJ:VyOdxF-JhwgC",
+                "authors": "B Myloni, AW Harzing, H Mirza",
+                "publication": "International Journal of Cross Cultural Management 4 (1), 59-76, 2004",
+                "cited_by":
+                {
+                    "value": 114,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7084209013906575278,13480716810098310480",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=7084209013906575278%2C13480716810098310480&engine=google_scholar&hl=en",
+                    "cites_id": "7084209013906575278,13480716810098310480"
+                }
+                ,
+                "year": "2004"
+            }
+            ,
+            {
+                "title": "The golden triangle for MNCs: Standardization towards headquarters practices, standardization towards global best practices and localization",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:j2GxDk2JBlYC",
+                "citation_id": "v0sDYGsAAAAJ:j2GxDk2JBlYC",
+                "authors": "M Pudelko, AW Harzing",
+                "publication": "Organizational Dynamics 37 (4), 394-404, 2008",
+                "cited_by":
+                {
+                    "value": 109,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14438289723235130850",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=14438289723235130850&engine=google_scholar&hl=en",
+                    "cites_id": "14438289723235130850"
+                }
+                ,
+                "year": "2008"
+            }
+            ,
+            {
+                "title": "The interaction between language and culture: A test of the cultural accommodation hypothesis in seven countries",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:XZvG1uL-wj0C",
+                "citation_id": "v0sDYGsAAAAJ:XZvG1uL-wj0C",
+                "authors": "AW Harzing, M Maznevski",
+                "publication": "Language and Intercultural Communication 2 (2), 120-139, 2002",
+                "cited_by":
+                {
+                    "value": 109,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12146063789975899428",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=12146063789975899428&engine=google_scholar&hl=en",
+                    "cites_id": "12146063789975899428"
+                }
+                ,
+                "year": "2002"
+            }
+            ,
+            {
+                "title": "Document categories in the ISI Web of Knowledge: misunderstanding the Social Sciences?",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:yjYM2qeFg4IC",
+                "citation_id": "v0sDYGsAAAAJ:yjYM2qeFg4IC",
+                "authors": "AW Harzing",
+                "publication": "Scientometrics 94 (1), 23-34, 2013",
+                "cited_by":
+                {
+                    "value": 106,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5193312294715469267,18257583175042019770",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=5193312294715469267%2C18257583175042019770&engine=google_scholar&hl=en",
+                    "cites_id": "5193312294715469267,18257583175042019770"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "Response style differences in cross-national research: dispositional and situational determinants",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:f0OD9WVUAbYC",
+                "citation_id": "v0sDYGsAAAAJ:f0OD9WVUAbYC",
+                "authors": "AW Harzing, K Köster, S Zhao",
+                "publication": "Management International Review 52 (3), 341-363, 2012",
+                "cited_by":
+                {
+                    "value": 104,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6405479138300677036,17036430654450437122",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=6405479138300677036%2C17036430654450437122&engine=google_scholar&hl=en",
+                    "cites_id": "6405479138300677036,17036430654450437122"
+                }
+                ,
+                "year": "2012"
+            }
+            ,
+            {
+                "title": "The effect of corporate-level organizational factors on the transfer of human resource management practices: European and US MNCs and their Greek subsidiaries",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:DV9_XzxHpocC",
+                "citation_id": "v0sDYGsAAAAJ:DV9_XzxHpocC",
+                "authors": "B Myloni, AW Harzing, H Mirza",
+                "publication": "The International Journal of Human Resource Management 18 (12), 2057-2074, 2007",
+                "cited_by":
+                {
+                    "value": 100,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9760193148681120972",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=9760193148681120972&engine=google_scholar&hl=en",
+                    "cites_id": "9760193148681120972"
+                }
+                ,
+                "year": "2007"
+            }
+            ,
+            {
+                "title": "Geographical distance and the role and management of subsidiaries: The case of subsidiaries down-under",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:9bzyojSiTPoC",
+                "citation_id": "v0sDYGsAAAAJ:9bzyojSiTPoC",
+                "authors": "AW Harzing, N Noorderhaven",
+                "publication": "Asia Pacific Journal of Management 23 (2), 167-185, 2006",
+                "cited_by":
+                {
+                    "value": 99,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10086740247644177168",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10086740247644177168&engine=google_scholar&hl=en",
+                    "cites_id": "10086740247644177168"
+                }
+                ,
+                "year": "2006"
+            }
+            ,
+            {
+                "title": "Two new kids on the block: How do Crossref and Dimensions compare with Google Scholar, Microsoft Academic, Scopus and the Web of Science?",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:thNbH2-ynbUC",
+                "citation_id": "v0sDYGsAAAAJ:thNbH2-ynbUC",
+                "authors": "AW Harzing",
+                "publication": "Scientometrics 120 (1), 341-349, 2019",
+                "cited_by":
+                {
+                    "value": 93,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17295753860080590578",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=17295753860080590578&engine=google_scholar&hl=en",
+                    "cites_id": "17295753860080590578"
+                }
+                ,
+                "year": "2019"
+            }
+            ,
+            {
+                "title": "hIa: an individual annual h-index to accommodate disciplinary and career length differences",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:RTnHyEp0C-wC",
+                "citation_id": "v0sDYGsAAAAJ:RTnHyEp0C-wC",
+                "authors": "AW Harzing, S Alakangas, D Adams",
+                "publication": "Scientometrics 99 (3), 811-821, 2014",
+                "cited_by":
+                {
+                    "value": 92,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10954432627929739338",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10954432627929739338&engine=google_scholar&hl=en",
+                    "cites_id": "10954432627929739338"
+                }
+                ,
+                "year": "2014"
+            }
+            ,
+            {
+                "title": "Google Scholar-a new data source for citation analysis",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:xs532TajUAkC",
+                "citation_id": "v0sDYGsAAAAJ:xs532TajUAkC",
+                "authors": "AW Harzing",
+                "publication": "http://www.harzing.com, 2008",
+                "cited_by":
+                {
+                    "value": 89,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9484324480090980996",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=9484324480090980996&engine=google_scholar&hl=en",
+                    "cites_id": "9484324480090980996"
+                }
+                ,
+                "year": "2008"
+            }
+            ,
+            {
+                "title": "Composing an International Staff",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:BLjb4ZUULPkC",
+                "citation_id": "v0sDYGsAAAAJ:BLjb4ZUULPkC",
+                "authors": "AW Harzing",
+                "publication": "International Human Resource Management, 251-282, 2004",
+                "cited_by":
+                {
+                    "value": 88,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2471871909278105044",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=2471871909278105044&engine=google_scholar&hl=en",
+                    "cites_id": "2471871909278105044"
+                }
+                ,
+                "year": "2004"
+            }
+            ,
+            {
+                "title": "Hablas vielleicht un peu la mia language? A comprehensive overview of the role of language differences in headquarters–subsidiary communication",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:fD5pJnbkXkUC",
+                "citation_id": "v0sDYGsAAAAJ:fD5pJnbkXkUC",
+                "authors": "AW Harzing, M Pudelko",
+                "publication": "The International Journal of Human Resource Management 25 (5), 696-717, 2014",
+                "cited_by":
+                {
+                    "value": 86,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1322858696935735366",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=1322858696935735366&engine=google_scholar&hl=en",
+                    "cites_id": "1322858696935735366"
+                }
+                ,
+                "year": "2014"
+            }
+            ,
+            {
+                "title": "Cultural accommodation and language priming: competitive versus cooperative behavior in a prisoner's dilemma game",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:yor2SLS1ZLQC",
+                "citation_id": "v0sDYGsAAAAJ:yor2SLS1ZLQC",
+                "authors": "D Akkermans, AW Harzing, A van Witteloostuijn",
+                "publication": "Management International Review 50 (5), 559-583, 2010",
+                "cited_by":
+                {
+                    "value": 86,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13226566471997171099,8192429724230466212",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=13226566471997171099%2C8192429724230466212&engine=google_scholar&hl=en",
+                    "cites_id": "13226566471997171099,8192429724230466212"
+                }
+                ,
+                "year": "2010"
+            }
+            ,
+            {
+                "title": "Gender diversity in editorial boards of management journals",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:yHo2-vvHkLQC",
+                "citation_id": "v0sDYGsAAAAJ:yHo2-vvHkLQC",
+                "authors": "I Metz, AW Harzing",
+                "publication": "The Academy of Management Learning and Education 8 (4), 540-557, 2009",
+                "cited_by":
+                {
+                    "value": 86,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18000736662265403149",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=18000736662265403149&engine=google_scholar&hl=en",
+                    "cites_id": "18000736662265403149"
+                }
+                ,
+                "year": "2009"
+            }
+            ,
+            {
+                "title": "Reflections on the h-index",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:nOZr35tmOW8C",
+                "citation_id": "v0sDYGsAAAAJ:nOZr35tmOW8C",
+                "authors": "AW Harzing",
+                "publication": "http://www.harzing.com, 2008",
+                "cited_by":
+                {
+                    "value": 86,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8587237210274065997,13530615033641780770,10456478728246285752,3222321868097407709,1540932992261468099,10227239472380458001,16203685075984681265,11644161244130715608,15544308460189550735",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=8587237210274065997%2C13530615033641780770%2C10456478728246285752%2C3222321868097407709%2C1540932992261468099%2C10227239472380458001%2C16203685075984681265%2C11644161244130715608%2C15544308460189550735&engine=google_scholar&hl=en",
+                    "cites_id": "8587237210274065997,13530615033641780770,10456478728246285752,3222321868097407709,1540932992261468099,10227239472380458001,16203685075984681265,11644161244130715608,15544308460189550735"
+                }
+                ,
+                "year": "2008"
+            }
+            ,
+            {
+                "title": "Microsoft academic: is the Phoenix getting wings?",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:uaBFhNrRnnkC",
+                "citation_id": "v0sDYGsAAAAJ:uaBFhNrRnnkC",
+                "authors": "AW Harzing, S Alakangas",
+                "publication": "Scientometrics 110 (1), 371-383, 2017",
+                "cited_by":
+                {
+                    "value": 84,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13907975370707787240",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=13907975370707787240&engine=google_scholar&hl=en",
+                    "cites_id": "13907975370707787240"
+                }
+                ,
+                "year": "2017"
+            }
+            ,
+            {
+                "title": "The competitive advantage of nations: An application to academia",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:WbmfLAu0znQC",
+                "citation_id": "v0sDYGsAAAAJ:WbmfLAu0znQC",
+                "authors": "AW Harzing, A Giroud",
+                "publication": "Journal of Informetrics 8 (1), 29-42, 2014",
+                "cited_by":
+                {
+                    "value": 80,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11476913409055503155",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11476913409055503155&engine=google_scholar&hl=en",
+                    "cites_id": "11476913409055503155"
+                }
+                ,
+                "year": "2014"
+            }
+            ,
+            {
+                "title": "Australian research output in economics and business: high volume, low impact?",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:hVd5agGqjXwC",
+                "citation_id": "v0sDYGsAAAAJ:hVd5agGqjXwC",
+                "authors": "AW Harzing",
+                "publication": "Australian Journal of Management 30 (2), 183-200, 2005",
+                "cited_by":
+                {
+                    "value": 66,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4506923898788134423",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=4506923898788134423&engine=google_scholar&hl=en",
+                    "cites_id": "4506923898788134423"
+                }
+                ,
+                "year": "2005"
+            }
+            ,
+            {
+                "title": "Publish or Perish [additional citations that exceed merge capacity]",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:CJqUTli0sKcC",
+                "citation_id": "v0sDYGsAAAAJ:CJqUTli0sKcC",
+                "authors": "AW Harzing",
+                "publication": "http://www.harzing.com/pop.htm, 2007",
+                "cited_by":
+                {
+                    "value": 63,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15887694156004303219,5135561355025964614,14395779673128895939,6125988455391666009,13175077052957008440,16748318601476202797,2586233922111272951,17829623163883946462,474478744020400013,2464761463533548440,16546119149584187152,12466809848162796583,15936653445068976472,12551423198811590348,11268789569363867041,15010438643057291127,12250500679827206232,11853001394596232362,7510137255368576916,7261201922558765976,1902498149461662162,622295816728838384,13757520936903081353,10499737452056628375,8512303470614411435,5887488868448124795,1368175730841755626",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15887694156004303219%2C5135561355025964614%2C14395779673128895939%2C6125988455391666009%2C13175077052957008440%2C16748318601476202797%2C2586233922111272951%2C17829623163883946462%2C474478744020400013%2C2464761463533548440%2C16546119149584187152%2C12466809848162796583%2C15936653445068976472%2C12551423198811590348%2C11268789569363867041%2C15010438643057291127%2C12250500679827206232%2C11853001394596232362%2C7510137255368576916%2C7261201922558765976%2C1902498149461662162%2C622295816728838384%2C13757520936903081353%2C10499737452056628375%2C8512303470614411435%2C5887488868448124795%2C1368175730841755626&engine=google_scholar&hl=en",
+                    "cites_id": "15887694156004303219,5135561355025964614,14395779673128895939,6125988455391666009,13175077052957008440,16748318601476202797,2586233922111272951,17829623163883946462,474478744020400013,2464761463533548440,16546119149584187152,12466809848162796583,15936653445068976472,12551423198811590348,11268789569363867041,15010438643057291127,12250500679827206232,11853001394596232362,7510137255368576916,7261201922558765976,1902498149461662162,622295816728838384,13757520936903081353,10499737452056628375,8512303470614411435,5887488868448124795,1368175730841755626"
+                }
+                ,
+                "year": "2007"
+            }
+            ,
+            {
+                "title": "Of journal editors and editorial boards: who are the trailblazers in increasing editorial board gender equality?",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:5maktdd-8LwC",
+                "citation_id": "v0sDYGsAAAAJ:5maktdd-8LwC",
+                "authors": "I Metz, AW Harzing, M Zyphur",
+                "publication": "British Journal of Management 27 (4), 712–726, 2016",
+                "cited_by":
+                {
+                    "value": 62,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15434898835263360431",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15434898835263360431&engine=google_scholar&hl=en",
+                    "cites_id": "15434898835263360431"
+                }
+                ,
+                "year": "2016"
+            }
+            ,
+            {
+                "title": "Practicing what we preach: The geographic diversity of editorial boards",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:ubS2cUUI81cC",
+                "citation_id": "v0sDYGsAAAAJ:ubS2cUUI81cC",
+                "authors": "AW Harzing, I Metz",
+                "publication": "Management International Review 53 (2), 169-187, 2013",
+                "cited_by":
+                {
+                    "value": 62,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9925143807470446896,1426082470912439096",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=9925143807470446896%2C1426082470912439096&engine=google_scholar&hl=en",
+                    "cites_id": "9925143807470446896,1426082470912439096"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "A Google Scholar h-index for journals: A better metric to measure journal impact in Economics & Business?",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:vPvvXgAX3hMC",
+                "citation_id": "v0sDYGsAAAAJ:vPvvXgAX3hMC",
+                "authors": "AW Harzing, R van der Wal",
+                "publication": "Proceedings of the Academy of Management Annual Meeting, 2008",
+                "cited_by":
+                {
+                    "value": 62,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4263628255067618758",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=4263628255067618758&engine=google_scholar&hl=en",
+                    "cites_id": "4263628255067618758"
+                }
+                ,
+                "year": "2008"
+            }
+            ,
+            {
+                "title": "Composing an international staff",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:1werCE7_32MC",
+                "citation_id": "v0sDYGsAAAAJ:1werCE7_32MC",
+                "authors": "M Borg, AW Harzing",
+                "publication": "International Human Resource Management, 22-42, 1995",
+                "cited_by":
+                {
+                    "value": 61,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15711069724758330915",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15711069724758330915&engine=google_scholar&hl=en",
+                    "cites_id": "15711069724758330915"
+                }
+                ,
+                "year": "1995"
+            }
+            ,
+            {
+                "title": "Forgotten and neglected: Language the orphan of international business",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:g2bnS7N2_ggC",
+                "citation_id": "v0sDYGsAAAAJ:g2bnS7N2_ggC",
+                "authors": "AJ Feely, AW Harzing",
+                "publication": "Proceedings of the Academy of Management Annual Meeting, 2002",
+                "cited_by":
+                {
+                    "value": 52,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=651093499936489752,10504936504131858740",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=651093499936489752%2C10504936504131858740&engine=google_scholar&hl=en",
+                    "cites_id": "651093499936489752,10504936504131858740"
+                }
+                ,
+                "year": "2002"
+            }
+            ,
+            {
+                "title": "Ideal jobs and international student mobility in the enlarged European Union",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:gC9vZy1QUBAC",
+                "citation_id": "v0sDYGsAAAAJ:gC9vZy1QUBAC",
+                "authors": "AW Harzing",
+                "publication": "European Management Journal 22 (6), 693-703, 2004",
+                "cited_by":
+                {
+                    "value": 51,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12030006287716944397",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=12030006287716944397&engine=google_scholar&hl=en",
+                    "cites_id": "12030006287716944397"
+                }
+                ,
+                "year": "2004"
+            }
+            ,
+            {
+                "title": "September 11, 2001: Two quasi-experiments on the influence of threats on cultural values and cosmopolitanism",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:XdwVV_xN3QMC",
+                "citation_id": "v0sDYGsAAAAJ:XdwVV_xN3QMC",
+                "authors": "MR Olivas-Luján, AW Harzing, S McCoy",
+                "publication": "International Journal of Cross Cultural Management 4 (2), 211-228, 2004",
+                "cited_by":
+                {
+                    "value": 51,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14876066303033345375",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=14876066303033345375&engine=google_scholar&hl=en",
+                    "cites_id": "14876066303033345375"
+                }
+                ,
+                "year": "2004"
+            }
+            ,
+            {
+                "title": "From dilemmatic struggle to legitimized indifference: expatriates’ host country language learning and its impact on the expatriate-HCE relationship",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:FdeLvGN8HJUC",
+                "citation_id": "v0sDYGsAAAAJ:FdeLvGN8HJUC",
+                "authors": "LE Zhang, AW Harzing",
+                "publication": "Journal of World Business 51 (5), 774-786, 2016",
+                "cited_by":
+                {
+                    "value": 50,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3860058412544714791",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=3860058412544714791&engine=google_scholar&hl=en",
+                    "cites_id": "3860058412544714791"
+                }
+                ,
+                "year": "2016"
+            }
+            ,
+            {
+                "title": "Inpatriates as agents of cross-unit knowledge flows in multinational corporations",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:S9V7H-Nz35UC",
+                "citation_id": "v0sDYGsAAAAJ:S9V7H-Nz35UC",
+                "authors": "S Reiche, M Kraimer, AW Harzing",
+                "publication": "Handbook of international HR research, 151-170, 2009",
+                "cited_by":
+                {
+                    "value": 50,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=188900125650132580",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=188900125650132580&engine=google_scholar&hl=en",
+                    "cites_id": "188900125650132580"
+                }
+                ,
+                "year": "2009"
+            }
+            ,
+            {
+                "title": "Microsoft Academic is one year old: the Phoenix is ready to leave the nest",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:hh9HWi-mQmUC",
+                "citation_id": "v0sDYGsAAAAJ:hh9HWi-mQmUC",
+                "authors": "AW Harzing, S Alakangas",
+                "publication": "Scientometrics 112 (3), 1887–1894, 2017",
+                "cited_by":
+                {
+                    "value": 49,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6395992673875267646,2486343636456682350",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=6395992673875267646%2C2486343636456682350&engine=google_scholar&hl=en",
+                    "cites_id": "6395992673875267646,2486343636456682350"
+                }
+                ,
+                "year": "2017"
+            }
+            ,
+            {
+                "title": "Microsoft Academic (Search): a Phoenix arisen from the ashes?",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:1rK-EdPmUJAC",
+                "citation_id": "v0sDYGsAAAAJ:1rK-EdPmUJAC",
+                "authors": "AW Harzing",
+                "publication": "Scientometrics 108 (3), 1637-1647, 2016",
+                "cited_by":
+                {
+                    "value": 47,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17717024847829128683",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=17717024847829128683&engine=google_scholar&hl=en",
+                    "cites_id": "17717024847829128683"
+                }
+                ,
+                "year": "2016"
+            }
+            ,
+            {
+                "title": "The impact of culture on interactions: five lessons learned from the European Commission",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:PkDzUJVvfTUC",
+                "citation_id": "v0sDYGsAAAAJ:PkDzUJVvfTUC",
+                "authors": "AK Neyer, AW Harzing",
+                "publication": "European Management Journal 26 (5), 325-334, 2008",
+                "cited_by":
+                {
+                    "value": 47,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11445712898452141422",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11445712898452141422&engine=google_scholar&hl=en",
+                    "cites_id": "11445712898452141422"
+                }
+                ,
+                "year": "2008"
+            }
+            ,
+            {
+                "title": "An update of gender diversity in editorial boards: a longitudinal study of management journals",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:w48piNt9QLsC",
+                "citation_id": "v0sDYGsAAAAJ:w48piNt9QLsC",
+                "authors": "I Metz, AW Harzing",
+                "publication": "Personnel Review 41 (3), 283-300, 2012",
+                "cited_by":
+                {
+                    "value": 43,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8645594392337500563",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=8645594392337500563&engine=google_scholar&hl=en",
+                    "cites_id": "8645594392337500563"
+                }
+                ,
+                "year": "2012"
+            }
+            ,
+            {
+                "title": "HQ-subsidiary relationships in multinational companies: a British-German comparison",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:4xcnnZsK8tIC",
+                "citation_id": "v0sDYGsAAAAJ:4xcnnZsK8tIC",
+                "authors": "AW Harzing, A Sorge, J Paauwe",
+                "publication": "Challenges for European Management in a Global Context, 96-118, 2002",
+                "cited_by":
+                {
+                    "value": 41,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2162378122513175704,723026488948488732",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=2162378122513175704%2C723026488948488732&engine=google_scholar&hl=en",
+                    "cites_id": "2162378122513175704,723026488948488732"
+                }
+                ,
+                "year": "2002"
+            }
+            ,
+            {
+                "title": "Citation analysis across disciplines: The impact of different data sources and citation metrics",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:nDos0PVUvP8C",
+                "citation_id": "v0sDYGsAAAAJ:nDos0PVUvP8C",
+                "authors": "AW Harzing",
+                "publication": "http://www.harzing.com, 2010",
+                "cited_by":
+                {
+                    "value": 40,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1454487375959747569",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=1454487375959747569&engine=google_scholar&hl=en",
+                    "cites_id": "1454487375959747569"
+                }
+                ,
+                "year": "2010"
+            }
+            ,
+            {
+                "title": "Strategy and structure of multinational companies",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:f37qlrqcxlUC",
+                "citation_id": "v0sDYGsAAAAJ:f37qlrqcxlUC",
+                "authors": "AW Harzing",
+                "publication": "International Human Resource Management, 33-64, 2004",
+                "cited_by":
+                {
+                    "value": 39,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3112072851299466061",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=3112072851299466061&engine=google_scholar&hl=en",
+                    "cites_id": "3112072851299466061"
+                }
+                ,
+                "year": "2004"
+            }
+            ,
+            {
+                "title": "Health warning: might contain multiple personalities—the problem of homonyms in Thomson Reuters Essential Science Indicators",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:khSaP-WXL84C",
+                "citation_id": "v0sDYGsAAAAJ:khSaP-WXL84C",
+                "authors": "AW Harzing",
+                "publication": "Scientometrics 105 (3), 2259-2270, 2015",
+                "cited_by":
+                {
+                    "value": 37,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16571419645401714287",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=16571419645401714287&engine=google_scholar&hl=en",
+                    "cites_id": "16571419645401714287"
+                }
+                ,
+                "year": "2015"
+            }
+            ,
+            {
+                "title": "Cross-cultural management and language studies within International Business research: past and present paradigms and suggestions for future research",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:_lZPlZTPtRIC",
+                "citation_id": "v0sDYGsAAAAJ:_lZPlZTPtRIC",
+                "authors": "M Pudelko, H Tenzer, AW Harzing",
+                "publication": "Routledge companion to cross-cultural management, 85-94, 2015",
+                "cited_by":
+                {
+                    "value": 35,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10982896484876146436",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10982896484876146436&engine=google_scholar&hl=en",
+                    "cites_id": "10982896484876146436"
+                }
+                ,
+                "year": "2015"
+            }
+            ,
+            {
+                "title": "Disseminating knowledge: From potential to reality – New open-access journals collide with convention",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:Yc4pXcQx_ZsC",
+                "citation_id": "v0sDYGsAAAAJ:Yc4pXcQx_ZsC",
+                "authors": "AW Harzing, N Adler",
+                "publication": "The Academy of Management Learning and Education 15 (1), 140-156, 2016",
+                "cited_by":
+                {
+                    "value": 31,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5989128795146197785",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=5989128795146197785&engine=google_scholar&hl=en",
+                    "cites_id": "5989128795146197785"
+                }
+                ,
+                "year": "2016"
+            }
+            ,
+            {
+                "title": "How European is management in Europe? An analysis of past, present and future management practices in Europe",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:K0rJQjkOV9sC",
+                "citation_id": "v0sDYGsAAAAJ:K0rJQjkOV9sC",
+                "authors": "M Pudelko, AW Harzing",
+                "publication": "European Journal of International Management 1 (3), 206-224, 2007",
+                "cited_by":
+                {
+                    "value": 30,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11163731206503422015,8989677177139691654",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11163731206503422015%2C8989677177139691654&engine=google_scholar&hl=en",
+                    "cites_id": "11163731206503422015,8989677177139691654"
+                }
+                ,
+                "year": "2007"
+            }
+            ,
+            {
+                "title": "Internationalization and the international division of labour",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:nmIsvVfQd4cC",
+                "citation_id": "v0sDYGsAAAAJ:nmIsvVfQd4cC",
+                "authors": "AW Harzing",
+                "publication": "International Human Resource Management, 9-32, 2004",
+                "cited_by":
+                {
+                    "value": 28,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2652683387848621480",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=2652683387848621480&engine=google_scholar&hl=en",
+                    "cites_id": "2652683387848621480"
+                }
+                ,
+                "year": "2004"
+            }
+            ,
+            {
+                "title": "Not all international assignments are created equal: HQ-subsidiary knowledge transfer patterns across types of assignments and types of knowledge",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:qOBLYygHx1QC",
+                "citation_id": "v0sDYGsAAAAJ:qOBLYygHx1QC",
+                "authors": "F Duvivier, C Peeters, AW Harzing",
+                "publication": "Journal of World Business 54 (3), 181-190, 2019",
+                "cited_by":
+                {
+                    "value": 26,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13870488187843777971",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=13870488187843777971&engine=google_scholar&hl=en",
+                    "cites_id": "13870488187843777971"
+                }
+                ,
+                "year": "2019"
+            }
+            ,
+            {
+                "title": "Comparing the Google Scholar h-index with the ISI journal impact factor",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:YV61qt6iSr0C",
+                "citation_id": "v0sDYGsAAAAJ:YV61qt6iSr0C",
+                "authors": "AW Harzing, R van der Wal",
+                "publication": "http://www.harzing.com, 2008",
+                "cited_by":
+                {
+                    "value": 25,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8971220648086485548",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=8971220648086485548&engine=google_scholar&hl=en",
+                    "cites_id": "8971220648086485548"
+                }
+                ,
+                "year": "2008"
+            }
+            ,
+            {
+                "title": "Explaining geographic diversity of editorial boards: The role of conference participation and English–language skills",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:TaF7eNGHiZkC",
+                "citation_id": "v0sDYGsAAAAJ:TaF7eNGHiZkC",
+                "authors": "AW Harzing, I Metz",
+                "publication": "European Journal of International Management 6 (6), 697-715, 2012",
+                "cited_by":
+                {
+                    "value": 24,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10244505937751895915",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10244505937751895915&engine=google_scholar&hl=en",
+                    "cites_id": "10244505937751895915"
+                }
+                ,
+                "year": "2012"
+            }
+            ,
+            {
+                "title": "Japanese Human Resource Management: Inspirations from abroad and current trends of change",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:Liyi5BL3lGIC",
+                "citation_id": "v0sDYGsAAAAJ:Liyi5BL3lGIC",
+                "authors": "M Pudelko, AW Harzing",
+                "publication": "International Human Resource Management in Japan, 28-60, 2010",
+                "cited_by":
+                {
+                    "value": 24,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15985895950983289869",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15985895950983289869&engine=google_scholar&hl=en",
+                    "cites_id": "15985895950983289869"
+                }
+                ,
+                "year": "2010"
+            }
+            ,
+            {
+                "title": "Headquarters–subsidiary relationships and the country-of-origin effect",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:C75MlVM-XVcC",
+                "citation_id": "v0sDYGsAAAAJ:C75MlVM-XVcC",
+                "authors": "AW Harzing, N Noorderhaven",
+                "publication": "Progress In International Business Research, 13-40, 2009",
+                "cited_by":
+                {
+                    "value": 24,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2748751856885437433",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=2748751856885437433&engine=google_scholar&hl=en",
+                    "cites_id": "2748751856885437433"
+                }
+                ,
+                "year": "2009"
+            }
+            ,
+            {
+                "title": "The Benefits of Being Understood: The Role of Ethnic Identity Confirmation in Knowledge Acquisition by Expatriates",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:5M_agZCC6jUC",
+                "citation_id": "v0sDYGsAAAAJ:5M_agZCC6jUC",
+                "authors": "SX Fan, C Cregan, AW Harzing, T Kӧhler",
+                "publication": "Human Resource Management 57 (1), 327-339, 2018",
+                "cited_by":
+                {
+                    "value": 23,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3312477004309854949,17714484295889050136",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=3312477004309854949%2C17714484295889050136&engine=google_scholar&hl=en",
+                    "cites_id": "3312477004309854949,17714484295889050136"
+                }
+                ,
+                "year": "2018"
+            }
+            ,
+            {
+                "title": "Google Scholar is a serious alternative to Web of Science",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:VJxbDoNucnYC",
+                "citation_id": "v0sDYGsAAAAJ:VJxbDoNucnYC",
+                "authors": "AW Harzing",
+                "publication": "LSE Impact of Social Sciences Blog, 2017",
+                "cited_by":
+                {
+                    "value": 22,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6205279741245692270",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=6205279741245692270&engine=google_scholar&hl=en",
+                    "cites_id": "6205279741245692270"
+                }
+                ,
+                "year": "2017"
+            }
+            ,
+            {
+                "title": "Proof over promise: towards a more inclusive ranking of Dutch academics in Economics & Business",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:Eqg1ddRpejoC",
+                "citation_id": "v0sDYGsAAAAJ:Eqg1ddRpejoC",
+                "authors": "AW Harzing, W Mijnhardt",
+                "publication": "Scientometrics 102 (1), 727-749, 2015",
+                "cited_by":
+                {
+                    "value": 22,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11711263430791923239",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11711263430791923239&engine=google_scholar&hl=en",
+                    "cites_id": "11711263430791923239"
+                }
+                ,
+                "year": "2015"
+            }
+            ,
+            {
+                "title": "On becoming a high impact journal in international business and management",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0sDYGsAAAAJ&pagesize=100&citation_for_view=v0sDYGsAAAAJ:3kvRe0mj6SEC",
+                "citation_id": "v0sDYGsAAAAJ:3kvRe0mj6SEC",
+                "authors": "AW Harzing",
+                "publication": "European Journal of International Management 2 (2), 115-118, 2008",
+                "cited_by":
+                {
+                    "value": 22,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10095126155837255336",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10095126155837255336&engine=google_scholar&hl=en",
+                    "cites_id": "10095126155837255336"
+                }
+                ,
+                "year": "2008"
+            }
+        ]
+        ,
+        "cited_by":
+        {
+            "table":
+            [
+                {
+                    "citations":
+                    {
+                        "all": 23070,
+                        "since_2017": 9872
+                    }
+                }
+                ,
+                {
+                    "h_index":
+                    {
+                        "all": 68,
+                        "since_2017": 52
+                    }
+                }
+                ,
+                {
+                    "i10_index":
+                    {
+                        "all": 117,
+                        "since_2017": 100
+                    }
+                }
+            ]
+            ,
+            "graph":
+            [
+                {
+                    "year": 2001,
+                    "citations": 93
+                }
+                ,
+                {
+                    "year": 2002,
+                    "citations": 132
+                }
+                ,
+                {
+                    "year": 2003,
+                    "citations": 166
+                }
+                ,
+                {
+                    "year": 2004,
+                    "citations": 235
+                }
+                ,
+                {
+                    "year": 2005,
+                    "citations": 243
+                }
+                ,
+                {
+                    "year": 2006,
+                    "citations": 352
+                }
+                ,
+                {
+                    "year": 2007,
+                    "citations": 428
+                }
+                ,
+                {
+                    "year": 2008,
+                    "citations": 562
+                }
+                ,
+                {
+                    "year": 2009,
+                    "citations": 735
+                }
+                ,
+                {
+                    "year": 2010,
+                    "citations": 825
+                }
+                ,
+                {
+                    "year": 2011,
+                    "citations": 1079
+                }
+                ,
+                {
+                    "year": 2012,
+                    "citations": 1297
+                }
+                ,
+                {
+                    "year": 2013,
+                    "citations": 1426
+                }
+                ,
+                {
+                    "year": 2014,
+                    "citations": 1492
+                }
+                ,
+                {
+                    "year": 2015,
+                    "citations": 1620
+                }
+                ,
+                {
+                    "year": 2016,
+                    "citations": 1964
+                }
+                ,
+                {
+                    "year": 2017,
+                    "citations": 1953
+                }
+                ,
+                {
+                    "year": 2018,
+                    "citations": 1777
+                }
+                ,
+                {
+                    "year": 2019,
+                    "citations": 1886
+                }
+                ,
+                {
+                    "year": 2020,
+                    "citations": 1861
+                }
+                ,
+                {
+                    "year": 2021,
+                    "citations": 1976
+                }
+                ,
+                {
+                    "year": 2022,
+                    "citations": 397
+                }
+            ]
+        }
+        ,
+        "public_access":
+        {
+            "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=v0sDYGsAAAAJ",
+            "available": 7,
+            "not_available": 0
+        }
+        ,
+        "co_authors":
+        [
+            {
+                "name": "Markus Pudelko",
+                "link": "https://scholar.google.com/citations?user=aHTSOzAAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=aHTSOzAAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "aHTSOzAAAAAJ",
+                "affiliations": "Professor of International Business, University of Tübingen",
+                "email": "Verified email at uni-tuebingen.de",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=aHTSOzAAAAAJ&citpid=2"
+            }
+            ,
+            {
+                "name": "B. Sebastian Reiche",
+                "link": "https://scholar.google.com/citations?user=sdLLEiEAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=sdLLEiEAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "sdLLEiEAAAAJ",
+                "affiliations": "IESE Business School",
+                "email": "Verified email at iese.edu",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=sdLLEiEAAAAJ&citpid=4"
+            }
+            ,
+            {
+                "name": "Niels Noorderhaven",
+                "link": "https://scholar.google.com/citations?user=TdkcSKUAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=TdkcSKUAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "TdkcSKUAAAAJ",
+                "affiliations": "Tilburg University",
+                "email": "Verified email at uvt.nl",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=TdkcSKUAAAAJ&citpid=1"
+            }
+            ,
+            {
+                "name": "Barbara Myloni",
+                "link": "https://scholar.google.com/citations?user=ofE9Ic0AAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=ofE9Ic0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "ofE9Ic0AAAAJ",
+                "affiliations": "University of Patras",
+                "email": "Verified email at upatras.gr",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ofE9Ic0AAAAJ&citpid=1"
+            }
+            ,
+            {
+                "name": "Satu Alakangas",
+                "link": "https://scholar.google.com/citations?user=mqBeI0UAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=mqBeI0UAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "mqBeI0UAAAAJ",
+                "affiliations": "University of Melbourne",
+                "email": "Verified email at unimelb.edu.au",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=mqBeI0UAAAAJ&citpid=3"
+            }
+            ,
+            {
+                "name": "Shea X. Fan",
+                "link": "https://scholar.google.com/citations?user=9oZfbIkAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=9oZfbIkAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "9oZfbIkAAAAJ",
+                "affiliations": "RMIT University",
+                "email": "Verified email at rmit.edu.au",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=9oZfbIkAAAAJ&citpid=2"
+            }
+            ,
+            {
+                "name": "Isabel Metz",
+                "link": "https://scholar.google.com/citations?user=KR4dpYoAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=KR4dpYoAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "KR4dpYoAAAAJ",
+                "affiliations": "University of Melbourne",
+                "email": "Verified email at mbs.edu",
+                "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+            }
+            ,
+            {
+                "name": "Axèle Giroud",
+                "link": "https://scholar.google.com/citations?user=9-MZgWgAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=9-MZgWgAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "9-MZgWgAAAAJ",
+                "affiliations": "Professor of International Business, Alliance Manchester Business School",
+                "email": "Verified email at manchester.ac.uk",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=9-MZgWgAAAAJ&citpid=2"
+            }
+            ,
+            {
+                "name": "Maria Kraimer",
+                "link": "https://scholar.google.com/citations?user=zbBrGD0AAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=zbBrGD0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "zbBrGD0AAAAJ",
+                "affiliations": "Rutgers University, School of Management and Labor Relations",
+                "email": "Verified email at rutgers.edu",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=zbBrGD0AAAAJ&citpid=3"
+            }
+            ,
+            {
+                "name": "Audra I. Mockaitis",
+                "link": "https://scholar.google.com/citations?user=W6k_4e8AAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=W6k_4e8AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "W6k_4e8AAAAJ",
+                "affiliations": "Professor of International Business, Maynooth University School of Business",
+                "email": "Verified email at mu.ie",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=W6k_4e8AAAAJ&citpid=1"
+            }
+            ,
+            {
+                "name": "Nancy J Adler",
+                "link": "https://scholar.google.com/citations?user=9hmslr8AAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=9hmslr8AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "9hmslr8AAAAJ",
+                "affiliations": "McGill University",
+                "email": "Verified email at mcgill.ca",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=9hmslr8AAAAJ&citpid=2"
+            }
+            ,
+            {
+                "name": "Helene Tenzer",
+                "link": "https://scholar.google.com/citations?user=kBZQRegAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=kBZQRegAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "kBZQRegAAAAJ",
+                "affiliations": "Department of International Business, Tübingen University",
+                "email": "Verified email at uni-tuebingen.de",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=kBZQRegAAAAJ&citpid=7"
+            }
+            ,
+            {
+                "name": "Linn Eleanor Zhang",
+                "link": "https://scholar.google.com/citations?user=X-n1SFkAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=X-n1SFkAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "X-n1SFkAAAAJ",
+                "affiliations": "Loughborough University London",
+                "email": "Verified email at lboro.ac.uk",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=X-n1SFkAAAAJ&citpid=11"
+            }
+            ,
+            {
+                "name": "Ayse Saka-Helmhout",
+                "link": "https://scholar.google.com/citations?user=IeREmo0AAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=IeREmo0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "IeREmo0AAAAJ",
+                "affiliations": "Professor of Comparative Management at Radboud University",
+                "email": "Verified email at fm.ru.nl",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=IeREmo0AAAAJ&citpid=4"
+            }
+            ,
+            {
+                "name": "Geert Hofstede",
+                "link": "https://scholar.google.com/citations?user=Q2V0P6oAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=Q2V0P6oAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "Q2V0P6oAAAAJ",
+                "affiliations": "Professor Emeritus of Organizational Anthropology and International Management, University of Maastricht",
+                "email": "Verified email at bart.nl",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Q2V0P6oAAAAJ&citpid=2"
+            }
+            ,
+            {
+                "name": "Shasha Zhao",
+                "link": "https://scholar.google.com/citations?user=lP2AK1gAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=lP2AK1gAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "lP2AK1gAAAAJ",
+                "affiliations": "University of Surrey",
+                "email": "Verified email at surrey.ac.uk",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=lP2AK1gAAAAJ&citpid=3"
+            }
+            ,
+            {
+                "name": "Siri Terjesen",
+                "link": "https://scholar.google.com/citations?user=loPMxzAAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=loPMxzAAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "loPMxzAAAAAJ",
+                "affiliations": "Assoc. Dean & Professor, Florida Atlantic University & Norwegian School of Economics",
+                "email": "Verified email at fau.edu",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=loPMxzAAAAAJ&citpid=2"
+            }
+            ,
+            {
+                "name": "Emilio Delgado López-Cózar",
+                "link": "https://scholar.google.com/citations?user=kyTHOh0AAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=kyTHOh0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "kyTHOh0AAAAJ",
+                "affiliations": "Professor Research Methods, Facultad de Comunicación y Documentación, Universidad de Granada",
+                "email": "Verified email at ugr.es",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=kyTHOh0AAAAJ&citpid=7"
+            }
+            ,
+            {
+                "name": "joris Van Ruysseveldt",
+                "link": "https://scholar.google.com/citations?user=XOkPP3QAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=XOkPP3QAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "XOkPP3QAAAAJ",
+                "affiliations": "Open Universiteit - Faculteit Psychologie",
+                "email": "Verified email at ou.nl",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=XOkPP3QAAAAJ&citpid=2"
+            }
+            ,
+            {
+                "name": "Hyun-Jung (HJ) Lee",
+                "link": "https://scholar.google.com/citations?user=b4Wx3T4AAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=b4Wx3T4AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "b4Wx3T4AAAAJ",
+                "affiliations": "London School of Economics",
+                "email": "Verified email at lse.ac.uk",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=b4Wx3T4AAAAJ&citpid=5"
+            }
+        ]
+        ,
+        "serpapi_pagination":
+        {
+            "next": "https://serpapi.com/search.json?author_id=v0sDYGsAAAAJ&engine=google_scholar_author&hl=en&num=100&start=100"
+        }
+    }

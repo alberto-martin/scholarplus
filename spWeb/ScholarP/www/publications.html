@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>sp</title>
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/fonts/fontawesome-all.min.css">
+    <link rel="stylesheet" href="assets/fonts/ionicons.min.css">
+    <link rel="stylesheet" href="assets/fonts/material-icons.min.css">
+    <link rel="stylesheet" href="assets/fonts/simple-line-icons.min.css">
+    <link rel="stylesheet" href="assets/fonts/typicons.min.css">
+    <link rel="stylesheet" href="assets/css/Footer-Dark.css">
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="stylesheet" href="assets/css/untitled.css">
+</head>
+
+<body>
+    <nav class="navbar navbar-light navbar-expand-md sticky-top shadow-sm" id="navBar" style="border-bottom-style: solid;background: var(--bs-white);">
+        <div class="container-fluid"><a class="navbar-brand" id="navbarBrand" href="#"><img id="brandLogo" src="assets/img/logo.png"></a><button data-bs-toggle="collapse" class="navbar-toggler" data-bs-target="#navBarCollapse" id="navbarToggler"><span class="visually-hidden" id="toggleNav">Toggle navigation</span><span class="navbar-toggler-icon" id="toggleIcon"></span></button>
+            <div class="collapse navbar-collapse" id="navBarCollapse">
+                <ul class="navbar-nav" id="navBarMenu">
+                    <li class="nav-item" id="navItem1"><a class="nav-link" id="navItemLink1" href="index.html">Pantalla principal/Inicio</a></li>
+                    <li class="nav-item" id="navItem2"><a class="nav-link" id="navItemLink2" href="download.html">Asistente descarga</a></li>
+                    <li class="nav-item" id="navItem3"><a class="nav-link" id="navItemLink3" href="authorProfile.html">Perfil autor</a></li>
+                    <li class="nav-item" id="navItem4"><a class="nav-link active" id="navItemLink4" href="publications.html">Publicaciones</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div id="main" style="margin: 10px;padding: 50px;">
+        <h3 id="mHead">Publicaciones</h3>
+        <div class="container" id="mContainer">
+            <div class="row" id="mR1">
+                <div class="col-md-6" id="mR1C1">
+                    <div class="shadow-sm" id="periodDiv">
+                        <p id="periodTitle" style="font-weight: bold;">Ventana de Publicación</p>
+                        <form id="periodForm">
+                            <p class="text-start" style="font-size: 12px;">&nbsp;Desde&nbsp;&nbsp;<input class="form-control form-control-sm" type="date"></p>
+                            <p class="text-start" style="font-size: 12px;">&nbsp;Hasta&nbsp; &nbsp;<input class="form-control form-control-sm" type="date"></p>
+                        </form>
+                    </div>
+                </div>
+                <div class="col-md-6" id="mR1C2">
+                    <div class="text-start shadow-sm" id="collDiv">
+                        <p class="text-center" id="collTitle" style="font-weight: bold;">Colaboradores</p>
+                        <div class="table-responsive text-start text-second-level" id="collTable">
+                            <table class="table table-hover table-sm table-borderless">
+                                <thead id="collTabHeader">
+                                    <tr id="collTabHR">
+                                        <th id="collTabHRC1">Investigador</th>
+                                        <th class="text-end" id="collTabHRC2">Colaboraciones</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="collTabBody">
+                                    <tr id="collTabR1">
+                                        <td id="collTabR1C1">Investigador 1</td>
+                                        <td class="text-end" id="collTabR1C2">##</td>
+                                    </tr>
+                                    <tr id="collTabR2">
+                                        <td id="collTabR2C1">Investigador 2</td>
+                                        <td class="text-end" id="collTabR2C2">##</td>
+                                    </tr>
+                                    <tr id="collTabR3">
+                                        <td id="collTabR3C1">Investigador 3</td>
+                                        <td class="text-end" id="collTabR3C2">##</td>
+                                    </tr>
+                                    <tr id="collTabR4">
+                                        <td id="collTabR4C1">Investigador 4</td>
+                                        <td class="text-end" id="collTabR4C2">##</td>
+                                    </tr>
+                                    <tr id="collTabR5">
+                                        <td id="collTabR5C1">Investigador 5</td>
+                                        <td class="text-end" id="collTabR5C2">##</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div><a class="btn btn-outline-dark btn-third-level" role="button" id="collBtn" style="margin-right: 4px;" href="collaborators.html">Ver todos los colaboradores &gt;</a>
+                    </div>
+                </div>
+            </div>
+            <div class="row" id="mR2" style="margin-top: 12px;">
+                <div class="col-md-6" id="mR2C1">
+                    <div class="text-start shadow-sm" id="journalsDiv">
+                        <p class="text-center" id="journalsTitle" style="font-weight: bold;">Revistas</p>
+                        <div class="table-responsive text-start text-second-level" id="journalsTable">
+                            <table class="table table-hover table-sm table-borderless">
+                                <thead id="jourTabHeader">
+                                    <tr id="jourTabHR">
+                                        <th id="jourTabHRC1">Nombre de la revista</th>
+                                        <th class="text-end" id="jourTabHRC2">Publicaciones</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="jourTabBody">
+                                    <tr id="jourTabR1">
+                                        <td id="jourTabR1C1">Revista 1</td>
+                                        <td class="text-end" id="jourTabR1C2">##</td>
+                                    </tr>
+                                    <tr id="jourTabR2">
+                                        <td id="jourTabR2C1">Revista 2</td>
+                                        <td class="text-end" id="jourTabR2C2">##</td>
+                                    </tr>
+                                    <tr id="jourTabR3">
+                                        <td id="jourTabR3C1">Revista 3</td>
+                                        <td class="text-end" id="jourTabR3C2">##</td>
+                                    </tr>
+                                    <tr id="jourTabR4">
+                                        <td id="jourTabR4C1">Revista 4</td>
+                                        <td class="text-end" id="jourTabR4C2">##</td>
+                                    </tr>
+                                    <tr id="jourTabR5">
+                                        <td id="jourTabR5C1">Revista 5</td>
+                                        <td class="text-end" id="jourTabR5C2">##</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div><a class="btn btn-outline-dark btn-third-level" role="button" id="journalsBtn" style="margin-right: 4px;" href="journals.html">Ver todas las publicaciones por revistas &gt;</a>
+                    </div>
+                </div>
+                <div class="col-md-6" id="mR2C2">
+                    <div class="text-start shadow-sm" id="editDiv">
+                        <p class="text-center" id="editTitle" style="font-weight: bold;">Editoriales</p>
+                        <div class="table-responsive text-start text-second-level" id="editTable">
+                            <table class="table table-hover table-sm table-borderless">
+                                <thead id="editTabHeader">
+                                    <tr id="editTabHR">
+                                        <th id="editTabHRC1">Nombre de la editorial</th>
+                                        <th class="text-end" id="editTabHRC2">Publicaciones</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="editTabBody">
+                                    <tr id="editTabR1">
+                                        <td id="editTabR1C1">Editorial 1</td>
+                                        <td class="text-end" id="editTabR1C2">##</td>
+                                    </tr>
+                                    <tr id="editTabR2">
+                                        <td id="editTabR2C1">Editorial 2</td>
+                                        <td class="text-end" id="editTabR2C2">##</td>
+                                    </tr>
+                                    <tr id="editTabR3">
+                                        <td id="editTabR3C1">Editorial 3</td>
+                                        <td class="text-end" id="editTabR3C2">##</td>
+                                    </tr>
+                                    <tr id="editTabR4">
+                                        <td id="editTabR4C1">Editorial 4</td>
+                                        <td class="text-end" id="editTabR4C2">##</td>
+                                    </tr>
+                                    <tr id="editTabR5">
+                                        <td id="editTabR5C1">Editorial 5</td>
+                                        <td class="text-end" id="editTabR5C2">##</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div><a class="btn btn-outline-dark btn-third-level" role="button" id="editBtn" style="margin-right: 4px;" href="publishers.html">Ver todas las publicaciones por editoriales &gt;</a>
+                    </div>
+                </div>
+            </div>
+            <div class="row" id="mR3" style="margin-top: 12px;">
+                <div class="col-md-6 col-xl-12" id="mR3C1">
+                    <div class="text-start shadow-sm" id="chartDiv" style="padding: 5px;">
+                        <div id="chartPubPerAreas"><canvas data-bss-chart="{&quot;type&quot;:&quot;pie&quot;,&quot;data&quot;:{&quot;labels&quot;:[&quot;Área 1&quot;,&quot;Área 2&quot;,&quot;Área 3&quot;,&quot;Área 4&quot;,&quot;Área 5&quot;],&quot;datasets&quot;:[{&quot;label&quot;:&quot;Áreas temáticas&quot;,&quot;backgroundColor&quot;:[&quot;rgb(54,98,255)&quot;,&quot;rgba(255,29,29,0.71)&quot;,&quot;rgb(255,220,96)&quot;,&quot;rgba(124,255,62,0.66)&quot;,&quot;rgb(116,41,176)&quot;],&quot;borderColor&quot;:[&quot;#ffffff&quot;,&quot;#ffffff&quot;,&quot;#ffffff&quot;,&quot;#ffffff&quot;,&quot;#ffffff&quot;],&quot;data&quot;:[&quot;27&quot;,&quot;23&quot;,&quot;15&quot;,&quot;8&quot;,&quot;5&quot;]}]},&quot;options&quot;:{&quot;maintainAspectRatio&quot;:true,&quot;legend&quot;:{&quot;display&quot;:true,&quot;labels&quot;:{&quot;fontStyle&quot;:&quot;normal&quot;,&quot;fontSize&quot;:16},&quot;position&quot;:&quot;right&quot;,&quot;reverse&quot;:false},&quot;title&quot;:{&quot;fontStyle&quot;:&quot;bold&quot;,&quot;text&quot;:&quot;Publicaciones por áreas temáticas&quot;,&quot;display&quot;:true,&quot;fontSize&quot;:20,&quot;fontColor&quot;:&quot;#2d2d2d&quot;}}}"></canvas></div><a class="btn btn-outline-dark btn-third-level" role="button" id="chartBtn" style="margin-right: 4px;">Ver todas las publicaciones por áreas temáticas &gt;</a>
+                    </div>
+                </div>
+            </div>
+            <div class="row" id="mR4" style="margin-top: 12px;">
+                <div class="col-md-6 col-xl-12" id="mR4C1">
+                    <div class="text-start" id="webSDiv">
+                        <p class="text-center" id="webSTitle" style="font-weight: bold;">Web sources</p>
+                        <div class="table-responsive text-start text-second-level" id="webSTable">
+                            <table class="table table-hover table-sm table-borderless">
+                                <thead id="webSTabHeader">
+                                    <tr id="webSTabHR"></tr>
+                                </thead>
+                                <tbody id="webSTabBody">
+                                    <tr id="webSTabR1">
+                                        <td id="webSTabR1C1">Web source 1 (#)</td>
+                                    </tr>
+                                    <tr id="webSTabR2">
+                                        <td id="webSTabR2C1">Web source&nbsp;2 (#)</td>
+                                    </tr>
+                                    <tr id="webSTabR3">
+                                        <td id="webSTabR3C1">Web source 3 (#)</td>
+                                    </tr>
+                                    <tr id="webSTabR4">
+                                        <td id="webSTabR4C1">Web source 4 (#)</td>
+                                    </tr>
+                                    <tr id="webSTabR5">
+                                        <td id="webSTabR5C1">Web source 5 (#)</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div><a class="btn btn-outline-dark btn-third-level" role="button" id="webSBtn" style="margin-right: 4px;">Ver todos &gt;</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer id="footer" class="footer-dark">
+        <div class="container" id="footerContainer">
+            <div class="row" id="fcrow">
+                <div class="col-sm-6 col-md-3 item" id="fColServ">
+                    <h3 id="servHead">Servicios</h3>
+                    <ul id="servList">
+                        <li><a href="#">Datos bibliométricos</a></li>
+                        <li><a href="#">Soporte de uso</a></li>
+                        <li></li>
+                    </ul>
+                </div>
+                <div class="col-sm-6 col-md-3 item" id="fColAbout">
+                    <h3>About</h3>
+                    <ul>
+                        <li>Scholar+</li>
+                        <li>Equipo</li>
+                    </ul>
+                </div>
+                <div class="col-md-6 item text" id="fColText">
+                    <h3>Scholar+</h3>
+                    <p>App que permite la descarga de registros, datos de publicación, impacto y metadatos adicionales de Google Scholar, OpenAlex, CrossRef, Web of Science y Scopus.</p>
+                </div>
+                <div class="col item social" id="fColSocial"><a href="#"><i class="icon ion-social-facebook"></i></a><a href="#"><i class="icon ion-social-twitter"></i></a><a href="#"><i class="icon ion-social-snapchat"></i></a><a href="#"><i class="icon ion-social-instagram"></i></a></div>
+            </div>
+            <p id="copyright" class="copyright">Scholar+ © 2022</p>
+        </div>
+    </footer>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="assets/js/chart.min.js"></script>
+    <script src="assets/js/bs-init.js"></script>
+    <script src="assets/js/popover.js"></script>
+</body>
+
+</html>

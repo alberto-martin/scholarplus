@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>sp</title>
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/fonts/fontawesome-all.min.css">
+    <link rel="stylesheet" href="assets/fonts/ionicons.min.css">
+    <link rel="stylesheet" href="assets/fonts/material-icons.min.css">
+    <link rel="stylesheet" href="assets/fonts/simple-line-icons.min.css">
+    <link rel="stylesheet" href="assets/fonts/typicons.min.css">
+    <link rel="stylesheet" href="assets/css/Footer-Dark.css">
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="stylesheet" href="assets/css/untitled.css">
+    <script src="shared/jquery.js" type="text/javascript"></script>
+    <script src="shared/shiny.js" type="text/javascript"></script>
+    <link rel="stylesheet" type="text/css" href="shared/shiny.css"/>
+</head>
+
+<body id="index-body">
+    <nav class="navbar navbar-light navbar-expand-md sticky-top shadow-sm" id="navBar" style="border-bottom-style: solid;background: var(--bs-white);">
+        <div class="container-fluid" id="navBarContainer"><a class="navbar-brand" id="navBarBrand" href="#"><img id="brandLogo" src="assets/img/logo.png"></a><button data-bs-toggle="collapse" class="navbar-toggler" data-bs-target="#navBarCollapse" id="navbarToggler"><span class="visually-hidden" id="toggleNav">Toggle navigation</span><span class="navbar-toggler-icon" id="toggleIcon"></span></button>
+            <div class="collapse navbar-collapse" id="navBarCollapse">
+                <ul class="navbar-nav" id="navBarMenu">
+                    <li class="nav-item" id="navItem1"><a class="nav-link active" id="navItemLink1" href="index.html">Pantalla principal/Inicio</a></li>
+                    <li class="nav-item" id="navItem2"><a class="nav-link disabled" id="navItemLink2" href="download.html">Asistente descarga</a></li>
+                    <li class="nav-item" id="navItem3"><a class="nav-link" id="navItemLink3" href="authorProfile.html">Perfil autor</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div id="main" style="margin: 10px;padding: 50px;">
+        <div class="row justify-content-center align-items-center" id="mRow1">
+            <div class="col-lg-4 align-self-center" id="mR1C1">
+                <h2 id="r1Head" class="text-center">
+                  <span id="r1HTitle" class="shiny-text-output"></span>&nbsp;
+                  <img id="r1Image" src="assets/img/googleicon.png" style="width: 50px;height: 50px;">
+                </h2>
+            </div>
+            <div class="col-lg-8 align-self-center" id="mR1C2">
+                <form id="r1Form"><input class="border rounded border-dark shadow-sm form-control" type="text" id="r1FormTextInput" name="profileGS" placeholder="Inserte aquí el código del perfil de autor de Google Scholar o la URL completa"></form>
+            </div>
+        </div>
+        <div class="row justify-content-center align-items-center" id="mRow2" style="margin-top: 20px;">
+            <div class="col-lg-4 align-self-center" id="mR2C1">
+                <h2 class="text-center" id="r2Head">
+                  <span id="r2HTitle1" class="shiny-text-output"></span>&nbsp;
+                  <img id="r2Image1" src="assets/img/crossref.jpeg" style="width: 50px;height: 50px;">
+                  /<br>
+                  <span id="r2HTitle2" class="shiny-text-output"></span>&nbsp;
+                  <img id="r2Image2" src="assets/img/openalex.png" style="width: 50px;height: 50px;">
+                </h2>
+            </div>
+            <div class="col-lg-8 align-self-center" id="mR2C2">
+                <form id="r2Form" style="background: rgba(232,232,232,0.48);"><input class="border rounded border-dark shadow-sm form-control" type="text" id="r2FormTextInput" name="profileCROA" placeholder="Inserte aquí un DOI o lista de DOIs"></form>
+            </div>
+        </div>
+        <div class="row justify-content-center align-items-center" id="mRow3" style="margin-top: 20px;">
+            <div class="col-lg-4 align-self-center" id="mR3C1">
+                <h2 class="text-center" id="r3Head">
+                  <span id="r3HTitle" class="shiny-text-output"></span>&nbsp;
+                  <img id="r3Image" src="assets/img/wosicon.png" style="width: 50px;height: 50px;">
+                </h2>
+            </div>
+            <div class="col-lg-8 align-self-center" id="mR3C2">
+                <form id="r3Form"><input class="border rounded border-dark shadow-sm form-control" type="file" id="r3FormFileInput" name="wosData"></form>
+            </div>
+        </div>
+        <div class="row justify-content-center align-items-center" id="mRow4" style="margin-top: 20px;">
+            <div class="col-lg-4 align-self-center" id="mR4C1">
+                <h2 class="text-center" id="r4Head">
+                  <span id="r4HTitle" class="shiny-text-output"></span>&nbsp;
+                  <img id="r4Image" src="assets/img/scopusicon.png" style="width: 50px;height: 50px;">
+                </h2>
+            </div>
+            <div class="col-lg-8 align-self-center" id="mR4C2">
+                <form id="r4Form"><input class="border rounded border-dark shadow-sm form-control" type="file" id="r4FormFileInput" name="scopusData"></form>
+            </div>
+        </div>
+    </div>
+    <footer id="footer" class="footer-dark">
+        <div class="container" id="footerContainer">
+            <div class="row" id="fcrow">
+                <div class="col-sm-6 col-md-3 item" id="fColServ">
+                    <h3 id="servHead">Servicios</h3>
+                    <ul id="servList">
+                        <li><a href="#">Datos bibliométricos</a></li>
+                        <li><a href="#">Soporte de uso</a></li>
+                        <li></li>
+                    </ul>
+                </div>
+                <div class="col-sm-6 col-md-3 item" id="fColAbout">
+                    <h3>About</h3>
+                    <ul>
+                        <li>Scholar+</li>
+                        <li>Equipo</li>
+                    </ul>
+                </div>
+                <div class="col-md-6 item text" id="fColText">
+                    <h3>Scholar+</h3>
+                    <p>App que permite la descarga de registros, datos de publicación, impacto y metadatos adicionales de Google Scholar, OpenAlex, CrossRef, Web of Science y Scopus.</p>
+                </div>
+                <div class="col item social" id="fColSocial"><a href="#"><i class="icon ion-social-facebook"></i></a><a href="#"><i class="icon ion-social-twitter"></i></a><a href="#"><i class="icon ion-social-snapchat"></i></a><a href="#"><i class="icon ion-social-instagram"></i></a></div>
+            </div>
+            <p id="copyright" class="copyright">Scholar+ © 2022</p>
+        </div>
+    </footer>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="assets/js/bs-init.js"></script>
+    <script src="assets/js/popover.js"></script>
+</body>
+
+</html>

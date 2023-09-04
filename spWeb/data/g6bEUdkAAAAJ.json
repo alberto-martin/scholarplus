@@ -1,0 +1,2083 @@
+
+    {
+        "search_metadata":
+        {
+            "id": "62385074defa1308eba30fca",
+            "status": "Success",
+            "json_endpoint": "https://serpapi.com/searches/d5252e6cbbdd325a/62385074defa1308eba30fca.json",
+            "created_at": "2022-03-21 10:16:20 UTC",
+            "processed_at": "2022-03-21 10:16:20 UTC",
+            "google_scholar_author_url": "https://scholar.google.com/citations?user=g6bEUdkAAAAJ&hl=en&cstart=0&pagesize=100",
+            "raw_html_file": "https://serpapi.com/searches/d5252e6cbbdd325a/62385074defa1308eba30fca.html",
+            "total_time_taken": 1.47
+        }
+        ,
+        "search_parameters":
+        {
+            "engine": "google_scholar_author",
+            "author_id": "g6bEUdkAAAAJ",
+            "hl": "en",
+            "start": 0,
+            "num": "100"
+        }
+        ,
+        "author":
+        {
+            "name": "Enrique Orduña-Malea",
+            "affiliations": "Technical University of Valencia (ror.org/01460j859)",
+            "email": "Verified email at upv.es",
+            "website": "http://orcid.org/0000-0002-1989-8477",
+            "interests":
+            [
+                {
+                    "title": "Scholarly communication",
+                    "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:scholarly_communication",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ascholarly_communication"
+                }
+                ,
+                {
+                    "title": "Universities",
+                    "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:universities",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Auniversities"
+                }
+                ,
+                {
+                    "title": "Scientometrics",
+                    "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:scientometrics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ascientometrics"
+                }
+                ,
+                {
+                    "title": "Webometrics",
+                    "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:webometrics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Awebometrics"
+                }
+                ,
+                {
+                    "title": "Altmetrics",
+                    "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:altmetrics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aaltmetrics"
+                }
+            ]
+            ,
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=g6bEUdkAAAAJ&citpid=21"
+        }
+        ,
+        "articles":
+        [
+            {
+                "title": "Google Scholar, Web of Science, and Scopus: a systematic comparison of citations in 252 subject categories",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:KbBQZpvPDL4C",
+                "citation_id": "g6bEUdkAAAAJ:KbBQZpvPDL4C",
+                "authors": "A Martín-Martín, E Orduna-Malea, M Thelwall, ED López-Cózar",
+                "publication": "Journal of Informetrics 12 (4), 1160-1177, 2018",
+                "cited_by":
+                {
+                    "value": 750,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15491664131816244466,887046824691204912,9362943728467096345,7302310758224820982,14208072041581437916,10478478854666463355",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15491664131816244466%2C887046824691204912%2C9362943728467096345%2C7302310758224820982%2C14208072041581437916%2C10478478854666463355&engine=google_scholar&hl=en",
+                    "cites_id": "15491664131816244466,887046824691204912,9362943728467096345,7302310758224820982,14208072041581437916,10478478854666463355"
+                }
+                ,
+                "year": "2018"
+            }
+            ,
+            {
+                "title": "The counting house, measuring those who count: Presence of Bibliometrics, Scientometrics, Informetrics, Webometrics and Altmetrics in Google Scholar Citations, ResearcherID …",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:J-pR_7NvFogC",
+                "citation_id": "g6bEUdkAAAAJ:J-pR_7NvFogC",
+                "authors": "A Martín-Martín, E Orduna-Malea, JM Ayllón, E Delgado López-Cózar",
+                "publication": "EC3 Working Papers 21, 2016",
+                "cited_by":
+                {
+                    "value": 160,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=756561517138872524,2185496638181308110,8990107088910171211,17649885691528815119,17257366927898325938",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=756561517138872524%2C2185496638181308110%2C8990107088910171211%2C17649885691528815119%2C17257366927898325938&engine=google_scholar&hl=en",
+                    "cites_id": "756561517138872524,2185496638181308110,8990107088910171211,17649885691528815119,17257366927898325938"
+                }
+                ,
+                "year": "2016"
+            }
+            ,
+            {
+                "title": "Google Scholar, Microsoft Academic, Scopus, Dimensions, Web of Science, and OpenCitations' COCI: a multidisciplinary comparison of coverage via citations",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:Hck25ST_3aIC",
+                "citation_id": "g6bEUdkAAAAJ:Hck25ST_3aIC",
+                "authors": "A Martín-Martín, M Thelwall, E Orduna-Malea, E Delgado López-Cózar",
+                "publication": "Scientometrics 126 (1), 871–906, 2021",
+                "cited_by":
+                {
+                    "value": 155,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16107293120858581070,4171546051086210191",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=16107293120858581070%2C4171546051086210191&engine=google_scholar&hl=en",
+                    "cites_id": "16107293120858581070,4171546051086210191"
+                }
+                ,
+                "year": "2021"
+            }
+            ,
+            {
+                "title": "Methods for estimating the size of Google Scholar",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:l7t_Zn2s7bgC",
+                "citation_id": "g6bEUdkAAAAJ:l7t_Zn2s7bgC",
+                "authors": "E Orduna-Malea, JM Ayllón, A Martín-Martín, E Delgado López-Cózar",
+                "publication": "Scientometrics 104 (3), 931-949, 2015",
+                "cited_by":
+                {
+                    "value": 141,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=420666553354732122",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=420666553354732122&engine=google_scholar&hl=en",
+                    "cites_id": "420666553354732122"
+                }
+                ,
+                "year": "2015"
+            }
+            ,
+            {
+                "title": "Can we use Google Scholar to identify highly-cited documents?",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:nrtMV_XWKgEC",
+                "citation_id": "g6bEUdkAAAAJ:nrtMV_XWKgEC",
+                "authors": "A Martin-Martin, E Orduna-Malea, AW Harzing, E Delgado López-Cózar",
+                "publication": "Journal of informetrics 11 (1), 152–163, 2017",
+                "cited_by":
+                {
+                    "value": 133,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8284348386382193990,7473147459744428275",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=8284348386382193990%2C7473147459744428275&engine=google_scholar&hl=en",
+                    "cites_id": "8284348386382193990,7473147459744428275"
+                }
+                ,
+                "year": "2017"
+            }
+            ,
+            {
+                "title": "Coverage of highly-cited documents in Google Scholar, Web of Science, and Scopus: a multidisciplinary comparison",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:IUKN3-7HHlwC",
+                "citation_id": "g6bEUdkAAAAJ:IUKN3-7HHlwC",
+                "authors": "A Martín-Martín, E Orduna-Malea, ED López-Cózar",
+                "publication": "Scientometrics 116 (3), 2175-2188, 2018",
+                "cited_by":
+                {
+                    "value": 106,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15690473987063789527",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15690473987063789527&engine=google_scholar&hl=en",
+                    "cites_id": "15690473987063789527"
+                }
+                ,
+                "year": "2018"
+            }
+            ,
+            {
+                "title": "Do ResearchGate Scores create ghost academic reputations?",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:BwyfMAYsbu0C",
+                "citation_id": "g6bEUdkAAAAJ:BwyfMAYsbu0C",
+                "authors": "E Orduna-Malea, A Martín-Martín, M Thelwall, E Delgado López-Cózar",
+                "publication": "Scientometrics 112 (1), 443–460, 2017",
+                "cited_by":
+                {
+                    "value": 106,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16621078202925232834",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=16621078202925232834&engine=google_scholar&hl=en",
+                    "cites_id": "16621078202925232834"
+                }
+                ,
+                "year": "2017"
+            }
+            ,
+            {
+                "title": "About the size of Google Scholar: playing the numbers",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:cFHS6HbyZ2cC",
+                "citation_id": "g6bEUdkAAAAJ:cFHS6HbyZ2cC",
+                "authors": "E Orduña-Malea, JM Ayllón, A Martín-Martín, E Delgado López-Cózar",
+                "publication": "EC3 Working Papers 18, 2014",
+                "cited_by":
+                {
+                    "value": 103,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13104099666383615127,475227462700770185,14215014657058494842,7182852013334750638,12907685432239427510,12537110969873895542,5852126726601602392",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=13104099666383615127%2C475227462700770185%2C14215014657058494842%2C7182852013334750638%2C12907685432239427510%2C12537110969873895542%2C5852126726601602392&engine=google_scholar&hl=en",
+                    "cites_id": "13104099666383615127,475227462700770185,14215014657058494842,7182852013334750638,12907685432239427510,12537110969873895542,5852126726601602392"
+                }
+                ,
+                "year": "2014"
+            }
+            ,
+            {
+                "title": "ResearchGate como fuente de evaluación científica: desvelando sus aplicaciones bibliométricas",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:XiVPGOgt02cC",
+                "citation_id": "g6bEUdkAAAAJ:XiVPGOgt02cC",
+                "authors": "E Orduña-Malea, A Martín-Martín, E Delgado López-Cózar",
+                "publication": "El profesional de la información 25 (2), 303-310, 2016",
+                "cited_by":
+                {
+                    "value": 86,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7896722922746964407,13177249629890229341",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=7896722922746964407%2C13177249629890229341&engine=google_scholar&hl=en",
+                    "cites_id": "7896722922746964407,13177249629890229341"
+                }
+                ,
+                "year": "2016"
+            }
+            ,
+            {
+                "title": "The next bibliometrics: ALMetrics (Author Level Metrics) and the multiple faces of author impact",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:JoZmwDi-zQgC",
+                "citation_id": "g6bEUdkAAAAJ:JoZmwDi-zQgC",
+                "authors": "E Orduña-Malea, A Martín-Martín, E Delgado-López-Cózar",
+                "publication": "El Profesional de la Información 25 (3), 485-496, 2016",
+                "cited_by":
+                {
+                    "value": 67,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13107852717318208864,6097950029382799999",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=13107852717318208864%2C6097950029382799999&engine=google_scholar&hl=en",
+                    "cites_id": "13107852717318208864,6097950029382799999"
+                }
+                ,
+                "year": "2016"
+            }
+            ,
+            {
+                "title": "Google Scholar as a data source for research assessment",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:mNrWkgRL2YcC",
+                "citation_id": "g6bEUdkAAAAJ:mNrWkgRL2YcC",
+                "authors": "E Delgado López-Cózar, E Orduna-Malea, A Martín-Martín",
+                "publication": "Springer Handbook of Science and Technology Indicators (Editors: Wolfgang …, 2019",
+                "cited_by":
+                {
+                    "value": 64,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6617417313153741183",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=6617417313153741183&engine=google_scholar&hl=en",
+                    "cites_id": "6617417313153741183"
+                }
+                ,
+                "year": "2019"
+            }
+            ,
+            {
+                "title": "The dark side of Open Access in Google and Google Scholar: the case of Latin-American repositories",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:rO6llkc54NcC",
+                "citation_id": "g6bEUdkAAAAJ:rO6llkc54NcC",
+                "authors": "E Orduña-Malea, E Delgado Lopez-Cozar",
+                "publication": "Scientometrics 102 (1), 829-846, 2015",
+                "cited_by":
+                {
+                    "value": 64,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10891519330342387181,5016809289129876415",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10891519330342387181%2C5016809289129876415&engine=google_scholar&hl=en",
+                    "cites_id": "10891519330342387181,5016809289129876415"
+                }
+                ,
+                "year": "2015"
+            }
+            ,
+            {
+                "title": "Does Google Scholar contain all highly cited documents (1950-2013)?",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:EUQCXRtRnyEC",
+                "citation_id": "g6bEUdkAAAAJ:EUQCXRtRnyEC",
+                "authors": "A Martín-Martín, E Orduña-Malea, JM Ayllón, E Delgado López-Cózar",
+                "publication": "EC3 Working Paper 19, 2014",
+                "cited_by":
+                {
+                    "value": 61,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18120189142274855068,10511747619980582882,10020597058302572647,1336573080090167576",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=18120189142274855068%2C10511747619980582882%2C10020597058302572647%2C1336573080090167576&engine=google_scholar&hl=en",
+                    "cites_id": "18120189142274855068,10511747619980582882,10020597058302572647,1336573080090167576"
+                }
+                ,
+                "year": "2014"
+            }
+            ,
+            {
+                "title": "Dimensions: re-discovering the ecosystem of scientific information",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:2VqYfGB8ITEC",
+                "citation_id": "g6bEUdkAAAAJ:2VqYfGB8ITEC",
+                "authors": "E Orduña-Malea, E Delgado-López-Cózar",
+                "publication": "El Profesional de la Información 27 (2), 420-431, 2018",
+                "cited_by":
+                {
+                    "value": 55,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9500457905440818255,3759975660423400612",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=9500457905440818255%2C3759975660423400612&engine=google_scholar&hl=en",
+                    "cites_id": "9500457905440818255,3759975660423400612"
+                }
+                ,
+                "year": "2018"
+            }
+            ,
+            {
+                "title": "La revolución Google Scholar: destapando la caja de Pandora académica",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:b1wdh0AR-JQC",
+                "citation_id": "g6bEUdkAAAAJ:b1wdh0AR-JQC",
+                "authors": "E Orduña Malea, A Martin-Martin, JM Ayllón, E Delgado López-Cózar",
+                "publication": "Universidad de Granada, 2016",
+                "cited_by":
+                {
+                    "value": 51,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7423889615571912868,10365382711893050634,14894138429945072740",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=7423889615571912868%2C10365382711893050634%2C14894138429945072740&engine=google_scholar&hl=en",
+                    "cites_id": "7423889615571912868,10365382711893050634,14894138429945072740"
+                }
+                ,
+                "year": "2016"
+            }
+            ,
+            {
+                "title": "Google Scholar Metrics evolution: an analysis according to languages",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:JV2RwH3_ST0C",
+                "citation_id": "g6bEUdkAAAAJ:JV2RwH3_ST0C",
+                "authors": "E Orduña-Malea, E Delgado López-Cózar",
+                "publication": "Scientometrics 98 (3), 2353-2367, 2014",
+                "cited_by":
+                {
+                    "value": 46,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18288540356201071629",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=18288540356201071629&engine=google_scholar&hl=en",
+                    "cites_id": "18288540356201071629"
+                }
+                ,
+                "year": "2014"
+            }
+            ,
+            {
+                "title": "Google Scholar as a source for scholarly evaluation: a bibliographic review of database errors",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:86PQX7AUzd4C",
+                "citation_id": "g6bEUdkAAAAJ:86PQX7AUzd4C",
+                "authors": "E Orduna-Malea, A Martín-Martín, E Delgado López-Cózar",
+                "publication": "Revista española de Documentación Científica 40 (4), e185, 2017",
+                "cited_by":
+                {
+                    "value": 41,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10646759214789899765,16027873693911183462,16442850497575680774",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10646759214789899765%2C16027873693911183462%2C16442850497575680774&engine=google_scholar&hl=en",
+                    "cites_id": "10646759214789899765,16027873693911183462,16442850497575680774"
+                }
+                ,
+                "year": "2017"
+            }
+            ,
+            {
+                "title": "The silent fading of an academic search engine: the case of Microsoft Academic Search",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:f2IySw72cVMC",
+                "citation_id": "g6bEUdkAAAAJ:f2IySw72cVMC",
+                "authors": "E Orduña-Malea, A Martín-Martín, J M. Ayllon, E Delgado Lopez-Cozar",
+                "publication": "Online information review 38 (7), 936-953, 2014",
+                "cited_by":
+                {
+                    "value": 41,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10295931833602091580,4522765669203635948",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10295931833602091580%2C4522765669203635948&engine=google_scholar&hl=en",
+                    "cites_id": "10295931833602091580,4522765669203635948"
+                }
+                ,
+                "year": "2014"
+            }
+            ,
+            {
+                "title": "Cibermetría: midiendo el espacio red",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:nb7KW1ujOQ8C",
+                "citation_id": "g6bEUdkAAAAJ:nb7KW1ujOQ8C",
+                "authors": "E Orduña-Malea, IF Aguillo",
+                "publication": "UOC Publishing, 2014",
+                "cited_by":
+                {
+                    "value": 41,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7272301981950516773,2241123641198127929,13865900828130108989",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=7272301981950516773%2C2241123641198127929%2C13865900828130108989&engine=google_scholar&hl=en",
+                    "cites_id": "7272301981950516773,2241123641198127929,13865900828130108989"
+                }
+                ,
+                "year": "2014"
+            }
+            ,
+            {
+                "title": "Covid-19: análisis métrico de vídeos y canales de comunicación en YouTube",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:silx2ntsSuwC",
+                "citation_id": "g6bEUdkAAAAJ:silx2ntsSuwC",
+                "authors": "E Orduña-Malea, CI Font-Julián, JA Ontalba-Ruipérez",
+                "publication": "El Profesional de la Información 29 (4), 2020",
+                "cited_by":
+                {
+                    "value": 35,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=583421777405178494,12108812292291996783",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=583421777405178494%2C12108812292291996783&engine=google_scholar&hl=en",
+                    "cites_id": "583421777405178494,12108812292291996783"
+                }
+                ,
+                "year": "2020"
+            }
+            ,
+            {
+                "title": "Propuesta de un modelo de análisis redinformétrico multinivel para el estudio sistémico de las universidades españolas (2010)",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:3fE2CSJIrl8C",
+                "citation_id": "g6bEUdkAAAAJ:3fE2CSJIrl8C",
+                "authors": "E Orduña-Malea",
+                "publication": "Universidad Politécnica de Valencia, 2012",
+                "cited_by":
+                {
+                    "value": 35,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7419410477977973864,5675931368769378019,13856726054706988998,15661090961084016123",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=7419410477977973864%2C5675931368769378019%2C13856726054706988998%2C15661090961084016123&engine=google_scholar&hl=en",
+                    "cites_id": "7419410477977973864,5675931368769378019,13856726054706988998,15661090961084016123"
+                }
+                ,
+                "year": "2012"
+            }
+            ,
+            {
+                "title": "Journal Scholar: una alternativa internacional, gratuita y de libre acceso para medir el impacto de las revistas de Arte, Humanidades y Ciencias Sociales",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:Zph67rFs4hoC",
+                "citation_id": "g6bEUdkAAAAJ:Zph67rFs4hoC",
+                "authors": "E Delgado López-Cózar, E Orduña-Malea, D Marcos Cartagena, ...",
+                "publication": "EC3 Working Papers 1 (5), 2012",
+                "cited_by":
+                {
+                    "value": 35,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12858599386920432924,11823301635883711210,8676422881479615317,16572090506574481035",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=12858599386920432924%2C11823301635883711210%2C8676422881479615317%2C16572090506574481035&engine=google_scholar&hl=en",
+                    "cites_id": "12858599386920432924,11823301635883711210,8676422881479615317,16572090506574481035"
+                }
+                ,
+                "year": "2012"
+            }
+            ,
+            {
+                "title": "Mobile web adoption in top ranked university libraries: A preliminary study",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:9vf0nzSNQJEC",
+                "citation_id": "g6bEUdkAAAAJ:9vf0nzSNQJEC",
+                "authors": "P Torres-Pérez, E Méndez-Rodríguez, E Orduna-Malea",
+                "publication": "The Journal of Academic Librarianship 42 (4), 329-339, 2016",
+                "cited_by":
+                {
+                    "value": 32,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16046238578190428115,804568691618357531",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=16046238578190428115%2C804568691618357531&engine=google_scholar&hl=en",
+                    "cites_id": "16046238578190428115,804568691618357531"
+                }
+                ,
+                "year": "2016"
+            }
+            ,
+            {
+                "title": "Author-level metrics in the new academic profile platforms: The online behaviour of the Bibliometrics community",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:OTTXONDVkokC",
+                "citation_id": "g6bEUdkAAAAJ:OTTXONDVkokC",
+                "authors": "A Martín-Martín, E Orduna-Malea, E Delgado López-Cózar",
+                "publication": "Journal of Informetrics 12 (2), 494-509, 2018",
+                "cited_by":
+                {
+                    "value": 31,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15729703407329255202",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15729703407329255202&engine=google_scholar&hl=en",
+                    "cites_id": "15729703407329255202"
+                }
+                ,
+                "year": "2018"
+            }
+            ,
+            {
+                "title": "Revistas científicas editadas por universidades en Web of Science: características y contribución a la marca universidad",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:7wO8s98CvbsC",
+                "citation_id": "g6bEUdkAAAAJ:7wO8s98CvbsC",
+                "authors": "R Repiso, E Orduña-Malea, I Aguaded",
+                "publication": "El profesional de la información 28 (4), 2019",
+                "cited_by":
+                {
+                    "value": 30,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18313979793915324407,13674220091309900573,4840772906696098867,11434673256022825160,9349991319981115346",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=18313979793915324407%2C13674220091309900573%2C4840772906696098867%2C11434673256022825160%2C9349991319981115346&engine=google_scholar&hl=en",
+                    "cites_id": "18313979793915324407,13674220091309900573,4840772906696098867,11434673256022825160,9349991319981115346"
+                }
+                ,
+                "year": "2019"
+            }
+            ,
+            {
+                "title": "A two-sided academic landscape: snapshot of highly-cited documents in Google Scholar (1950-2013)",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:9Nmd_mFXekcC",
+                "citation_id": "g6bEUdkAAAAJ:9Nmd_mFXekcC",
+                "authors": "A Martín-Martín, E Orduna-Malea, JM Ayllón, E Delgado López-Cózar",
+                "publication": "Revista Española de Documentación Científica 39 (4), 1, 2016",
+                "cited_by":
+                {
+                    "value": 30,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14576388360568821468,8608350099675049023",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=14576388360568821468%2C8608350099675049023&engine=google_scholar&hl=en",
+                    "cites_id": "14576388360568821468,8608350099675049023"
+                }
+                ,
+                "year": "2016"
+            }
+            ,
+            {
+                "title": "Metrics in academic profiles: a new addictive game for researchers?",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:UHK10RUVsp4C",
+                "citation_id": "g6bEUdkAAAAJ:UHK10RUVsp4C",
+                "authors": "E Orduna-Malea, A Martín-Martín, E Delgado López-Cózar",
+                "publication": "Revista Española de Salud Pública 90, e1, 2016",
+                "cited_by":
+                {
+                    "value": 30,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=215530720661769771,17422677344181204726,12556521902592072496",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=215530720661769771%2C17422677344181204726%2C12556521902592072496&engine=google_scholar&hl=en",
+                    "cites_id": "215530720661769771,17422677344181204726,12556521902592072496"
+                }
+                ,
+                "year": "2016"
+            }
+            ,
+            {
+                "title": "Back to the past: On the shoulders of an academic search engine giant",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:bnK-pcrLprsC",
+                "citation_id": "g6bEUdkAAAAJ:bnK-pcrLprsC",
+                "authors": "A Martín-Martín, E Orduña-Malea, JM Ayllón, E Delgado López-Cózar",
+                "publication": "Scientometrics 107 (3), 1477-1487, 2016",
+                "cited_by":
+                {
+                    "value": 29,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14358427772707511842,1054594062841359284",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=14358427772707511842%2C1054594062841359284&engine=google_scholar&hl=en",
+                    "cites_id": "14358427772707511842,1054594062841359284"
+                }
+                ,
+                "year": "2016"
+            }
+            ,
+            {
+                "title": "Making Video News Visible: Identifying the Optimization Strategies of the Cybermedia on YouTube Using Web Metrics",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:nRpfm8aw39MC",
+                "citation_id": "g6bEUdkAAAAJ:nRpfm8aw39MC",
+                "authors": "C Lopezosa, E Orduna-Malea, M Pérez-Montoro",
+                "publication": "Journalism Practice 14 (4), 465-482, 2020",
+                "cited_by":
+                {
+                    "value": 28,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1406584996470067670",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=1406584996470067670&engine=google_scholar&hl=en",
+                    "cites_id": "1406584996470067670"
+                }
+                ,
+                "year": "2020"
+            }
+            ,
+            {
+                "title": "A novel method for depicting academic disciplines through Google Scholar Citations: The case of Bibliometrics",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:YohjEiUPhakC",
+                "citation_id": "g6bEUdkAAAAJ:YohjEiUPhakC",
+                "authors": "A Martín-Martín, E Orduna-Malea, E Delgado López-Cózar",
+                "publication": "Scientometrics 114 (3), 1251–1273, 2018",
+                "cited_by":
+                {
+                    "value": 28,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16999321709087099574",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=16999321709087099574&engine=google_scholar&hl=en",
+                    "cites_id": "16999321709087099574"
+                }
+                ,
+                "year": "2018"
+            }
+            ,
+            {
+                "title": "Las universidades públicas españolas en Google Scholar: presencia y evolución de su publicación académica web",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:qjMakFHDy7sC",
+                "citation_id": "g6bEUdkAAAAJ:qjMakFHDy7sC",
+                "authors": "E Orduña-Malea, J Serrano-Cobos, N Lloret-Romero",
+                "publication": "El profesional de la información 18 (5), 493-500, 2009",
+                "cited_by":
+                {
+                    "value": 28,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4341720130983182278,3384683013301589569,4008527042606783703",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=4341720130983182278%2C3384683013301589569%2C4008527042606783703&engine=google_scholar&hl=en",
+                    "cites_id": "4341720130983182278,3384683013301589569,4008527042606783703"
+                }
+                ,
+                "year": "2009"
+            }
+            ,
+            {
+                "title": "H Index Scholar: el índice h de los profesores de las universidades públicas españolas en humanidades y ciencias sociales",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:RYcK_YlVTxYC",
+                "citation_id": "g6bEUdkAAAAJ:RYcK_YlVTxYC",
+                "authors": "E Delgado-López-Cózar, E Orduña-Malea, E Jiménez-Contreras, ...",
+                "publication": "El profesional de la información 23 (1), 87-94, 2014",
+                "cited_by":
+                {
+                    "value": 27,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13357469822395706447,11860366662008520764",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=13357469822395706447%2C11860366662008520764&engine=google_scholar&hl=en",
+                    "cites_id": "13357469822395706447,11860366662008520764"
+                }
+                ,
+                "year": "2014"
+            }
+            ,
+            {
+                "title": "Presencia y visibilidad web de las universidades públicas españolas",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:WF5omc3nYNoC",
+                "citation_id": "g6bEUdkAAAAJ:WF5omc3nYNoC",
+                "authors": "E Orduña-Malea, J Serrano-Cobos, JA Ontalba-Ruipérez, ...",
+                "publication": "Revista española de documentación científica 33 (2), 246-278, 2010",
+                "cited_by":
+                {
+                    "value": 27,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6109247362525060888,1493386440812571846",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=6109247362525060888%2C1493386440812571846&engine=google_scholar&hl=en",
+                    "cites_id": "6109247362525060888,1493386440812571846"
+                }
+                ,
+                "year": "2010"
+            }
+            ,
+            {
+                "title": "Are web mentions accurate substitutes for inlinks for Spanish universities?",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:YFjsv_pBGBYC",
+                "citation_id": "g6bEUdkAAAAJ:YFjsv_pBGBYC",
+                "authors": "J Luis Ortega, E Orduña-Malea, I F. Aguillo",
+                "publication": "Online information review 38 (1), 59-77, 2014",
+                "cited_by":
+                {
+                    "value": 26,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1313563736509169759,14734479730841557823",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=1313563736509169759%2C14734479730841557823&engine=google_scholar&hl=en",
+                    "cites_id": "1313563736509169759,14734479730841557823"
+                }
+                ,
+                "year": "2014"
+            }
+            ,
+            {
+                "title": "Do the technical universities exhibit distinct behaviour in global university rankings? A Times Higher Education (THE) case study",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:4vMrXwiscB8C",
+                "citation_id": "g6bEUdkAAAAJ:4vMrXwiscB8C",
+                "authors": "C Perez-Esparrells, E Orduna-Malea",
+                "publication": "Journal of Engineering and Technology Management 48, 97-108, 2018",
+                "cited_by":
+                {
+                    "value": 24,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7204914210872078787",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=7204914210872078787&engine=google_scholar&hl=en",
+                    "cites_id": "7204914210872078787"
+                }
+                ,
+                "year": "2018"
+            }
+            ,
+            {
+                "title": "Google Scholar: The Big Data Bibliographic Tool",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:9c2xU6iGI7YC",
+                "citation_id": "g6bEUdkAAAAJ:9c2xU6iGI7YC",
+                "authors": "E Delgado López-Cózar, E Orduña-Malea, A Martín-Martín, JM Ayllón",
+                "publication": "Research analytics: boosting university productivity and competitiveness …, 2017",
+                "cited_by":
+                {
+                    "value": 23,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11303941371644302157,58474724435974631",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11303941371644302157%2C58474724435974631&engine=google_scholar&hl=en",
+                    "cites_id": "11303941371644302157,58474724435974631"
+                }
+                ,
+                "year": "2017"
+            }
+            ,
+            {
+                "title": "Google Scholar Metrics 2014: a low cost bibliometric tool",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:dfsIfKJdRG4C",
+                "citation_id": "g6bEUdkAAAAJ:dfsIfKJdRG4C",
+                "authors": "A Martín-Martín, JM Ayllón, E Orduna-Malea, E Delgado López-Cózar",
+                "publication": "EC3 Working Paper 17, 2014",
+                "cited_by":
+                {
+                    "value": 23,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8635382570863569056,8606372916672383468,8541158703871275875,17640273438145369499",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=8635382570863569056%2C8606372916672383468%2C8541158703871275875%2C17640273438145369499&engine=google_scholar&hl=en",
+                    "cites_id": "8635382570863569056,8606372916672383468,8541158703871275875,17640273438145369499"
+                }
+                ,
+                "year": "2014"
+            }
+            ,
+            {
+                "title": "Cybermetric Techniques to Evaluate Organizations Using Web-based Data",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:a9-T7VOCCH8C",
+                "citation_id": "g6bEUdkAAAAJ:a9-T7VOCCH8C",
+                "authors": "E Orduña-Malea, A Alonso-Arroyo",
+                "publication": "Elsevier, 2017",
+                "cited_by":
+                {
+                    "value": 21,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16335270871451230855",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=16335270871451230855&engine=google_scholar&hl=en",
+                    "cites_id": "16335270871451230855"
+                }
+                ,
+                "year": "2017"
+            }
+            ,
+            {
+                "title": "Selective linking from social platforms to university websites: a case study of the Spanish academic system",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:Wp0gIr-vW9MC",
+                "citation_id": "g6bEUdkAAAAJ:Wp0gIr-vW9MC",
+                "authors": "E Orduña-Malea, JA Ontalba-Ruipérez",
+                "publication": "Scientometrics 95 (2), 593-614, 2013",
+                "cited_by":
+                {
+                    "value": 19,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9765875236654727695",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=9765875236654727695&engine=google_scholar&hl=en",
+                    "cites_id": "9765875236654727695"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "Google Scholar, Web of Science, and Scopus: which is best for me?",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:rbm3iO8VlycC",
+                "citation_id": "g6bEUdkAAAAJ:rbm3iO8VlycC",
+                "authors": "A Martín-Martín, E Orduna-Malea, M Thelwall, E Delgado-López-Cózar",
+                "publication": "Impact of Social Sciences Blog, 2019",
+                "cited_by":
+                {
+                    "value": 17,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=691440195327401431",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=691440195327401431&engine=google_scholar&hl=en",
+                    "cites_id": "691440195327401431"
+                }
+                ,
+                "year": "2019"
+            }
+            ,
+            {
+                "title": "The lost academic home: institutional affiliation links in Google Scholar Citations",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:WZBGuue-350C",
+                "citation_id": "g6bEUdkAAAAJ:WZBGuue-350C",
+                "authors": "E Orduna-Malea, JM Ayllón, A Martín-Martín, E Delgado López-Cózar",
+                "publication": "Online Information Review 41 (6), 762-781, 2017",
+                "cited_by":
+                {
+                    "value": 16,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=565160755699659735",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=565160755699659735&engine=google_scholar&hl=en",
+                    "cites_id": "565160755699659735"
+                }
+                ,
+                "year": "2017"
+            }
+            ,
+            {
+                "title": "The Role of Ego in Academic Profile Services: Comparing Google Scholar, Researchgate, Mendeley, and Researcherid",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:5ugPr518TE4C",
+                "citation_id": "g6bEUdkAAAAJ:5ugPr518TE4C",
+                "authors": "A Martín-Martín, E Orduna-Malea, E Delgado López-Cózar",
+                "publication": "London School of Economics Impact of Social Sciences Blog, 2016",
+                "cited_by":
+                {
+                    "value": 16,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9321403141012411658,18019682427408228785,3019383130178481854",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=9321403141012411658%2C18019682427408228785%2C3019383130178481854&engine=google_scholar&hl=en",
+                    "cites_id": "9321403141012411658,18019682427408228785,3019383130178481854"
+                }
+                ,
+                "year": "2016"
+            }
+            ,
+            {
+                "title": "US academic libraries: understanding their web presence and their relationship with economic indicators",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:ZeXyd9-uunAC",
+                "citation_id": "g6bEUdkAAAAJ:ZeXyd9-uunAC",
+                "authors": "E Orduña-Malea, JJ Regazzi",
+                "publication": "Scientometrics 98 (1), 315-336, 2014",
+                "cited_by":
+                {
+                    "value": 16,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=435596566669355675",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=435596566669355675&engine=google_scholar&hl=en",
+                    "cites_id": "435596566669355675"
+                }
+                ,
+                "year": "2014"
+            }
+            ,
+            {
+                "title": "Índice H de las revistas científicas españolas según Google Scholar Metrics (2009-2013)",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:4xDN1ZYqzskC",
+                "citation_id": "g6bEUdkAAAAJ:4xDN1ZYqzskC",
+                "authors": "JM Ayllón, A Martín-Martín, E Orduña Malea, R Ruiz-Pérez, ...",
+                "cited_by":
+                {
+                    "value": 14,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8065654908910887990,3284718556480175352,18347952068394636268",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=8065654908910887990%2C3284718556480175352%2C18347952068394636268&engine=google_scholar&hl=en",
+                    "cites_id": "8065654908910887990,3284718556480175352,18347952068394636268"
+                }
+                ,
+                "year": "2014"
+            }
+            ,
+            {
+                "title": "Web citations in patents: Evidence of technological impact?",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:_Ybze24A_UAC",
+                "citation_id": "g6bEUdkAAAAJ:_Ybze24A_UAC",
+                "authors": "E Orduna‐Malea, M Thelwall, K Kousha",
+                "publication": "Journal of the Association for Information Science and Technology 68 (8 …, 2017",
+                "cited_by":
+                {
+                    "value": 13,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15400092871859722790",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15400092871859722790&engine=google_scholar&hl=en",
+                    "cites_id": "15400092871859722790"
+                }
+                ,
+                "year": "2017"
+            }
+            ,
+            {
+                "title": "Espacio universitario español en la Web (2010): estudio descriptivo de instituciones y productos académicos a través del análisis de subdominios y subdirectorios",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:k_IJM867U9cC",
+                "citation_id": "g6bEUdkAAAAJ:k_IJM867U9cC",
+                "authors": "E Orduña Malea",
+                "publication": "Revista española de documentación científica 36 (3), 1-21, 2013",
+                "cited_by":
+                {
+                    "value": 13,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10308135718807950454,10321880105201727437,15055862343469619000",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10308135718807950454%2C10321880105201727437%2C15055862343469619000&engine=google_scholar&hl=en",
+                    "cites_id": "10308135718807950454,10321880105201727437,15055862343469619000"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "The Ranking Web and the “World-Class” Universities: New Webometric Indicators Based on G-Factor, Interlinking, and Web 2.0 Tools",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:IWHjjKOFINEC",
+                "citation_id": "g6bEUdkAAAAJ:IWHjjKOFINEC",
+                "authors": "IF Aguillo, E Orduña-Malea",
+                "publication": "Building world-class universities, 197-217, 2012",
+                "cited_by":
+                {
+                    "value": 13,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3208927813624394765",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=3208927813624394765&engine=google_scholar&hl=en",
+                    "cites_id": "3208927813624394765"
+                }
+                ,
+                "year": "2012"
+            }
+            ,
+            {
+                "title": "Presencia de la prensa digital española en la Web social: análisis de Menéame",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:u-x6o8ySG0sC",
+                "citation_id": "g6bEUdkAAAAJ:u-x6o8ySG0sC",
+                "authors": "E Orduña-Malea, JA Ontalba-Ruipérez",
+                "publication": "El profesional de la información 17 (5), 511-518, 2008",
+                "cited_by":
+                {
+                    "value": 13,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10888540459379065395,2084396783499330592",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10888540459379065395%2C2084396783499330592&engine=google_scholar&hl=en",
+                    "cites_id": "10888540459379065395,2084396783499330592"
+                }
+                ,
+                "year": "2008"
+            }
+            ,
+            {
+                "title": "Revealing the online network between university and industry: the case of Turkey",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:738O_yMBCRsC",
+                "citation_id": "g6bEUdkAAAAJ:738O_yMBCRsC",
+                "authors": "E Orduna-Malea, S Aytac",
+                "publication": "Scientometrics 105 (3), 1849-1866, 2015",
+                "cited_by":
+                {
+                    "value": 12,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6232741044022877497",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=6232741044022877497&engine=google_scholar&hl=en",
+                    "cites_id": "6232741044022877497"
+                }
+                ,
+                "year": "2015"
+            }
+            ,
+            {
+                "title": "Marcado semántico automático en gestores de contenidos: integración y cuantificación",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:maZDTaKrznsC",
+                "citation_id": "g6bEUdkAAAAJ:maZDTaKrznsC",
+                "authors": "JA Pastor-Sanchez, E Orduna-Malea, T Saorín",
+                "publication": "El profesional de la información 22 (5), 381-391, 2013",
+                "cited_by":
+                {
+                    "value": 12,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13215765896862269666,6258375430593264155,11423741080513284604",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=13215765896862269666%2C6258375430593264155%2C11423741080513284604&engine=google_scholar&hl=en",
+                    "cites_id": "13215765896862269666,6258375430593264155,11423741080513284604"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "Demography of Altmetrics under the Light of Dimensions: Locations, Institutions, Journals, Disciplines and Funding Bodies in the Global Research Framework",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:WHdLCjDvYFkC",
+                "citation_id": "g6bEUdkAAAAJ:WHdLCjDvYFkC",
+                "authors": "E Orduna-Malea, E Delgado López-Cózar",
+                "publication": "Journal of Altmetrics 2 (1), 2019",
+                "cited_by":
+                {
+                    "value": 11,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3787094939455631788",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=3787094939455631788&engine=google_scholar&hl=en",
+                    "cites_id": "3787094939455631788"
+                }
+                ,
+                "year": "2019"
+            }
+            ,
+            {
+                "title": "Performance behavior patterns in author-level metrics: a disciplinary comparison of Google Scholar Citations, ResearchGate, and ImpactStory",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:Ri6SYOTghG4C",
+                "citation_id": "g6bEUdkAAAAJ:Ri6SYOTghG4C",
+                "authors": "E Orduna-Malea, E Delgado López-Cózar",
+                "publication": "Frontiers in Research Metrics and Analytics 2, 14, 2017",
+                "cited_by":
+                {
+                    "value": 11,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2494267134499764123,793668777583847360",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=2494267134499764123%2C793668777583847360&engine=google_scholar&hl=en",
+                    "cites_id": "2494267134499764123,793668777583847360"
+                }
+                ,
+                "year": "2017"
+            }
+            ,
+            {
+                "title": "Índice H de las revistas científicas españolas según Google Scholar Metrics (2012-2016)",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:QD3KBmkZPeQC",
+                "citation_id": "g6bEUdkAAAAJ:QD3KBmkZPeQC",
+                "authors": "E Delgado López-Cózar, A Martín-Martín, E Orduña Malea",
+                "publication": "EC3 Reports, 20, 2017",
+                "cited_by":
+                {
+                    "value": 11,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9146383401635529360,5068130585816637375",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=9146383401635529360%2C5068130585816637375&engine=google_scholar&hl=en",
+                    "cites_id": "9146383401635529360,5068130585816637375"
+                }
+                ,
+                "year": "2017"
+            }
+            ,
+            {
+                "title": "Índice H de las revistas científicas españolas según Google Scholar Metrics (2010-2014)",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:F1b5ZUV5XREC",
+                "citation_id": "g6bEUdkAAAAJ:F1b5ZUV5XREC",
+                "authors": "JM Ayllón, A Martín-Martín, E Orduña Malea, E Delgado López-Cózar",
+                "cited_by":
+                {
+                    "value": 11,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5291906087191235067,10658026277653134795,8161645423209371629",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=5291906087191235067%2C10658026277653134795%2C8161645423209371629&engine=google_scholar&hl=en",
+                    "cites_id": "5291906087191235067,10658026277653134795,8161645423209371629"
+                }
+                ,
+                "year": "2015"
+            }
+            ,
+            {
+                "title": "Hyperlinks embedded in twitter as a proxy for total external inlinks to international university websites",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:OU6Ihb5iCvQC",
+                "citation_id": "g6bEUdkAAAAJ:OU6Ihb5iCvQC",
+                "authors": "E Orduña‐Malea, D Torres‐Salinas, E Delgado López‐Cózar",
+                "publication": "Journal of the Association for Information Science and Technology 66 (7 …, 2015",
+                "cited_by":
+                {
+                    "value": 11,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12392824779343592508",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=12392824779343592508&engine=google_scholar&hl=en",
+                    "cites_id": "12392824779343592508"
+                }
+                ,
+                "year": "2015"
+            }
+            ,
+            {
+                "title": "Aggregation of the web performance of internal university units as a method of quantitative analysis of a university system: The case of Spain",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:iH-uZ7U-co4C",
+                "citation_id": "g6bEUdkAAAAJ:iH-uZ7U-co4C",
+                "authors": "E Orduña‐Malea",
+                "publication": "Journal of the American Society for Information Science and Technology 64 …, 2013",
+                "cited_by":
+                {
+                    "value": 11,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12947724203774683433",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=12947724203774683433&engine=google_scholar&hl=en",
+                    "cites_id": "12947724203774683433"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "Directorio de expertos en el tratamiento de la información (EXIT). Análisis de uso",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:u5HHmVD_uO8C",
+                "citation_id": "g6bEUdkAAAAJ:u5HHmVD_uO8C",
+                "authors": "E Orduña-Malea, JM Rodríguez-Gairín, T Baiget",
+                "publication": "El profesional de la información 16 (5), 497-509, 2007",
+                "cited_by":
+                {
+                    "value": 11,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6365902371597012729,10785624348846780566,2050590700229671241",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=6365902371597012729%2C10785624348846780566%2C2050590700229671241&engine=google_scholar&hl=en",
+                    "cites_id": "6365902371597012729,10785624348846780566,2050590700229671241"
+                }
+                ,
+                "year": "2007"
+            }
+            ,
+            {
+                "title": "Link-based approach to study scientific software usage: the case of VOSviewer",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:RtRctb2lSbAC",
+                "citation_id": "g6bEUdkAAAAJ:RtRctb2lSbAC",
+                "authors": "E Orduña-Malea, R Costas",
+                "publication": "Scientometrics 126 (9), 8153-8186, 2021",
+                "cited_by":
+                {
+                    "value": 10,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4208206509680387909",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=4208206509680387909&engine=google_scholar&hl=en",
+                    "cites_id": "4208206509680387909"
+                }
+                ,
+                "year": "2021"
+            }
+            ,
+            {
+                "title": "Google Trends: analítica de búsquedas al servicio del investigador, del profesional y del curioso",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:PYBJJbyH-FwC",
+                "citation_id": "g6bEUdkAAAAJ:PYBJJbyH-FwC",
+                "authors": "E Orduña-Malea",
+                "publication": "Anuario ThinkEPI 13 (1), 1-14, 2019",
+                "cited_by":
+                {
+                    "value": 10,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6540097330066518635",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=6540097330066518635&engine=google_scholar&hl=en",
+                    "cites_id": "6540097330066518635"
+                }
+                ,
+                "year": "2019"
+            }
+            ,
+            {
+                "title": "2016 Google Scholar Metrics released: a matter of languages... and something else",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:N5tVd3kTz84C",
+                "citation_id": "g6bEUdkAAAAJ:N5tVd3kTz84C",
+                "authors": "A Martín-Martín, JM Ayllón, E Orduña-Malea, ED López-Cózar",
+                "publication": "arXiv preprint arXiv:1607.06260, 2016",
+                "cited_by":
+                {
+                    "value": 10,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15253127008209097178,403507667249782861",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15253127008209097178%2C403507667249782861&engine=google_scholar&hl=en",
+                    "cites_id": "15253127008209097178,403507667249782861"
+                }
+                ,
+                "year": "2016"
+            }
+            ,
+            {
+                "title": "Ruta dorada del open access en Web of Science",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:D03iK_w7-QYC",
+                "citation_id": "g6bEUdkAAAAJ:D03iK_w7-QYC",
+                "authors": "D Torres-Salinas, E Orduña-Malea",
+                "publication": "Anuario ThinkEPI 8, 211-214, 2014",
+                "cited_by":
+                {
+                    "value": 10,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16397200029725073678,4415153074756249499",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=16397200029725073678%2C4415153074756249499&engine=google_scholar&hl=en",
+                    "cites_id": "16397200029725073678,4415153074756249499"
+                }
+                ,
+                "year": "2014"
+            }
+            ,
+            {
+                "title": "Proposal for a multilevel university cybermetric analysis model",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:QIV2ME_5wuYC",
+                "citation_id": "g6bEUdkAAAAJ:QIV2ME_5wuYC",
+                "authors": "E Orduña-Malea, JA Ontalba-Ruipérez",
+                "publication": "Scientometrics 95 (3), 863-884, 2013",
+                "cited_by":
+                {
+                    "value": 10,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5505194280935236315",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=5505194280935236315&engine=google_scholar&hl=en",
+                    "cites_id": "5505194280935236315"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "Índice H de las revistas científicas españolas según Google Scholar Metrics (2011-2015)",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:2tRrZ1ZAMYUC",
+                "citation_id": "g6bEUdkAAAAJ:2tRrZ1ZAMYUC",
+                "authors": "JM Ayllón, A Martín-Martín, E Orduña Malea, E Delgado López-Cózar",
+                "cited_by":
+                {
+                    "value": 9,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14477110648244345545",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=14477110648244345545&engine=google_scholar&hl=en",
+                    "cites_id": "14477110648244345545"
+                }
+                ,
+                "year": "2016"
+            }
+            ,
+            {
+                "title": "Disclosing the network structure of private companies on the web: the case of Spanish IBEX 35 share index",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:K3LRdlH-MEoC",
+                "citation_id": "g6bEUdkAAAAJ:K3LRdlH-MEoC",
+                "authors": "E Orduna-Malea, E Delgado López-Cózar, J Serrano-Cobos, ...",
+                "publication": "Online Information Review 39 (3), 360-382, 2015",
+                "cited_by":
+                {
+                    "value": 9,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8678330803790840997",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=8678330803790840997&engine=google_scholar&hl=en",
+                    "cites_id": "8678330803790840997"
+                }
+                ,
+                "year": "2015"
+            }
+            ,
+            {
+                "title": "Influence of the academic library on US university reputation: A webometric approach",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:bEWYMUwI8FkC",
+                "citation_id": "g6bEUdkAAAAJ:bEWYMUwI8FkC",
+                "authors": "E Orduña-Malea, JJ Regazzi",
+                "publication": "Technologies 1 (2), 26-43, 2013",
+                "cited_by":
+                {
+                    "value": 9,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1305243275058985014",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=1305243275058985014&engine=google_scholar&hl=en",
+                    "cites_id": "1305243275058985014"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "Universities through the eyes of bibliographic databases: a retroactive growth comparison of Google Scholar, Scopus and Web of Science",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:7H_MAutzIkAC",
+                "citation_id": "g6bEUdkAAAAJ:7H_MAutzIkAC",
+                "authors": "E Orduna-Malea, S Aytac, CY Tran",
+                "publication": "Scientometrics 121 (1), 433-450, 2019",
+                "cited_by":
+                {
+                    "value": 8,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10690502578063921017",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10690502578063921017&engine=google_scholar&hl=en",
+                    "cites_id": "10690502578063921017"
+                }
+                ,
+                "year": "2019"
+            }
+            ,
+            {
+                "title": "Fuentes de enlaces web para análisis cibermétricos (2012)",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:KlAtU1dfN6UC",
+                "citation_id": "g6bEUdkAAAAJ:KlAtU1dfN6UC",
+                "authors": "E Orduña-Malea",
+                "publication": "Anuario ThinkEPI 6, 276-280, 2012",
+                "cited_by":
+                {
+                    "value": 8,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4374060914772984727,18311176039012989822,3410109798584577318,4974822364361077049",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=4374060914772984727%2C18311176039012989822%2C3410109798584577318%2C4974822364361077049&engine=google_scholar&hl=en",
+                    "cites_id": "4374060914772984727,18311176039012989822,3410109798584577318,4974822364361077049"
+                }
+                ,
+                "year": "2012"
+            }
+            ,
+            {
+                "title": "¡Viva la competencia! Nuevas dimensiones para la búsqueda y evaluación de la información científica",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:QYdC8u9Cj1oC",
+                "citation_id": "g6bEUdkAAAAJ:QYdC8u9Cj1oC",
+                "authors": "E Orduña-Malea, E Delgado-López-Cózar",
+                "publication": "Anuario ThinkEPI 12, 304-3010, 2018",
+                "cited_by":
+                {
+                    "value": 7,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17728273179871212017,14122522793309538362,1186091453455726673",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=17728273179871212017%2C14122522793309538362%2C1186091453455726673&engine=google_scholar&hl=en",
+                    "cites_id": "17728273179871212017,14122522793309538362,1186091453455726673"
+                }
+                ,
+                "year": "2018"
+            }
+            ,
+            {
+                "title": "Visibilidad de los repositorios institucionales argentinos en la Web: indicadores y buenas prácticas",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:YOwf2qJgpHMC",
+                "citation_id": "g6bEUdkAAAAJ:YOwf2qJgpHMC",
+                "authors": "E Orduña-Malea",
+                "publication": "TIEB2: Segundo Taller de Indicadores de Evaluación de Bibliotecas 1, 28p., 2011",
+                "cited_by":
+                {
+                    "value": 7,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3027107547156022303",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=3027107547156022303&engine=google_scholar&hl=en",
+                    "cites_id": "3027107547156022303"
+                }
+                ,
+                "year": "2011"
+            }
+            ,
+            {
+                "title": "Personalización e interactividad en los rankings de universidades publicados en la Web",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:zYLM7Y9cAGgC",
+                "citation_id": "g6bEUdkAAAAJ:zYLM7Y9cAGgC",
+                "authors": "E Orduña-Malea",
+                "publication": "Anuario ThinkEPI 5, 216-232, 2011",
+                "cited_by":
+                {
+                    "value": 7,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=58783354741418450,14420502819390444429",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=58783354741418450%2C14420502819390444429&engine=google_scholar&hl=en",
+                    "cites_id": "58783354741418450,14420502819390444429"
+                }
+                ,
+                "year": "2011"
+            }
+            ,
+            {
+                "title": "Ranking de universidades en la Unión Europea: aproximación multidimensional a una realidad compleja",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:IjCSPb-OGe4C",
+                "citation_id": "g6bEUdkAAAAJ:IjCSPb-OGe4C",
+                "authors": "E Orduña-Malea",
+                "publication": "Anuario ThinkEPI 4, 155-159, 2010",
+                "cited_by":
+                {
+                    "value": 7,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3120799468670407560,15644572571156598226",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=3120799468670407560%2C15644572571156598226&engine=google_scholar&hl=en",
+                    "cites_id": "3120799468670407560,15644572571156598226"
+                }
+                ,
+                "year": "2010"
+            }
+            ,
+            {
+                "title": "DocuMenea: noticias frescas sobre documentación",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:d1gkVwhDpl0C",
+                "citation_id": "g6bEUdkAAAAJ:d1gkVwhDpl0C",
+                "authors": "T Baiget, M Caballo, A Ferrer-Sapena, E Giménez-Toledo, J Guallar, ...",
+                "publication": "11es Jornades Catalanes d'Informació i Documentació, Barcelona (Spain), 609-611, 2008",
+                "cited_by":
+                {
+                    "value": 7,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3132042350330040289,1500925909448881933",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=3132042350330040289%2C1500925909448881933&engine=google_scholar&hl=en",
+                    "cites_id": "3132042350330040289,1500925909448881933"
+                }
+                ,
+                "year": "2008"
+            }
+            ,
+            {
+                "title": "Redes de conectividad entre empresas tecnológicas a través de un análisis métrico longitudinal de menciones de usuario en Twitter",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:dQ2og3OwTAUC",
+                "citation_id": "g6bEUdkAAAAJ:dQ2og3OwTAUC",
+                "authors": "D Azorín-Richarte, E Orduna-Malea, JA Ontalba-Ruipérez",
+                "publication": "Revista Española de Documentación Científica 39 (3), e140, 2016",
+                "cited_by":
+                {
+                    "value": 6,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14173003958123064643,3487199499522774019,3353473735595609328",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=14173003958123064643%2C3487199499522774019%2C3353473735595609328&engine=google_scholar&hl=en",
+                    "cites_id": "14173003958123064643,3487199499522774019,3353473735595609328"
+                }
+                ,
+                "year": "2016"
+            }
+            ,
+            {
+                "title": "Low Visibility of Latin American Repositories in Google Scholar: Technical Incompatibility or Lack of Web Strategy?",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:t6usbXjVLHcC",
+                "citation_id": "g6bEUdkAAAAJ:t6usbXjVLHcC",
+                "authors": "E Orduna-Malea, E Delgado López-Cózar",
+                "publication": "London School of Economics Impact of Social Sciences, 2014",
+                "cited_by":
+                {
+                    "value": 6,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5634114881870872817,11192432830903640902",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=5634114881870872817%2C11192432830903640902&engine=google_scholar&hl=en",
+                    "cites_id": "5634114881870872817,11192432830903640902"
+                }
+                ,
+                "year": "2014"
+            }
+            ,
+            {
+                "title": "Empirical Evidences in Citation-Based Search Engines: Is Microsoft Academic Search dead?",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:pqnbT2bcN3wC",
+                "citation_id": "g6bEUdkAAAAJ:pqnbT2bcN3wC",
+                "authors": "E Orduna-Malea, JM Ayllon, A Martin-Martin, E Delgado Lopez-Cozar",
+                "publication": "EC3 Working Paper 16, 2014",
+                "cited_by":
+                {
+                    "value": 6,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6502533323412270621,17541103800943796258",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=6502533323412270621%2C17541103800943796258&engine=google_scholar&hl=en",
+                    "cites_id": "6502533323412270621,17541103800943796258"
+                }
+                ,
+                "year": "2014"
+            }
+            ,
+            {
+                "title": "Influence of language and file type on the web visibility of top European universities",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:J_g5lzvAfSwC",
+                "citation_id": "g6bEUdkAAAAJ:J_g5lzvAfSwC",
+                "authors": "E Orduña-Malea, JL Ortega, IF Aguillo",
+                "publication": "Aslib Journal of Information Management 66 (1), 96-116, 2014",
+                "cited_by":
+                {
+                    "value": 6,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16919004123797761074",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=16919004123797761074&engine=google_scholar&hl=en",
+                    "cites_id": "16919004123797761074"
+                }
+                ,
+                "year": "2014"
+            }
+            ,
+            {
+                "title": "Graphic, multimedia, and blog content presence in the Spanish academic web-space",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:ULOm3_A8WrAC",
+                "citation_id": "g6bEUdkAAAAJ:ULOm3_A8WrAC",
+                "authors": "E Orduña-Malea",
+                "publication": "Cybermetrics 16 (1), 2012",
+                "cited_by":
+                {
+                    "value": 6,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11008664381907193143",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11008664381907193143&engine=google_scholar&hl=en",
+                    "cites_id": "11008664381907193143"
+                }
+                ,
+                "year": "2012"
+            }
+            ,
+            {
+                "title": "Dot-science top level domain: Academic websites or dumpsites?",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:NxmKEeNBbOMC",
+                "citation_id": "g6bEUdkAAAAJ:NxmKEeNBbOMC",
+                "authors": "E Orduña-Malea",
+                "publication": "Scientometrics 126 (4), 3565-3591, 2021",
+                "cited_by":
+                {
+                    "value": 5,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4544238806592182317",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=4544238806592182317&engine=google_scholar&hl=en",
+                    "cites_id": "4544238806592182317"
+                }
+                ,
+                "year": "2021"
+            }
+            ,
+            {
+                "title": "Google Scholar and the gray literature: A reply to Bonato's review",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:AvfA0Oy_GE0C",
+                "citation_id": "g6bEUdkAAAAJ:AvfA0Oy_GE0C",
+                "authors": "E Orduna-Malea, A Martín-Martín, E Delgado López-Cózar",
+                "publication": "EC3 Working Papers 23, 2017",
+                "cited_by":
+                {
+                    "value": 5,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=547511015498430535",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=547511015498430535&engine=google_scholar&hl=en",
+                    "cites_id": "547511015498430535"
+                }
+                ,
+                "year": "2017"
+            }
+            ,
+            {
+                "title": "From universities to private companies: a measurable route of LinkedIn users",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:NJ774b8OgUMC",
+                "citation_id": "g6bEUdkAAAAJ:NJ774b8OgUMC",
+                "authors": "E Orduna-Malea, C Font-Julián, JA Ontalba-Ruipérez",
+                "publication": "Digital Tools for Academic Branding and Self-Promotion, 127-150, 2017",
+                "cited_by":
+                {
+                    "value": 5,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1753209190378532296,12413567383155937285",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=1753209190378532296%2C12413567383155937285&engine=google_scholar&hl=en",
+                    "cites_id": "1753209190378532296,12413567383155937285"
+                }
+                ,
+                "year": "2017"
+            }
+            ,
+            {
+                "title": "Creando una identidad académica digital",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:5awf1xo2G04C",
+                "citation_id": "g6bEUdkAAAAJ:5awf1xo2G04C",
+                "authors": "E Orduña-Malea, E Delgado López-Cózar",
+                "publication": "[Workshop] - Universidad de León, 2016",
+                "cited_by":
+                {
+                    "value": 5,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16561715992300281279,10233534737517098117,15976425484825539611",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=16561715992300281279%2C10233534737517098117%2C15976425484825539611&engine=google_scholar&hl=en",
+                    "cites_id": "16561715992300281279,10233534737517098117,15976425484825539611"
+                }
+                ,
+                "year": "2016"
+            }
+            ,
+            {
+                "title": "Nature's top 100 Re-revisited",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:vRqMK49ujn8C",
+                "citation_id": "g6bEUdkAAAAJ:vRqMK49ujn8C",
+                "authors": "A Martín-Martín, JM Ayllón, E Delgado López-Cózar, E Orduna-Malea",
+                "publication": "Journal of the Association for Information Science & Technology 66 (12 …, 2015",
+                "cited_by":
+                {
+                    "value": 5,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12209467450881132341",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=12209467450881132341&engine=google_scholar&hl=en",
+                    "cites_id": "12209467450881132341"
+                }
+                ,
+                "year": "2015"
+            }
+            ,
+            {
+                "title": "Octava edición del Anuario ThinkEPI",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:pyW8ca7W8N0C",
+                "citation_id": "g6bEUdkAAAAJ:pyW8ca7W8N0C",
+                "authors": "J Guallar, E Orduña-Malea, I Olea",
+                "publication": "Anuario ThinkEPI 8, 9-13, 2014",
+                "cited_by":
+                {
+                    "value": 5,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15257047704982493480,2186529809657700035,913042104213501567,835301357425217401",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15257047704982493480%2C2186529809657700035%2C913042104213501567%2C835301357425217401&engine=google_scholar&hl=en",
+                    "cites_id": "15257047704982493480,2186529809657700035,913042104213501567,835301357425217401"
+                }
+                ,
+                "year": "2014"
+            }
+            ,
+            {
+                "title": "Are Latin-American repositories invisible on Google and Google Scholar?",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:u_35RYKgDlwC",
+                "citation_id": "g6bEUdkAAAAJ:u_35RYKgDlwC",
+                "authors": "E Orduña-Malea, A Martín-Martín, JM Ayllón Millán, ...",
+                "publication": "Google Scholar’s Digest Reviews (3)., 2014",
+                "cited_by":
+                {
+                    "value": 5,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5914941715300135196,4749734802105886475",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=5914941715300135196%2C4749734802105886475&engine=google_scholar&hl=en",
+                    "cites_id": "5914941715300135196,4749734802105886475"
+                }
+                ,
+                "year": "2014"
+            }
+            ,
+            {
+                "title": "Classic papers: using Google Scholar to detect the highly-cited documents",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:yMeIxYmEMEAC",
+                "citation_id": "g6bEUdkAAAAJ:yMeIxYmEMEAC",
+                "authors": "E Orduna-Malea, A Martín-Martín, E Delgado López-Cózar",
+                "publication": "Proceedings of the 23rd International Conference on Science and Technology …, 2018",
+                "cited_by":
+                {
+                    "value": 4,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4355727397153938195",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=4355727397153938195&engine=google_scholar&hl=en",
+                    "cites_id": "4355727397153938195"
+                }
+                ,
+                "year": "2018"
+            }
+            ,
+            {
+                "title": "Proposal of a Goal-Oriented Shared Catalog Model",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:5nxA0vEk-isC",
+                "citation_id": "g6bEUdkAAAAJ:5nxA0vEk-isC",
+                "authors": "A Sellès-Carot, E Orduña-Malea, J Serrano-Cobos, N Lloret-Romero",
+                "publication": "IEEE Fourth International Conference on Semantic Computing (ICSC), 502-507, 2010",
+                "cited_by":
+                {
+                    "value": 4,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16739338746815005452,16618823523986876790",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=16739338746815005452%2C16618823523986876790&engine=google_scholar&hl=en",
+                    "cites_id": "16739338746815005452,16618823523986876790"
+                }
+                ,
+                "year": "2010"
+            }
+            ,
+            {
+                "title": "Reutilización e intercambio de objetos digitales compuestos en la Web: el proyecto OAI-ORE",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:ufrVoPGSRksC",
+                "citation_id": "g6bEUdkAAAAJ:ufrVoPGSRksC",
+                "authors": "E Orduña-Malea",
+                "publication": "Anuario ThinkEPI 3, 45-48, 2009",
+                "cited_by":
+                {
+                    "value": 4,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6665638647956669987,15746343816697556532,16300478672233754234",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=6665638647956669987%2C15746343816697556532%2C16300478672233754234&engine=google_scholar&hl=en",
+                    "cites_id": "6665638647956669987,15746343816697556532,16300478672233754234"
+                }
+                ,
+                "year": "2009"
+            }
+            ,
+            {
+                "title": "Propuesta de indicadores métricos para gestores sociales de noticias: análisis de la prensa digital española en Menéame",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:9yKSN-GCB0IC",
+                "citation_id": "g6bEUdkAAAAJ:9yKSN-GCB0IC",
+                "authors": "E Orduña-Malea, JA Ontalba-Ruipérez",
+                "publication": "Information research 14 (3), 2, 2009",
+                "cited_by":
+                {
+                    "value": 4,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8345500133625896987,8673717300267602989",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=8345500133625896987%2C8673717300267602989&engine=google_scholar&hl=en",
+                    "cites_id": "8345500133625896987,8673717300267602989"
+                }
+                ,
+                "year": "2009"
+            }
+            ,
+            {
+                "title": "Research interest score: el nuevo indicador bibliométrico que mide la influencia de las publicaciones de un autor en ResearchGate",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:U4n9YNQMCAIC",
+                "citation_id": "g6bEUdkAAAAJ:U4n9YNQMCAIC",
+                "authors": "E Delgado López-Cózar, E Orduña-Malea",
+                "publication": "Preprint, 2019",
+                "cited_by":
+                {
+                    "value": 3,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18004333412699805840",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=18004333412699805840&engine=google_scholar&hl=en",
+                    "cites_id": "18004333412699805840"
+                }
+                ,
+                "year": "2019"
+            }
+            ,
+            {
+                "title": "Hit count estimate variability for website-specific queries in search engines: The case for rare disease association websites",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:DUooU5lO8OsC",
+                "citation_id": "g6bEUdkAAAAJ:DUooU5lO8OsC",
+                "authors": "CI Font-Julian, JA Ontalba-Ruipérez, E Orduña-Malea",
+                "publication": "Aslib Journal of Information Management 70 (2), 192-213, 2018",
+                "cited_by":
+                {
+                    "value": 3,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8461393278561632955",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=8461393278561632955&engine=google_scholar&hl=en",
+                    "cites_id": "8461393278561632955"
+                }
+                ,
+                "year": "2018"
+            }
+            ,
+            {
+                "title": "Scholar Mirrors: Integrating evidence of impact from multiple sources into one platform to expedite researcher evaluation",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:cWzG1nlazyYC",
+                "citation_id": "g6bEUdkAAAAJ:cWzG1nlazyYC",
+                "authors": "A Martín-Martín, E Orduna-Malea, ED López-Cózar",
+                "publication": "STI (2017). Open indicators: innovation, participation and actor-based STI …, 2017",
+                "cited_by":
+                {
+                    "value": 3,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8674659419922946543,10068559610675287339",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=8674659419922946543%2C10068559610675287339&engine=google_scholar&hl=en",
+                    "cites_id": "8674659419922946543,10068559610675287339"
+                }
+                ,
+                "year": "2017"
+            }
+            ,
+            {
+                "title": "Cómo monitorizar el impacto académico de un investigador",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:SnGPuo6Feq8C",
+                "citation_id": "g6bEUdkAAAAJ:SnGPuo6Feq8C",
+                "authors": "E Orduña-Malea, E Delgado López-Cózar",
+                "publication": "VII Conferencia Internacional sobre Bibliotecas y Repositorios Digitales de …, 2017",
+                "cited_by":
+                {
+                    "value": 3,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12147409083847144380,9934979067642710297",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=12147409083847144380%2C9934979067642710297&engine=google_scholar&hl=en",
+                    "cites_id": "12147409083847144380,9934979067642710297"
+                }
+                ,
+                "year": "2017"
+            }
+            ,
+            {
+                "title": "Buenas prácticas en la construcción de una identidad académica online para una universidad",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:Dip1O2bNi0gC",
+                "citation_id": "g6bEUdkAAAAJ:Dip1O2bNi0gC",
+                "authors": "E Orduña-Malea, E Delgado López-Cózar",
+                "publication": "[Workshop] - Universitat Politècnica de Catalunya, 2016",
+                "cited_by":
+                {
+                    "value": 3,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6911142953802476369,9645569089517828613",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=6911142953802476369%2C9645569089517828613&engine=google_scholar&hl=en",
+                    "cites_id": "6911142953802476369,9645569089517828613"
+                }
+                ,
+                "year": "2016"
+            }
+            ,
+            {
+                "title": "¿Cómo mejorar la difusión y visibilidad de un autor con Google Scholar Citations, ResearchGate y otras redes académicas? Construyendo la identidad digital de un científico en …",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:eMMeJKvmdy0C",
+                "citation_id": "g6bEUdkAAAAJ:eMMeJKvmdy0C",
+                "authors": "E Delgado López-Cózar, E Orduña-Malea",
+                "publication": "[Workshop] - Universidad de Oviedo, 2016",
+                "cited_by":
+                {
+                    "value": 3,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16466704451010053171",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=16466704451010053171&engine=google_scholar&hl=en",
+                    "cites_id": "16466704451010053171"
+                }
+                ,
+                "year": "2016"
+            }
+            ,
+            {
+                "title": "Identifying institutional relationships in a geographically distributed public health system using interlinking and co-authorship methods",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:VOx2b1Wkg3QC",
+                "citation_id": "g6bEUdkAAAAJ:VOx2b1Wkg3QC",
+                "authors": "JA Ontalba-Ruipérez, E Orduna-Malea, A Alonso-Arroyo",
+                "publication": "Scientometrics 106 (3), 1167-1191, 2016",
+                "cited_by":
+                {
+                    "value": 3,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10987232931114258039",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10987232931114258039&engine=google_scholar&hl=en",
+                    "cites_id": "10987232931114258039"
+                }
+                ,
+                "year": "2016"
+            }
+            ,
+            {
+                "title": "Reviving the past: the growth of citations to old documents",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:xtRiw3GOFMkC",
+                "citation_id": "g6bEUdkAAAAJ:xtRiw3GOFMkC",
+                "authors": "A Martín-Martín, E Orduña-Malea, JM Ayllón, E Delgado López-Cózar",
+                "publication": "Available at: http://arxiv.org/pdf/1501.02084, 2015",
+                "cited_by":
+                {
+                    "value": 3,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8768868805802003844",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=8768868805802003844&engine=google_scholar&hl=en",
+                    "cites_id": "8768868805802003844"
+                }
+                ,
+                "year": "2015"
+            }
+            ,
+            {
+                "title": "Aplicaciones métricas de Google Scholar para la evaluación del impacto científico",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:tkaPQYYpVKoC",
+                "citation_id": "g6bEUdkAAAAJ:tkaPQYYpVKoC",
+                "authors": "E Orduna-Malea, JM Ayllón, A Martín Martín, E Delgado López-Cózar",
+                "publication": "IV Jornadas de Intercambio y Reflexión acerca de la Investigación en …, 2015",
+                "cited_by":
+                {
+                    "value": 3,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15028140418475747109",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15028140418475747109&engine=google_scholar&hl=en",
+                    "cites_id": "15028140418475747109"
+                }
+                ,
+                "year": "2015"
+            }
+            ,
+            {
+                "title": "Proceedings scholar metrics: H index of proceedings on computer science, electrical & electronic engineering, and communications according to Google Scholar Metrics (2009-2013)",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:lgwcVrK6X84C",
+                "citation_id": "g6bEUdkAAAAJ:lgwcVrK6X84C",
+                "authors": "A Martín-Martín, E Ordunna-Malea, JM Ayllón, ED López-Cózar",
+                "publication": "arXiv preprint arXiv:1412.7633, 2014",
+                "cited_by":
+                {
+                    "value": 3,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13370545308010862036",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=13370545308010862036&engine=google_scholar&hl=en",
+                    "cites_id": "13370545308010862036"
+                }
+                ,
+                "year": "2014"
+            }
+            ,
+            {
+                "title": "Impacto de los repositorios a través de técnicas cibermétricas: el caso general de Latinoamérica y especial de Costa Rica",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:KxtntwgDAa4C",
+                "citation_id": "g6bEUdkAAAAJ:KxtntwgDAa4C",
+                "authors": "E Orduña-Malea",
+                "publication": "III Conferencia Bibliotecas y Repositorios Digitales de América Latina …, 2013",
+                "cited_by":
+                {
+                    "value": 3,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16497740320924537347",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=16497740320924537347&engine=google_scholar&hl=en",
+                    "cites_id": "16497740320924537347"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "Estrategias y oportunidades tecnológicas en la generación de Linked Data en las bibliotecas",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g6bEUdkAAAAJ&pagesize=100&citation_for_view=g6bEUdkAAAAJ:4JMBOYKVnBMC",
+                "citation_id": "g6bEUdkAAAAJ:4JMBOYKVnBMC",
+                "authors": "A Sellés Carot, E Orduña-Malea, J Serrano Cobos",
+                "publication": "Mi biblioteca: La revista del mundo bibliotecario, 54-59, 2013",
+                "cited_by":
+                {
+                    "value": 3,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6943893839571835200,15476195947515960919",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=6943893839571835200%2C15476195947515960919&engine=google_scholar&hl=en",
+                    "cites_id": "6943893839571835200,15476195947515960919"
+                }
+                ,
+                "year": "2013"
+            }
+        ]
+        ,
+        "cited_by":
+        {
+            "table":
+            [
+                {
+                    "citations":
+                    {
+                        "all": 3364,
+                        "since_2017": 2788
+                    }
+                }
+                ,
+                {
+                    "h_index":
+                    {
+                        "all": 28,
+                        "since_2017": 26
+                    }
+                }
+                ,
+                {
+                    "i10_index":
+                    {
+                        "all": 62,
+                        "since_2017": 46
+                    }
+                }
+            ]
+            ,
+            "graph":
+            [
+                {
+                    "year": 2009,
+                    "citations": 10
+                }
+                ,
+                {
+                    "year": 2010,
+                    "citations": 9
+                }
+                ,
+                {
+                    "year": 2011,
+                    "citations": 6
+                }
+                ,
+                {
+                    "year": 2012,
+                    "citations": 18
+                }
+                ,
+                {
+                    "year": 2013,
+                    "citations": 48
+                }
+                ,
+                {
+                    "year": 2014,
+                    "citations": 83
+                }
+                ,
+                {
+                    "year": 2015,
+                    "citations": 119
+                }
+                ,
+                {
+                    "year": 2016,
+                    "citations": 208
+                }
+                ,
+                {
+                    "year": 2017,
+                    "citations": 284
+                }
+                ,
+                {
+                    "year": 2018,
+                    "citations": 401
+                }
+                ,
+                {
+                    "year": 2019,
+                    "citations": 435
+                }
+                ,
+                {
+                    "year": 2020,
+                    "citations": 580
+                }
+                ,
+                {
+                    "year": 2021,
+                    "citations": 909
+                }
+                ,
+                {
+                    "year": 2022,
+                    "citations": 162
+                }
+            ]
+        }
+        ,
+        "public_access":
+        {
+            "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=g6bEUdkAAAAJ",
+            "available": 26,
+            "not_available": 0
+        }
+        ,
+        "co_authors":
+        [
+            {
+                "name": "Emilio Delgado López-Cózar",
+                "link": "https://scholar.google.com/citations?user=kyTHOh0AAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=kyTHOh0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "kyTHOh0AAAAJ",
+                "affiliations": "Professor Research Methods, Facultad de Comunicación y Documentación, Universidad de Granada",
+                "email": "Verified email at ugr.es",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=kyTHOh0AAAAJ&citpid=7"
+            }
+            ,
+            {
+                "name": "Alberto Martín-Martín",
+                "link": "https://scholar.google.com/citations?user=YlPd48UAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=YlPd48UAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "YlPd48UAAAAJ",
+                "affiliations": "Postdoctoral researcher, Universidad de Granada, Spain.",
+                "email": "Verified email at ugr.es",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=YlPd48UAAAAJ&citpid=13"
+            }
+            ,
+            {
+                "name": "José-Antonio Ontalba-Ruipérez",
+                "link": "https://scholar.google.com/citations?user=aPlyBKMAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=aPlyBKMAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "aPlyBKMAAAAJ",
+                "affiliations": "Trademetrics Group. Universidad Politécnica de Valencia",
+                "email": "Verified email at upv.es",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=aPlyBKMAAAAJ&citpid=2"
+            }
+            ,
+            {
+                "name": "Mike Thelwall",
+                "link": "https://scholar.google.com/citations?user=8jCKL1sAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=8jCKL1sAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "8jCKL1sAAAAJ",
+                "affiliations": "Statistical Cybermetrics Research Group, University of Wolverhampton",
+                "email": "Verified email at wlv.ac.uk",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=8jCKL1sAAAAJ&citpid=3"
+            }
+            ,
+            {
+                "name": "Jorge Serrano-Cobos",
+                "link": "https://scholar.google.com/citations?user=xBTu33YAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=xBTu33YAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "xBTu33YAAAAJ",
+                "affiliations": "Universidad Politécnica de Valencia",
+                "email": "Verified email at har.upv.es",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=xBTu33YAAAAJ&citpid=2"
+            }
+            ,
+            {
+                "name": "Cristina I. Font-Julian",
+                "link": "https://scholar.google.com/citations?user=guYABmkAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=guYABmkAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "guYABmkAAAAJ",
+                "affiliations": "Postdoctoral researcher. Universitat Politècnica de València (Spain)",
+                "email": "Verified email at upv.es",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=guYABmkAAAAJ&citpid=2"
+            }
+            ,
+            {
+                "name": "Isidro F. Aguillo Caño (ORCID:0000-0...",
+                "link": "https://scholar.google.com/citations?user=SaCSbeoAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=SaCSbeoAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "SaCSbeoAAAAJ",
+                "affiliations": "Cybermetrics Lab IPP-CSIC (ROR 04q93ds34). SPAIN",
+                "email": "Verified email at csic.es",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=SaCSbeoAAAAJ&citpid=6"
+            }
+            ,
+            {
+                "name": "nuria Lloret Romero",
+                "link": "https://scholar.google.com/citations?user=-PS61loAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=-PS61loAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "-PS61loAAAAJ",
+                "affiliations": "Professor Universitat Politécnica de Valencia",
+                "email": "Verified email at upvnet.upv.es",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=-PS61loAAAAJ&citpid=2"
+            }
+            ,
+            {
+                "name": "Rafael Ruiz-Perez",
+                "link": "https://scholar.google.com/citations?user=ozjAngUAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=ozjAngUAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "ozjAngUAAAAJ",
+                "affiliations": "Profesor de Documentación. Grupo EC3-Universidad de Granada. Spain",
+                "email": "Verified email at ugr.es",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ozjAngUAAAAJ&citpid=3"
+            }
+            ,
+            {
+                "name": "Rafael Repiso (ORCID:0000-0002-28...",
+                "link": "https://scholar.google.com/citations?user=IEfRsHkAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=IEfRsHkAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "IEfRsHkAAAAJ",
+                "affiliations": "Universidad Internacional de la Rioja (UNIR)",
+                "email": "Verified email at unir.net",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=IEfRsHkAAAAJ&citpid=8"
+            }
+            ,
+            {
+                "name": "Tomàs Baiget (ORCID: 0000-0003-00...",
+                "link": "https://scholar.google.com/citations?user=SeXbcaYAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=SeXbcaYAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "SeXbcaYAAAAJ",
+                "affiliations": ""El profesional de la informacion" (EPI), Director",
+                "email": "Verified email at sarenet.es",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=SeXbcaYAAAAJ&citpid=2"
+            }
+            ,
+            {
+                "name": "Adolfo Alonso-Arroyo",
+                "link": "https://scholar.google.com/citations?user=Gc2xc88AAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=Gc2xc88AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "Gc2xc88AAAAJ",
+                "affiliations": "Universidad de Valencia. Dpto. Hª de la Ciencia y Documentación",
+                "email": "Verified email at uv.es",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Gc2xc88AAAAJ&citpid=6"
+            }
+            ,
+            {
+                "name": "Carmen Pérez Esparrells",
+                "link": "https://scholar.google.com/citations?user=WP-UCz4AAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=WP-UCz4AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "WP-UCz4AAAAJ",
+                "affiliations": "Associate Professor in Applied Economics (Universidad Autónoma de Madrid)",
+                "email": "Verified email at uam.es",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=WP-UCz4AAAAJ&citpid=2"
+            }
+            ,
+            {
+                "name": "Daniel Torres-Salinas",
+                "link": "https://scholar.google.com/citations?user=wQUrJIoAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=wQUrJIoAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "wQUrJIoAAAAJ",
+                "affiliations": "Universidad de Granada - Dpto Información y Comunicación, EC3metrics spin off",
+                "email": "Verified email at ugr.es",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=wQUrJIoAAAAJ&citpid=4"
+            }
+            ,
+            {
+                "name": "Anne-Wil Harzing",
+                "link": "https://scholar.google.com/citations?user=v0sDYGsAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=v0sDYGsAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "v0sDYGsAAAAJ",
+                "affiliations": "Professor of International Management - Middlesex University - Tilburg University",
+                "email": "Verified email at mdx.ac.uk",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=v0sDYGsAAAAJ&citpid=9"
+            }
+            ,
+            {
+                "name": "JAVIER GUALLAR (ORCID:0000-000...",
+                "link": "https://scholar.google.com/citations?user=L8TSdjsAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=L8TSdjsAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "L8TSdjsAAAAJ",
+                "affiliations": "Professor of Library & Information Science and Communication. University of Barcelona (UB)",
+                "email": "Verified email at ub.edu",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=L8TSdjsAAAAJ&citpid=4"
+            }
+            ,
+            {
+                "name": "Ignacio AGUADED (ORCID - 0000-00...",
+                "link": "https://scholar.google.com/citations?user=w2lbSmEAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=w2lbSmEAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "w2lbSmEAAAAJ",
+                "affiliations": "Editor Comunicar Journal - University of Huelva - Spain - ROR: https://ror.org/03a1kt624",
+                "email": "Verified email at uhu.es",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=w2lbSmEAAAAJ&citpid=18"
+            }
+            ,
+            {
+                "name": "John Regazzi",
+                "link": "https://scholar.google.com/citations?user=uzY6ciAAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=uzY6ciAAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "uzY6ciAAAAAJ",
+                "affiliations": "Long Island University and Akoya Capital Partners",
+                "email": "Verified email at liu.edu",
+                "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+            }
+            ,
+            {
+                "name": "Josep-Manuel Rodríguez-Gairín",
+                "link": "https://scholar.google.com/citations?user=El_9KHMAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=El_9KHMAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "El_9KHMAAAAJ",
+                "affiliations": "Professor at Universitat de Barcelona, Spain",
+                "email": "Verified email at ub.edu",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=El_9KHMAAAAJ&citpid=3"
+            }
+            ,
+            {
+                "name": "José Luis Ortega",
+                "link": "https://scholar.google.com/citations?user=jYqQRWgAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=jYqQRWgAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "jYqQRWgAAAAJ",
+                "affiliations": "Institute for Advanced Social Studies (IESA), CSIC",
+                "email": "Verified email at orgc.csic.es",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=jYqQRWgAAAAJ&citpid=9"
+            }
+        ]
+        ,
+        "serpapi_pagination":
+        {
+            "next": "https://serpapi.com/search.json?author_id=g6bEUdkAAAAJ&engine=google_scholar_author&hl=en&num=100&start=100"
+        }
+    }

@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>sp</title>
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/fonts/fontawesome-all.min.css">
+    <link rel="stylesheet" href="assets/fonts/ionicons.min.css">
+    <link rel="stylesheet" href="assets/fonts/material-icons.min.css">
+    <link rel="stylesheet" href="assets/fonts/simple-line-icons.min.css">
+    <link rel="stylesheet" href="assets/fonts/typicons.min.css">
+    <link rel="stylesheet" href="assets/css/Footer-Dark.css">
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="stylesheet" href="assets/css/untitled.css">
+</head>
+
+<body>
+    <nav class="navbar navbar-light navbar-expand-md sticky-top shadow-sm" id="navBar" style="border-bottom-style: solid;background: var(--bs-white);">
+        <div class="container-fluid"><a class="navbar-brand" id="navbarBrand" href="#"><img id="brandLogo" src="assets/img/logo.png"></a><button data-bs-toggle="collapse" class="navbar-toggler" data-bs-target="#navBarCollapse" id="navbarToggler"><span class="visually-hidden" id="toggleNav">Toggle navigation</span><span class="navbar-toggler-icon" id="toggleIcon"></span></button>
+            <div class="collapse navbar-collapse" id="navBarCollapse">
+                <ul class="navbar-nav" id="navBarMenu">
+                    <li class="nav-item" id="navItem1"><a class="nav-link" id="navItemLink1" href="index.html">Pantalla principal/Inicio</a></li>
+                    <li class="nav-item" id="navItem2"><a class="nav-link" id="navItemLink2" href="download.html">Asistente descarga</a></li>
+                    <li class="nav-item" id="navItem3"><a class="nav-link" id="navItemLink3" href="authorProfile.html">Perfil autor</a></li>
+                    <li class="nav-item" id="navItem4"><a class="nav-link" id="navItemLink4" href="personalImpact.html">Impacto personal</a></li>
+                    <li class="nav-item" id="navItem5"><a class="nav-link active" id="navItemLink5" href="citesPerArea.html">Citas por áreas temáticas</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div id="main" style="margin: 10px;padding: 50px;">
+        <h5 id="mHead">Citas por áreas temáticas</h5>
+        <div class="container" id="mContainer">
+            <div class="row" id="mRow">
+                <div class="col-md-6 col-xl-3" id="mC1">
+                    <div class="shadow-sm" id="periodDiv">
+                        <p id="periodTitle" class="text-second-level" style="font-weight: bold;">Período</p>
+                        <form id="periodForm">
+                            <p class="text-start" style="font-size: 12px;">&nbsp;Desde&nbsp;&nbsp;<input class="form-control form-control-sm" type="date"></p>
+                            <p class="text-start" style="font-size: 12px;">&nbsp;Hasta&nbsp; &nbsp;<input class="form-control form-control-sm" type="date"></p>
+                        </form>
+                    </div>
+                </div>
+                <div class="col-md-6 col-xl-9" id="mC2">
+                    <div class="text-start shadow-sm" id="tableDiv">
+                        <div class="table-responsive text-start text-second-level" id="mTable">
+                            <table class="table table-hover table-sm table-borderless">
+                                <thead id="mTabHeader">
+                                    <tr id="mTabHR">
+                                        <th id="mTabHRC1" class="text-second-level">Área</th>
+                                        <th class="text-end text-second-level" id="mTabHRC2">Cantidad</th>
+                                        <th class="text-end text-second-level" id="mTabHRC3">% del total</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="mTabBody">
+                                    <tr id="mTabR1">
+                                        <td id="mTabR1C1">Área 1</td>
+                                        <td class="text-end" id="mTabR1C2">##</td>
+                                        <td class="text-end" id="mTabR1C3"></td>
+                                    </tr>
+                                    <tr id="mTabR2">
+                                        <td id="mTabR2C1">Área 2</td>
+                                        <td class="text-end" id="mTabR2C2">##</td>
+                                        <td class="text-end" id="mTabR2C3">##.##%</td>
+                                    </tr>
+                                    <tr id="mTabR3">
+                                        <td id="mTabR3C1">Área 3</td>
+                                        <td class="text-end" id="mTabR3C2">##</td>
+                                        <td class="text-end" id="mTabR3C3">##.##%</td>
+                                    </tr>
+                                    <tr id="mTabR4">
+                                        <td id="mTabR4C1">Área 4</td>
+                                        <td class="text-end" id="mTabR4C2">##</td>
+                                        <td class="text-end" id="mTabR4C3">##.##%</td>
+                                    </tr>
+                                    <tr id="mTabR5">
+                                        <td id="mTabR5C1">Área 5</td>
+                                        <td class="text-end" id="mTabR5C2">##</td>
+                                        <td class="text-end" id="mTabR5C3">##.##%</td>
+                                    </tr>
+                                    <tr id="mTabR6">
+                                        <td id="mTabR6C1">Área 6</td>
+                                        <td class="text-end" id="mTabR6C2">##</td>
+                                        <td class="text-end" id="mTabR6C3">##.##%</td>
+                                    </tr>
+                                    <tr id="mTabR7">
+                                        <td id="mTabR7C1">Área 7</td>
+                                        <td class="text-end" id="mTabR7C2">##</td>
+                                        <td class="text-end" id="mTabR7C3">##.##%</td>
+                                    </tr>
+                                    <tr id="mTabR8">
+                                        <td id="mTabR8C1">Área 8</td>
+                                        <td class="text-end" id="mTabR8C2">##</td>
+                                        <td class="text-end" id="mTabR8C3">##.##%</td>
+                                    </tr>
+                                    <tr id="mTabR9">
+                                        <td id="mTabR9C1">Área 9</td>
+                                        <td class="text-end" id="mTabR9C2">##</td>
+                                        <td class="text-end" id="mTabR9C3">##.##%</td>
+                                    </tr>
+                                    <tr id="mTabR10">
+                                        <td id="mTabR10C1">Área 10</td>
+                                        <td class="text-end" id="mTabR10C2">##</td>
+                                        <td class="text-end" id="mTabR10C3">##.##%</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row" id="chartsRow" style="margin-top: 12px;">
+                <div class="col-md-6 col-xl-12" id="chartsCol">
+                    <div class="text-start shadow-sm" id="chartsDiv" style="padding: 5px;">
+                        <div id="pieChart"><canvas data-bss-chart="{&quot;type&quot;:&quot;doughnut&quot;,&quot;data&quot;:{&quot;labels&quot;:[&quot;Área 1&quot;,&quot;Área 2&quot;,&quot;Área 3&quot;,&quot;Área 4&quot;,&quot;Área 5&quot;],&quot;datasets&quot;:[{&quot;label&quot;:&quot;Áreas temáticas&quot;,&quot;backgroundColor&quot;:[&quot;rgb(54,98,255)&quot;,&quot;rgba(255,29,29,0.71)&quot;,&quot;rgb(255,220,96)&quot;,&quot;rgba(124,255,62,0.66)&quot;,&quot;rgb(116,41,176)&quot;],&quot;borderColor&quot;:[&quot;#ffffff&quot;,&quot;#ffffff&quot;,&quot;#ffffff&quot;,&quot;#ffffff&quot;,&quot;#ffffff&quot;],&quot;data&quot;:[&quot;27&quot;,&quot;23&quot;,&quot;15&quot;,&quot;8&quot;,&quot;5&quot;]}]},&quot;options&quot;:{&quot;maintainAspectRatio&quot;:true,&quot;legend&quot;:{&quot;display&quot;:true,&quot;labels&quot;:{&quot;fontStyle&quot;:&quot;normal&quot;,&quot;fontSize&quot;:16},&quot;position&quot;:&quot;right&quot;,&quot;reverse&quot;:false},&quot;title&quot;:{&quot;fontStyle&quot;:&quot;bold&quot;,&quot;text&quot;:&quot;Áreas temáticas&quot;,&quot;display&quot;:true,&quot;fontSize&quot;:20,&quot;fontColor&quot;:&quot;#2d2d2d&quot;}}}"></canvas></div><a class="btn btn-outline-dark btn-second-level" role="button" id="seeAllBtn" style="margin-right: 4px;">Ver todas las áreas temáticas &gt;</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer id="footer" class="footer-dark">
+        <div class="container" id="footerContainer">
+            <div class="row" id="fcrow">
+                <div class="col-sm-6 col-md-3 item" id="fColServ">
+                    <h3 id="servHead">Servicios</h3>
+                    <ul id="servList">
+                        <li><a href="#">Datos bibliométricos</a></li>
+                        <li><a href="#">Soporte de uso</a></li>
+                        <li></li>
+                    </ul>
+                </div>
+                <div class="col-sm-6 col-md-3 item" id="fColAbout">
+                    <h3>About</h3>
+                    <ul>
+                        <li>Scholar+</li>
+                        <li>Equipo</li>
+                    </ul>
+                </div>
+                <div class="col-md-6 item text" id="fColText">
+                    <h3>Scholar+</h3>
+                    <p>App que permite la descarga de registros, datos de publicación, impacto y metadatos adicionales de Google Scholar, OpenAlex, CrossRef, Web of Science y Scopus.</p>
+                </div>
+                <div class="col item social" id="fColSocial"><a href="#"><i class="icon ion-social-facebook"></i></a><a href="#"><i class="icon ion-social-twitter"></i></a><a href="#"><i class="icon ion-social-snapchat"></i></a><a href="#"><i class="icon ion-social-instagram"></i></a></div>
+            </div>
+            <p id="copyright" class="copyright">Scholar+ © 2022</p>
+        </div>
+    </footer>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="assets/js/chart.min.js"></script>
+    <script src="assets/js/bs-init.js"></script>
+    <script src="assets/js/popover.js"></script>
+</body>
+
+</html>

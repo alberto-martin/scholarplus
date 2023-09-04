@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>sp</title>
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/fonts/fontawesome-all.min.css">
+    <link rel="stylesheet" href="assets/fonts/ionicons.min.css">
+    <link rel="stylesheet" href="assets/fonts/material-icons.min.css">
+    <link rel="stylesheet" href="assets/fonts/simple-line-icons.min.css">
+    <link rel="stylesheet" href="assets/fonts/typicons.min.css">
+    <link rel="stylesheet" href="assets/css/Footer-Dark.css">
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="stylesheet" href="assets/css/untitled.css">
+    <script src="shared/jquery.js" type="text/javascript"></script>
+    <script src="shared/shiny.js" type="text/javascript"></script>
+    <link rel="stylesheet" type="text/css" href="shared/shiny.css"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <script type="application/shiny-singletons"></script>
+  <script type="application/html-dependencies">json2[2014.02.04];jquery[0.1.4];shiny[1.7.1];htmlwidgets[1.0];plotly-binding[4.7.1.9000];bootstrap[3.3.7]</script>
+  <script src="shared/json2-min.js"></script>
+  <link href="shared/shiny.css" rel="stylesheet" />
+  <script src="shared/shiny.min.js"></script>
+  <script src="htmlwidgets-1.0/htmlwidgets.js"></script>
+  <script src="plotly-binding-4.7.1.9000/plotly.js"></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <script src="shared/bootstrap/js/bootstrap.min.js"></script>
+  <script src="shared/bootstrap/shim/html5shiv.min.js"></script>
+  <script src="shared/bootstrap/shim/respond.min.js"></script>
+</head>
+
+<body>
+    <nav class="navbar navbar-light navbar-expand-md sticky-top shadow-sm" id="navBar" style="border-bottom-style: solid;background: var(--bs-white);">
+        <div class="container-fluid"><a class="navbar-brand" id="navbarBrand" href="#"><img id="brandLogo" src="assets/img/logo.png"></a><button data-bs-toggle="collapse" class="navbar-toggler" data-bs-target="#navBarCollapse" id="navbarToggler"><span class="visually-hidden" id="toggleNav">Toggle navigation</span><span class="navbar-toggler-icon" id="toggleIcon"></span></button>
+            <div class="collapse navbar-collapse" id="navBarCollapse">
+                <ul class="navbar-nav" id="navBarMenu">
+                    <li class="nav-item" id="navItem1"><a class="nav-link" id="navItemLink1" href="index.html">Pantalla principal/Inicio</a></li>
+                    <li class="nav-item" id="navItem2"><a class="nav-link" id="navItemLink2" href="download.html">Asistente descarga</a></li>
+                    <li class="nav-item" id="navItem3"><a class="nav-link active" id="navItemLink3" href="authorProfile.html">Perfil autor</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div id="main" style="margin-top: 10px;">
+        <div class="container" id="mContainer">
+            <div class="row justify-content-center align-items-center" id="mHeaderRow">
+                <div id="c1AuthorPic" class="shiny-html-output col-md-4 col-lg-3 col-xl-2 text-center shadow-sm m-4 c1AuthorPics"></div>
+                <div class="col-md-4 col-lg-6 col-xl-8" id="c2AuthorData">
+                    <h3 id="authorName" class="shiny-text-output"></h3>
+                    <h5 id="authorAff" class="shiny-text-output"></h5>
+                    <h5 id="authorUni" class="shiny-html-output"></h5>
+                    <p id="authorEmail" style="padding: 0px;margin-bottom: 5px;">
+                      <span id="emailPrevText" class="shiny-text-output"></span>&nbsp;
+                      <span id="authorEmailLink" class="shiny-html-output"></span>
+                    </p>
+                    <h5 id="authorAreas"class="shiny-html-output"></h5>
+                </div>
+                <div class="col-md-4 col-lg-3 col-xl-2 align-self-start" id="c3AddInfo">
+                  
+                    <div class="row justify-content-start align-items-start" id="addInfoR1">
+                      
+                        <div class="col" id="addInfoR1C1" style="padding: 0px;">
+                            <div class="shiny-html-output btn-group-vertical btn-group-sm border rounded shadow-sm" role="group" id="dataCompLevel">
+                            </div>
+                        </div>
+                        
+                        <div class="col" id="addInfoR1C2" style="padding: 0px;"><svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" viewBox="0 0 16 16" class="bi bi-info-circle" data-bs-toggle="tooltip" data-bss-tooltip="" id="infoIcon1" style="text-align: left;margin-left: 2px;" title="Nivel de extracción de los datos">
+                                <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"></path>
+                                <path d="m8.93 6.588-2.29.287-.082.38.45.083c.294.07.352.176.288.469l-.738 3.468c-.194.897.105 1.319.808 1.319.545 0 1.178-.252 1.465-.598l.088-.416c-.2.176-.492.246-.686.246-.275 0-.375-.193-.304-.533L8.93 6.588zM9 4.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0z"></path>
+                            </svg></div>
+                    </div>
+                    <div class="row justify-content-start align-items-start" id="addInfoR2" style="margin-top: 15px;">
+                        
+                        <div class="col" id="addInfoR2C1" style="padding: 0px;">
+                          <span id="realiabilityBtn" class="shiny-html-output"></span>
+                        </div>
+                        <div class="col" id="addInfoR2C2" style="padding: 0px;"><svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor" viewBox="0 0 16 16" class="bi bi-info-circle" data-bs-toggle="tooltip" data-bss-tooltip="" id="infoIcon2" style="text-align: left;margin-left: 2px;" title="Nivel de confianza del perfil">
+                                <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"></path>
+                                <path d="m8.93 6.588-2.29.287-.082.38.45.083c.294.07.352.176.288.469l-.738 3.468c-.194.897.105 1.319.808 1.319.545 0 1.178-.252 1.465-.598l.088-.416c-.2.176-.492.246-.686.246-.275 0-.375-.193-.304-.533L8.93 6.588zM9 4.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0z"></path>
+                            </svg></div>
+                    </div>
+                </div>
+            </div>
+            <div class="row justify-content-start align-items-start" id="mBody">
+                <div class="col-md-4 col-lg-3 col-xl-2 text-center" id="c1PubData">
+                    <div class="shadow-sm" id="dPubData" style="padding: 2px;">
+                        <h5 class="text-dark" id="pHeader" style="margin-bottom: 8px;"><a class="link-dark text-decoration-none" id="pHeaderLink" href="publications.html">Publicaciones</a></h5>
+                        <div id="pubWindow">
+                            <p id="pWindTittle" class="text-second-level" style="font-weight: bold;">Ventana de Publicación</p>
+                            <form id="pWindForm">
+                                <p class="text-start" style="font-size: 12px;">&nbsp;Desde&nbsp;&nbsp;<input class="form-control form-control-sm" type="date"></p>
+                                <p class="text-start" style="font-size: 12px;">&nbsp;Hasta&nbsp; &nbsp;<input class="form-control form-control-sm" type="date"></p>
+                            </form>
+                        </div>
+                        <hr id="pSep1">
+                        <div class="text-start" id="collDiv">
+                            <p class="text-center text-second-level" id="collTitle" style="font-weight: bold;">Colaboradores</p>
+                            <div class="shiny-table-output table-responsive text-start" style="font-size: 14px;">
+                                {{ collTable }}
+                            </div><a class="btn btn-outline-dark btn-third-level" role="button" id="collBtn">Ver todos &gt;</a>
+                        </div>
+                        <hr id="pSep2">
+                        <div class="text-start" id="jourDiv">
+                            <p class="text-center text-second-level" id="jourTitle" style="font-weight: bold;">Revistas</p>
+                            <div class="table-responsive text-start" id="jourTable" style="font-size: 14px;">
+                                {{ jourTable }}
+                            </div>
+                            <a class="btn btn-outline-dark btn-third-level" role="button" id="jourBtn">Ver todos &gt;</a>
+                        </div>
+                        <hr id="pSep3">
+                        <div class="text-start" id="editDiv">
+                            <p class="text-center text-second-level" id="editTitle" style="font-weight: bold;">Editoriales</p>
+                            <div class="table-responsive text-start" id="editTable" style="font-size: 14px;">
+                                <table class="table table-hover table-sm table-borderless">
+                                    <thead id="editTabHeader">
+                                        <tr></tr>
+                                    </thead>
+                                    <tbody id="editTabBody">
+                                        <tr id="editTabR1">
+                                            <td id="editTabR1C1" class="text-third-level">EDITORIAL 1 (#)</td>
+                                        </tr>
+                                        <tr id="editTabR2">
+                                            <td id="editTabR2C1" class="text-third-level">EDITORIAL&nbsp;2 (#)</td>
+                                        </tr>
+                                        <tr id="editTabR3">
+                                            <td id="editTabR3C1" class="text-third-level">EDITORIAL 3 (#)</td>
+                                        </tr>
+                                        <tr id="editTabR4">
+                                            <td id="editTabR4C1" class="text-third-level">EDITORIAL 4 (#)</td>
+                                        </tr>
+                                        <tr id="editTabR5">
+                                            <td id="editTabR5C1" class="text-third-level">EDITORIAL 5 (#)</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div><a class="btn btn-outline-dark btn-third-level" role="button" id="editBtn">Ver todos &gt;</a>
+                        </div>
+                        <hr id="pSep4">
+                        <div class="text-start" id="wsDiv">
+                            <p class="text-center text-second-level" id="wsTitle" style="font-weight: bold;">Web sources</p>
+                            <div class="table-responsive text-start" id="wsTable" style="font-size: 14px;">
+                                <table class="table table-hover table-sm table-borderless">
+                                    <thead id="wsTabHeader">
+                                        <tr></tr>
+                                    </thead>
+                                    <tbody id="wsTabBody">
+                                        <tr id="wsTabR1">
+                                            <td id="wsTabR1C1" class="text-third-level">Web source 1 (#)</td>
+                                        </tr>
+                                        <tr id="wsTabR2">
+                                            <td id="wsTabR2C1" class="text-third-level">Web source&nbsp;2 (#)</td>
+                                        </tr>
+                                        <tr id="wsTabR3">
+                                            <td id="wsTabR3C1" class="text-third-level">Web source 3 (#)</td>
+                                        </tr>
+                                        <tr id="wsTabR4">
+                                            <td id="wsTabR4C1" class="text-third-level">Web source 4 (#)</td>
+                                        </tr>
+                                        <tr id="wsTabR5">
+                                            <td id="wsTabR5C1" class="text-third-level">Web source 5 (#)</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div><a class="btn btn-outline-dark btn-third-level" role="button" id="wsBtn">Ver todos &gt;</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-lg-6 col-xl-8" id="c2Documents">
+                    <div class="table-responsive" id="docTable">
+                        <table class="table">
+                            <thead id="docTabHeader">
+                                <tr id="docTabHR">
+                                    <th id="docTabHRTitle">TÍTULO</th>
+                                    <th class="text-center" id="docTabHRCites">CITAS</th>
+                                    <th class="text-center" id="docTabHRYear">AÑO</th>
+                                </tr>
+                            </thead>
+                            <tbody id="docTabBody">
+                              {{ docTableBody }}
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                <div class="col-md-4 col-lg-3 col-xl-2 text-center" id="c3PersImp">
+                    <div class="shadow-sm" id="dPersImp" style="padding: 2px;">
+                        <h5 class="text-dark" id="piHeader" style="margin-bottom: 8px;"><a class="link-dark text-decoration-none" id="piHeaderLink" href="personalImpact.html">Impacto Personal</a></h5>
+                        <div class="text-start" id="metricsDiv">
+                            <div class="table-responsive text-start small-table" id="metricsTable">
+                                <table class="table table-hover table-sm table-borderless">
+                                    <thead id="metTabHeader">
+                                        <tr class="text-center" id="metTabHR" style="border-bottom-width: 1px;border-bottom-color: var(--bs-gray-900);">
+                                            <th id="metTabHRC1"></th>
+                                            <th id="metTabHRC2">Total</th>
+                                            <th id="metTabHRC3">5 años</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody id="metTabBody">
+                                        <tr id="metTabCit">
+                                            <td id="metTabCitName">Citas</td>
+                                            <td class="text-end" id="metTabCitTot"> {{ metTabCitTot }} </td>
+                                            <td class="text-end" id="metTabCit5y">{{ metTabCit5y }}</td>
+                                        </tr>
+                                        <tr id="metTabHi">
+                                            <td id="metTabHiName">Índice h</td>
+                                            <td class="text-end" id="metTabHiTot">{{ metTabHiTot }}</td>
+                                            <td class="text-end" id="metTabHi5y">{{ metTabHi5y }}</td>
+                                        </tr>
+                                        <tr id="metTabHi10">
+                                            <td id="metTabHi10Name">Índice i10</td>
+                                            <td class="text-end" id="metTabHi10Tot">{{ metTabHi10Tot }}</td>
+                                            <td class="text-end" id="metTabHi105y">{{ metTabHi105y }}</td>
+                                        </tr>
+                                        <tr id="metTabSelf" style="background: #f7caca;">
+                                            <td id="metTabSelfName">Autocitas</td>
+                                            <td class="text-end" id="metTabSelfTot">#</td>
+                                            <td class="text-end" id="metTabSelf5y">#</td>
+                                        </tr>
+                                        <tr id="metTabWS" style="background: #c8e6b0;">
+                                            <td id="metTabWSName">Sin autocitas</td>
+                                            <td class="text-end" id="metTabWSTot">#</td>
+                                            <td class="text-end" id="metTabWS5y">#</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                        <hr id="piSep1">
+                        <div class="text-start" id="chartDiv">
+                            
+                            <div id="plot1" class="shiny-plot-output" style="width: 100%; height: 150px; border: 1px solid red"></div>
+  <div id="plot2" class="shiny-html-output" style="width: 100%; height: 150px; border: 1px solid blue"></div>
+                            {{ plot1 }}
+                            {{ plot2 }}
+                            
+                            <div id="citesChart" style="width: 173px;height: 113px;"><canvas data-bss-chart="{&quot;type&quot;:&quot;bar&quot;,&quot;data&quot;:{&quot;labels&quot;:[&quot;2015&quot;,&quot;2016&quot;,&quot;2017&quot;,&quot;2018&quot;,&quot;2019&quot;,&quot;2020&quot;,&quot;2021&quot;,&quot;2022&quot;],&quot;datasets&quot;:[{&quot;label&quot;:&quot;Citas&quot;,&quot;backgroundColor&quot;:&quot;#4e73df&quot;,&quot;borderColor&quot;:&quot;#4e73df&quot;,&quot;data&quot;:[&quot;571&quot;,&quot;534&quot;,&quot;642&quot;,&quot;714&quot;,&quot;949&quot;,&quot;878&quot;,&quot;1040&quot;,&quot;1170&quot;]}]},&quot;options&quot;:{&quot;maintainAspectRatio&quot;:false,&quot;legend&quot;:{&quot;display&quot;:false,&quot;labels&quot;:{&quot;fontStyle&quot;:&quot;normal&quot;}},&quot;title&quot;:{&quot;fontStyle&quot;:&quot;bold&quot;,&quot;display&quot;:true,&quot;text&quot;:&quot;Citas totales&quot;,&quot;fontSize&quot;:10},&quot;scales&quot;:{&quot;xAxes&quot;:[{&quot;gridLines&quot;:{&quot;borderDash&quot;:[&quot;0&quot;],&quot;zeroLineBorderDash&quot;:[&quot;0&quot;]},&quot;ticks&quot;:{&quot;fontSize&quot;:&quot;5&quot;,&quot;lineHeight&quot;:&quot;0.2&quot;,&quot;fontStyle&quot;:&quot;normal&quot;,&quot;beginAtZero&quot;:false}}],&quot;yAxes&quot;:[{&quot;gridLines&quot;:{&quot;borderDash&quot;:[&quot;0&quot;],&quot;zeroLineBorderDash&quot;:[&quot;0&quot;]},&quot;ticks&quot;:{&quot;fontSize&quot;:&quot;5&quot;,&quot;lineHeight&quot;:&quot;0.2&quot;,&quot;fontStyle&quot;:&quot;normal&quot;,&quot;beginAtZero&quot;:false}}]}}}"></canvas></div>
+                        </div>
+                        <hr id="piSep2">
+                        <div id="citWindowDiv">
+                            <p id="citWindowTitle" class="text-second-level" style="font-weight: bold;">Ventana de Citación</p>
+                        <form id="pWindForm">
+                                <p class="text-start" style="font-size: 12px;">&nbsp;Desde&nbsp;&nbsp;<input class="form-control form-control-sm" type="date"></p>
+                                <p class="text-start" style="font-size: 12px;">&nbsp;Hasta&nbsp; &nbsp;<input class="form-control form-control-sm" type="date"></p>
+                            </form>
+                        </div>
+                        <hr id="piSep3">
+                        <div class="text-start" id="citingDiv">
+                            <p class="text-center text-second-level" id="citingTitle" style="font-weight: bold;">Autores Citantes</p>
+                            <div class="table-responsive text-start" id="citingTable" style="font-size: 14px;">
+                                {{ citingAuthTable }}
+                                
+                            </div><a class="btn btn-outline-dark btn-third-level" role="button" id="citingBtn">Ver todos &gt;</a>
+                        </div>
+                        <hr id="piSep4">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer id="footer" class="footer-dark">
+        <div class="container" id="footerContainer">
+            <div class="row" id="fcrow">
+                <div class="col-sm-6 col-md-3 item" id="fColServ">
+                    <h3 id="servHead">Servicios</h3>
+                    <ul id="servList">
+                        <li><a href="#">Datos bibliométricos</a></li>
+                        <li><a href="#">Soporte de uso</a></li>
+                        <li></li>
+                    </ul>
+                </div>
+                <div class="col-sm-6 col-md-3 item" id="fColAbout">
+                    <h3>About</h3>
+                    <ul>
+                        <li>Scholar+</li>
+                        <li>Equipo</li>
+                    </ul>
+                </div>
+                <div class="col-md-6 item text" id="fColText">
+                    <h3>Scholar+</h3>
+                    <p>App que permite la descarga de registros, datos de publicación, impacto y metadatos adicionales de Google Scholar, OpenAlex, CrossRef, Web of Science y Scopus.</p>
+                </div>
+                <div class="col item social" id="fColSocial"><a href="#"><i class="icon ion-social-facebook"></i></a><a href="#"><i class="icon ion-social-twitter"></i></a><a href="#"><i class="icon ion-social-snapchat"></i></a><a href="#"><i class="icon ion-social-instagram"></i></a></div>
+            </div>
+            <p id="copyright" class="copyright">Scholar+ © 2022</p>
+        </div>
+    </footer>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="assets/js/chart.min.js"></script>
+    <script src="assets/js/bs-init.js"></script>
+    <script src="assets/js/popover.js"></script>
+</body>
+
+</html>

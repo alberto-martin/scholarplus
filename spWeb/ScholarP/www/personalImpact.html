@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>sp</title>
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/fonts/fontawesome-all.min.css">
+    <link rel="stylesheet" href="assets/fonts/ionicons.min.css">
+    <link rel="stylesheet" href="assets/fonts/material-icons.min.css">
+    <link rel="stylesheet" href="assets/fonts/simple-line-icons.min.css">
+    <link rel="stylesheet" href="assets/fonts/typicons.min.css">
+    <link rel="stylesheet" href="assets/css/Footer-Dark.css">
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="stylesheet" href="assets/css/untitled.css">
+</head>
+
+<body>
+    <nav class="navbar navbar-light navbar-expand-md sticky-top shadow-sm" id="navBar" style="border-bottom-style: solid;background: var(--bs-white);">
+        <div class="container-fluid"><a class="navbar-brand" id="navbarBrand" href="#"><img id="brandLogo" src="assets/img/logo.png"></a><button data-bs-toggle="collapse" class="navbar-toggler" data-bs-target="#navBarCollapse" id="navbarToggler"><span class="visually-hidden" id="toggleNav">Toggle navigation</span><span class="navbar-toggler-icon" id="toggleIcon"></span></button>
+            <div class="collapse navbar-collapse" id="navBarCollapse">
+                <ul class="navbar-nav" id="navBarMenu">
+                    <li class="nav-item" id="navItem1"><a class="nav-link" id="navItemLink1" href="index.html">Pantalla principal/Inicio</a></li>
+                    <li class="nav-item" id="navItem2"><a class="nav-link" id="navItemLink2" href="download.html">Asistente descarga</a></li>
+                    <li class="nav-item" id="navItem3"><a class="nav-link" id="navItemLink3" href="authorProfile.html">Perfil autor</a></li>
+                    <li class="nav-item" id="navItem4"><a class="nav-link active" id="navItemLink4" href="personalImpact.html">Impacto personal</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div id="main" style="margin: 10px;padding: 50px;">
+        <h3 id="mHead">Impacto Personal</h3>
+        <div class="container" id="mContainer">
+            <div class="row" id="mR1">
+                <div class="col-md-6" id="mR1C1">
+                    <div id="chartDiv">
+                        <div class="shadow-sm" id="citesChart" style="width: 462px;height: 268px;"><canvas data-bss-chart="{&quot;type&quot;:&quot;bar&quot;,&quot;data&quot;:{&quot;labels&quot;:[&quot;2015&quot;,&quot;2016&quot;,&quot;2017&quot;,&quot;2018&quot;,&quot;2019&quot;,&quot;2020&quot;,&quot;2021&quot;,&quot;2022&quot;],&quot;datasets&quot;:[{&quot;label&quot;:&quot;Citas&quot;,&quot;backgroundColor&quot;:&quot;#4e73df&quot;,&quot;borderColor&quot;:&quot;#4e73df&quot;,&quot;data&quot;:[&quot;571&quot;,&quot;534&quot;,&quot;642&quot;,&quot;714&quot;,&quot;949&quot;,&quot;878&quot;,&quot;1040&quot;,&quot;1170&quot;]}]},&quot;options&quot;:{&quot;maintainAspectRatio&quot;:true,&quot;legend&quot;:{&quot;display&quot;:false,&quot;labels&quot;:{&quot;fontStyle&quot;:&quot;normal&quot;}},&quot;title&quot;:{&quot;fontStyle&quot;:&quot;bold&quot;,&quot;display&quot;:true,&quot;text&quot;:&quot;Citas totales&quot;,&quot;fontSize&quot;:16},&quot;scales&quot;:{&quot;xAxes&quot;:[{&quot;gridLines&quot;:{&quot;borderDash&quot;:[&quot;0&quot;],&quot;zeroLineBorderDash&quot;:[&quot;0&quot;]},&quot;ticks&quot;:{&quot;fontSize&quot;:&quot;14&quot;,&quot;lineHeight&quot;:&quot;0.2&quot;,&quot;fontStyle&quot;:&quot;normal&quot;,&quot;beginAtZero&quot;:false}}],&quot;yAxes&quot;:[{&quot;gridLines&quot;:{&quot;borderDash&quot;:[&quot;0&quot;],&quot;zeroLineBorderDash&quot;:[&quot;0&quot;]},&quot;ticks&quot;:{&quot;fontSize&quot;:&quot;14&quot;,&quot;lineHeight&quot;:&quot;0.2&quot;,&quot;fontStyle&quot;:&quot;normal&quot;,&quot;beginAtZero&quot;:false}}]}}}"></canvas></div>
+                    </div>
+                </div>
+                <div class="col-md-6" id="mR1C2">
+                    <div class="shadow-sm" id="periodDiv">
+                        <p id="periodTitle" style="font-weight: bold;">Ventana de Citación</p>
+                        <form id="periodForm">
+                            <p class="text-start" style="font-size: 12px;">&nbsp;Desde&nbsp;&nbsp;<input class="form-control form-control-sm" type="date"></p>
+                            <p class="text-start" style="font-size: 12px;">&nbsp;Hasta&nbsp; &nbsp;<input class="form-control form-control-sm" type="date"></p>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="row" id="mR2" style="margin-top: 12px;">
+                <div class="col-md-6 col-xl-12" id="mR2C1">
+                    <div class="text-start shadow-sm" id="metDiv" style="padding: 5px;">
+                        <div class="table-responsive text-start" id="metTable" style="font-size: 14px;">
+                            <table class="table table-hover table-sm table-borderless">
+                                <thead id="metTabHeader">
+                                    <tr class="text-center" id="metTabHR" style="border-bottom-width: 1px;border-bottom-color: var(--bs-gray-900);">
+                                        <th id="metTabHRC1"></th>
+                                        <th id="metTabHRC2">Total</th>
+                                        <th id="metTabHRC3">5 años</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="metTabBody">
+                                    <tr id="metTabR1">
+                                        <td id="metTabR1C1">Citas</td>
+                                        <td class="text-end" id="metTabR1C2">#</td>
+                                        <td class="text-end" id="metTabR1C3">#</td>
+                                    </tr>
+                                    <tr id="metTabR2">
+                                        <td id="metTabR2C1">Índice h</td>
+                                        <td class="text-end" id="metTabR2C2">#</td>
+                                        <td class="text-end" id="metTabR2C3">#</td>
+                                    </tr>
+                                    <tr id="metTabR3">
+                                        <td id="metTabR3C1">Índice i10</td>
+                                        <td class="text-end" id="metTabR3C2">#</td>
+                                        <td class="text-end" id="metTabR3C3">#</td>
+                                    </tr>
+                                    <tr id="metTabR4" style="background: #f7caca;">
+                                        <td id="metTabR4C1">Autocitas</td>
+                                        <td class="text-end" id="metTabR4C2">#</td>
+                                        <td class="text-end" id="metTabR4C3">#</td>
+                                    </tr>
+                                    <tr id="metTabR5" style="background: #c8e6b0;">
+                                        <td id="metTabR5C1">Sin autocitas</td>
+                                        <td class="text-end" id="metTabR5C2">#</td>
+                                        <td class="text-end" id="metTabR5C3">#</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row" id="mR3" style="margin-top: 12px;">
+                <div class="col-md-6" id="mR3C1">
+                    <div class="text-start shadow-sm" id="citAuthDiv">
+                        <p class="text-center" id="citAuthTitle" style="font-weight: bold;">Autores Citantes</p>
+                        <div class="table-responsive text-start text-second-level" id="citAuthTable">
+                            <table class="table table-hover table-sm table-borderless">
+                                <thead id="citAuthTabHeader">
+                                    <tr id="citAuthTabHR">
+                                        <th id="citAuthTabHRC1">Autor</th>
+                                        <th class="text-end" id="citAuthTabHRC2">Citas</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="citAuthTabBody">
+                                    <tr id="citAuthTabR1">
+                                        <td id="citAuthTabR1C1">Autor 1</td>
+                                        <td class="text-end" id="citAuthTabR1C2">##</td>
+                                    </tr>
+                                    <tr id="citAuthTabR2">
+                                        <td id="citAuthTabR2C1">Autor 2</td>
+                                        <td class="text-end" id="citAuthTabR2C2">##</td>
+                                    </tr>
+                                    <tr id="citAuthTabR3">
+                                        <td id="citAuthTabR3C1">Autor 3</td>
+                                        <td class="text-end" id="citAuthTabR3C2">##</td>
+                                    </tr>
+                                    <tr id="citAuthTabR4">
+                                        <td id="citAuthTabR4C1">Autor 4</td>
+                                        <td class="text-end" id="citAuthTabR4C2">##</td>
+                                    </tr>
+                                    <tr id="citAuthTabR1">
+                                        <td id="citAuthTabR5C1">Autor 5</td>
+                                        <td class="text-end" id="citAuthTabR5C2">##</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div><a class="btn btn-outline-dark btn-third-level" role="button" id="citAuthBtn" style="margin-right: 4px;" href="citingAuthors.html">Ver todos los autores citantes &gt;</a>
+                    </div>
+                </div>
+                <div class="col-md-6" id="mR3C2">
+                    <div class="text-start shadow-sm" id="citAreaDiv">
+                        <p class="text-center" id="citAreaTitle" style="font-weight: bold;">Citas por áreas temáticas</p>
+                        <div class="table-responsive text-start text-second-level" id="citAreaTable">
+                            <table class="table table-hover table-sm table-borderless">
+                                <thead id="citAreaTabHeader">
+                                    <tr id="citAreaTabHR">
+                                        <th id="citAreaTabHRC1">Área</th>
+                                        <th class="text-end" id="citAreaTabHRC2">Cantidad</th>
+                                        <th class="text-end" id="citAreaTabHRC3">% del total</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="citAreaTabBody">
+                                    <tr id="citAreaTabR1">
+                                        <td id="citAreaTabR1C1">Área 1</td>
+                                        <td class="text-end" id="citAreaTabR1C2">##</td>
+                                        <td class="text-end" id="citAreaTabR1C3">##.##%</td>
+                                    </tr>
+                                    <tr id="citAreaTabR2">
+                                        <td id="citAreaTabR2C1">Área 2</td>
+                                        <td class="text-end" id="citAreaTabR2C1">##</td>
+                                        <td class="text-end" id="citAreaTabR2C1">##.##%</td>
+                                    </tr>
+                                    <tr id="citAreaTabR3">
+                                        <td id="citAreaTabR3C1">Área 3</td>
+                                        <td class="text-end" id="citAreaTabR3C2">##</td>
+                                        <td class="text-end" id="citAreaTabR3C3">##.##%</td>
+                                    </tr>
+                                    <tr id="citAreaTabR4">
+                                        <td id="citAreaTabR4C1">Área 4</td>
+                                        <td class="text-end" id="citAreaTabR4C2">##</td>
+                                        <td class="text-end" id="citAreaTabR4C3">##.##%</td>
+                                    </tr>
+                                    <tr id="citAreaTabR5">
+                                        <td id="citAreaTabR5C1">Área 5</td>
+                                        <td class="text-end" id="citAreaTabR5C2">##</td>
+                                        <td class="text-end" id="citAreaTabR5C3">##.##%</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div><a class="btn btn-outline-dark btn-third-level" role="button" id="citAreaBtn" style="margin-right: 4px;" href="citesPerArea.html">Ver todas las citas por áreas temáticas&gt;</a>
+                    </div>
+                </div>
+            </div>
+            <div class="row" id="mR4" style="margin-top: 12px;">
+                <div class="col-md-6 col-xl-12" id="mR4C1">
+                    <div class="text-start shadow-sm" id="chartDiv" style="padding: 5px;">
+                        <div id="areasChart"><canvas data-bss-chart="{&quot;type&quot;:&quot;doughnut&quot;,&quot;data&quot;:{&quot;labels&quot;:[&quot;Área 1&quot;,&quot;Área 2&quot;,&quot;Área 3&quot;,&quot;Área 4&quot;,&quot;Área 5&quot;],&quot;datasets&quot;:[{&quot;label&quot;:&quot;Áreas temáticas&quot;,&quot;backgroundColor&quot;:[&quot;rgb(54,98,255)&quot;,&quot;rgba(255,29,29,0.71)&quot;,&quot;rgb(255,220,96)&quot;,&quot;rgba(124,255,62,0.66)&quot;,&quot;rgb(116,41,176)&quot;],&quot;borderColor&quot;:[&quot;#ffffff&quot;,&quot;#ffffff&quot;,&quot;#ffffff&quot;,&quot;#ffffff&quot;,&quot;#ffffff&quot;],&quot;data&quot;:[&quot;27&quot;,&quot;23&quot;,&quot;15&quot;,&quot;8&quot;,&quot;5&quot;]}]},&quot;options&quot;:{&quot;maintainAspectRatio&quot;:true,&quot;legend&quot;:{&quot;display&quot;:true,&quot;labels&quot;:{&quot;fontStyle&quot;:&quot;normal&quot;,&quot;fontSize&quot;:16},&quot;position&quot;:&quot;right&quot;,&quot;reverse&quot;:false},&quot;title&quot;:{&quot;fontStyle&quot;:&quot;bold&quot;,&quot;text&quot;:&quot;Áreas temáticas&quot;,&quot;display&quot;:true,&quot;fontSize&quot;:20,&quot;fontColor&quot;:&quot;#2d2d2d&quot;}}}"></canvas></div><a class="btn btn-outline-dark btn-third-level" role="button" id="areasChartBtn" style="margin-right: 4px;">Ver todas las áreas temáticas &gt;</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer id="footer" class="footer-dark">
+        <div class="container" id="footerContainer">
+            <div class="row" id="fcrow">
+                <div class="col-sm-6 col-md-3 item" id="fColServ">
+                    <h3 id="servHead">Servicios</h3>
+                    <ul id="servList">
+                        <li><a href="#">Datos bibliométricos</a></li>
+                        <li><a href="#">Soporte de uso</a></li>
+                        <li></li>
+                    </ul>
+                </div>
+                <div class="col-sm-6 col-md-3 item" id="fColAbout">
+                    <h3>About</h3>
+                    <ul>
+                        <li>Scholar+</li>
+                        <li>Equipo</li>
+                    </ul>
+                </div>
+                <div class="col-md-6 item text" id="fColText">
+                    <h3>Scholar+</h3>
+                    <p>App que permite la descarga de registros, datos de publicación, impacto y metadatos adicionales de Google Scholar, OpenAlex, CrossRef, Web of Science y Scopus.</p>
+                </div>
+                <div class="col item social" id="fColSocial"><a href="#"><i class="icon ion-social-facebook"></i></a><a href="#"><i class="icon ion-social-twitter"></i></a><a href="#"><i class="icon ion-social-snapchat"></i></a><a href="#"><i class="icon ion-social-instagram"></i></a></div>
+            </div>
+            <p id="copyright" class="copyright">Scholar+ © 2022</p>
+        </div>
+    </footer>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="assets/js/chart.min.js"></script>
+    <script src="assets/js/bs-init.js"></script>
+    <script src="assets/js/popover.js"></script>
+</body>
+
+</html>

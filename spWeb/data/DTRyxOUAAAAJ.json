@@ -1,0 +1,2132 @@
+
+    {
+        "search_metadata":
+        {
+            "id": "623852a6ea14428a94584d0d",
+            "status": "Success",
+            "json_endpoint": "https://serpapi.com/searches/214d2ac1ea8453cf/623852a6ea14428a94584d0d.json",
+            "created_at": "2022-03-21 10:25:42 UTC",
+            "processed_at": "2022-03-21 10:25:42 UTC",
+            "google_scholar_author_url": "https://scholar.google.com/citations?user=DTRyxOUAAAAJ&hl=en&cstart=0&pagesize=100",
+            "raw_html_file": "https://serpapi.com/searches/214d2ac1ea8453cf/623852a6ea14428a94584d0d.html",
+            "total_time_taken": 1.37
+        }
+        ,
+        "search_parameters":
+        {
+            "engine": "google_scholar_author",
+            "author_id": "DTRyxOUAAAAJ",
+            "hl": "en",
+            "start": 0,
+            "num": "100"
+        }
+        ,
+        "author":
+        {
+            "name": "Thed van Leeuwen",
+            "affiliations": "Leiden University",
+            "email": "Verified email at cwts.nl",
+            "interests":
+            [
+                {
+                    "title": "Bibliometrics",
+                    "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:bibliometrics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Abibliometrics"
+                }
+                ,
+                {
+                    "title": "science studies",
+                    "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:science_studies",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ascience_studies"
+                }
+                ,
+                {
+                    "title": "research evaluation",
+                    "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:research_evaluation",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aresearch_evaluation"
+                }
+            ]
+            ,
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=DTRyxOUAAAAJ&citpid=4"
+        }
+        ,
+        "articles":
+        [
+            {
+                "title": "New bibliometric tools for the assessment of national research performance: Database description, overview of indicators and first applications",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:Oo1CbQkBAzEC",
+                "citation_id": "DTRyxOUAAAAJ:Oo1CbQkBAzEC",
+                "authors": "H Moed, R De Bruin, TH Van Leeuwen",
+                "publication": "Scientometrics 33 (3), 381-422, 1995",
+                "cited_by":
+                {
+                    "value": 630,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18217169113501672466",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=18217169113501672466&engine=google_scholar&hl=en",
+                    "cites_id": "18217169113501672466"
+                }
+                ,
+                "year": "1995"
+            }
+            ,
+            {
+                "title": "Language biases in the coverage of the Science Citation Index and its consequencesfor international comparisons of national research performance",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:u-x6o8ySG0sC",
+                "citation_id": "DTRyxOUAAAAJ:u-x6o8ySG0sC",
+                "authors": "T Van Leeuwen, H Moed, R Tijssen, M Visser, A Van Raan",
+                "publication": "scientometrics 51 (1), 335-346, 2001",
+                "cited_by":
+                {
+                    "value": 507,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7116295144675318455,1564334215926045135",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=7116295144675318455%2C1564334215926045135&engine=google_scholar&hl=en",
+                    "cites_id": "7116295144675318455,1564334215926045135"
+                }
+                ,
+                "year": "2001"
+            }
+            ,
+            {
+                "title": "Towards a new crown indicator: Some theoretical considerations",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:9yKSN-GCB0IC",
+                "citation_id": "DTRyxOUAAAAJ:9yKSN-GCB0IC",
+                "authors": "L Waltman, NJ van Eck, TN van Leeuwen, MS Visser, AFJ van Raan",
+                "publication": "Journal of informetrics 5 (1), 37-47, 2011",
+                "cited_by":
+                {
+                    "value": 433,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=576467857268705471",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=576467857268705471&engine=google_scholar&hl=en",
+                    "cites_id": "576467857268705471"
+                }
+                ,
+                "year": "2011"
+            }
+            ,
+            {
+                "title": "The Leiden Ranking 2011/2012: Data collection, indicators, and interpretation",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:nWoA1JPTheMC",
+                "citation_id": "DTRyxOUAAAAJ:nWoA1JPTheMC",
+                "authors": "L Waltman, C Calero‐Medina, J Kosten, ECM Noyons, RJW Tijssen, ...",
+                "publication": "Journal of the American society for information science and technology 63 …, 2012",
+                "cited_by":
+                {
+                    "value": 425,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17907757076519663857",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=17907757076519663857&engine=google_scholar&hl=en",
+                    "cites_id": "17907757076519663857"
+                }
+                ,
+                "year": "2012"
+            }
+            ,
+            {
+                "title": "Improving the accuracy of institute for scientific information's journal impact factors",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:u5HHmVD_uO8C",
+                "citation_id": "DTRyxOUAAAAJ:u5HHmVD_uO8C",
+                "authors": "HF Moed, TN Van Leeuwen",
+                "publication": "Journal of the American Society for Information Science 46 (6), 461-467, 1995",
+                "cited_by":
+                {
+                    "value": 327,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17519546926599853173",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=17519546926599853173&engine=google_scholar&hl=en",
+                    "cites_id": "17519546926599853173"
+                }
+                ,
+                "year": "1995"
+            }
+            ,
+            {
+                "title": "Impact factors can mislead",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:DQNrXyjhriIC",
+                "citation_id": "DTRyxOUAAAAJ:DQNrXyjhriIC",
+                "authors": "HF Moed, TN Van Leeuwen",
+                "publication": "Nature 381 (6579), 186-186, 1996",
+                "cited_by":
+                {
+                    "value": 284,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7012834518285780974",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=7012834518285780974&engine=google_scholar&hl=en",
+                    "cites_id": "7012834518285780974"
+                }
+                ,
+                "year": "1996"
+            }
+            ,
+            {
+                "title": "Benchmarking international scientific excellence: Are highly cited research papers an appropriate frame of reference?",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:2osOgNQ5qMEC",
+                "citation_id": "DTRyxOUAAAAJ:2osOgNQ5qMEC",
+                "authors": "R Tijssen, M Visser, T van Leeuwen",
+                "publication": "Scientometrics 54 (3), 381-397, 2002",
+                "cited_by":
+                {
+                    "value": 283,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17512265419967344804",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=17512265419967344804&engine=google_scholar&hl=en",
+                    "cites_id": "17512265419967344804"
+                }
+                ,
+                "year": "2002"
+            }
+            ,
+            {
+                "title": "Comparative analysis of a set of bibliometric indicators and central peer review criteria: Evaluation of condensed matter physics in the Netherlands",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:hefNtdE4IMkC",
+                "citation_id": "DTRyxOUAAAAJ:hefNtdE4IMkC",
+                "authors": "EJ Rinia, TN Van Leeuwen, HG Van Vuren, AFJ Van Raan",
+                "publication": "Research policy 27 (1), 95-107, 1998",
+                "cited_by":
+                {
+                    "value": 280,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7597475547516527564",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=7597475547516527564&engine=google_scholar&hl=en",
+                    "cites_id": "7597475547516527564"
+                }
+                ,
+                "year": "1998"
+            }
+            ,
+            {
+                "title": "The Holy Grail of science policy: Exploring and combining bibliometric tools in search of scientific excellence",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:d1gkVwhDpl0C",
+                "citation_id": "DTRyxOUAAAAJ:d1gkVwhDpl0C",
+                "authors": "T Van Leeuwen, M Visser, H Moed, T Nederhof, A Van Raan",
+                "publication": "Scientometrics 57 (2), 257-280, 2003",
+                "cited_by":
+                {
+                    "value": 278,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3063318648591443178",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=3063318648591443178&engine=google_scholar&hl=en",
+                    "cites_id": "3063318648591443178"
+                }
+                ,
+                "year": "2003"
+            }
+            ,
+            {
+                "title": "Towards a new crown indicator: An empirical analysis",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:eQOLeE2rZwMC",
+                "citation_id": "DTRyxOUAAAAJ:eQOLeE2rZwMC",
+                "authors": "L Waltman, NJ van Eck, TN van Leeuwen, MS Visser, AFJ van Raan",
+                "publication": "Scientometrics 87 (3), 467-481, 2011",
+                "cited_by":
+                {
+                    "value": 262,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7450227519655571912",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=7450227519655571912&engine=google_scholar&hl=en",
+                    "cites_id": "7450227519655571912"
+                }
+                ,
+                "year": "2011"
+            }
+            ,
+            {
+                "title": "The application of bibliometric analyses in the evaluation of social science research. Who benefits from it, and why it is still feasible",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:IjCSPb-OGe4C",
+                "citation_id": "DTRyxOUAAAAJ:IjCSPb-OGe4C",
+                "authors": "T Van Leeuwen",
+                "publication": "Scientometrics 66 (1), 133-154, 2006",
+                "cited_by":
+                {
+                    "value": 255,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10220055100976631290",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10220055100976631290&engine=google_scholar&hl=en",
+                    "cites_id": "10220055100976631290"
+                }
+                ,
+                "year": "2006"
+            }
+            ,
+            {
+                "title": "A bibliometric classificatory approach for the study and assessment of research performance at the individual level: The effects of age on productivity and impact",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:Y0pCki6q_DkC",
+                "citation_id": "DTRyxOUAAAAJ:Y0pCki6q_DkC",
+                "authors": "R Costas, TN Van Leeuwen, M Bordons",
+                "publication": "Journal of the American society for information science and technology 61 (8 …, 2010",
+                "cited_by":
+                {
+                    "value": 224,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10523592529864611393,912053849379917101",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10523592529864611393%2C912053849379917101&engine=google_scholar&hl=en",
+                    "cites_id": "10523592529864611393,912053849379917101"
+                }
+                ,
+                "year": "2010"
+            }
+            ,
+            {
+                "title": "Some modifications to the SNIP journal impact indicator",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:4DMP91E08xMC",
+                "citation_id": "DTRyxOUAAAAJ:4DMP91E08xMC",
+                "authors": "L Waltman, NJ van Eck, TN Van Leeuwen, MS Visser",
+                "publication": "Journal of informetrics 7 (2), 272-285, 2013",
+                "cited_by":
+                {
+                    "value": 196,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11363255581027273149",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11363255581027273149&engine=google_scholar&hl=en",
+                    "cites_id": "11363255581027273149"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "Measuring knowledge transfer between fields of science",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:UeHWp8X0CEIC",
+                "citation_id": "DTRyxOUAAAAJ:UeHWp8X0CEIC",
+                "authors": "EJ Rinia, TN Van Leeuwen, EEW Bruins, HG Van Vuren, AFJ Van Raan",
+                "publication": "Scientometrics 54 (3), 347-362, 2002",
+                "cited_by":
+                {
+                    "value": 168,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3804940514534928715",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=3804940514534928715&engine=google_scholar&hl=en",
+                    "cites_id": "3804940514534928715"
+                }
+                ,
+                "year": "2002"
+            }
+            ,
+            {
+                "title": "Technological relevance of science: An assessment of citation linkages between patents and research papers",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:nZcligLrVowC",
+                "citation_id": "DTRyxOUAAAAJ:nZcligLrVowC",
+                "authors": "R Tussen, R Buter, T Van Leeuwen",
+                "publication": "Scientometrics 47 (2), 389-412, 2000",
+                "cited_by":
+                {
+                    "value": 157,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1994644828842991955",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=1994644828842991955&engine=google_scholar&hl=en",
+                    "cites_id": "1994644828842991955"
+                }
+                ,
+                "year": "2000"
+            }
+            ,
+            {
+                "title": "The psychology of morality: A review and analysis of empirical studies published from 1940 through 2017",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:Cvh0bltMcLgC",
+                "citation_id": "DTRyxOUAAAAJ:Cvh0bltMcLgC",
+                "authors": "N Ellemers, J Van Der Toorn, Y Paunov, T Van Leeuwen",
+                "publication": "Personality and Social Psychology Review 23 (4), 332-366, 2019",
+                "cited_by":
+                {
+                    "value": 150,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=651325190076995199",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=651325190076995199&engine=google_scholar&hl=en",
+                    "cites_id": "651325190076995199"
+                }
+                ,
+                "year": "2019"
+            }
+            ,
+            {
+                "title": "Interdisciplinary dynamics of modern science: analysis of cross-disciplinary citation flows",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:W7OEmFMy1HYC",
+                "citation_id": "DTRyxOUAAAAJ:W7OEmFMy1HYC",
+                "authors": "T Van Leeuwen, R Tijssen",
+                "publication": "Research Evaluation 9 (3), 183-187, 2000",
+                "cited_by":
+                {
+                    "value": 140,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17326263639832715208",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=17326263639832715208&engine=google_scholar&hl=en",
+                    "cites_id": "17326263639832715208"
+                }
+                ,
+                "year": "2000"
+            }
+            ,
+            {
+                "title": "Self-citations at the meso and individual levels: effects of different calculation methods",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:UebtZRa9Y70C",
+                "citation_id": "DTRyxOUAAAAJ:UebtZRa9Y70C",
+                "authors": "R Costas, T van Leeuwen, M Bordons",
+                "publication": "Scientometrics 82 (3), 517-537, 2010",
+                "cited_by":
+                {
+                    "value": 135,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10303734387122548058",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10303734387122548058&engine=google_scholar&hl=en",
+                    "cites_id": "10303734387122548058"
+                }
+                ,
+                "year": "2010"
+            }
+            ,
+            {
+                "title": "Influence of interdisciplinarity on peer-review and bibliometric evaluations in physics research",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:7H_jS4BsgvYC",
+                "citation_id": "DTRyxOUAAAAJ:7H_jS4BsgvYC",
+                "authors": "EJ Rinia, TN Van Leeuwen, HG Van Vuren, AFJ Van Raan",
+                "publication": "Research policy 30 (3), 357-361, 2001",
+                "cited_by":
+                {
+                    "value": 133,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13729662197152183701",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=13729662197152183701&engine=google_scholar&hl=en",
+                    "cites_id": "13729662197152183701"
+                }
+                ,
+                "year": "2001"
+            }
+            ,
+            {
+                "title": "Assessment of the scientific basis of interdisciplinary, applied research: application of bibliometric methods in nutrition and food research",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:uc_IGeMz5qoC",
+                "citation_id": "DTRyxOUAAAAJ:uc_IGeMz5qoC",
+                "authors": "AFJ Van Raan, TN Van Leeuwen",
+                "publication": "Research Policy 31 (4), 611-632, 2002",
+                "cited_by":
+                {
+                    "value": 132,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15925362616457003447",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15925362616457003447&engine=google_scholar&hl=en",
+                    "cites_id": "15925362616457003447"
+                }
+                ,
+                "year": "2002"
+            }
+            ,
+            {
+                "title": "A new classification system to describe the ageing of scientific journals and their impact factors",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:8uzoZH4hB9AC",
+                "citation_id": "DTRyxOUAAAAJ:8uzoZH4hB9AC",
+                "authors": "HF Moed, TN Van Leeuwen, J Reedijk",
+                "publication": "Journal of Documentation, 1998",
+                "cited_by":
+                {
+                    "value": 131,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9204878954371569870",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=9204878954371569870&engine=google_scholar&hl=en",
+                    "cites_id": "9204878954371569870"
+                }
+                ,
+                "year": "1998"
+            }
+            ,
+            {
+                "title": "Towards appropriate indicators of journal impact",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:U4n9YNQMCAIC",
+                "citation_id": "DTRyxOUAAAAJ:U4n9YNQMCAIC",
+                "authors": "H Moed, T Van Leeuwen, J Reedijk",
+                "publication": "Scientometrics 46 (3), 575-589, 1999",
+                "cited_by":
+                {
+                    "value": 126,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17714462443034408325",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=17714462443034408325&engine=google_scholar&hl=en",
+                    "cites_id": "17714462443034408325"
+                }
+                ,
+                "year": "1999"
+            }
+            ,
+            {
+                "title": "Benchmarking university-industry research cooperation worldwide: performance measurements and indicators based on co-authorship data for the world's largest universities",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:ufrVoPGSRksC",
+                "citation_id": "DTRyxOUAAAAJ:ufrVoPGSRksC",
+                "authors": "RJW Tijssen, TN Van Leeuwen, E Van Wijk",
+                "publication": "Research Evaluation 18 (1), 13-24, 2009",
+                "cited_by":
+                {
+                    "value": 122,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11842589570732280287",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11842589570732280287&engine=google_scholar&hl=en",
+                    "cites_id": "11842589570732280287"
+                }
+                ,
+                "year": "2009"
+            }
+            ,
+            {
+                "title": "Rivals for the crown: Reply to Opthof and Leydesdorff",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:Tyk-4Ss8FVUC",
+                "citation_id": "DTRyxOUAAAAJ:Tyk-4Ss8FVUC",
+                "authors": "AFJ van Raan, TN van Leeuwen, MS Visser, NJ van Eck, L Waltman",
+                "publication": "Journal of informetrics 4 (3), 431-435, 2010",
+                "cited_by":
+                {
+                    "value": 120,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1988108626051879790,11684725678734384913",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=1988108626051879790%2C11684725678734384913&engine=google_scholar&hl=en",
+                    "cites_id": "1988108626051879790,11684725678734384913"
+                }
+                ,
+                "year": "2010"
+            }
+            ,
+            {
+                "title": "Development and application of journal impact measures in the Dutch science system",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:qjMakFHDy7sC",
+                "citation_id": "DTRyxOUAAAAJ:qjMakFHDy7sC",
+                "authors": "T van Leeuwen, H Moed",
+                "publication": "Scientometrics 53 (2), 249-266, 2002",
+                "cited_by":
+                {
+                    "value": 120,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=361642045479704552",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=361642045479704552&engine=google_scholar&hl=en",
+                    "cites_id": "361642045479704552"
+                }
+                ,
+                "year": "2002"
+            }
+            ,
+            {
+                "title": "Citation delay in interdisciplinary knowledge exchange",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:zYLM7Y9cAGgC",
+                "citation_id": "DTRyxOUAAAAJ:zYLM7Y9cAGgC",
+                "authors": "ED Rinia, T Van Leeuwen, E Bruins, H Van Vuren, A Van Raan",
+                "publication": "Scientometrics 51 (1), 293-309, 2001",
+                "cited_by":
+                {
+                    "value": 116,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4451229866455637108",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=4451229866455637108&engine=google_scholar&hl=en",
+                    "cites_id": "4451229866455637108"
+                }
+                ,
+                "year": "2001"
+            }
+            ,
+            {
+                "title": "Evidence of open access of scientific publications in Google Scholar: A large-scale analysis",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:iKswqCX-FLkC",
+                "citation_id": "DTRyxOUAAAAJ:iKswqCX-FLkC",
+                "authors": "A Martín-Martín, R Costas, T van Leeuwen, ED López-Cózar",
+                "publication": "Journal of informetrics 12 (3), 819-841, 2018",
+                "cited_by":
+                {
+                    "value": 113,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1140406698598747786",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=1140406698598747786&engine=google_scholar&hl=en",
+                    "cites_id": "1140406698598747786"
+                }
+                ,
+                "year": "2018"
+            }
+            ,
+            {
+                "title": "Is scientific literature subject to a ‘Sell‐By‐Date’? A general methodology to analyze the ‘durability’of scientific documents",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:qxL8FJ1GzNcC",
+                "citation_id": "DTRyxOUAAAAJ:qxL8FJ1GzNcC",
+                "authors": "R Costas, TN van Leeuwen, AFJ van Raan",
+                "publication": "Journal of the American Society for Information Science and Technology 61 (2 …, 2010",
+                "cited_by":
+                {
+                    "value": 104,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3885568553167824415",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=3885568553167824415&engine=google_scholar&hl=en",
+                    "cites_id": "3885568553167824415"
+                }
+                ,
+                "year": "2010"
+            }
+            ,
+            {
+                "title": "Descriptive versus evaluative bibliometrics",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:roLk4NBRz8UC",
+                "citation_id": "DTRyxOUAAAAJ:roLk4NBRz8UC",
+                "authors": "T Leeuwen",
+                "publication": "Handbook of quantitative science and technology research, 373-388, 2004",
+                "cited_by":
+                {
+                    "value": 104,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3895347688112771304",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=3895347688112771304&engine=google_scholar&hl=en",
+                    "cites_id": "3895347688112771304"
+                }
+                ,
+                "year": "2004"
+            }
+            ,
+            {
+                "title": "Approaching the “reward triangle”: General analysis of the presence of funding acknowledgments and “peer interactive communication” in scientific publications",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:cSdaV2aYdYsC",
+                "citation_id": "DTRyxOUAAAAJ:cSdaV2aYdYsC",
+                "authors": "R Costas, TN van Leeuwen",
+                "publication": "Journal of the American Society for Information Science and Technology 63 (8 …, 2012",
+                "cited_by":
+                {
+                    "value": 103,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16223193520978335334",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=16223193520978335334&engine=google_scholar&hl=en",
+                    "cites_id": "16223193520978335334"
+                }
+                ,
+                "year": "2012"
+            }
+            ,
+            {
+                "title": "A critical analysis of the journal impact factors ofAngewandte Chemie and the journal of the American Chemical Society inaccuracies in published impact factors based on overall …",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:fFSKOagxvKUC",
+                "citation_id": "DTRyxOUAAAAJ:fFSKOagxvKUC",
+                "authors": "HF Moed, TN Van Leeuwen, J Reedijk",
+                "publication": "Scientometrics 37 (1), 105-116, 1996",
+                "cited_by":
+                {
+                    "value": 99,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3214789687106698095",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=3214789687106698095&engine=google_scholar&hl=en",
+                    "cites_id": "3214789687106698095"
+                }
+                ,
+                "year": "1996"
+            }
+            ,
+            {
+                "title": "Using Google Scholar in research evaluation of humanities and social science programs: A comparison with Web of Science data",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:NtGNdKbuCngC",
+                "citation_id": "DTRyxOUAAAAJ:NtGNdKbuCngC",
+                "authors": "AAM Prins, R Costas, TN van Leeuwen, PF Wouters",
+                "publication": "Research Evaluation 25 (3), 264-270, 2016",
+                "cited_by":
+                {
+                    "value": 98,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10587637741375809613",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10587637741375809613&engine=google_scholar&hl=en",
+                    "cites_id": "10587637741375809613"
+                }
+                ,
+                "year": "2016"
+            }
+            ,
+            {
+                "title": "Severe language effect in university rankings: particularly Germany and France are wronged in citation-based rankings",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:5nxA0vEk-isC",
+                "citation_id": "DTRyxOUAAAAJ:5nxA0vEk-isC",
+                "authors": "AFJ Van Raan, TN Van Leeuwen, MS Visser",
+                "publication": "Scientometrics 88 (2), 495-498, 2011",
+                "cited_by":
+                {
+                    "value": 94,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17793276564672628608",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=17793276564672628608&engine=google_scholar&hl=en",
+                    "cites_id": "17793276564672628608"
+                }
+                ,
+                "year": "2011"
+            }
+            ,
+            {
+                "title": "Characteristics of journal impact factors: The effects of uncitedness and citation distribution on the understanding of journal impact factors",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:WF5omc3nYNoC",
+                "citation_id": "DTRyxOUAAAAJ:WF5omc3nYNoC",
+                "authors": "TN Van Leeuwen, HF Moed",
+                "publication": "Scientometrics 63 (2), 357-371, 2005",
+                "cited_by":
+                {
+                    "value": 90,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=21320443870329082",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=21320443870329082&engine=google_scholar&hl=en",
+                    "cites_id": "21320443870329082"
+                }
+                ,
+                "year": "2005"
+            }
+            ,
+            {
+                "title": "Impact measures of interdisciplinary research in physics",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:Se3iqnhoufwC",
+                "citation_id": "DTRyxOUAAAAJ:Se3iqnhoufwC",
+                "authors": "E Rinia, T van Leeuwen, A van Raan",
+                "publication": "Scientometrics 53 (2), 241-248, 2002",
+                "cited_by":
+                {
+                    "value": 88,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7710728265064791804",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=7710728265064791804&engine=google_scholar&hl=en",
+                    "cites_id": "7710728265064791804"
+                }
+                ,
+                "year": "2002"
+            }
+            ,
+            {
+                "title": "Bibliometric research evaluations, Web of Science and the Social Sciences and Humanities: a problematic relationship?",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:TFP_iSt0sucC",
+                "citation_id": "DTRyxOUAAAAJ:TFP_iSt0sucC",
+                "authors": "T Van Leeuwen",
+                "publication": "Bibliometrie-Praxis und Forschung 2, 2013",
+                "cited_by":
+                {
+                    "value": 81,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8488717589081606539",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=8488717589081606539&engine=google_scholar&hl=en",
+                    "cites_id": "8488717589081606539"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "Critical comments on Institute for Scientific Information impact factors: a sample of inorganic molecular chemistry journals",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:YsMSGLbcyi4C",
+                "citation_id": "DTRyxOUAAAAJ:YsMSGLbcyi4C",
+                "authors": "TN Van Leeuwen, HF Moed, J Reedijk",
+                "publication": "Journal of Information Science 25 (6), 489-498, 1999",
+                "cited_by":
+                {
+                    "value": 81,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2313813540658970030",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=2313813540658970030&engine=google_scholar&hl=en",
+                    "cites_id": "2313813540658970030"
+                }
+                ,
+                "year": "1999"
+            }
+            ,
+            {
+                "title": "Using altmetrics for contextualised mapping of societal impact: From hits to networks",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:Nnq8S6OXqDYC",
+                "citation_id": "DTRyxOUAAAAJ:Nnq8S6OXqDYC",
+                "authors": "N Robinson-Garcia, TN van Leeuwen, I Rafols",
+                "publication": "Science and Public Policy 45 (6), 815-826, 2018",
+                "cited_by":
+                {
+                    "value": 79,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=992470806586373957",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=992470806586373957&engine=google_scholar&hl=en",
+                    "cites_id": "992470806586373957"
+                }
+                ,
+                "year": "2018"
+            }
+            ,
+            {
+                "title": "Scientific capabilities and technological performance of national innovation systems: An exploration of emerging industrial relevant research domains",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:LkGwnXOMwfcC",
+                "citation_id": "DTRyxOUAAAAJ:LkGwnXOMwfcC",
+                "authors": "B Van Looy, K Debackere, J Callaert, R Tijssen, T van Leeuwen",
+                "publication": "Scientometrics 66 (2), 295-310, 2006",
+                "cited_by":
+                {
+                    "value": 76,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7890253210273721238",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=7890253210273721238&engine=google_scholar&hl=en",
+                    "cites_id": "7890253210273721238"
+                }
+                ,
+                "year": "2006"
+            }
+            ,
+            {
+                "title": "Scientific output of Dutch medical students",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:Zph67rFs4hoC",
+                "citation_id": "DTRyxOUAAAAJ:Zph67rFs4hoC",
+                "authors": "HJ van Eyk, MHW Hooiveld, TN Van Leeuwen, BLJ Van der Wurff, ...",
+                "publication": "Medical teacher 32 (3), 231-235, 2010",
+                "cited_by":
+                {
+                    "value": 75,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=770925638954483410",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=770925638954483410&engine=google_scholar&hl=en",
+                    "cites_id": "770925638954483410"
+                }
+                ,
+                "year": "2010"
+            }
+            ,
+            {
+                "title": "Highly cited non-journal publications in political science, economics and psychology: a first exploration",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:ULOm3_A8WrAC",
+                "citation_id": "DTRyxOUAAAAJ:ULOm3_A8WrAC",
+                "authors": "A Nederhof, T van Leeuwen, A van Raan",
+                "publication": "Scientometrics 83 (2), 363-374, 2010",
+                "cited_by":
+                {
+                    "value": 69,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10208382025009029483",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10208382025009029483&engine=google_scholar&hl=en",
+                    "cites_id": "10208382025009029483"
+                }
+                ,
+                "year": "2010"
+            }
+            ,
+            {
+                "title": "Research cooperation within the bio-pharmaceutical industry: Network analyses of co-publications within and between firms",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:0EnyYjriUFMC",
+                "citation_id": "DTRyxOUAAAAJ:0EnyYjriUFMC",
+                "authors": "C Calero, T van Leeuwen, R Tijssen",
+                "publication": "Scientometrics 71 (1), 87-99, 2007",
+                "cited_by":
+                {
+                    "value": 67,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14935997262626770216",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=14935997262626770216&engine=google_scholar&hl=en",
+                    "cites_id": "14935997262626770216"
+                }
+                ,
+                "year": "2007"
+            }
+            ,
+            {
+                "title": "First evidence of serious language-bias in the use of citation analysis for the evaluation of national science systems",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:BzfGm06jWhQC",
+                "citation_id": "DTRyxOUAAAAJ:BzfGm06jWhQC",
+                "authors": "TN Van Leeuwen, HF Moed, RJW Tijssen, MS Visser, AFJ Van Raan",
+                "publication": "Research Evaluation 9 (2), 155-156, 2000",
+                "cited_by":
+                {
+                    "value": 67,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14641339483356220118",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=14641339483356220118&engine=google_scholar&hl=en",
+                    "cites_id": "14641339483356220118"
+                }
+                ,
+                "year": "2000"
+            }
+            ,
+            {
+                "title": "Testing the validity of the Hirsch-index for research assessment purposes",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:MXK_kJrjxJIC",
+                "citation_id": "DTRyxOUAAAAJ:MXK_kJrjxJIC",
+                "authors": "T Van Leeuwen",
+                "publication": "Research Evaluation 17 (2), 157-160, 2008",
+                "cited_by":
+                {
+                    "value": 66,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4858112247633416488",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=4858112247633416488&engine=google_scholar&hl=en",
+                    "cites_id": "4858112247633416488"
+                }
+                ,
+                "year": "2008"
+            }
+            ,
+            {
+                "title": "How relevant are local scholarly journals in global science? A case study of South Africa",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:_kc_bZDykSQC",
+                "citation_id": "DTRyxOUAAAAJ:_kc_bZDykSQC",
+                "authors": "RJW Tijssen, J Mouton, TN Van Leeuwen, N Boshoff",
+                "publication": "Research evaluation 15 (3), 163-174, 2006",
+                "cited_by":
+                {
+                    "value": 64,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8047858895419538126,1075316656435950681",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=8047858895419538126%2C1075316656435950681&engine=google_scholar&hl=en",
+                    "cites_id": "8047858895419538126,1075316656435950681"
+                }
+                ,
+                "year": "2006"
+            }
+            ,
+            {
+                "title": "A scientometric overview of CORD-19",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:jRIwE-1ttnoC",
+                "citation_id": "DTRyxOUAAAAJ:jRIwE-1ttnoC",
+                "authors": "G Colavizza, R Costas, VA Traag, NJ van Eck, T van Leeuwen, L Waltman",
+                "publication": "PLoS One 16 (1), e0244839, 2021",
+                "cited_by":
+                {
+                    "value": 60,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10392876117699417991",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10392876117699417991&engine=google_scholar&hl=en",
+                    "cites_id": "10392876117699417991"
+                }
+                ,
+                "year": "2021"
+            }
+            ,
+            {
+                "title": "Mapping the Scientific Performance of German Medical Research: An International Comparative Bibliometric Study; with 4 Tables",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:_FxGoFyzp5QC",
+                "citation_id": "DTRyxOUAAAAJ:_FxGoFyzp5QC",
+                "authors": "RJW Tijssen, TN van Leeuwen, AFJ Van Raan",
+                "publication": "Schattauer Verlag, 2002",
+                "cited_by":
+                {
+                    "value": 57,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11745999327212425325,10586182462033151898",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11745999327212425325%2C10586182462033151898&engine=google_scholar&hl=en",
+                    "cites_id": "11745999327212425325,10586182462033151898"
+                }
+                ,
+                "year": "2002"
+            }
+            ,
+            {
+                "title": "Modelling of bibliometric approaches and importance of output verification in research performance assessment",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:hqOjcs7Dif8C",
+                "citation_id": "DTRyxOUAAAAJ:hqOjcs7Dif8C",
+                "authors": "TN Van Leeuwen",
+                "publication": "Research Evaluation 16 (2), 93-105, 2007",
+                "cited_by":
+                {
+                    "value": 56,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11666697200908572312",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11666697200908572312&engine=google_scholar&hl=en",
+                    "cites_id": "11666697200908572312"
+                }
+                ,
+                "year": "2007"
+            }
+            ,
+            {
+                "title": "Strength and weakness of national science systems: A bibliometric analysis through cooperation patterns",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:3fE2CSJIrl8C",
+                "citation_id": "DTRyxOUAAAAJ:3fE2CSJIrl8C",
+                "authors": "T van Leeuwen",
+                "publication": "Scientometrics 79 (2), 389-408, 2009",
+                "cited_by":
+                {
+                    "value": 55,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9886728833149661343",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=9886728833149661343&engine=google_scholar&hl=en",
+                    "cites_id": "9886728833149661343"
+                }
+                ,
+                "year": "2009"
+            }
+            ,
+            {
+                "title": "Discussing some basic critique on Journal Impact Factors: revision of earlier comments",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:7PzlFSSx8tAC",
+                "citation_id": "DTRyxOUAAAAJ:7PzlFSSx8tAC",
+                "authors": "T Van Leeuwen",
+                "publication": "Scientometrics 92 (2), 443-455, 2012",
+                "cited_by":
+                {
+                    "value": 53,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2713650006182002941",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=2713650006182002941&engine=google_scholar&hl=en",
+                    "cites_id": "2713650006182002941"
+                }
+                ,
+                "year": "2012"
+            }
+            ,
+            {
+                "title": "Scaling rules in the science system: Influence of field‐specific citation characteristics on the impact of individual researchers",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:YOwf2qJgpHMC",
+                "citation_id": "DTRyxOUAAAAJ:YOwf2qJgpHMC",
+                "authors": "R Costas, M Bordons, TN Van Leeuwen, AFJ Van Raan",
+                "publication": "Journal of the American Society for Information Science and Technology 60 (4 …, 2009",
+                "cited_by":
+                {
+                    "value": 51,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15620470947922300138",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15620470947922300138&engine=google_scholar&hl=en",
+                    "cites_id": "15620470947922300138"
+                }
+                ,
+                "year": "2009"
+            }
+            ,
+            {
+                "title": "The use of combined bibliometric methods in research funding policy",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:ZqE1mSdD_DYC",
+                "citation_id": "DTRyxOUAAAAJ:ZqE1mSdD_DYC",
+                "authors": "TN Van Leeuwen, LJ Van der Wurff, AFJ Van Raan",
+                "publication": "Research Evaluation 10 (3), 195-201, 2001",
+                "cited_by":
+                {
+                    "value": 47,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11318642899631589730",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11318642899631589730&engine=google_scholar&hl=en",
+                    "cites_id": "11318642899631589730"
+                }
+                ,
+                "year": "2001"
+            }
+            ,
+            {
+                "title": "Redefining the field of economics: Improving field normalization for the application of bibliometric techniques in the field of economics",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:9ZlFYXVOiuMC",
+                "citation_id": "DTRyxOUAAAAJ:9ZlFYXVOiuMC",
+                "authors": "TN van Leeuwen, C Calero Medina",
+                "publication": "Research Evaluation 21 (1), 61-70, 2012",
+                "cited_by":
+                {
+                    "value": 43,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4715292303689949033",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=4715292303689949033&engine=google_scholar&hl=en",
+                    "cites_id": "4715292303689949033"
+                }
+                ,
+                "year": "2012"
+            }
+            ,
+            {
+                "title": "Measuring the productivity of national R&D systems: Challenges in cross-national comparisons of R&D input and publication output indicators",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:QKtdBID3u5MC",
+                "citation_id": "DTRyxOUAAAAJ:QKtdBID3u5MC",
+                "authors": "DW Aksnes, G Sivertsen, TN van Leeuwen, KK Wendt",
+                "publication": "Science and public policy 44 (2), 246-258, 2017",
+                "cited_by":
+                {
+                    "value": 42,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17215718344709556740",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=17215718344709556740&engine=google_scholar&hl=en",
+                    "cites_id": "17215718344709556740"
+                }
+                ,
+                "year": "2017"
+            }
+            ,
+            {
+                "title": "The “Mendel syndrome” in science: durability of scientific literature and its effects on bibliometric analysis of individual scientists",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:QIV2ME_5wuYC",
+                "citation_id": "DTRyxOUAAAAJ:QIV2ME_5wuYC",
+                "authors": "R Costas, TN van Leeuwen, AFJ van Raan",
+                "publication": "Scientometrics 89 (1), 177-205, 2011",
+                "cited_by":
+                {
+                    "value": 42,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4743779356573536661",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=4743779356573536661&engine=google_scholar&hl=en",
+                    "cites_id": "4743779356573536661"
+                }
+                ,
+                "year": "2011"
+            }
+            ,
+            {
+                "title": "Non-English papers decrease rankings",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:M3ejUd6NZC8C",
+                "citation_id": "DTRyxOUAAAAJ:M3ejUd6NZC8C",
+                "authors": "T Van Raan, T van Leeuwen, M Visser",
+                "publication": "Nature 469 (7328), 34-34, 2011",
+                "cited_by":
+                {
+                    "value": 42,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4187684525284450984",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=4187684525284450984&engine=google_scholar&hl=en",
+                    "cites_id": "4187684525284450984"
+                }
+                ,
+                "year": "2011"
+            }
+            ,
+            {
+                "title": "On the correlation between bibliometric indicators and peer review: Reply to Opthof and Leydesdorff",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:aqlVkmm33-oC",
+                "citation_id": "DTRyxOUAAAAJ:aqlVkmm33-oC",
+                "authors": "L Waltman, NJ van Eck, TN van Leeuwen, MS Visser, AFJ van Raan",
+                "publication": "Scientometrics 88 (3), 1017-1022, 2011",
+                "cited_by":
+                {
+                    "value": 40,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15551234705181571959",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15551234705181571959&engine=google_scholar&hl=en",
+                    "cites_id": "15551234705181571959"
+                }
+                ,
+                "year": "2011"
+            }
+            ,
+            {
+                "title": "Measuring impacts of academic science on industrial research: A citation-based approach",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:KlAtU1dfN6UC",
+                "citation_id": "DTRyxOUAAAAJ:KlAtU1dfN6UC",
+                "authors": "RJW Tijssen, TN Van Leeuwen",
+                "publication": "Scientometrics 66 (1), 55-69, 2006",
+                "cited_by":
+                {
+                    "value": 40,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15665036965106577783",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15665036965106577783&engine=google_scholar&hl=en",
+                    "cites_id": "15665036965106577783"
+                }
+                ,
+                "year": "2006"
+            }
+            ,
+            {
+                "title": "The effect of booming countries on changes in the relative specialization index (RSI) on country level",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:oYLFIHfuHKwC",
+                "citation_id": "DTRyxOUAAAAJ:oYLFIHfuHKwC",
+                "authors": "DW Aksnes, TN van Leeuwen, G Sivertsen",
+                "publication": "Scientometrics 101 (2), 1391-1401, 2014",
+                "cited_by":
+                {
+                    "value": 38,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8563477795215378577",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=8563477795215378577&engine=google_scholar&hl=en",
+                    "cites_id": "8563477795215378577"
+                }
+                ,
+                "year": "2014"
+            }
+            ,
+            {
+                "title": "Funding decisions, peer review, and scientific excellence in physical sciences, chemistry, and geosciences",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:mB3voiENLucC",
+                "citation_id": "DTRyxOUAAAAJ:mB3voiENLucC",
+                "authors": "TN van Leeuwen, HF Moed",
+                "publication": "Research Evaluation 21 (3), 189-198, 2012",
+                "cited_by":
+                {
+                    "value": 37,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4320519464584715762",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=4320519464584715762&engine=google_scholar&hl=en",
+                    "cites_id": "4320519464584715762"
+                }
+                ,
+                "year": "2012"
+            }
+            ,
+            {
+                "title": "Bibliometric analysis of psychotherapy research: Performance assessment and position in the journal landscape",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:kNdYIx-mwKoC",
+                "citation_id": "DTRyxOUAAAAJ:kNdYIx-mwKoC",
+                "authors": "AFJ Van Raan, MS Visser, TN Van Leeuwen, E Van Wijk",
+                "publication": "Psychotherapy Research 13 (4), 511-528, 2003",
+                "cited_by":
+                {
+                    "value": 34,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8616520976426617218",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=8616520976426617218&engine=google_scholar&hl=en",
+                    "cites_id": "8616520976426617218"
+                }
+                ,
+                "year": "2003"
+            }
+            ,
+            {
+                "title": "Scientific publication activity of industry in the Netherlands",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:8k81kl-MbHgC",
+                "citation_id": "DTRyxOUAAAAJ:8k81kl-MbHgC",
+                "authors": "RJW Tijssen, TN van Leeuwen, JC Korevaar",
+                "publication": "Research Evaluation 6 (2), 105-119, 1996",
+                "cited_by":
+                {
+                    "value": 34,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1502078463559568550",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=1502078463559568550&engine=google_scholar&hl=en",
+                    "cites_id": "1502078463559568550"
+                }
+                ,
+                "year": "1996"
+            }
+            ,
+            {
+                "title": "The role of editorial material in bibliometric research performance assessments",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:-f6ydRqryjwC",
+                "citation_id": "DTRyxOUAAAAJ:-f6ydRqryjwC",
+                "authors": "T van Leeuwen, R Costas, C Calero-Medina, M Visser",
+                "publication": "Scientometrics 95 (2), 817-828, 2013",
+                "cited_by":
+                {
+                    "value": 33,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1563019298366026672",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=1563019298366026672&engine=google_scholar&hl=en",
+                    "cites_id": "1563019298366026672"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "Bibliometric analysis of output and impact based on CRIS data: a case study on the registered output of a Dutch university",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:4QKQTXcH0q8C",
+                "citation_id": "DTRyxOUAAAAJ:4QKQTXcH0q8C",
+                "authors": "TN van Leeuwen, E Van Wijk, PF Wouters",
+                "publication": "Scientometrics 106 (1), 1-16, 2016",
+                "cited_by":
+                {
+                    "value": 31,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10871348124692248824",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10871348124692248824&engine=google_scholar&hl=en",
+                    "cites_id": "10871348124692248824"
+                }
+                ,
+                "year": "2016"
+            }
+            ,
+            {
+                "title": "Centres of research excellence and science indicators. Can ‘excellence’be captured in numbers",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:Gpwnp1kGG20C",
+                "citation_id": "DTRyxOUAAAAJ:Gpwnp1kGG20C",
+                "authors": "R Tijssen, T Van Leeuwen",
+                "publication": "Ninth international conference on science and technology indicators, 146-147, 2006",
+                "cited_by":
+                {
+                    "value": 29,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1929259022229478714",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=1929259022229478714&engine=google_scholar&hl=en",
+                    "cites_id": "1929259022229478714"
+                }
+                ,
+                "year": "2006"
+            }
+            ,
+            {
+                "title": "Open Access uptake by universities worldwide",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:jKT558fuBk8C",
+                "citation_id": "DTRyxOUAAAAJ:jKT558fuBk8C",
+                "authors": "N Robinson-Garcia, R Costas, TN van Leeuwen",
+                "publication": "PeerJ 8, e9410, 2020",
+                "cited_by":
+                {
+                    "value": 28,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16278847663163014534",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=16278847663163014534&engine=google_scholar&hl=en",
+                    "cites_id": "16278847663163014534"
+                }
+                ,
+                "year": "2020"
+            }
+            ,
+            {
+                "title": "Referencing patterns of individual researchers: Do top scientists rely on more extensive information sources?",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:qPeb-qHga9sC",
+                "citation_id": "DTRyxOUAAAAJ:qPeb-qHga9sC",
+                "authors": "R Costas, TN van Leeuwen, M Bordons",
+                "publication": "Journal of the American Society for Information Science and Technology 63 …, 2012",
+                "cited_by":
+                {
+                    "value": 27,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5476950302567845520",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=5476950302567845520&engine=google_scholar&hl=en",
+                    "cites_id": "5476950302567845520"
+                }
+                ,
+                "year": "2012"
+            }
+            ,
+            {
+                "title": "Publication trends in social psychology journals: A long‐term bibliometric analysis",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:9LpHyFPp1DQC",
+                "citation_id": "DTRyxOUAAAAJ:9LpHyFPp1DQC",
+                "authors": "T van Leeuwen",
+                "publication": "European Journal of Social Psychology 43 (1), 9-11, 2013",
+                "cited_by":
+                {
+                    "value": 26,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9013329424553334066",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=9013329424553334066&engine=google_scholar&hl=en",
+                    "cites_id": "9013329424553334066"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "Analysis of publications on journal impact factor over time",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:mVC4hKzE2FoC",
+                "citation_id": "DTRyxOUAAAAJ:mVC4hKzE2FoC",
+                "authors": "TN Van Leeuwen, PF Wouters",
+                "publication": "Frontiers in Research Metrics and Analytics 2, 4, 2017",
+                "cited_by":
+                {
+                    "value": 24,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13345166994890484940",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=13345166994890484940&engine=google_scholar&hl=en",
+                    "cites_id": "13345166994890484940"
+                }
+                ,
+                "year": "2017"
+            }
+            ,
+            {
+                "title": "On generalising scientometric journal mapping beyond ISI's journal and citation databases",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:Tfl4UtY-dJUC",
+                "citation_id": "DTRyxOUAAAAJ:Tfl4UtY-dJUC",
+                "authors": "R Tijssen, T Van Leeuwen",
+                "publication": "Scientometrics 33 (1), 93-116, 1995",
+                "cited_by":
+                {
+                    "value": 24,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10568417555196417787",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10568417555196417787&engine=google_scholar&hl=en",
+                    "cites_id": "10568417555196417787"
+                }
+                ,
+                "year": "1995"
+            }
+            ,
+            {
+                "title": "Seed journal citation network maps: A method based on network theory",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:3MwzVuqRcA0C",
+                "citation_id": "DTRyxOUAAAAJ:3MwzVuqRcA0C",
+                "authors": "CM Calero Medina, TN van Leeuwen",
+                "publication": "Journal of the American Society for Information Science and Technology 63 (6 …, 2012",
+                "cited_by":
+                {
+                    "value": 23,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2555811029420724534",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=2555811029420724534&engine=google_scholar&hl=en",
+                    "cites_id": "2555811029420724534"
+                }
+                ,
+                "year": "2012"
+            }
+            ,
+            {
+                "title": "Scoping study on the use of bibliometric analysis to measure the quality of research in UK higher education institutions",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:wGzT3bKASkAC",
+                "citation_id": "DTRyxOUAAAAJ:wGzT3bKASkAC",
+                "authors": "AFJ van Raan, HF Moed, TN van Leeuwen",
+                "publication": "Report to HEFCE by the Centre for Science and Technology Studies, Leiden …, 2007",
+                "cited_by":
+                {
+                    "value": 22,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16217057602839610615",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=16217057602839610615&engine=google_scholar&hl=en",
+                    "cites_id": "16217057602839610615"
+                }
+                ,
+                "year": "2007"
+            }
+            ,
+            {
+                "title": "Bibliometric analysis of world science",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:BW2nPTmhBn4C",
+                "citation_id": "DTRyxOUAAAAJ:BW2nPTmhBn4C",
+                "authors": "JW Tijssen, T Van Leeuwen",
+                "publication": "Extended technical annex to, 2003",
+                "cited_by":
+                {
+                    "value": 22,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2955947926946254520",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=2955947926946254520&engine=google_scholar&hl=en",
+                    "cites_id": "2955947926946254520"
+                }
+                ,
+                "year": "2003"
+            }
+            ,
+            {
+                "title": "Bibliometric profiles of academic physics research in the Netherlands",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:ziOE8S1-AIUC",
+                "citation_id": "DTRyxOUAAAAJ:ziOE8S1-AIUC",
+                "authors": "THN Van Leeuwen, EJ Rinia, AFJ Van Raan",
+                "publication": "Report CWTS, 96-09, 1996",
+                "cited_by":
+                {
+                    "value": 22,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7668212922909013993",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=7668212922909013993&engine=google_scholar&hl=en",
+                    "cites_id": "7668212922909013993"
+                }
+                ,
+                "year": "1996"
+            }
+            ,
+            {
+                "title": "The ethics ecosystem: Personal ethics, network governance and regulating actors governing the use of social media research data",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:GtqhT-R7ZnwC",
+                "citation_id": "DTRyxOUAAAAJ:GtqhT-R7ZnwC",
+                "authors": "G Samuel, GE Derrick, T Van Leeuwen",
+                "publication": "Minerva 57 (3), 317-343, 2019",
+                "cited_by":
+                {
+                    "value": 20,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7045987120813873524",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=7045987120813873524&engine=google_scholar&hl=en",
+                    "cites_id": "7045987120813873524"
+                }
+                ,
+                "year": "2019"
+            }
+            ,
+            {
+                "title": "Exploring possibilities to use bibliometric data to monitor gold open access publishing at the national level",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:ufKn5pxu7C0C",
+                "citation_id": "DTRyxOUAAAAJ:ufKn5pxu7C0C",
+                "authors": "TN Van Leeuwen, C Tatum, PF Wouters",
+                "publication": "Journal of the Association for Information Science and Technology 69 (9 …, 2018",
+                "cited_by":
+                {
+                    "value": 20,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1831855065519536490",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=1831855065519536490&engine=google_scholar&hl=en",
+                    "cites_id": "1831855065519536490"
+                }
+                ,
+                "year": "2018"
+            }
+            ,
+            {
+                "title": "Development and application of new journal impact measures",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:4TOpqqG69KYC",
+                "citation_id": "DTRyxOUAAAAJ:4TOpqqG69KYC",
+                "authors": "TN van Leeuwen, HF Moed",
+                "publication": "Cortex 37 (4), 607-610, 2001",
+                "cited_by":
+                {
+                    "value": 20,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13909660484580706967",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=13909660484580706967&engine=google_scholar&hl=en",
+                    "cites_id": "13909660484580706967"
+                }
+                ,
+                "year": "2001"
+            }
+            ,
+            {
+                "title": "Scientific activity by medical students: the relationship between academic publishing during medical school and publication careers after graduation",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:Ei5r6KrKXVQC",
+                "citation_id": "DTRyxOUAAAAJ:Ei5r6KrKXVQC",
+                "authors": "CJF Waaijer, BWC Ommering, LJ van der Wurff, TN van Leeuwen, ...",
+                "publication": "Perspectives on medical education 8 (4), 223-229, 2019",
+                "cited_by":
+                {
+                    "value": 17,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5104378685299202433",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=5104378685299202433&engine=google_scholar&hl=en",
+                    "cites_id": "5104378685299202433"
+                }
+                ,
+                "year": "2019"
+            }
+            ,
+            {
+                "title": "Open data: The researcher perspective",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:h1pkognVyKwC",
+                "citation_id": "DTRyxOUAAAAJ:h1pkognVyKwC",
+                "authors": "S Berghmans, H Cousijn, G Deakin, I Meijer, A Mulligan, A Plume, ...",
+                "publication": "Open Data: The researcher perspective, 2017",
+                "cited_by":
+                {
+                    "value": 17,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6294640696705773450",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=6294640696705773450&engine=google_scholar&hl=en",
+                    "cites_id": "6294640696705773450"
+                }
+                ,
+                "year": "2017"
+            }
+            ,
+            {
+                "title": "Second generation bibliometric indicators",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:MNNNGtAgD4EC",
+                "citation_id": "DTRyxOUAAAAJ:MNNNGtAgD4EC",
+                "authors": "TN van Leeuwen",
+                "publication": "uitgever niet vastgesteld, 2004",
+                "cited_by":
+                {
+                    "value": 15,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5484133995660609249,6405205583950793820",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=5484133995660609249%2C6405205583950793820&engine=google_scholar&hl=en",
+                    "cites_id": "5484133995660609249,6405205583950793820"
+                }
+                ,
+                "year": "2004"
+            }
+            ,
+            {
+                "title": "JACS still topping Angewandte Chemie: beware of erroneous impact factors",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:sJK75vZXtG0C",
+                "citation_id": "DTRyxOUAAAAJ:sJK75vZXtG0C",
+                "authors": "TN Van Leeuwen, HF Moed, J Reedijk",
+                "publication": "Chemical Intelligencer 3 (3), 32-36, 1997",
+                "cited_by":
+                {
+                    "value": 15,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9870009261304507287,7805040800315279129",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=9870009261304507287%2C7805040800315279129&engine=google_scholar&hl=en",
+                    "cites_id": "9870009261304507287,7805040800315279129"
+                }
+                ,
+                "year": "1997"
+            }
+            ,
+            {
+                "title": "Assessing multidisciplinary areas of science and technology: A synthetic bibliometric study of Dutch nuclear energy research",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:ShjGdcaqzI0C",
+                "citation_id": "DTRyxOUAAAAJ:ShjGdcaqzI0C",
+                "authors": "T Van Leeuwen, R Tijssen",
+                "publication": "Scientometrics 26 (1), 115-133, 1993",
+                "cited_by":
+                {
+                    "value": 15,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15102065612439607277",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15102065612439607277&engine=google_scholar&hl=en",
+                    "cites_id": "15102065612439607277"
+                }
+                ,
+                "year": "1993"
+            }
+            ,
+            {
+                "title": "UK doubles its “world-leading” research in life sciences and medicine in six years: testing the claim?",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:kO05sadLmrgC",
+                "citation_id": "DTRyxOUAAAAJ:kO05sadLmrgC",
+                "authors": "S Wooding, TN Van Leeuwen, S Parks, S Kapur, J Grant",
+                "publication": "PLoS One 10 (7), e0132990, 2015",
+                "cited_by":
+                {
+                    "value": 14,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7361229773807321530,4023796166874608466",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=7361229773807321530%2C4023796166874608466&engine=google_scholar&hl=en",
+                    "cites_id": "7361229773807321530,4023796166874608466"
+                }
+                ,
+                "year": "2015"
+            }
+            ,
+            {
+                "title": "Analysing robustness and uncertainty levels of bibliometric performance statistics supporting science policy. A case study evaluating Danish postdoctoral funding",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:a2necdfpwlEC",
+                "citation_id": "DTRyxOUAAAAJ:a2necdfpwlEC",
+                "authors": "JW Schneider, TN van Leeuwen",
+                "publication": "Research Evaluation 23 (4), 285-297, 2014",
+                "cited_by":
+                {
+                    "value": 14,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17494886535366464458",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=17494886535366464458&engine=google_scholar&hl=en",
+                    "cites_id": "17494886535366464458"
+                }
+                ,
+                "year": "2014"
+            }
+            ,
+            {
+                "title": "Bibliometric analyses of world science. Extended technical annex to chapter 5 of the Third European Report on S&T Indicators",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:yCjxvIMm6_oC",
+                "citation_id": "DTRyxOUAAAAJ:yCjxvIMm6_oC",
+                "authors": "RJW Tijssen, TN Van Leeuwen",
+                "publication": "Leiden: Centre for Science and Technology Studies (CWTS), 2003",
+                "cited_by":
+                {
+                    "value": 14,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12558103701961534338,11417772562466531307",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=12558103701961534338%2C11417772562466531307&engine=google_scholar&hl=en",
+                    "cites_id": "12558103701961534338,11417772562466531307"
+                }
+                ,
+                "year": "2003"
+            }
+            ,
+            {
+                "title": "Developing indicators on Open Access by combining evidence from diverse data sources",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:j8pvxH-kN2QC",
+                "citation_id": "DTRyxOUAAAAJ:j8pvxH-kN2QC",
+                "authors": "T van Leeuwen, I Meijer, A Yegros-Yegros, R Costas",
+                "publication": "arXiv preprint arXiv:1802.02827, 2018",
+                "cited_by":
+                {
+                    "value": 13,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6340609746828269158",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=6340609746828269158&engine=google_scholar&hl=en",
+                    "cites_id": "6340609746828269158"
+                }
+                ,
+                "year": "2018"
+            }
+            ,
+            {
+                "title": "Integrating metrics to measure research performance in social sciences and humanities: The case of the Spanish CSIC",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:3BvdIg-l-ZAC",
+                "citation_id": "DTRyxOUAAAAJ:3BvdIg-l-ZAC",
+                "authors": "AA Díaz-Faes, M Bordons, TN van Leeuwen",
+                "publication": "Research Evaluation 25 (4), 451-460, 2016",
+                "cited_by":
+                {
+                    "value": 13,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10871511564590232265",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10871511564590232265&engine=google_scholar&hl=en",
+                    "cites_id": "10871511564590232265"
+                }
+                ,
+                "year": "2016"
+            }
+            ,
+            {
+                "title": "International benchmarking and bibliometric monitoring of UK research performance in the social sciences",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:hC7cP41nSMkC",
+                "citation_id": "DTRyxOUAAAAJ:hC7cP41nSMkC",
+                "authors": "AJ Nederhof, TN Van Leeuwen, RJW Tijssen",
+                "publication": "CWTS, 2004",
+                "cited_by":
+                {
+                    "value": 13,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14453787985687551996",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=14453787985687551996&engine=google_scholar&hl=en",
+                    "cites_id": "14453787985687551996"
+                }
+                ,
+                "year": "2004"
+            }
+            ,
+            {
+                "title": "Trends in publication output and impact of universities in the Netherlands",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:3vbIHxFL9FgC",
+                "citation_id": "DTRyxOUAAAAJ:3vbIHxFL9FgC",
+                "authors": "HF Moed, TN Van Leeuwen, MS Visser",
+                "publication": "Research Evaluation 8 (1), 60-67, 1999",
+                "cited_by":
+                {
+                    "value": 13,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2203074746073837274",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=2203074746073837274&engine=google_scholar&hl=en",
+                    "cites_id": "2203074746073837274"
+                }
+                ,
+                "year": "1999"
+            }
+            ,
+            {
+                "title": "Open Access Publishing and Citation Impact-An International Study.",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:VnuxuLaQPLMC",
+                "citation_id": "DTRyxOUAAAAJ:VnuxuLaQPLMC",
+                "authors": "TN van Leeuwen, C Tatum, P Wouters",
+                "publication": "ISSI, 2015",
+                "cited_by":
+                {
+                    "value": 11,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8303352119841956823",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=8303352119841956823&engine=google_scholar&hl=en",
+                    "cites_id": "8303352119841956823"
+                }
+                ,
+                "year": "2015"
+            }
+            ,
+            {
+                "title": "An in-depth analysis of papers retracted in the Web of Science",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:gmHTDCtJMcoC",
+                "citation_id": "DTRyxOUAAAAJ:gmHTDCtJMcoC",
+                "authors": "TN Van Leeuwen, M Luwel",
+                "publication": "Context Counts: Pathways to Master Big and Little Data”. Proceedings of the …, 2014",
+                "cited_by":
+                {
+                    "value": 11,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9207591708347511401",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=9207591708347511401&engine=google_scholar&hl=en",
+                    "cites_id": "9207591708347511401"
+                }
+                ,
+                "year": "2014"
+            }
+            ,
+            {
+                "title": "Effects of the durability of scientific literature at the group level: Case study of chemistry research groups in the Netherlands",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:j3f4tGmQtD8C",
+                "citation_id": "DTRyxOUAAAAJ:j3f4tGmQtD8C",
+                "authors": "R Costas, TN van Leeuwen, AFJ van Raan",
+                "publication": "Research Policy 42 (4), 886-894, 2013",
+                "cited_by":
+                {
+                    "value": 11,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3134651816607396374",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=3134651816607396374&engine=google_scholar&hl=en",
+                    "cites_id": "3134651816607396374"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "Calibration of bibliometric indicators in space exploration research: A comparison of citation impact measurement of the space and ground-based life and physical sciences",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:TQgYirikUcIC",
+                "citation_id": "DTRyxOUAAAAJ:TQgYirikUcIC",
+                "authors": "AJ Nederhof, TN Van Leeuwen, P Clancy",
+                "publication": "Research Evaluation 21 (1), 79-85, 2012",
+                "cited_by":
+                {
+                    "value": 11,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12996708005714789426",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=12996708005714789426&engine=google_scholar&hl=en",
+                    "cites_id": "12996708005714789426"
+                }
+                ,
+                "year": "2012"
+            }
+            ,
+            {
+                "title": "Searching for scientific excellence: Scientometric measurements and citation analyses of national research systems",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:Wp0gIr-vW9MC",
+                "citation_id": "DTRyxOUAAAAJ:Wp0gIr-vW9MC",
+                "authors": "RJ TIJSSEN, MS VISSER, TN VAN LEEUWEN",
+                "publication": "ISSI-2001: International Society for Scientometrics and Informetrics …, 2001",
+                "cited_by":
+                {
+                    "value": 11,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13716075519947187217",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=13716075519947187217&engine=google_scholar&hl=en",
+                    "cites_id": "13716075519947187217"
+                }
+                ,
+                "year": "2001"
+            }
+            ,
+            {
+                "title": "Models of parenting and its effect on academic productivity: preliminary results from an international survey",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:s2G-WRnXBicC",
+                "citation_id": "DTRyxOUAAAAJ:s2G-WRnXBicC",
+                "authors": "GE Derrick, A Jaeger, PY Chen, CR Sugimoto, T Van Leeuwen, ...",
+                "publication": "International Society for Informetrics and Scientometrics, 2019",
+                "cited_by":
+                {
+                    "value": 10,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5466989810387318308",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=5466989810387318308&engine=google_scholar&hl=en",
+                    "cites_id": "5466989810387318308"
+                }
+                ,
+                "year": "2019"
+            }
+            ,
+            {
+                "title": "Evaluative Inquiry: Engaging research evaluation analytically and strategically",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:Q3-QASNKTMEC",
+                "citation_id": "DTRyxOUAAAAJ:Q3-QASNKTMEC",
+                "authors": "S de Rijcke, T Holtrop, W Kaltenbrunner, J Zuijderwijk, A Beaulieu, ...",
+                "publication": "Fteval Journal for Research and Technology Policy Evaluation, 176-182, 2019",
+                "cited_by":
+                {
+                    "value": 10,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6027553799753254505",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=6027553799753254505&engine=google_scholar&hl=en",
+                    "cites_id": "6027553799753254505"
+                }
+                ,
+                "year": "2019"
+            }
+            ,
+            {
+                "title": "A longitudinal analysis of publications on maternal mortality",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:NU-BerS4NX4C",
+                "citation_id": "DTRyxOUAAAAJ:NU-BerS4NX4C",
+                "authors": "CJM De Groot, T Van Leeuwen, BWJ Mol, L Waltman",
+                "publication": "Paediatric and perinatal epidemiology 29 (6), 481-489, 2015",
+                "cited_by":
+                {
+                    "value": 10,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12622802429753599220",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=12622802429753599220&engine=google_scholar&hl=en",
+                    "cites_id": "12622802429753599220"
+                }
+                ,
+                "year": "2015"
+            }
+            ,
+            {
+                "title": "Performance of European science: research networks and profiles of EU countries in a global perspective",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:e5wmG9Sq2KIC",
+                "citation_id": "DTRyxOUAAAAJ:e5wmG9Sq2KIC",
+                "authors": "AFJ van Raan, TN van Leeuwen, C Calero-Medina",
+                "publication": "European Science and Technology Policy, 2009",
+                "cited_by":
+                {
+                    "value": 10,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18897337365779078",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=18897337365779078&engine=google_scholar&hl=en",
+                    "cites_id": "18897337365779078"
+                }
+                ,
+                "year": "2009"
+            }
+            ,
+            {
+                "title": "The new set of bibliometric indicators of CWTS",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:mVmsd5A6BfQC",
+                "citation_id": "DTRyxOUAAAAJ:mVmsd5A6BfQC",
+                "authors": "AFJ van Raan, NJ van Eck, TN van Leeuwen, MS Visser, L Waltman",
+                "publication": "Eleventh International Conference on Science and Technology Indicators, 291, 2010",
+                "cited_by":
+                {
+                    "value": 9,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5638541521985767447",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=5638541521985767447&engine=google_scholar&hl=en",
+                    "cites_id": "5638541521985767447"
+                }
+                ,
+                "year": "2010"
+            }
+            ,
+            {
+                "title": "Classification of “research letters” in general medical journals and its consequences in bibliometric research evaluation processes",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DTRyxOUAAAAJ&pagesize=100&citation_for_view=DTRyxOUAAAAJ:wBLCggQE-ToC",
+                "citation_id": "DTRyxOUAAAAJ:wBLCggQE-ToC",
+                "authors": "TN Van Leeuwen, LJ Van der Wurff, AJM De Craen",
+                "publication": "Research Evaluation 16 (1), 59-63, 2007",
+                "cited_by":
+                {
+                    "value": 9,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15793371936004208058",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15793371936004208058&engine=google_scholar&hl=en",
+                    "cites_id": "15793371936004208058"
+                }
+                ,
+                "year": "2007"
+            }
+        ]
+        ,
+        "cited_by":
+        {
+            "table":
+            [
+                {
+                    "citations":
+                    {
+                        "all": 9451,
+                        "since_2017": 3706
+                    }
+                }
+                ,
+                {
+                    "h_index":
+                    {
+                        "all": 51,
+                        "since_2017": 33
+                    }
+                }
+                ,
+                {
+                    "i10_index":
+                    {
+                        "all": 98,
+                        "since_2017": 74
+                    }
+                }
+            ]
+            ,
+            "graph":
+            [
+                {
+                    "year": 1997,
+                    "citations": 29
+                }
+                ,
+                {
+                    "year": 1998,
+                    "citations": 32
+                }
+                ,
+                {
+                    "year": 1999,
+                    "citations": 43
+                }
+                ,
+                {
+                    "year": 2000,
+                    "citations": 43
+                }
+                ,
+                {
+                    "year": 2001,
+                    "citations": 70
+                }
+                ,
+                {
+                    "year": 2002,
+                    "citations": 88
+                }
+                ,
+                {
+                    "year": 2003,
+                    "citations": 123
+                }
+                ,
+                {
+                    "year": 2004,
+                    "citations": 114
+                }
+                ,
+                {
+                    "year": 2005,
+                    "citations": 167
+                }
+                ,
+                {
+                    "year": 2006,
+                    "citations": 183
+                }
+                ,
+                {
+                    "year": 2007,
+                    "citations": 220
+                }
+                ,
+                {
+                    "year": 2008,
+                    "citations": 287
+                }
+                ,
+                {
+                    "year": 2009,
+                    "citations": 327
+                }
+                ,
+                {
+                    "year": 2010,
+                    "citations": 383
+                }
+                ,
+                {
+                    "year": 2011,
+                    "citations": 483
+                }
+                ,
+                {
+                    "year": 2012,
+                    "citations": 521
+                }
+                ,
+                {
+                    "year": 2013,
+                    "citations": 620
+                }
+                ,
+                {
+                    "year": 2014,
+                    "citations": 594
+                }
+                ,
+                {
+                    "year": 2015,
+                    "citations": 636
+                }
+                ,
+                {
+                    "year": 2016,
+                    "citations": 649
+                }
+                ,
+                {
+                    "year": 2017,
+                    "citations": 580
+                }
+                ,
+                {
+                    "year": 2018,
+                    "citations": 713
+                }
+                ,
+                {
+                    "year": 2019,
+                    "citations": 706
+                }
+                ,
+                {
+                    "year": 2020,
+                    "citations": 766
+                }
+                ,
+                {
+                    "year": 2021,
+                    "citations": 800
+                }
+                ,
+                {
+                    "year": 2022,
+                    "citations": 136
+                }
+            ]
+        }
+        ,
+        "public_access":
+        {
+            "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=DTRyxOUAAAAJ",
+            "available": 20,
+            "not_available": 0
+        }
+        ,
+        "co_authors":
+        [
+            {
+                "name": "Anthony (Ton) F.J. van Raan",
+                "link": "https://scholar.google.com/citations?user=G-2AKcgAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=G-2AKcgAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "G-2AKcgAAAAJ",
+                "affiliations": "Professor of Science Studies, Leiden University",
+                "email": "Verified email at cwts.leidenuniv.nl",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=G-2AKcgAAAAJ&citpid=2"
+            }
+            ,
+            {
+                "name": "Robert J.W. Tijssen",
+                "link": "https://scholar.google.com/citations?user=GbQBFhAAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=GbQBFhAAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "GbQBFhAAAAAJ",
+                "affiliations": "Professor emeritus of Science and Innovation Studies, Leiden University; Stellenbosch University",
+                "email": "Verified email at cwts.leidenuniv.nl",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=GbQBFhAAAAAJ&citpid=3"
+            }
+            ,
+            {
+                "name": "Moed, Henk F.",
+                "link": "https://scholar.google.com/citations?user=qgrbFW8AAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=qgrbFW8AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "qgrbFW8AAAAJ",
+                "affiliations": "Visiting professor, Sapienza Univ Rome; ex CWTS Leiden Univ, ex Elsevier",
+                "email": "Verified email at uniroma1.it",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=qgrbFW8AAAAJ&citpid=3"
+            }
+            ,
+            {
+                "name": "Rodrigo Costas",
+                "link": "https://scholar.google.com/citations?user=6dUTpTYAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=6dUTpTYAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "6dUTpTYAAAAJ",
+                "affiliations": "CWTS Leiden University",
+                "email": "Verified email at cwts.leidenuniv.nl",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=6dUTpTYAAAAJ&citpid=1"
+            }
+            ,
+            {
+                "name": "Nees Jan van Eck",
+                "link": "https://scholar.google.com/citations?user=ksTAMO0AAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=ksTAMO0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "ksTAMO0AAAAJ",
+                "affiliations": "Senior Researcher, Centre for Science and Technology Studies (CWTS), Leiden University",
+                "email": "Verified email at cwts.leidenuniv.nl",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ksTAMO0AAAAJ&citpid=1"
+            }
+            ,
+            {
+                "name": "Paul Wouters",
+                "link": "https://scholar.google.com/citations?user=ZHF-hVMAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=ZHF-hVMAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "ZHF-hVMAAAAJ",
+                "affiliations": "Centre for Science and Technology Studies, Leiden University",
+                "email": "Verified email at cwts.leidenuniv.nl",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ZHF-hVMAAAAJ&citpid=3"
+            }
+            ,
+            {
+                "name": "Maria Bordons",
+                "link": "https://scholar.google.com/citations?user=_BYcTekAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=_BYcTekAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "_BYcTekAAAAJ",
+                "affiliations": "IFS, Center for Human and Social Sciences (CCHS), Spanish National Research Council (CSIC)",
+                "email": "Verified email at cchs.csic.es",
+                "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+            }
+            ,
+            {
+                "name": "Clara Calero",
+                "link": "https://scholar.google.com/citations?user=P2byP8gAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=P2byP8gAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "P2byP8gAAAAJ",
+                "affiliations": "CWTS, Leiden University",
+                "email": "Verified email at cwts.leidenuniv.nl",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=P2byP8gAAAAJ&citpid=2"
+            }
+            ,
+            {
+                "name": "Ludo Waltman",
+                "link": "https://scholar.google.com/citations?user=UbPa8qgAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=UbPa8qgAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "UbPa8qgAAAAJ",
+                "affiliations": "Researcher at the Centre for Science and Technology Studies, Leiden University",
+                "email": "Verified email at cwts.leidenuniv.nl",
+                "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+            }
+            ,
+            {
+                "name": "Jan Reedijk",
+                "link": "https://scholar.google.com/citations?user=ZSpW_doAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=ZSpW_doAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "ZSpW_doAAAAJ",
+                "affiliations": "professor of chemistry, Leiden University",
+                "email": "Verified email at chem.leidenuniv.nl",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ZSpW_doAAAAJ&citpid=3"
+            }
+            ,
+            {
+                "name": "Nicolás Robinson-García",
+                "link": "https://scholar.google.com/citations?user=Jd6KNkQAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=Jd6KNkQAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "Jd6KNkQAAAAJ",
+                "affiliations": "Information and Communication Studies department, University of Granada",
+                "email": "Verified email at ugr.es",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Jd6KNkQAAAAJ&citpid=5"
+            }
+            ,
+            {
+                "name": "Ismael Rafols",
+                "link": "https://scholar.google.com/citations?user=puqLKfsAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=puqLKfsAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "puqLKfsAAAAJ",
+                "affiliations": "CWTS, Univ. Leiden",
+                "email": "Verified email at cwts.leidenuniv.nl",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=puqLKfsAAAAJ&citpid=2"
+            }
+            ,
+            {
+                "name": "Koenraad Debackere",
+                "link": "https://scholar.google.com/citations?user=4HghiOEAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=4HghiOEAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "4HghiOEAAAAJ",
+                "affiliations": "Professor of Technology and Innovation Management, KU Leuven",
+                "email": "Verified email at kuleuven.be",
+                "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+            }
+            ,
+            {
+                "name": "Friedo Dekker",
+                "link": "https://scholar.google.com/citations?user=lh_2VvcAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=lh_2VvcAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "lh_2VvcAAAAJ",
+                "affiliations": "clinical epidemiology",
+                "email": "Verified email at lumc.nl",
+                "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+            }
+            ,
+            {
+                "name": "Clifford Tatum",
+                "link": "https://scholar.google.com/citations?user=zp_A9W0AAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=zp_A9W0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "zp_A9W0AAAAJ",
+                "affiliations": "PhD Candidate - Leiden University, Centre for Science and Technology Studies",
+                "email": "Verified email at cwts.leidenuniv.nl",
+                "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+            }
+            ,
+            {
+                "name": "Gunnar Sivertsen",
+                "link": "https://scholar.google.com/citations?user=U3g8OFEAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=U3g8OFEAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "U3g8OFEAAAAJ",
+                "affiliations": "NIFU - Nordic Institute for Studies in Innovation, Research and Education",
+                "email": "Verified email at nifu.no",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=U3g8OFEAAAAJ&citpid=2"
+            }
+            ,
+            {
+                "name": "Dag W. Aksnes",
+                "link": "https://scholar.google.com/citations?user=WzrNC9oAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=WzrNC9oAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "WzrNC9oAAAAJ",
+                "affiliations": "NIFU - Nordic Institute for Studies in Innovation, Research and Education",
+                "email": "Verified email at nifu.no",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=WzrNC9oAAAAJ&citpid=2"
+            }
+            ,
+            {
+                "name": "Nelius Boshoff",
+                "link": "https://scholar.google.com/citations?user=45YB4osAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=45YB4osAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "45YB4osAAAAJ",
+                "affiliations": "Associate Professor",
+                "email": "Verified email at sun.ac.za",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=45YB4osAAAAJ&citpid=3"
+            }
+            ,
+            {
+                "name": "Ingeborg Meijer",
+                "link": "https://scholar.google.com/citations?user=jkDJt9QAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=jkDJt9QAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "jkDJt9QAAAAJ",
+                "email": "Verified email at cwts.leidenuniv.nl",
+                "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+            }
+            ,
+            {
+                "name": "Philippe Mongeon",
+                "link": "https://scholar.google.com/citations?user=wvX4S8sAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=wvX4S8sAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "wvX4S8sAAAAJ",
+                "affiliations": "School of Information Management, Dalhousie University",
+                "email": "Verified email at dal.ca",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=wvX4S8sAAAAJ&citpid=3"
+            }
+        ]
+        ,
+        "serpapi_pagination":
+        {
+            "next": "https://serpapi.com/search.json?author_id=DTRyxOUAAAAJ&engine=google_scholar_author&hl=en&num=100&start=100"
+        }
+    }

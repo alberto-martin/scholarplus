@@ -1,0 +1,617 @@
+
+    {
+        "search_metadata":
+        {
+            "id": "6242ba145119a6c8842c5d6c",
+            "status": "Success",
+            "json_endpoint": "https://serpapi.com/searches/d0107ffe8e4eb085/6242ba145119a6c8842c5d6c.json",
+            "created_at": "2022-03-29 07:49:40 UTC",
+            "processed_at": "2022-03-29 07:49:40 UTC",
+            "google_scholar_url": "https://scholar.google.com/scholar?cites=15491664131816244466&hl=en&scipsc=1",
+            "raw_html_file": "https://serpapi.com/searches/d0107ffe8e4eb085/6242ba145119a6c8842c5d6c.html",
+            "total_time_taken": 0.89
+        }
+        ,
+        "search_parameters":
+        {
+            "engine": "google_scholar",
+            "cites": "15491664131816244466",
+            "hl": "en"
+        }
+        ,
+        "search_information":
+        {
+            "organic_results_state": "Results for exact spelling",
+            "total_results": 756,
+            "time_taken_displayed": 0.02
+        }
+        ,
+        "profiles":
+        {
+            "link": "https://scholar.google.com/scholar?cluster=15491664131816244466&hl=en&as_sdt=8000005&sciodt=0,19",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+        }
+        ,
+        "organic_results":
+        [
+            {
+                "position": 0,
+                "title": "Google Scholar to overshadow them all? Comparing the sizes of 12 academic search engines and bibliographic databases",
+                "result_id": "0kDpoVTMs88J",
+                "type": "Html",
+                "link": "https://link.springer.com/article/10.1007/s11192-018-2958-5/",
+                "snippet": "Abstract Information on the size of academic search engines and bibliographic databases (ASEBDs) is often outdated or entirely unavailable. Hence, it is difficult to assess the scope …",
+                "publication_info":
+                {
+                    "summary": "M Gusenbauer - Scientometrics, 2019 - Springer",
+                    "authors":
+                    [
+                        {
+                            "name": "M Gusenbauer",
+                            "link": "https://scholar.google.com/citations?user=PA-2tVIAAAAJ&hl=en&oi=sra",
+                            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=PA-2tVIAAAAJ&engine=google_scholar_author&hl=en",
+                            "author_id": "PA-2tVIAAAAJ"
+                        }
+                    ]
+                }
+                ,
+                "resources":
+                [
+                    {
+                        "title": "springer.com",
+                        "file_format": "HTML",
+                        "link": "https://link.springer.com/article/10.1007/s11192-018-2958-5/"
+                    }
+                ]
+                ,
+                "inline_links":
+                {
+                    "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=0kDpoVTMs88J",
+                    "html_version": "https://link.springer.com/article/10.1007/s11192-018-2958-5/",
+                    "cited_by":
+                    {
+                        "total": 329,
+                        "link": "https://scholar.google.com/scholar?cites=14966530650548027602&as_sdt=8000005&sciodt=0,19&hl=en",
+                        "cites_id": "14966530650548027602",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=8000005&cites=14966530650548027602&engine=google_scholar&hl=en"
+                    }
+                    ,
+                    "related_pages_link": "https://scholar.google.com/scholar?q=related:0kDpoVTMs88J:scholar.google.com/&scioq=&hl=en&as_sdt=8000005&sciodt=0,19",
+                    "versions":
+                    {
+                        "total": 9,
+                        "link": "https://scholar.google.com/scholar?cluster=14966530650548027602&hl=en&as_sdt=8000005&sciodt=0,19",
+                        "cluster_id": "14966530650548027602",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=8000005&cluster=14966530650548027602&engine=google_scholar&hl=en"
+                    }
+                }
+            }
+            ,
+            {
+                "position": 1,
+                "title": "Which academic search systems are suitable for systematic reviews or meta‐analyses? Evaluating retrieval qualities of Google Scholar, PubMed, and 26 other …",
+                "result_id": "kE6NTPs5D7EJ",
+                "link": "https://onlinelibrary.wiley.com/doi/abs/10.1002/jrsm.1378",
+                "snippet": "Rigorous evidence identification is essential for systematic reviews and meta‐analyses (evidence syntheses) because the sample selection of relevant studies determines a …",
+                "publication_info":
+                {
+                    "summary": "M Gusenbauer, NR Haddaway - Research synthesis methods, 2020 - Wiley Online Library",
+                    "authors":
+                    [
+                        {
+                            "name": "M Gusenbauer",
+                            "link": "https://scholar.google.com/citations?user=PA-2tVIAAAAJ&hl=en&oi=sra",
+                            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=PA-2tVIAAAAJ&engine=google_scholar_author&hl=en",
+                            "author_id": "PA-2tVIAAAAJ"
+                        }
+                        ,
+                        {
+                            "name": "NR Haddaway",
+                            "link": "https://scholar.google.com/citations?user=zABCBMMAAAAJ&hl=en&oi=sra",
+                            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=zABCBMMAAAAJ&engine=google_scholar_author&hl=en",
+                            "author_id": "zABCBMMAAAAJ"
+                        }
+                    ]
+                }
+                ,
+                "resources":
+                [
+                    {
+                        "title": "wiley.com",
+                        "file_format": "PDF",
+                        "link": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/jrsm.1378"
+                    }
+                ]
+                ,
+                "inline_links":
+                {
+                    "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=kE6NTPs5D7EJ",
+                    "cited_by":
+                    {
+                        "total": 298,
+                        "link": "https://scholar.google.com/scholar?cites=12758480020847808144&as_sdt=8000005&sciodt=0,19&hl=en",
+                        "cites_id": "12758480020847808144",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=8000005&cites=12758480020847808144&engine=google_scholar&hl=en"
+                    }
+                    ,
+                    "related_pages_link": "https://scholar.google.com/scholar?q=related:kE6NTPs5D7EJ:scholar.google.com/&scioq=&hl=en&as_sdt=8000005&sciodt=0,19",
+                    "versions":
+                    {
+                        "total": 16,
+                        "link": "https://scholar.google.com/scholar?cluster=12758480020847808144&hl=en&as_sdt=8000005&sciodt=0,19",
+                        "cluster_id": "12758480020847808144",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=8000005&cluster=12758480020847808144&engine=google_scholar&hl=en"
+                    }
+                }
+            }
+            ,
+            {
+                "position": 2,
+                "title": "Determinants of take-over time from automated driving: A meta-analysis of 129 studies",
+                "result_id": "sg9VYK_UwmIJ",
+                "link": "https://www.sciencedirect.com/science/article/pii/S1369847818303693",
+                "snippet": "An important question in automated driving research is how quickly drivers take over control of the vehicle in response to a critical event or a take-over request. Although a large number …",
+                "publication_info":
+                {
+                    "summary": "B Zhang, J de Winter, S Varotto, R Happee… - … research part F: traffic …, 2019 - Elsevier",
+                    "authors":
+                    [
+                        {
+                            "name": "B Zhang",
+                            "link": "https://scholar.google.com/citations?user=WLhQpRUAAAAJ&hl=en&oi=sra",
+                            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=WLhQpRUAAAAJ&engine=google_scholar_author&hl=en",
+                            "author_id": "WLhQpRUAAAAJ"
+                        }
+                        ,
+                        {
+                            "name": "J de Winter",
+                            "link": "https://scholar.google.com/citations?user=MJ3SNBAAAAAJ&hl=en&oi=sra",
+                            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=MJ3SNBAAAAAJ&engine=google_scholar_author&hl=en",
+                            "author_id": "MJ3SNBAAAAAJ"
+                        }
+                        ,
+                        {
+                            "name": "S Varotto",
+                            "link": "https://scholar.google.com/citations?user=Igbmf6AAAAAJ&hl=en&oi=sra",
+                            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Igbmf6AAAAAJ&engine=google_scholar_author&hl=en",
+                            "author_id": "Igbmf6AAAAAJ"
+                        }
+                        ,
+                        {
+                            "name": "R Happee",
+                            "link": "https://scholar.google.com/citations?user=LzbvmSgAAAAJ&hl=en&oi=sra",
+                            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=LzbvmSgAAAAJ&engine=google_scholar_author&hl=en",
+                            "author_id": "LzbvmSgAAAAJ"
+                        }
+                    ]
+                }
+                ,
+                "resources":
+                [
+                    {
+                        "title": "researchgate.net",
+                        "file_format": "PDF",
+                        "link": "https://www.researchgate.net/profile/Bo-Zhang-96/publication/325218061_Determinants_of_take-over_time_from_automated_driving_A_meta-analysis_of_129_studies/links/5e28cc4f92851c3aadd223bb/Determinants-of-take-over-time-from-automated-driving-A-meta-analysis-of-129-studies.pdf"
+                    }
+                ]
+                ,
+                "inline_links":
+                {
+                    "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=sg9VYK_UwmIJ",
+                    "cited_by":
+                    {
+                        "total": 178,
+                        "link": "https://scholar.google.com/scholar?cites=7116484210899357618&as_sdt=8000005&sciodt=0,19&hl=en",
+                        "cites_id": "7116484210899357618",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=8000005&cites=7116484210899357618&engine=google_scholar&hl=en"
+                    }
+                    ,
+                    "related_pages_link": "https://scholar.google.com/scholar?q=related:sg9VYK_UwmIJ:scholar.google.com/&scioq=&hl=en&as_sdt=8000005&sciodt=0,19",
+                    "versions":
+                    {
+                        "total": 15,
+                        "link": "https://scholar.google.com/scholar?cluster=7116484210899357618&hl=en&as_sdt=8000005&sciodt=0,19",
+                        "cluster_id": "7116484210899357618",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=8000005&cluster=7116484210899357618&engine=google_scholar&hl=en"
+                    }
+                }
+            }
+            ,
+            {
+                "position": 3,
+                "title": "The impact of gamification on learning and instruction: A systematic review of empirical evidence",
+                "result_id": "pu-biXXHiYoJ",
+                "link": "https://www.sciencedirect.com/science/article/pii/S1747938X19301058",
+                "snippet": "The adoption of gamification in learning and instruction is perceived to have mass appeal among the learners in stimulating motivation, learner engagement and social influence. This …",
+                "publication_info":
+                {
+                    "summary": "Z Zainuddin, SKW Chu, M Shujahat… - Educational Research …, 2020 - Elsevier",
+                    "authors":
+                    [
+                        {
+                            "name": "Z Zainuddin",
+                            "link": "https://scholar.google.com/citations?user=TPGqUH4AAAAJ&hl=en&oi=sra",
+                            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=TPGqUH4AAAAJ&engine=google_scholar_author&hl=en",
+                            "author_id": "TPGqUH4AAAAJ"
+                        }
+                        ,
+                        {
+                            "name": "SKW Chu",
+                            "link": "https://scholar.google.com/citations?user=7IQasCgAAAAJ&hl=en&oi=sra",
+                            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=7IQasCgAAAAJ&engine=google_scholar_author&hl=en",
+                            "author_id": "7IQasCgAAAAJ"
+                        }
+                        ,
+                        {
+                            "name": "M Shujahat",
+                            "link": "https://scholar.google.com/citations?user=VDYgPzsAAAAJ&hl=en&oi=sra",
+                            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=VDYgPzsAAAAJ&engine=google_scholar_author&hl=en",
+                            "author_id": "VDYgPzsAAAAJ"
+                        }
+                    ]
+                }
+                ,
+                "inline_links":
+                {
+                    "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=pu-biXXHiYoJ",
+                    "cited_by":
+                    {
+                        "total": 180,
+                        "link": "https://scholar.google.com/scholar?cites=9982729356677214118&as_sdt=8000005&sciodt=0,19&hl=en",
+                        "cites_id": "9982729356677214118",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=8000005&cites=9982729356677214118&engine=google_scholar&hl=en"
+                    }
+                    ,
+                    "related_pages_link": "https://scholar.google.com/scholar?q=related:pu-biXXHiYoJ:scholar.google.com/&scioq=&hl=en&as_sdt=8000005&sciodt=0,19",
+                    "versions":
+                    {
+                        "total": 3,
+                        "link": "https://scholar.google.com/scholar?cluster=9982729356677214118&hl=en&as_sdt=8000005&sciodt=0,19",
+                        "cluster_id": "9982729356677214118",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=8000005&cluster=9982729356677214118&engine=google_scholar&hl=en"
+                    }
+                }
+            }
+            ,
+            {
+                "position": 4,
+                "title": "Google Scholar, Microsoft Academic, Scopus, Dimensions, Web of Science, and OpenCitations' COCI: a multidisciplinary comparison of coverage via citations",
+                "result_id": "Tmje2cCZiN8J",
+                "type": "Html",
+                "link": "https://link.springer.com/article/10.1007/s11192-020-03690-4",
+                "snippet": "New sources of citation data have recently become available, such as Microsoft Academic, Dimensions, and the OpenCitations Index of CrossRef open DOI-to-DOI citations (COCI) …",
+                "publication_info":
+                {
+                    "summary": "A Martín-Martín, M Thelwall, E Orduna-Malea… - Scientometrics, 2021 - Springer",
+                    "authors":
+                    [
+                        {
+                            "name": "A Martín-Martín",
+                            "link": "https://scholar.google.com/citations?user=YlPd48UAAAAJ&hl=en&oi=sra",
+                            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=YlPd48UAAAAJ&engine=google_scholar_author&hl=en",
+                            "author_id": "YlPd48UAAAAJ"
+                        }
+                        ,
+                        {
+                            "name": "M Thelwall",
+                            "link": "https://scholar.google.com/citations?user=8jCKL1sAAAAJ&hl=en&oi=sra",
+                            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=8jCKL1sAAAAJ&engine=google_scholar_author&hl=en",
+                            "author_id": "8jCKL1sAAAAJ"
+                        }
+                        ,
+                        {
+                            "name": "E Orduna-Malea",
+                            "link": "https://scholar.google.com/citations?user=g6bEUdkAAAAJ&hl=en&oi=sra",
+                            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=g6bEUdkAAAAJ&engine=google_scholar_author&hl=en",
+                            "author_id": "g6bEUdkAAAAJ"
+                        }
+                    ]
+                }
+                ,
+                "resources":
+                [
+                    {
+                        "title": "springer.com",
+                        "file_format": "HTML",
+                        "link": "https://link.springer.com/article/10.1007/s11192-020-03690-4"
+                    }
+                ]
+                ,
+                "inline_links":
+                {
+                    "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=Tmje2cCZiN8J",
+                    "html_version": "https://link.springer.com/article/10.1007/s11192-020-03690-4",
+                    "cited_by":
+                    {
+                        "total": 160,
+                        "link": "https://scholar.google.com/scholar?cites=16107293120858581070&as_sdt=8000005&sciodt=0,19&hl=en",
+                        "cites_id": "16107293120858581070",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=8000005&cites=16107293120858581070&engine=google_scholar&hl=en"
+                    }
+                    ,
+                    "related_pages_link": "https://scholar.google.com/scholar?q=related:Tmje2cCZiN8J:scholar.google.com/&scioq=&hl=en&as_sdt=8000005&sciodt=0,19",
+                    "versions":
+                    {
+                        "total": 15,
+                        "link": "https://scholar.google.com/scholar?cluster=16107293120858581070&hl=en&as_sdt=8000005&sciodt=0,19",
+                        "cluster_id": "16107293120858581070",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=8000005&cluster=16107293120858581070&engine=google_scholar&hl=en"
+                    }
+                }
+            }
+            ,
+            {
+                "position": 5,
+                "title": "A tale of two databases: The use of Web of Science and Scopus in academic papers",
+                "result_id": "nXd4Xm2zkXEJ",
+                "link": "https://link.springer.com/article/10.1007/s11192-020-03387-8",
+                "snippet": "Abstract Web of Science and Scopus are two world-leading and competing citation databases. By using the Science Citation Index Expanded and Social Sciences Citation …",
+                "publication_info":
+                {
+                    "summary": "J Zhu, W Liu - Scientometrics, 2020 - Springer",
+                    "authors":
+                    [
+                        {
+                            "name": "W Liu",
+                            "link": "https://scholar.google.com/citations?user=kvMKufEAAAAJ&hl=en&oi=sra",
+                            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=kvMKufEAAAAJ&engine=google_scholar_author&hl=en",
+                            "author_id": "kvMKufEAAAAJ"
+                        }
+                    ]
+                }
+                ,
+                "resources":
+                [
+                    {
+                        "title": "arxiv.org",
+                        "file_format": "PDF",
+                        "link": "https://arxiv.org/pdf/2002.02608"
+                    }
+                ]
+                ,
+                "inline_links":
+                {
+                    "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=nXd4Xm2zkXEJ",
+                    "cited_by":
+                    {
+                        "total": 147,
+                        "link": "https://scholar.google.com/scholar?cites=8183519280226662301&as_sdt=8000005&sciodt=0,19&hl=en",
+                        "cites_id": "8183519280226662301",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=8000005&cites=8183519280226662301&engine=google_scholar&hl=en"
+                    }
+                    ,
+                    "related_pages_link": "https://scholar.google.com/scholar?q=related:nXd4Xm2zkXEJ:scholar.google.com/&scioq=&hl=en&as_sdt=8000005&sciodt=0,19",
+                    "versions":
+                    {
+                        "total": 7,
+                        "link": "https://scholar.google.com/scholar?cluster=8183519280226662301&hl=en&as_sdt=8000005&sciodt=0,19",
+                        "cluster_id": "8183519280226662301",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=8000005&cluster=8183519280226662301&engine=google_scholar&hl=en"
+                    }
+                }
+            }
+            ,
+            {
+                "position": 6,
+                "title": "Publishing volumes in major databases related to Covid-19",
+                "result_id": "Obd5kGZkLaUJ",
+                "type": "Html",
+                "link": "https://link.springer.com/article/10.1007/S11192-020-03675-3",
+                "snippet": "Abstract The SARS-CoV-2 virus, which causes Covid-19, induced a global pandemic for which an effective cure, either in the form of a drug or vaccine, has yet to be discovered. In …",
+                "publication_info":
+                {
+                    "summary": "JA Teixeira da Silva, P Tsigaris, M Erfanmanesh - Scientometrics, 2021 - Springer",
+                    "authors":
+                    [
+                        {
+                            "name": "P Tsigaris",
+                            "link": "https://scholar.google.com/citations?user=TaGLqLYAAAAJ&hl=en&oi=sra",
+                            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=TaGLqLYAAAAJ&engine=google_scholar_author&hl=en",
+                            "author_id": "TaGLqLYAAAAJ"
+                        }
+                        ,
+                        {
+                            "name": "M Erfanmanesh",
+                            "link": "https://scholar.google.com/citations?user=cZLLcTEAAAAJ&hl=en&oi=sra",
+                            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=cZLLcTEAAAAJ&engine=google_scholar_author&hl=en",
+                            "author_id": "cZLLcTEAAAAJ"
+                        }
+                    ]
+                }
+                ,
+                "resources":
+                [
+                    {
+                        "title": "springer.com",
+                        "file_format": "HTML",
+                        "link": "https://link.springer.com/article/10.1007/S11192-020-03675-3"
+                    }
+                ]
+                ,
+                "inline_links":
+                {
+                    "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=Obd5kGZkLaUJ",
+                    "html_version": "https://link.springer.com/article/10.1007/S11192-020-03675-3",
+                    "cited_by":
+                    {
+                        "total": 99,
+                        "link": "https://scholar.google.com/scholar?cites=11902279781883426617&as_sdt=8000005&sciodt=0,19&hl=en",
+                        "cites_id": "11902279781883426617",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=8000005&cites=11902279781883426617&engine=google_scholar&hl=en"
+                    }
+                    ,
+                    "related_pages_link": "https://scholar.google.com/scholar?q=related:Obd5kGZkLaUJ:scholar.google.com/&scioq=&hl=en&as_sdt=8000005&sciodt=0,19",
+                    "versions":
+                    {
+                        "total": 9,
+                        "link": "https://scholar.google.com/scholar?cluster=11902279781883426617&hl=en&as_sdt=8000005&sciodt=0,19",
+                        "cluster_id": "11902279781883426617",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=8000005&cluster=11902279781883426617&engine=google_scholar&hl=en"
+                    }
+                }
+            }
+            ,
+            {
+                "position": 7,
+                "title": "Two new kids on the block: How do Crossref and Dimensions compare with Google Scholar, Microsoft Academic, Scopus and the Web of Science?",
+                "result_id": "8t6xuH_cBvAJ",
+                "link": "https://link.springer.com/article/10.1007/s11192-019-03114-y",
+                "snippet": "In the last 3 years, several new (free) sources for academic publication and citation data have joined the now well-established Google Scholar, complementing the two traditional …",
+                "publication_info":
+                {
+                    "summary": "AW Harzing - Scientometrics, 2019 - Springer",
+                    "authors":
+                    [
+                        {
+                            "name": "AW Harzing",
+                            "link": "https://scholar.google.com/citations?user=v0sDYGsAAAAJ&hl=en&oi=sra",
+                            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=v0sDYGsAAAAJ&engine=google_scholar_author&hl=en",
+                            "author_id": "v0sDYGsAAAAJ"
+                        }
+                    ]
+                }
+                ,
+                "resources":
+                [
+                    {
+                        "title": "mdx.ac.uk",
+                        "file_format": "PDF",
+                        "link": "https://eprints.mdx.ac.uk/26508/1/newkids.pdf"
+                    }
+                ]
+                ,
+                "inline_links":
+                {
+                    "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=8t6xuH_cBvAJ",
+                    "cited_by":
+                    {
+                        "total": 95,
+                        "link": "https://scholar.google.com/scholar?cites=17295753860080590578&as_sdt=8000005&sciodt=0,19&hl=en",
+                        "cites_id": "17295753860080590578",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=8000005&cites=17295753860080590578&engine=google_scholar&hl=en"
+                    }
+                    ,
+                    "related_pages_link": "https://scholar.google.com/scholar?q=related:8t6xuH_cBvAJ:scholar.google.com/&scioq=&hl=en&as_sdt=8000005&sciodt=0,19",
+                    "versions":
+                    {
+                        "total": 7,
+                        "link": "https://scholar.google.com/scholar?cluster=17295753860080590578&hl=en&as_sdt=8000005&sciodt=0,19",
+                        "cluster_id": "17295753860080590578",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=8000005&cluster=17295753860080590578&engine=google_scholar&hl=en"
+                    }
+                }
+            }
+            ,
+            {
+                "position": 8,
+                "title": "Large-scale comparison of bibliographic data sources: Scopus, Web of Science, Dimensions, Crossref, and Microsoft Academic",
+                "result_id": "ckWzee3Y2KIJ",
+                "link": "https://direct.mit.edu/qss/article-abstract/2/1/20/97574",
+                "snippet": "We present a large-scale comparison of five multidisciplinary bibliographic data sources: Scopus, Web of Science, Dimensions, Crossref, and Microsoft Academic. The comparison …",
+                "publication_info":
+                {
+                    "summary": "M Visser, NJ van Eck, L Waltman - Quantitative Science Studies, 2021 - direct.mit.edu",
+                    "authors":
+                    [
+                        {
+                            "name": "M Visser",
+                            "link": "https://scholar.google.com/citations?user=AG9DZAcAAAAJ&hl=en&oi=sra",
+                            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=AG9DZAcAAAAJ&engine=google_scholar_author&hl=en",
+                            "author_id": "AG9DZAcAAAAJ"
+                        }
+                        ,
+                        {
+                            "name": "NJ van Eck",
+                            "link": "https://scholar.google.com/citations?user=ksTAMO0AAAAJ&hl=en&oi=sra",
+                            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ksTAMO0AAAAJ&engine=google_scholar_author&hl=en",
+                            "author_id": "ksTAMO0AAAAJ"
+                        }
+                    ]
+                }
+                ,
+                "resources":
+                [
+                    {
+                        "title": "mit.edu",
+                        "file_format": "PDF",
+                        "link": "https://direct.mit.edu/qss/article-pdf/2/1/20/1906541/qss_a_00112.pdf"
+                    }
+                ]
+                ,
+                "inline_links":
+                {
+                    "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=ckWzee3Y2KIJ",
+                    "cited_by":
+                    {
+                        "total": 97,
+                        "link": "https://scholar.google.com/scholar?cites=11734367343574467954&as_sdt=8000005&sciodt=0,19&hl=en",
+                        "cites_id": "11734367343574467954",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=8000005&cites=11734367343574467954&engine=google_scholar&hl=en"
+                    }
+                    ,
+                    "related_pages_link": "https://scholar.google.com/scholar?q=related:ckWzee3Y2KIJ:scholar.google.com/&scioq=&hl=en&as_sdt=8000005&sciodt=0,19",
+                    "versions":
+                    {
+                        "total": 8,
+                        "link": "https://scholar.google.com/scholar?cluster=11734367343574467954&hl=en&as_sdt=8000005&sciodt=0,19",
+                        "cluster_id": "11734367343574467954",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=8000005&cluster=11734367343574467954&engine=google_scholar&hl=en"
+                    }
+                }
+            }
+            ,
+            {
+                "position": 9,
+                "title": "The STM report",
+                "result_id": "Es9N_PlZh-MJ",
+                "type": "Pdf",
+                "link": "https://www.stm-assoc.org/2018_10_04_STM_Report_2018.pdf",
+                "snippet": "STM is the leading global trade association for academic and professional publishers. It has over 150 members in 21 countries who each year collectively publish over 66% of all journal …",
+                "publication_info":
+                {
+                    "summary": "R Johnson, A Watkinson, M Mabe - An overview of scientific and …, 2018 - stm-assoc.org",
+                    "authors":
+                    [
+                        {
+                            "name": "R Johnson",
+                            "link": "https://scholar.google.com/citations?user=YxNbD5AAAAAJ&hl=en&oi=sra",
+                            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=YxNbD5AAAAAJ&engine=google_scholar_author&hl=en",
+                            "author_id": "YxNbD5AAAAAJ"
+                        }
+                    ]
+                }
+                ,
+                "resources":
+                [
+                    {
+                        "title": "stm-assoc.org",
+                        "file_format": "PDF",
+                        "link": "https://www.stm-assoc.org/2018_10_04_STM_Report_2018.pdf"
+                    }
+                ]
+                ,
+                "inline_links":
+                {
+                    "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=Es9N_PlZh-MJ",
+                    "cited_by":
+                    {
+                        "total": 67,
+                        "link": "https://scholar.google.com/scholar?cites=16395171898680266514&as_sdt=8000005&sciodt=0,19&hl=en",
+                        "cites_id": "16395171898680266514",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=8000005&cites=16395171898680266514&engine=google_scholar&hl=en"
+                    }
+                    ,
+                    "related_pages_link": "https://scholar.google.com/scholar?q=related:Es9N_PlZh-MJ:scholar.google.com/&scioq=&hl=en&as_sdt=8000005&sciodt=0,19",
+                    "versions":
+                    {
+                        "total": 4,
+                        "link": "https://scholar.google.com/scholar?cluster=16395171898680266514&hl=en&as_sdt=8000005&sciodt=0,19",
+                        "cluster_id": "16395171898680266514",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=8000005&cluster=16395171898680266514&engine=google_scholar&hl=en"
+                    }
+                    ,
+                    "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:Es9N_PlZh-MJ:scholar.google.com/&hl=en&as_sdt=8000005&sciodt=0,19"
+                }
+            }
+        ]
+    }

@@ -1,0 +1,2114 @@
+
+    {
+        "search_metadata":
+        {
+            "id": "623851472e7d6bb4527fc19c",
+            "status": "Success",
+            "json_endpoint": "https://serpapi.com/searches/41e25ae1595f02ed/623851472e7d6bb4527fc19c.json",
+            "created_at": "2022-03-21 10:19:51 UTC",
+            "processed_at": "2022-03-21 10:19:51 UTC",
+            "google_scholar_author_url": "https://scholar.google.com/citations?user=8jCKL1sAAAAJ&hl=en&cstart=0&pagesize=100",
+            "raw_html_file": "https://serpapi.com/searches/41e25ae1595f02ed/623851472e7d6bb4527fc19c.html",
+            "total_time_taken": 0.95
+        }
+        ,
+        "search_parameters":
+        {
+            "engine": "google_scholar_author",
+            "author_id": "8jCKL1sAAAAJ",
+            "hl": "en",
+            "start": 0,
+            "num": "100"
+        }
+        ,
+        "author":
+        {
+            "name": "Mike Thelwall",
+            "affiliations": "Statistical Cybermetrics Research Group, University of Wolverhampton",
+            "email": "Verified email at wlv.ac.uk",
+            "website": "http://www.scit.wlv.ac.uk/~cm1993/mycv.html",
+            "interests":
+            [
+                {
+                    "title": "webometrics",
+                    "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:webometrics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Awebometrics"
+                }
+                ,
+                {
+                    "title": "altmetrics",
+                    "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:altmetrics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aaltmetrics"
+                }
+                ,
+                {
+                    "title": "sentiment analysis",
+                    "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:sentiment_analysis",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asentiment_analysis"
+                }
+                ,
+                {
+                    "title": "social media",
+                    "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:social_media",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asocial_media"
+                }
+            ]
+            ,
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=8jCKL1sAAAAJ&citpid=3"
+        }
+        ,
+        "articles":
+        [
+            {
+                "title": "Sentiment strength detection in short informal text",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:HoB7MX3m0LUC",
+                "citation_id": "8jCKL1sAAAAJ:HoB7MX3m0LUC",
+                "authors": "M Thelwall, K Buckley, G Paltoglou, D Cai, A Kappas",
+                "publication": "Journal of the American society for information science and technology 61 …, 2010",
+                "cited_by":
+                {
+                    "value": 2074,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10075854628099781313,3177978409107252743",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10075854628099781313%2C3177978409107252743&engine=google_scholar&hl=en",
+                    "cites_id": "10075854628099781313,3177978409107252743"
+                }
+                ,
+                "year": "2010"
+            }
+            ,
+            {
+                "title": "Sentiment strength detection for the social web",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:umqufdRvDiIC",
+                "citation_id": "8jCKL1sAAAAJ:umqufdRvDiIC",
+                "authors": "M Thelwall, K Buckley, G Paltoglou",
+                "publication": "Journal of the American Society for Information Science and Technology 63 (1 …, 2012",
+                "cited_by":
+                {
+                    "value": 1175,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2198525981825521625",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=2198525981825521625&engine=google_scholar&hl=en",
+                    "cites_id": "2198525981825521625"
+                }
+                ,
+                "year": "2012"
+            }
+            ,
+            {
+                "title": "Sentiment in Twitter events",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:OU6Ihb5iCvQC",
+                "citation_id": "8jCKL1sAAAAJ:OU6Ihb5iCvQC",
+                "authors": "M Thelwall, K Buckley, G Paltoglou",
+                "publication": "Journal of the American Society for Information Science and Technology 62 (2 …, 2011",
+                "cited_by":
+                {
+                    "value": 1043,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3707556804213117565",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=3707556804213117565&engine=google_scholar&hl=en",
+                    "cites_id": "3707556804213117565"
+                }
+                ,
+                "year": "2011"
+            }
+            ,
+            {
+                "title": "Do altmetrics work? Twitter and ten other social web services",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:7H_MAutzIkAC",
+                "citation_id": "8jCKL1sAAAAJ:7H_MAutzIkAC",
+                "authors": "M Thelwall, S Haustein, V Larivière, CR Sugimoto",
+                "publication": "PloS one 8 (5), e64841, 2013",
+                "cited_by":
+                {
+                    "value": 1029,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10904660199433790556",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10904660199433790556&engine=google_scholar&hl=en",
+                    "cites_id": "10904660199433790556"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "Sentiment analysis: A combined approach",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:4TOpqqG69KYC",
+                "citation_id": "8jCKL1sAAAAJ:4TOpqqG69KYC",
+                "authors": "R Prabowo, M Thelwall",
+                "publication": "Journal of Informetrics 3 (2), 143-157, 2009",
+                "cited_by":
+                {
+                    "value": 926,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6827324798595460934",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=6827324798595460934&engine=google_scholar&hl=en",
+                    "cites_id": "6827324798595460934"
+                }
+                ,
+                "year": "2009"
+            }
+            ,
+            {
+                "title": "The metric tide: independent review of the role of metrics in research assessment and management",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:p2vkXumR6kMC",
+                "citation_id": "8jCKL1sAAAAJ:p2vkXumR6kMC",
+                "authors": "J Wilsdon, L Allen, E Belfiore, P Campbell, S Curry, S Hill, R Jones, ...",
+                "publication": "Sage, 2016",
+                "cited_by":
+                {
+                    "value": 783,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2895729612341216514",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=2895729612341216514&engine=google_scholar&hl=en",
+                    "cites_id": "2895729612341216514"
+                }
+                ,
+                "year": "2016"
+            }
+            ,
+            {
+                "title": "Google Scholar, Web of Science, and Scopus: A systematic comparison of citations in 252 subject categories",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:NU53l0vQ3PcC",
+                "citation_id": "8jCKL1sAAAAJ:NU53l0vQ3PcC",
+                "authors": "A Martín-Martín, E Orduna-Malea, M Thelwall, ED López-Cózar",
+                "publication": "Journal of informetrics 12 (4), 1160-1177, 2018",
+                "cited_by":
+                {
+                    "value": 745,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15491664131816244466",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15491664131816244466&engine=google_scholar&hl=en",
+                    "cites_id": "15491664131816244466"
+                }
+                ,
+                "year": "2018"
+            }
+            ,
+            {
+                "title": "Social networks, gender, and friending: An analysis of MySpace member profiles",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:ufrVoPGSRksC",
+                "citation_id": "8jCKL1sAAAAJ:ufrVoPGSRksC",
+                "authors": "M Thelwall",
+                "publication": "Journal of the American society for Information Science and Technology 59 (8 …, 2008",
+                "cited_by":
+                {
+                    "value": 585,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15299308412640491913",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15299308412640491913&engine=google_scholar&hl=en",
+                    "cites_id": "15299308412640491913"
+                }
+                ,
+                "year": "2008"
+            }
+            ,
+            {
+                "title": "Sentiment analysis is a big suitcase",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:23OMmoBQBk8C",
+                "citation_id": "8jCKL1sAAAAJ:23OMmoBQBk8C",
+                "authors": "E Cambria, S Poria, A Gelbukh, M Thelwall",
+                "publication": "IEEE Intelligent Systems 32 (6), 74-80, 2017",
+                "cited_by":
+                {
+                    "value": 573,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2647844372778796373",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=2647844372778796373&engine=google_scholar&hl=en",
+                    "cites_id": "2647844372778796373"
+                }
+                ,
+                "year": "2017"
+            }
+            ,
+            {
+                "title": "Introduction to webometrics: Quantitative web research for the social sciences",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:XoXfffV-tXoC",
+                "citation_id": "8jCKL1sAAAAJ:XoXfffV-tXoC",
+                "authors": "M Thelwall",
+                "publication": "Synthesis lectures on information concepts, retrieval, and services 1 (1), 1-116, 2009",
+                "cited_by":
+                {
+                    "value": 472,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5809004592257513624",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=5809004592257513624&engine=google_scholar&hl=en",
+                    "cites_id": "5809004592257513624"
+                }
+                ,
+                "year": "2009"
+            }
+            ,
+            {
+                "title": "Bibliometrics to webometrics",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:HDshCWvjkbEC",
+                "citation_id": "8jCKL1sAAAAJ:HDshCWvjkbEC",
+                "authors": "M Thelwall",
+                "publication": "Journal of information science 34 (4), 605-621, 2008",
+                "cited_by":
+                {
+                    "value": 461,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13606958238174891057",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=13606958238174891057&engine=google_scholar&hl=en",
+                    "cites_id": "13606958238174891057"
+                }
+                ,
+                "year": "2008"
+            }
+            ,
+            {
+                "title": "Webometrics",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:IjCSPb-OGe4C",
+                "citation_id": "8jCKL1sAAAAJ:IjCSPb-OGe4C",
+                "authors": "M Thelwall, L Vaughan, L Björneborn",
+                "publication": "Annual review of information science and technology 39 (1), 81-135, 2005",
+                "cited_by":
+                {
+                    "value": 458,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1393661902258358965",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=1393661902258358965&engine=google_scholar&hl=en",
+                    "cites_id": "1393661902258358965"
+                }
+                ,
+                "year": "2005"
+            }
+            ,
+            {
+                "title": "Data mining emotion in social network communication: Gender differences in MySpace",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:r0BpntZqJG4C",
+                "citation_id": "8jCKL1sAAAAJ:r0BpntZqJG4C",
+                "authors": "M Thelwall, D Wilkinson, S Uppal",
+                "publication": "Journal of the American Society for Information Science and Technology 61 (1 …, 2010",
+                "cited_by":
+                {
+                    "value": 452,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15450005893580161622",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15450005893580161622&engine=google_scholar&hl=en",
+                    "cites_id": "15450005893580161622"
+                }
+                ,
+                "year": "2010"
+            }
+            ,
+            {
+                "title": "Tweeting biomedicine: An analysis of tweets and citations in the biomedical literature",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:QyXJ3EUuO1IC",
+                "citation_id": "8jCKL1sAAAAJ:QyXJ3EUuO1IC",
+                "authors": "S Haustein, I Peters, CR Sugimoto, M Thelwall, V Larivière",
+                "publication": "Journal of the Association for Information Science and Technology 65 (4 …, 2014",
+                "cited_by":
+                {
+                    "value": 450,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1604999311119908636",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=1604999311119908636&engine=google_scholar&hl=en",
+                    "cites_id": "1604999311119908636"
+                }
+                ,
+                "year": "2014"
+            }
+            ,
+            {
+                "title": "A study of information retrieval weighting schemes for sentiment analysis",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:XiSMed-E-HIC",
+                "citation_id": "8jCKL1sAAAAJ:XiSMed-E-HIC",
+                "authors": "G Paltoglou, M Thelwall",
+                "publication": "Proceedings of the 48th annual meeting of the association for computational …, 2010",
+                "cited_by":
+                {
+                    "value": 444,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17267449422856077921",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=17267449422856077921&engine=google_scholar&hl=en",
+                    "cites_id": "17267449422856077921"
+                }
+                ,
+                "year": "2010"
+            }
+            ,
+            {
+                "title": "R esearch G ate: Disseminating, communicating, and measuring Scholarship?",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:pKq9KLJfUZEC",
+                "citation_id": "8jCKL1sAAAAJ:pKq9KLJfUZEC",
+                "authors": "M Thelwall, K Kousha",
+                "publication": "Journal of the Association for information Science and technology 66 (5 …, 2015",
+                "cited_by":
+                {
+                    "value": 405,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14376560068754780891",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=14376560068754780891&engine=google_scholar&hl=en",
+                    "cites_id": "14376560068754780891"
+                }
+                ,
+                "year": "2015"
+            }
+            ,
+            {
+                "title": "Link analysis: An information science approach",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:u5HHmVD_uO8C",
+                "citation_id": "8jCKL1sAAAAJ:u5HHmVD_uO8C",
+                "authors": "M Thelwall",
+                "publication": "Amsterdam and Boston, 2004",
+                "cited_by":
+                {
+                    "value": 390,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6474919422597629782",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=6474919422597629782&engine=google_scholar&hl=en",
+                    "cites_id": "6474919422597629782"
+                }
+                ,
+                "year": "2004"
+            }
+            ,
+            {
+                "title": "Search engine coverage bias: evidence and possible causes",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:UeHWp8X0CEIC",
+                "citation_id": "8jCKL1sAAAAJ:UeHWp8X0CEIC",
+                "authors": "L Vaughan, M Thelwall",
+                "publication": "Information processing & management 40 (4), 693-707, 2004",
+                "cited_by":
+                {
+                    "value": 388,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12934107463473857552",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=12934107463473857552&engine=google_scholar&hl=en",
+                    "cites_id": "12934107463473857552"
+                }
+                ,
+                "year": "2004"
+            }
+            ,
+            {
+                "title": "Online interventions for social marketing health behavior change campaigns: a meta-analysis of psychological architectures and adherence factors",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:D_sINldO8mEC",
+                "citation_id": "8jCKL1sAAAAJ:D_sINldO8mEC",
+                "authors": "B Cugelman, M Thelwall, P Dawes",
+                "publication": "Journal of medical Internet research 13 (1), e1367, 2011",
+                "cited_by":
+                {
+                    "value": 379,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17325427000130484969",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=17325427000130484969&engine=google_scholar&hl=en",
+                    "cites_id": "17325427000130484969"
+                }
+                ,
+                "year": "2011"
+            }
+            ,
+            {
+                "title": "Validating online reference managers for scholarly impact measurement",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:ClCfbGk0d_YC",
+                "citation_id": "8jCKL1sAAAAJ:ClCfbGk0d_YC",
+                "authors": "X Li, M Thelwall, D Giustini",
+                "publication": "Scientometrics 91 (2), 461-471, 2012",
+                "cited_by":
+                {
+                    "value": 372,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16973875059347624057",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=16973875059347624057&engine=google_scholar&hl=en",
+                    "cites_id": "16973875059347624057"
+                }
+                ,
+                "year": "2012"
+            }
+            ,
+            {
+                "title": "Hyperlink analyses of the World Wide Web: A review",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:zYLM7Y9cAGgC",
+                "citation_id": "8jCKL1sAAAAJ:zYLM7Y9cAGgC",
+                "authors": "HW Park, M Thelwall",
+                "publication": "Journal of computer-mediated communication 8 (4), JCMC843, 2003",
+                "cited_by":
+                {
+                    "value": 370,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11000632736927800143",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11000632736927800143&engine=google_scholar&hl=en",
+                    "cites_id": "11000632736927800143"
+                }
+                ,
+                "year": "2003"
+            }
+            ,
+            {
+                "title": "Google Scholar citations and Google Web/URL citations: A multi‐discipline exploratory analysis",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:_FxGoFyzp5QC",
+                "citation_id": "8jCKL1sAAAAJ:_FxGoFyzp5QC",
+                "authors": "K Kousha, M Thelwall",
+                "publication": "Journal of the American Society for Information Science and Technology 58 (7 …, 2007",
+                "cited_by":
+                {
+                    "value": 363,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15700657718424487578",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15700657718424487578&engine=google_scholar&hl=en",
+                    "cites_id": "15700657718424487578"
+                }
+                ,
+                "year": "2007"
+            }
+            ,
+            {
+                "title": "A cademia. edu: Social network or A cademic Network?",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:yxmsSjX2EkcC",
+                "citation_id": "8jCKL1sAAAAJ:yxmsSjX2EkcC",
+                "authors": "M Thelwall, K Kousha",
+                "publication": "Journal of the Association for information Science and technology 65 (4 …, 2014",
+                "cited_by":
+                {
+                    "value": 362,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12616654238887572273",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=12616654238887572273&engine=google_scholar&hl=en",
+                    "cites_id": "12616654238887572273"
+                }
+                ,
+                "year": "2014"
+            }
+            ,
+            {
+                "title": "M endeley readership altmetrics for the social sciences and humanities: Research evaluation and knowledge flows",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:Dem6FJhTUoYC",
+                "citation_id": "8jCKL1sAAAAJ:Dem6FJhTUoYC",
+                "authors": "E Mohammadi, M Thelwall",
+                "publication": "Journal of the Association for Information Science and Technology 65 (8 …, 2014",
+                "cited_by":
+                {
+                    "value": 360,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12961665097943180206",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=12961665097943180206&engine=google_scholar&hl=en",
+                    "cites_id": "12961665097943180206"
+                }
+                ,
+                "year": "2014"
+            }
+            ,
+            {
+                "title": "Disciplinary differences in Twitter scholarly communication",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:crhHmGRhyBgC",
+                "citation_id": "8jCKL1sAAAAJ:crhHmGRhyBgC",
+                "authors": "K Holmberg, M Thelwall",
+                "publication": "Scientometrics 101 (2), 1027-1042, 2014",
+                "cited_by":
+                {
+                    "value": 341,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1696464607326927564",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=1696464607326927564&engine=google_scholar&hl=en",
+                    "cites_id": "1696464607326927564"
+                }
+                ,
+                "year": "2014"
+            }
+            ,
+            {
+                "title": "The Heart and soul of the web? Sentiment strength detection in the social web with SentiStrength",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:gKLIUvgTho8C",
+                "citation_id": "8jCKL1sAAAAJ:gKLIUvgTho8C",
+                "authors": "M Thelwall",
+                "publication": "Cyberemotions, 119-134, 2017",
+                "cited_by":
+                {
+                    "value": 325,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4574337163124813880",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=4574337163124813880&engine=google_scholar&hl=en",
+                    "cites_id": "4574337163124813880"
+                }
+                ,
+                "year": "2017"
+            }
+            ,
+            {
+                "title": "The Heart and soul of the web? Sentiment strength detection in the social web with SentiStrength",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:hpaAfPMapO8C",
+                "citation_id": "8jCKL1sAAAAJ:hpaAfPMapO8C",
+                "authors": "M Thelwall",
+                "publication": "Cyberemotions, 119-134, 2017",
+                "cited_by":
+                {
+                    "value": 325,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4574337163124813880",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=4574337163124813880&engine=google_scholar&hl=en",
+                    "cites_id": "4574337163124813880"
+                }
+                ,
+                "year": "2017"
+            }
+            ,
+            {
+                "title": "Extracting macroscopic information from web links",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:qjMakFHDy7sC",
+                "citation_id": "8jCKL1sAAAAJ:qjMakFHDy7sC",
+                "authors": "M Thelwall",
+                "publication": "Journal of the American Society for Information Science and Technology 52 …, 2001",
+                "cited_by":
+                {
+                    "value": 317,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16164728967923736055",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=16164728967923736055&engine=google_scholar&hl=en",
+                    "cites_id": "16164728967923736055"
+                }
+                ,
+                "year": "2001"
+            }
+            ,
+            {
+                "title": "Evaluating altmetrics",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:MAUkC_7iAq8C",
+                "citation_id": "8jCKL1sAAAAJ:MAUkC_7iAq8C",
+                "authors": "P Sud, M Thelwall",
+                "publication": "Scientometrics 98 (2), 1131-1143, 2014",
+                "cited_by":
+                {
+                    "value": 310,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7381373172131910862",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=7381373172131910862&engine=google_scholar&hl=en",
+                    "cites_id": "7381373172131910862"
+                }
+                ,
+                "year": "2014"
+            }
+            ,
+            {
+                "title": "Do blog citations correlate with a higher number of future citations? Research blogs as a potential source for alternative metrics",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:p7yqEQnaZsQC",
+                "citation_id": "8jCKL1sAAAAJ:p7yqEQnaZsQC",
+                "authors": "H Shema, J Bar‐Ilan, M Thelwall",
+                "publication": "Journal of the Association for information science and technology 65 (5 …, 2014",
+                "cited_by":
+                {
+                    "value": 275,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2055198985273655614",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=2055198985273655614&engine=google_scholar&hl=en",
+                    "cites_id": "2055198985273655614"
+                }
+                ,
+                "year": "2014"
+            }
+            ,
+            {
+                "title": "Homophily in myspace",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:4JMBOYKVnBMC",
+                "citation_id": "8jCKL1sAAAAJ:4JMBOYKVnBMC",
+                "authors": "M Thelwall",
+                "publication": "Journal of the American Society for Information Science and Technology 60 (2 …, 2009",
+                "cited_by":
+                {
+                    "value": 267,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16440784272445382325",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=16440784272445382325&engine=google_scholar&hl=en",
+                    "cites_id": "16440784272445382325"
+                }
+                ,
+                "year": "2009"
+            }
+            ,
+            {
+                "title": "A web crawler design for data mining",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:WF5omc3nYNoC",
+                "citation_id": "8jCKL1sAAAAJ:WF5omc3nYNoC",
+                "authors": "M Thelwall",
+                "publication": "Journal of Information Science 27 (5), 319-325, 2001",
+                "cited_by":
+                {
+                    "value": 264,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11300267751203839424",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11300267751203839424&engine=google_scholar&hl=en",
+                    "cites_id": "11300267751203839424"
+                }
+                ,
+                "year": "2001"
+            }
+            ,
+            {
+                "title": "University of Wolverhampton at the TREC 2011 Microblog Track.",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:rmuvC79q63oC",
+                "citation_id": "8jCKL1sAAAAJ:rmuvC79q63oC",
+                "authors": "G Paltoglou, M Thelwall",
+                "publication": "TREC, 2011",
+                "cited_by":
+                {
+                    "value": 261,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18264484332613762437",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=18264484332613762437&engine=google_scholar&hl=en",
+                    "cites_id": "18264484332613762437"
+                }
+                ,
+                "year": "2011"
+            }
+            ,
+            {
+                "title": "Motivations for academic Web site interlinking: Evidence for the Web as a novel source of information on informal scholarly communication",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:Y0pCki6q_DkC",
+                "citation_id": "8jCKL1sAAAAJ:Y0pCki6q_DkC",
+                "authors": "D Wilkinson, G Harries, M Thelwall, L Price",
+                "publication": "Journal of information science 29 (1), 49-56, 2003",
+                "cited_by":
+                {
+                    "value": 261,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11828294366352363930",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11828294366352363930&engine=google_scholar&hl=en",
+                    "cites_id": "11828294366352363930"
+                }
+                ,
+                "year": "2003"
+            }
+            ,
+            {
+                "title": "Computer-based assessment: a versatile educational tool",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:u-x6o8ySG0sC",
+                "citation_id": "8jCKL1sAAAAJ:u-x6o8ySG0sC",
+                "authors": "M Thelwall",
+                "publication": "Computers & Education 34 (1), 37-49, 2000",
+                "cited_by":
+                {
+                    "value": 261,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15546720354295563754",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15546720354295563754&engine=google_scholar&hl=en",
+                    "cites_id": "15546720354295563754"
+                }
+                ,
+                "year": "2000"
+            }
+            ,
+            {
+                "title": "Commenting on YouTube videos: From Guatemalan rock to el big bang",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:foquWX3nUaYC",
+                "citation_id": "8jCKL1sAAAAJ:foquWX3nUaYC",
+                "authors": "M Thelwall, P Sud, F Vis",
+                "publication": "Journal of the American Society for Information Science and Technology 63 (3 …, 2012",
+                "cited_by":
+                {
+                    "value": 258,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17083673225315668677",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=17083673225315668677&engine=google_scholar&hl=en",
+                    "cites_id": "17083673225315668677"
+                }
+                ,
+                "year": "2012"
+            }
+            ,
+            {
+                "title": "Twitter, MySpace, Digg: Unsupervised sentiment analysis in social media",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:aEPHIGigqugC",
+                "citation_id": "8jCKL1sAAAAJ:aEPHIGigqugC",
+                "authors": "G Paltoglou, M Thelwall",
+                "publication": "ACM Transactions on Intelligent Systems and Technology (TIST) 3 (4), 1-19, 2012",
+                "cited_by":
+                {
+                    "value": 257,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15012974790248441004",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15012974790248441004&engine=google_scholar&hl=en",
+                    "cites_id": "15012974790248441004"
+                }
+                ,
+                "year": "2012"
+            }
+            ,
+            {
+                "title": "Twitter, MySpace, Digg: Unsupervised sentiment analysis in social media",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:8d8msizDQcsC",
+                "citation_id": "8jCKL1sAAAAJ:8d8msizDQcsC",
+                "authors": "G Paltoglou, M Thelwall",
+                "publication": "ACM Transactions on Intelligent Systems and Technology (TIST) 3 (4), 1-19, 2012",
+                "cited_by":
+                {
+                    "value": 257,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15012974790248441004",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15012974790248441004&engine=google_scholar&hl=en",
+                    "cites_id": "15012974790248441004"
+                }
+                ,
+                "year": "2012"
+            }
+            ,
+            {
+                "title": "Who reads research articles? An altmetrics analysis of M endeley user categories",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:KEHW5XCvxlQC",
+                "citation_id": "8jCKL1sAAAAJ:KEHW5XCvxlQC",
+                "authors": "E Mohammadi, M Thelwall, S Haustein, V Larivière",
+                "publication": "Journal of the Association for Information Science and Technology 66 (9 …, 2015",
+                "cited_by":
+                {
+                    "value": 256,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17975972426376959746",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=17975972426376959746&engine=google_scholar&hl=en",
+                    "cites_id": "17975972426376959746"
+                }
+                ,
+                "year": "2015"
+            }
+            ,
+            {
+                "title": "Collective emotions online and their influence on community life",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:olpn-zPbct0C",
+                "citation_id": "8jCKL1sAAAAJ:olpn-zPbct0C",
+                "authors": "A Chmiel, J Sienkiewicz, M Thelwall, G Paltoglou, K Buckley, A Kappas, ...",
+                "publication": "PloS one 6 (7), e22207, 2011",
+                "cited_by":
+                {
+                    "value": 252,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1174665126998985917",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=1174665126998985917&engine=google_scholar&hl=en",
+                    "cites_id": "1174665126998985917"
+                }
+                ,
+                "year": "2011"
+            }
+            ,
+            {
+                "title": "Web impact factors for Australasian universities",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:YsMSGLbcyi4C",
+                "citation_id": "8jCKL1sAAAAJ:YsMSGLbcyi4C",
+                "authors": "A Smith, M Thelwall",
+                "publication": "Scientometrics 54 (3), 363-380, 2002",
+                "cited_by":
+                {
+                    "value": 246,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12600503250482618858",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=12600503250482618858&engine=google_scholar&hl=en",
+                    "cites_id": "12600503250482618858"
+                }
+                ,
+                "year": "2002"
+            }
+            ,
+            {
+                "title": "Which factors help authors produce the highest impact research? Collaboration, journal and document properties",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:PyEswDtIyv0C",
+                "citation_id": "8jCKL1sAAAAJ:PyEswDtIyv0C",
+                "authors": "F Didegah, M Thelwall",
+                "publication": "Journal of informetrics 7 (4), 861-873, 2013",
+                "cited_by":
+                {
+                    "value": 237,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12004407912463325586",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=12004407912463325586&engine=google_scholar&hl=en",
+                    "cites_id": "12004407912463325586"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "Research blogs and the discussion of scholarly information",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:HtEfBTGE9r8C",
+                "citation_id": "8jCKL1sAAAAJ:HtEfBTGE9r8C",
+                "authors": "H Shema, J Bar-Ilan, M Thelwall",
+                "publication": "PloS one 7 (5), e35869, 2012",
+                "cited_by":
+                {
+                    "value": 237,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3443784183186589704",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=3443784183186589704&engine=google_scholar&hl=en",
+                    "cites_id": "3443784183186589704"
+                }
+                ,
+                "year": "2012"
+            }
+            ,
+            {
+                "title": "Sources of Google Scholar citations outside the Science Citation Index: A comparison between four science disciplines",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:YOwf2qJgpHMC",
+                "citation_id": "8jCKL1sAAAAJ:YOwf2qJgpHMC",
+                "authors": "K Kousha, M Thelwall",
+                "publication": "Scientometrics 74 (2), 273-294, 2008",
+                "cited_by":
+                {
+                    "value": 237,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5408337121354752552",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=5408337121354752552&engine=google_scholar&hl=en",
+                    "cites_id": "5408337121354752552"
+                }
+                ,
+                "year": "2008"
+            }
+            ,
+            {
+                "title": "Scholarly use of the Web: What are the key inducers of links to journal Web sites?",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:W7OEmFMy1HYC",
+                "citation_id": "8jCKL1sAAAAJ:W7OEmFMy1HYC",
+                "authors": "L Vaughan, M Thelwall",
+                "publication": "Journal of the American Society for Information Science and Technology 54 (1 …, 2003",
+                "cited_by":
+                {
+                    "value": 234,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17201707233537220782",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=17201707233537220782&engine=google_scholar&hl=en",
+                    "cites_id": "17201707233537220782"
+                }
+                ,
+                "year": "2003"
+            }
+            ,
+            {
+                "title": "Conceptualizing documentation on the Web: An evaluation of different heuristic‐based models for counting links between university Web sites",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:Tyk-4Ss8FVUC",
+                "citation_id": "8jCKL1sAAAAJ:Tyk-4Ss8FVUC",
+                "authors": "M Thelwall",
+                "publication": "Journal of the American Society for Information Science and Technology 53 …, 2002",
+                "cited_by":
+                {
+                    "value": 225,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15565250058017855246",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15565250058017855246&engine=google_scholar&hl=en",
+                    "cites_id": "15565250058017855246"
+                }
+                ,
+                "year": "2002"
+            }
+            ,
+            {
+                "title": "Researching personal information on the public web: Methods and ethics",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:eq2jaN3J8jMC",
+                "citation_id": "8jCKL1sAAAAJ:eq2jaN3J8jMC",
+                "authors": "D Wilkinson, M Thelwall",
+                "publication": "Social science computer review 29 (4), 387-401, 2011",
+                "cited_by":
+                {
+                    "value": 217,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1905270463601928738",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=1905270463601928738&engine=google_scholar&hl=en",
+                    "cites_id": "1905270463601928738"
+                }
+                ,
+                "year": "2011"
+            }
+            ,
+            {
+                "title": "Ho lyst JA, Negative emotions boost user activity at BBC forum",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:BzfGm06jWhQC",
+                "citation_id": "8jCKL1sAAAAJ:BzfGm06jWhQC",
+                "authors": "A Chmiel, P Sobkowicz, J Sienkiewicz, G Paltoglou, K Buckley, ...",
+                "publication": "Physica A 390, 29362944, 2011",
+                "cited_by":
+                {
+                    "value": 208,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12876718700916402783",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=12876718700916402783&engine=google_scholar&hl=en",
+                    "cites_id": "12876718700916402783"
+                }
+                ,
+                "year": "2011"
+            }
+            ,
+            {
+                "title": "Interpreting social science link analysis research: A theoretical framework",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:0EnyYjriUFMC",
+                "citation_id": "8jCKL1sAAAAJ:0EnyYjriUFMC",
+                "authors": "M Thelwall",
+                "publication": "Journal of the American Society for information science and technology 57 (1 …, 2006",
+                "cited_by":
+                {
+                    "value": 202,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2567665833177533130",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=2567665833177533130&engine=google_scholar&hl=en",
+                    "cites_id": "2567665833177533130"
+                }
+                ,
+                "year": "2006"
+            }
+            ,
+            {
+                "title": "What is this link doing here? Beginning a fine-grained process of identifying reasons for academic hyperlink creation",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:eQOLeE2rZwMC",
+                "citation_id": "8jCKL1sAAAAJ:eQOLeE2rZwMC",
+                "authors": "M Thelwall",
+                "publication": "Information research 8 (3), 8-3, 2003",
+                "cited_by":
+                {
+                    "value": 199,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4466792215031620132",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=4466792215031620132&engine=google_scholar&hl=en",
+                    "cites_id": "4466792215031620132"
+                }
+                ,
+                "year": "2003"
+            }
+            ,
+            {
+                "title": "Do highly cited researchers successfully use the social web?",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:MagRZZew-58C",
+                "citation_id": "8jCKL1sAAAAJ:MagRZZew-58C",
+                "authors": "A Mas-Bleda, M Thelwall, K Kousha, IF Aguillo",
+                "publication": "Scientometrics 101 (1), 337-356, 2014",
+                "cited_by":
+                {
+                    "value": 196,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12636351037278809787",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=12636351037278809787&engine=google_scholar&hl=en",
+                    "cites_id": "12636351037278809787"
+                }
+                ,
+                "year": "2014"
+            }
+            ,
+            {
+                "title": "Fk yea I swear: cursing and gender in MySpace",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:j3f4tGmQtD8C",
+                "citation_id": "8jCKL1sAAAAJ:j3f4tGmQtD8C",
+                "authors": "M Thelwall",
+                "publication": "Corpora 3 (1), 83-107, 2008",
+                "cited_by":
+                {
+                    "value": 189,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16648172968021683906",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=16648172968021683906&engine=google_scholar&hl=en",
+                    "cites_id": "16648172968021683906"
+                }
+                ,
+                "year": "2008"
+            }
+            ,
+            {
+                "title": "Tweets vs. Mendeley readers: How do these two social media metrics differ?",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:_UIRw3K-QSMC",
+                "citation_id": "8jCKL1sAAAAJ:_UIRw3K-QSMC",
+                "authors": "S Haustein, V Larivière, M Thelwall, D Amyot, I Peters",
+                "publication": "IT-Information technology 56 (5), 207-215, 2014",
+                "cited_by":
+                {
+                    "value": 183,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12604010655624099790",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=12604010655624099790&engine=google_scholar&hl=en",
+                    "cites_id": "12604010655624099790"
+                }
+                ,
+                "year": "2014"
+            }
+            ,
+            {
+                "title": "A comparison of sources of links for academic Web Impact Factor calculations",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:roLk4NBRz8UC",
+                "citation_id": "8jCKL1sAAAAJ:roLk4NBRz8UC",
+                "authors": "M Thelwall",
+                "publication": "Journal of Documentation, 2002",
+                "cited_by":
+                {
+                    "value": 182,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16865191010500946006",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=16865191010500946006&engine=google_scholar&hl=en",
+                    "cites_id": "16865191010500946006"
+                }
+                ,
+                "year": "2002"
+            }
+            ,
+            {
+                "title": "Assessing the citation impact of books: The role of Google Books, Google Scholar, and Scopus",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:BwyfMAYsbu0C",
+                "citation_id": "8jCKL1sAAAAJ:BwyfMAYsbu0C",
+                "authors": "K Kousha, M Thelwall, S Rezaie",
+                "publication": "Journal of the American Society for information science and technology 62 …, 2011",
+                "cited_by":
+                {
+                    "value": 181,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8671625981586960480",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=8671625981586960480&engine=google_scholar&hl=en",
+                    "cites_id": "8671625981586960480"
+                }
+                ,
+                "year": "2011"
+            }
+            ,
+            {
+                "title": "Evidence for the existence of geographic trends in university web site interlinking",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:UebtZRa9Y70C",
+                "citation_id": "8jCKL1sAAAAJ:UebtZRa9Y70C",
+                "authors": "M Thelwall",
+                "publication": "Journal of Documentation, 2002",
+                "cited_by":
+                {
+                    "value": 181,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15009491828485604025",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15009491828485604025&engine=google_scholar&hl=en",
+                    "cites_id": "15009491828485604025"
+                }
+                ,
+                "year": "2002"
+            }
+            ,
+            {
+                "title": "The role of online videos in research communication: A content analysis of Y ou T ube videos cited in academic publications",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:LO7wyVUgiFcC",
+                "citation_id": "8jCKL1sAAAAJ:LO7wyVUgiFcC",
+                "authors": "K Kousha, M Thelwall, M Abdoli",
+                "publication": "Journal of the American Society for information Science and Technology 63 (9 …, 2012",
+                "cited_by":
+                {
+                    "value": 178,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16286327090309894475",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=16286327090309894475&engine=google_scholar&hl=en",
+                    "cites_id": "16286327090309894475"
+                }
+                ,
+                "year": "2012"
+            }
+            ,
+            {
+                "title": "Web impact factors and search engine coverage",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:LkGwnXOMwfcC",
+                "citation_id": "8jCKL1sAAAAJ:LkGwnXOMwfcC",
+                "authors": "M Thelwall",
+                "publication": "Journal of documentation, 2000",
+                "cited_by":
+                {
+                    "value": 172,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16161110015961983790",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=16161110015961983790&engine=google_scholar&hl=en",
+                    "cites_id": "16161110015961983790"
+                }
+                ,
+                "year": "2000"
+            }
+            ,
+            {
+                "title": "Topic‐based sentiment analysis for the social web: The role of mood and issue‐related words",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:F9fV5C73w3QC",
+                "citation_id": "8jCKL1sAAAAJ:F9fV5C73w3QC",
+                "authors": "M Thelwall, K Buckley",
+                "publication": "Journal of the American Society for Information Science and Technology 64 (8 …, 2013",
+                "cited_by":
+                {
+                    "value": 169,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3192910648543382919",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=3192910648543382919&engine=google_scholar&hl=en",
+                    "cites_id": "3192910648543382919"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "RUOK? Blogging communication technologies during crises",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:ZeXyd9-uunAC",
+                "citation_id": "8jCKL1sAAAAJ:ZeXyd9-uunAC",
+                "authors": "M Thelwall, D Stuart",
+                "publication": "Journal of Computer-Mediated Communication 12 (2), 523-548, 2007",
+                "cited_by":
+                {
+                    "value": 166,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1255862226059117509",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=1255862226059117509&engine=google_scholar&hl=en",
+                    "cites_id": "1255862226059117509"
+                }
+                ,
+                "year": "2007"
+            }
+            ,
+            {
+                "title": "The metric tide",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:5pGZGXnFQ_sC",
+                "citation_id": "8jCKL1sAAAAJ:5pGZGXnFQ_sC",
+                "authors": "P Wouters, M Thelwall, K Kousha, L Waltman, S de Rijcke, A Rushforth, ...",
+                "publication": "Literature review. Supplementary report I to the independent review of the …, 2015",
+                "cited_by":
+                {
+                    "value": 162,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15729823832203634324",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15729823832203634324&engine=google_scholar&hl=en",
+                    "cites_id": "15729823832203634324"
+                }
+                ,
+                "year": "2015"
+            }
+            ,
+            {
+                "title": "F1000, Mendeley and traditional bibliometric indicators",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:fFSKOagxvKUC",
+                "citation_id": "8jCKL1sAAAAJ:fFSKOagxvKUC",
+                "authors": "X Li, M Thelwall",
+                "publication": "Proceedings of the 17th international conference on science and technology …, 2012",
+                "cited_by":
+                {
+                    "value": 160,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12950259036294688752",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=12950259036294688752&engine=google_scholar&hl=en",
+                    "cites_id": "12950259036294688752"
+                }
+                ,
+                "year": "2012"
+            }
+            ,
+            {
+                "title": "Scientists popularizing science: characteristics and impact of TED talk presenters",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:jU7OWUQzBzMC",
+                "citation_id": "8jCKL1sAAAAJ:jU7OWUQzBzMC",
+                "authors": "CR Sugimoto, M Thelwall, V Larivière, A Tsou, P Mongeon, B Macaluso",
+                "publication": "PloS one 8 (4), e62403, 2013",
+                "cited_by":
+                {
+                    "value": 158,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1845414772207946559",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=1845414772207946559&engine=google_scholar&hl=en",
+                    "cites_id": "1845414772207946559"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "Google Scholar, Microsoft Academic, Scopus, Dimensions, Web of Science, and OpenCitations’ COCI: a multidisciplinary comparison of coverage via citations",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:0XvJNYv_SW4C",
+                "citation_id": "8jCKL1sAAAAJ:0XvJNYv_SW4C",
+                "authors": "A Martín-Martín, M Thelwall, E Orduna-Malea, E Delgado López-Cózar",
+                "publication": "Scientometrics 126 (1), 871-906, 2021",
+                "cited_by":
+                {
+                    "value": 154,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16107293120858581070,7171430134624496541",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=16107293120858581070%2C7171430134624496541&engine=google_scholar&hl=en",
+                    "cites_id": "16107293120858581070,7171430134624496541"
+                }
+                ,
+                "year": "2021"
+            }
+            ,
+            {
+                "title": "M endeley readership altmetrics for medical articles: An analysis of 45 fields",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:3eDEwZmXtlkC",
+                "citation_id": "8jCKL1sAAAAJ:3eDEwZmXtlkC",
+                "authors": "M Thelwall, P Wilson",
+                "publication": "Journal of the Association for Information Science and Technology 67 (8 …, 2016",
+                "cited_by":
+                {
+                    "value": 151,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14306492795421118464",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=14306492795421118464&engine=google_scholar&hl=en",
+                    "cites_id": "14306492795421118464"
+                }
+                ,
+                "year": "2016"
+            }
+            ,
+            {
+                "title": "Public diplomacy 2.0: an exploratory case study of the US digital outreach team",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:sJsF-0ZLhtgC",
+                "citation_id": "8jCKL1sAAAAJ:sJsF-0ZLhtgC",
+                "authors": "L Khatib, W Dutton, M Thelwall",
+                "publication": "Khatib, L., Dutton, WH, and Thelwall, M.'Public Diplomacy 2, 2011",
+                "cited_by":
+                {
+                    "value": 148,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15507033953041821865",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15507033953041821865&engine=google_scholar&hl=en",
+                    "cites_id": "15507033953041821865"
+                }
+                ,
+                "year": "2011"
+            }
+            ,
+            {
+                "title": "Assessing global diffusion with Web memetics: The spread and evolution of a popular joke",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:eflP2zaiRacC",
+                "citation_id": "8jCKL1sAAAAJ:eflP2zaiRacC",
+                "authors": "L Shifman, M Thelwall",
+                "publication": "Journal of the American society for information science and technology 60 …, 2009",
+                "cited_by":
+                {
+                    "value": 145,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1922528451075410226",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=1922528451075410226&engine=google_scholar&hl=en",
+                    "cites_id": "1922528451075410226"
+                }
+                ,
+                "year": "2009"
+            }
+            ,
+            {
+                "title": "Google book search: Citation analysis for social science and the humanities",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:K3LRdlH-MEoC",
+                "citation_id": "8jCKL1sAAAAJ:K3LRdlH-MEoC",
+                "authors": "K Kousha, M Thelwall",
+                "publication": "Journal of the American Society for Information Science and Technology 60 (8 …, 2009",
+                "cited_by":
+                {
+                    "value": 144,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10661240234067459088",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10661240234067459088&engine=google_scholar&hl=en",
+                    "cites_id": "10661240234067459088"
+                }
+                ,
+                "year": "2009"
+            }
+            ,
+            {
+                "title": "Is multidisciplinary research more highly cited? A macrolevel study",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:M05iB0D1s5AC",
+                "citation_id": "8jCKL1sAAAAJ:M05iB0D1s5AC",
+                "authors": "JM Levitt, M Thelwall",
+                "publication": "Journal of the American Society for Information Science and Technology 59 …, 2008",
+                "cited_by":
+                {
+                    "value": 144,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14448021475454357154",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=14448021475454357154&engine=google_scholar&hl=en",
+                    "cites_id": "14448021475454357154"
+                }
+                ,
+                "year": "2008"
+            }
+            ,
+            {
+                "title": "Web crawling ethics revisited: Cost, privacy, and denial of service",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:maZDTaKrznsC",
+                "citation_id": "8jCKL1sAAAAJ:maZDTaKrznsC",
+                "authors": "M Thelwall, D Stuart",
+                "publication": "Journal of the American Society for Information Science and Technology 57 …, 2006",
+                "cited_by":
+                {
+                    "value": 139,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6204593464405587827",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=6204593464405587827&engine=google_scholar&hl=en",
+                    "cites_id": "6204593464405587827"
+                }
+                ,
+                "year": "2006"
+            }
+            ,
+            {
+                "title": "Linguistic patterns of academic Web use in Western Europe",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:8k81kl-MbHgC",
+                "citation_id": "8jCKL1sAAAAJ:8k81kl-MbHgC",
+                "authors": "M Thelwall, R Tang, L Price",
+                "publication": "Scientometrics 56 (3), 417-432, 2003",
+                "cited_by":
+                {
+                    "value": 139,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3913512249393819728",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=3913512249393819728&engine=google_scholar&hl=en",
+                    "cites_id": "3913512249393819728"
+                }
+                ,
+                "year": "2003"
+            }
+            ,
+            {
+                "title": "The connection between the research of a university and counts of links to its web pages: An investigation based upon a classification of the relationships of pages to the …",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:Se3iqnhoufwC",
+                "citation_id": "8jCKL1sAAAAJ:Se3iqnhoufwC",
+                "authors": "M Thelwall, G Harries",
+                "publication": "Journal of the American Society for Information Science and technology 54 (7 …, 2003",
+                "cited_by":
+                {
+                    "value": 138,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1975209861205010019",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=1975209861205010019&engine=google_scholar&hl=en",
+                    "cites_id": "1975209861205010019"
+                }
+                ,
+                "year": "2003"
+            }
+            ,
+            {
+                "title": "ResearchGate articles: Age, discipline, audience size, and impact",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:-dM8Fa3L0FAC",
+                "citation_id": "8jCKL1sAAAAJ:-dM8Fa3L0FAC",
+                "authors": "M Thelwall, K Kousha",
+                "publication": "Journal of the Association for information Science and technology 68 (2 …, 2017",
+                "cited_by":
+                {
+                    "value": 137,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=529404428074051228",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=529404428074051228&engine=google_scholar&hl=en",
+                    "cites_id": "529404428074051228"
+                }
+                ,
+                "year": "2017"
+            }
+            ,
+            {
+                "title": "Scholars on soap boxes: Science communication and dissemination in TED videos",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:Aul-kAQHnToC",
+                "citation_id": "8jCKL1sAAAAJ:Aul-kAQHnToC",
+                "authors": "CR Sugimoto, M Thelwall",
+                "publication": "Journal of the American society for information science and technology 64 (4 …, 2013",
+                "cited_by":
+                {
+                    "value": 136,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14504838715115541965",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=14504838715115541965&engine=google_scholar&hl=en",
+                    "cites_id": "14504838715115541965"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "Determinants of research citation impact in nanoscience and nanotechnology",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:nZcligLrVowC",
+                "citation_id": "8jCKL1sAAAAJ:nZcligLrVowC",
+                "authors": "F Didegah, M Thelwall",
+                "publication": "Journal of the American Society for Information Science and Technology 64 (5 …, 2013",
+                "cited_by":
+                {
+                    "value": 134,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1725543418069012739",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=1725543418069012739&engine=google_scholar&hl=en",
+                    "cites_id": "1725543418069012739"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "Tweeting links to academic articles",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:OBSaB-F7qqsC",
+                "citation_id": "8jCKL1sAAAAJ:OBSaB-F7qqsC",
+                "authors": "M Thelwall, A Tsou, S Weingart, K Holmberg, S Haustein",
+                "publication": "Editorial CSIC, 2013",
+                "cited_by":
+                {
+                    "value": 133,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13333243344674835500",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=13333243344674835500&engine=google_scholar&hl=en",
+                    "cites_id": "13333243344674835500"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "Can M endeley bookmarks reflect readership? A survey of user motivations",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:b1ISl_ktn64C",
+                "citation_id": "8jCKL1sAAAAJ:b1ISl_ktn64C",
+                "authors": "E Mohammadi, M Thelwall, K Kousha",
+                "publication": "Journal of the Association for Information Science and Technology 67 (5 …, 2016",
+                "cited_by":
+                {
+                    "value": 132,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11880657730273143640",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11880657730273143640&engine=google_scholar&hl=en",
+                    "cites_id": "11880657730273143640"
+                }
+                ,
+                "year": "2016"
+            }
+            ,
+            {
+                "title": "Social network sites: Users and uses",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:CHSYGLWDkRkC",
+                "citation_id": "8jCKL1sAAAAJ:CHSYGLWDkRkC",
+                "authors": "M Thelwall",
+                "publication": "Advances in computers 76, 19-73, 2009",
+                "cited_by":
+                {
+                    "value": 132,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11750379086959542107",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11750379086959542107&engine=google_scholar&hl=en",
+                    "cites_id": "11750379086959542107"
+                }
+                ,
+                "year": "2009"
+            }
+            ,
+            {
+                "title": "General patterns of tag usage among university groups in Flickr",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:QIV2ME_5wuYC",
+                "citation_id": "8jCKL1sAAAAJ:QIV2ME_5wuYC",
+                "authors": "E Angus, M Thelwall, D Stuart",
+                "publication": "Online information review, 2008",
+                "cited_by":
+                {
+                    "value": 125,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5151477128158524629",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=5151477128158524629&engine=google_scholar&hl=en",
+                    "cites_id": "5151477128158524629"
+                }
+                ,
+                "year": "2008"
+            }
+            ,
+            {
+                "title": "When are readership counts as useful as citation counts? S copus versus M endeley for LIS journals",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:Fd3FjPIBfbkC",
+                "citation_id": "8jCKL1sAAAAJ:Fd3FjPIBfbkC",
+                "authors": "N Maflahi, M Thelwall",
+                "publication": "Journal of the Association for information Science and Technology 67 (1 …, 2016",
+                "cited_by":
+                {
+                    "value": 123,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=630084100557045259",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=630084100557045259&engine=google_scholar&hl=en",
+                    "cites_id": "630084100557045259"
+                }
+                ,
+                "year": "2016"
+            }
+            ,
+            {
+                "title": "The most highly cited Library and Information Science articles: Interdisciplinarity, first authors and citation patterns",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:zA6iFVUQeVQC",
+                "citation_id": "8jCKL1sAAAAJ:zA6iFVUQeVQC",
+                "authors": "J Levitt, M Thelwall",
+                "publication": "Scientometrics 78 (1), 45-67, 2009",
+                "cited_by":
+                {
+                    "value": 123,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11662671327042208532",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11662671327042208532&engine=google_scholar&hl=en",
+                    "cites_id": "11662671327042208532"
+                }
+                ,
+                "year": "2009"
+            }
+            ,
+            {
+                "title": "A modeling approach to uncover hyperlink patterns: The case of Canadian universities",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:aqlVkmm33-oC",
+                "citation_id": "8jCKL1sAAAAJ:aqlVkmm33-oC",
+                "authors": "L Vaughan, M Thelwall",
+                "publication": "Information Processing & Management 41 (2), 347-359, 2005",
+                "cited_by":
+                {
+                    "value": 123,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5798072446770021247",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=5798072446770021247&engine=google_scholar&hl=en",
+                    "cites_id": "5798072446770021247"
+                }
+                ,
+                "year": "2005"
+            }
+            ,
+            {
+                "title": "Adolescent suicide statements on MySpace",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:owLR8QvbtFgC",
+                "citation_id": "8jCKL1sAAAAJ:owLR8QvbtFgC",
+                "authors": "SJ Cash, M Thelwall, SN Peck, JZ Ferrell, JA Bridge",
+                "publication": "Cyberpsychology, Behavior, and Social Networking 16 (3), 166-174, 2013",
+                "cited_by":
+                {
+                    "value": 121,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13675987982892067419",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=13675987982892067419&engine=google_scholar&hl=en",
+                    "cites_id": "13675987982892067419"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "From carbon markets to carbon morality: Creative compounds as framing devices in online discourses on climate change mitigation",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:LPZeul_q3PIC",
+                "citation_id": "8jCKL1sAAAAJ:LPZeul_q3PIC",
+                "authors": "N Koteyko, M Thelwall, B Nerlich",
+                "publication": "Science Communication 32 (1), 25-54, 2010",
+                "cited_by":
+                {
+                    "value": 119,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8771638610684670124",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=8771638610684670124&engine=google_scholar&hl=en",
+                    "cites_id": "8771638610684670124"
+                }
+                ,
+                "year": "2010"
+            }
+            ,
+            {
+                "title": "Finding similar academic Web sites with links, bibliometric couplings and colinks",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:kNdYIx-mwKoC",
+                "citation_id": "8jCKL1sAAAAJ:kNdYIx-mwKoC",
+                "authors": "M Thelwall, D Wilkinson",
+                "publication": "Information Processing & Management 40 (3), 515-526, 2004",
+                "cited_by":
+                {
+                    "value": 119,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5202529129943739559",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=5202529129943739559&engine=google_scholar&hl=en",
+                    "cites_id": "5202529129943739559"
+                }
+                ,
+                "year": "2004"
+            }
+            ,
+            {
+                "title": "Results from a web impact factor crawler",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:5nxA0vEk-isC",
+                "citation_id": "8jCKL1sAAAAJ:5nxA0vEk-isC",
+                "authors": "M Thelwall",
+                "publication": "Journal of Documentation, 2001",
+                "cited_by":
+                {
+                    "value": 115,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12091819879658845985",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=12091819879658845985&engine=google_scholar&hl=en",
+                    "cites_id": "12091819879658845985"
+                }
+                ,
+                "year": "2001"
+            }
+            ,
+            {
+                "title": "Academic information on Twitter: A user survey",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:C14xlUzwkXEC",
+                "citation_id": "8jCKL1sAAAAJ:C14xlUzwkXEC",
+                "authors": "E Mohammadi, M Thelwall, M Kwasny, KL Holmes",
+                "publication": "PloS one 13 (5), e0197265, 2018",
+                "cited_by":
+                {
+                    "value": 112,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17754233260036818926",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=17754233260036818926&engine=google_scholar&hl=en",
+                    "cites_id": "17754233260036818926"
+                }
+                ,
+                "year": "2018"
+            }
+            ,
+            {
+                "title": "Dimensions: A competitor to Scopus and the Web of Science?",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:LA-8tw-JpD0C",
+                "citation_id": "8jCKL1sAAAAJ:LA-8tw-JpD0C",
+                "authors": "M Thelwall",
+                "publication": "Journal of informetrics 12 (2), 430-435, 2018",
+                "cited_by":
+                {
+                    "value": 112,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4483646977753714174",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=4483646977753714174&engine=google_scholar&hl=en",
+                    "cites_id": "4483646977753714174"
+                }
+                ,
+                "year": "2018"
+            }
+            ,
+            {
+                "title": "Regression for citation data: An evaluation of different methods",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:E4Dt5tAWU4sC",
+                "citation_id": "8jCKL1sAAAAJ:E4Dt5tAWU4sC",
+                "authors": "M Thelwall, P Wilson",
+                "publication": "Journal of Informetrics 8 (4), 963-971, 2014",
+                "cited_by":
+                {
+                    "value": 111,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9778269199128181010",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=9778269199128181010&engine=google_scholar&hl=en",
+                    "cites_id": "9778269199128181010"
+                }
+                ,
+                "year": "2014"
+            }
+            ,
+            {
+                "title": "A fair history of the Web? Examining country balance in the Internet Archive",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:R3hNpaxXUhUC",
+                "citation_id": "8jCKL1sAAAAJ:R3hNpaxXUhUC",
+                "authors": "M Thelwall, L Vaughan",
+                "publication": "Library & information science research 26 (2), 162-176, 2004",
+                "cited_by":
+                {
+                    "value": 110,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10702828066117853981",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10702828066117853981&engine=google_scholar&hl=en",
+                    "cites_id": "10702828066117853981"
+                }
+                ,
+                "year": "2004"
+            }
+            ,
+            {
+                "title": "The top 100 linked-to pages on UK university web sites: high inlink counts are not usually associated with quality scholarly content",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:MXK_kJrjxJIC",
+                "citation_id": "8jCKL1sAAAAJ:MXK_kJrjxJIC",
+                "authors": "M Thelwall",
+                "publication": "Journal of information science 28 (6), 483-491, 2002",
+                "cited_by":
+                {
+                    "value": 107,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15799144066837141634",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15799144066837141634&engine=google_scholar&hl=en",
+                    "cites_id": "15799144066837141634"
+                }
+                ,
+                "year": "2002"
+            }
+            ,
+            {
+                "title": "Do ResearchGate Scores create ghost academic reputations?",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:ODN9lDrI8hIC",
+                "citation_id": "8jCKL1sAAAAJ:ODN9lDrI8hIC",
+                "authors": "E Orduna-Malea, A Martín-Martín, M Thelwall, E Delgado López-Cózar",
+                "publication": "Scientometrics 112 (1), 443-460, 2017",
+                "cited_by":
+                {
+                    "value": 106,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16621078202925232834",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=16621078202925232834&engine=google_scholar&hl=en",
+                    "cites_id": "16621078202925232834"
+                }
+                ,
+                "year": "2017"
+            }
+            ,
+            {
+                "title": "Effective websites for small and medium‐sized enterprises",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:Wp0gIr-vW9MC",
+                "citation_id": "8jCKL1sAAAAJ:Wp0gIr-vW9MC",
+                "authors": "M Thelwall",
+                "publication": "Journal of Small Business and Enterprise Development, 2000",
+                "cited_by":
+                {
+                    "value": 106,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11119899820057134062",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11119899820057134062&engine=google_scholar&hl=en",
+                    "cites_id": "11119899820057134062"
+                }
+                ,
+                "year": "2000"
+            }
+            ,
+            {
+                "title": "Extracting accurate and complete results from search engines: Case study Windows Live",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:mVmsd5A6BfQC",
+                "citation_id": "8jCKL1sAAAAJ:mVmsd5A6BfQC",
+                "authors": "M Thelwall",
+                "publication": "Journal of the American Society for Information Science and Technology 59 (1 …, 2008",
+                "cited_by":
+                {
+                    "value": 105,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13772423303889005464",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=13772423303889005464&engine=google_scholar&hl=en",
+                    "cites_id": "13772423303889005464"
+                }
+                ,
+                "year": "2008"
+            }
+            ,
+            {
+                "title": "Quantitative comparisons of search engine results",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:JV2RwH3_ST0C",
+                "citation_id": "8jCKL1sAAAAJ:JV2RwH3_ST0C",
+                "authors": "M Thelwall",
+                "publication": "Journal of the American Society for Information Science and Technology 59 …, 2008",
+                "cited_by":
+                {
+                    "value": 104,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12105582185832280559",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=12105582185832280559&engine=google_scholar&hl=en",
+                    "cites_id": "12105582185832280559"
+                }
+                ,
+                "year": "2008"
+            }
+            ,
+            {
+                "title": "Web indicators for research evaluation. Part 2: Social media metrics",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:PkDzUJVvfTUC",
+                "citation_id": "8jCKL1sAAAAJ:PkDzUJVvfTUC",
+                "authors": "M Thelwall, K Kousha",
+                "publication": "Profesional de la Informacion 24 (5), 607-620, 2015",
+                "cited_by":
+                {
+                    "value": 102,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=408034612903473314",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=408034612903473314&engine=google_scholar&hl=en",
+                    "cites_id": "408034612903473314"
+                }
+                ,
+                "year": "2015"
+            }
+            ,
+            {
+                "title": "Trending T witter topics in E nglish: An international comparison",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:9pM33mqn1YgC",
+                "citation_id": "8jCKL1sAAAAJ:9pM33mqn1YgC",
+                "authors": "D Wilkinson, M Thelwall",
+                "publication": "Journal of the American Society for Information Science and Technology 63 (8 …, 2012",
+                "cited_by":
+                {
+                    "value": 101,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9451318794100344789",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=9451318794100344789&engine=google_scholar&hl=en",
+                    "cites_id": "9451318794100344789"
+                }
+                ,
+                "year": "2012"
+            }
+            ,
+            {
+                "title": "Assessing the impact of disciplinary research on teaching: An automatic analysis of online syllabuses",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:5Ul4iDaHHb8C",
+                "citation_id": "8jCKL1sAAAAJ:5Ul4iDaHHb8C",
+                "authors": "K Kousha, M Thelwall",
+                "publication": "Journal of the American Society for information Science and Technology 59 …, 2008",
+                "cited_by":
+                {
+                    "value": 101,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8764628103276182579",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=8764628103276182579&engine=google_scholar&hl=en",
+                    "cites_id": "8764628103276182579"
+                }
+                ,
+                "year": "2008"
+            }
+            ,
+            {
+                "title": "Interlinking between Asia-Pacific university web sites",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:3fE2CSJIrl8C",
+                "citation_id": "8jCKL1sAAAAJ:3fE2CSJIrl8C",
+                "authors": "M Thelwall, A Smith",
+                "publication": "Scientometrics 55 (3), 363-376, 2002",
+                "cited_by":
+                {
+                    "value": 101,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4519044596153935591",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=4519044596153935591&engine=google_scholar&hl=en",
+                    "cites_id": "4519044596153935591"
+                }
+                ,
+                "year": "2002"
+            }
+            ,
+            {
+                "title": "Library and information science schools in Canada and USA: A Webometric perspective",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8jCKL1sAAAAJ&pagesize=100&citation_for_view=8jCKL1sAAAAJ:KlAtU1dfN6UC",
+                "citation_id": "8jCKL1sAAAAJ:KlAtU1dfN6UC",
+                "authors": "H Chu, S He, M Thelwall",
+                "publication": "Journal of education for library and information science, 110-125, 2002",
+                "cited_by":
+                {
+                    "value": 101,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11785201178885346030",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11785201178885346030&engine=google_scholar&hl=en",
+                    "cites_id": "11785201178885346030"
+                }
+                ,
+                "year": "2002"
+            }
+        ]
+        ,
+        "cited_by":
+        {
+            "table":
+            [
+                {
+                    "citations":
+                    {
+                        "all": 41554,
+                        "since_2017": 20524
+                    }
+                }
+                ,
+                {
+                    "h_index":
+                    {
+                        "all": 99,
+                        "since_2017": 71
+                    }
+                }
+                ,
+                {
+                    "i10_index":
+                    {
+                        "all": 416,
+                        "since_2017": 294
+                    }
+                }
+            ]
+            ,
+            "graph":
+            [
+                {
+                    "year": 2002,
+                    "citations": 143
+                }
+                ,
+                {
+                    "year": 2003,
+                    "citations": 487
+                }
+                ,
+                {
+                    "year": 2004,
+                    "citations": 586
+                }
+                ,
+                {
+                    "year": 2005,
+                    "citations": 709
+                }
+                ,
+                {
+                    "year": 2006,
+                    "citations": 643
+                }
+                ,
+                {
+                    "year": 2007,
+                    "citations": 497
+                }
+                ,
+                {
+                    "year": 2008,
+                    "citations": 928
+                }
+                ,
+                {
+                    "year": 2009,
+                    "citations": 1069
+                }
+                ,
+                {
+                    "year": 2010,
+                    "citations": 1155
+                }
+                ,
+                {
+                    "year": 2011,
+                    "citations": 1147
+                }
+                ,
+                {
+                    "year": 2012,
+                    "citations": 1648
+                }
+                ,
+                {
+                    "year": 2013,
+                    "citations": 1913
+                }
+                ,
+                {
+                    "year": 2014,
+                    "citations": 2702
+                }
+                ,
+                {
+                    "year": 2015,
+                    "citations": 3293
+                }
+                ,
+                {
+                    "year": 2016,
+                    "citations": 3191
+                }
+                ,
+                {
+                    "year": 2017,
+                    "citations": 3532
+                }
+                ,
+                {
+                    "year": 2018,
+                    "citations": 3789
+                }
+                ,
+                {
+                    "year": 2019,
+                    "citations": 3901
+                }
+                ,
+                {
+                    "year": 2020,
+                    "citations": 4130
+                }
+                ,
+                {
+                    "year": 2021,
+                    "citations": 4375
+                }
+                ,
+                {
+                    "year": 2022,
+                    "citations": 738
+                }
+            ]
+        }
+        ,
+        "public_access":
+        {
+            "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=8jCKL1sAAAAJ",
+            "available": 28,
+            "not_available": 0
+        }
+        ,
+        "co_authors":
+        [
+            {
+                "name": "Kayvan Kousha",
+                "link": "https://scholar.google.com/citations?user=1qZw1XkAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=1qZw1XkAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "1qZw1XkAAAAJ",
+                "affiliations": "University of Wolverhampton",
+                "email": "Verified email at wlv.ac.uk",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=1qZw1XkAAAAJ&citpid=2"
+            }
+            ,
+            {
+                "name": "Georgios Paltoglou",
+                "link": "https://scholar.google.com/citations?user=NIp713AAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=NIp713AAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "NIp713AAAAAJ",
+                "affiliations": "European Commission",
+                "email": "Verified email at ec.europa.eu",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=NIp713AAAAAJ&citpid=4"
+            }
+            ,
+            {
+                "name": "Arvid Kappas",
+                "link": "https://scholar.google.com/citations?user=nGrEcmQAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=nGrEcmQAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "nGrEcmQAAAAJ",
+                "affiliations": "Jacobs University Bremen",
+                "email": "Verified email at jacobs-university.de",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=nGrEcmQAAAAJ&citpid=5"
+            }
+            ,
+            {
+                "name": "Liwen Vaughan",
+                "link": "https://scholar.google.com/citations?user=gKwgzUMAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=gKwgzUMAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "gKwgzUMAAAAJ",
+                "affiliations": "Professor Emeritus, University of Western Ontario",
+                "email": "Verified email at uwo.ca",
+                "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+            }
+            ,
+            {
+                "name": "Vincent Larivière",
+                "link": "https://scholar.google.com/citations?user=UvfK8IUAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=UvfK8IUAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "UvfK8IUAAAAJ",
+                "affiliations": "Université de Montréal",
+                "email": "Verified email at umontreal.ca",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=UvfK8IUAAAAJ&citpid=5"
+            }
+            ,
+            {
+                "name": "Cassidy R. Sugimoto",
+                "link": "https://scholar.google.com/citations?user=AjKdHVMAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=AjKdHVMAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "AjKdHVMAAAAJ",
+                "affiliations": "Professor and Tom and Marie Patton School Chair",
+                "email": "Verified email at gatech.edu",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=AjKdHVMAAAAJ&citpid=5"
+            }
+            ,
+            {
+                "name": "Amalia Mas-Bleda",
+                "link": "https://scholar.google.com/citations?user=MUgty9wAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=MUgty9wAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "MUgty9wAAAAJ",
+                "affiliations": "Universiy of Wolverhampon",
+                "email": "Verified email at wlv.ac.uk",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=MUgty9wAAAAJ&citpid=12"
+            }
+            ,
+            {
+                "name": "Xuemei Li",
+                "link": "https://scholar.google.com/citations?user=mLK9FXsAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=mLK9FXsAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "mLK9FXsAAAAJ",
+                "affiliations": "Assitant Business Librarian, York University",
+                "email": "Verified email at yorku.ca",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=mLK9FXsAAAAJ&citpid=2"
+            }
+            ,
+            {
+                "name": "Ehsan Mohammadi",
+                "link": "https://scholar.google.com/citations?user=ddrRUEMAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=ddrRUEMAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "ddrRUEMAAAAJ",
+                "affiliations": "iSchool@University of South Carolina",
+                "email": "Verified email at sc.edu",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ddrRUEMAAAAJ&citpid=2"
+            }
+            ,
+            {
+                "name": "David 'the' Stuart",
+                "link": "https://scholar.google.com/citations?user=TIHpj0QAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=TIHpj0QAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "TIHpj0QAAAAJ",
+                "affiliations": "King's College London",
+                "email": "Verified email at kcl.ac.uk",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=TIHpj0QAAAAJ&citpid=2"
+            }
+            ,
+            {
+                "name": "Brian Cugelman",
+                "link": "https://scholar.google.com/citations?user=L_rieZ4AAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=L_rieZ4AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "L_rieZ4AAAAJ",
+                "affiliations": "Honorary Research Fellow with the Statistical Cybermetrics Research Group",
+                "email": "Verified email at alterspark.com",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=L_rieZ4AAAAJ&citpid=3"
+            }
+            ,
+            {
+                "name": "Enrique Orduña-Malea",
+                "link": "https://scholar.google.com/citations?user=g6bEUdkAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=g6bEUdkAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "g6bEUdkAAAAJ",
+                "affiliations": "Technical University of Valencia (ror.org/01460j859)",
+                "email": "Verified email at upv.es",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=g6bEUdkAAAAJ&citpid=21"
+            }
+            ,
+            {
+                "name": "Stefanie Haustein",
+                "link": "https://scholar.google.com/citations?user=kWhLvE8AAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=kWhLvE8AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "kWhLvE8AAAAJ",
+                "affiliations": "ÉSIS, University of Ottawa",
+                "email": "Verified email at uottawa.ca",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=kWhLvE8AAAAJ&citpid=5"
+            }
+            ,
+            {
+                "name": "Julian Sienkiewicz",
+                "link": "https://scholar.google.com/citations?user=mIwu11QAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=mIwu11QAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "mIwu11QAAAAJ",
+                "affiliations": "Assistant professor at Faculty of Physics, Warsaw University of Technology",
+                "email": "Verified email at pw.edu.pl",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=mIwu11QAAAAJ&citpid=2"
+            }
+            ,
+            {
+                "name": "Janusz Hołyst",
+                "link": "https://scholar.google.com/citations?user=KA_kg0IAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=KA_kg0IAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "KA_kg0IAAAAJ",
+                "affiliations": "Faculty of Physics Warsaw University of Technology",
+                "email": "Verified email at if.pw.edu.pl",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=KA_kg0IAAAAJ&citpid=1"
+            }
+            ,
+            {
+                "name": "Fereshteh Didegah",
+                "link": "https://scholar.google.com/citations?user=pG0Ynb8AAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=pG0Ynb8AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "pG0Ynb8AAAAJ",
+                "affiliations": "University of British Columbia, Vancouver BC, Canada",
+                "email": "Verified email at ubc.ca",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=pG0Ynb8AAAAJ&citpid=19"
+            }
+            ,
+            {
+                "name": "Judit Bar-Ilan",
+                "link": "https://scholar.google.com/citations?user=mkb_14UAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=mkb_14UAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "mkb_14UAAAAJ",
+                "affiliations": "Professor of Information Science, Bar-Ilan University, Israel",
+                "email": "Verified email at biu.ac.il",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=mkb_14UAAAAJ&citpid=3"
+            }
+            ,
+            {
+                "name": "Hadas Shema",
+                "link": "https://scholar.google.com/citations?user=WlFAgh8AAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=WlFAgh8AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "WlFAgh8AAAAJ",
+                "email": "Verified email at zbw.eu",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=WlFAgh8AAAAJ&citpid=1"
+            }
+            ,
+            {
+                "name": "Kim Holmberg",
+                "link": "https://scholar.google.com/citations?user=gt_L3DwAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=gt_L3DwAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "gt_L3DwAAAAJ",
+                "affiliations": "Senior researcher, University of Turku, Finland",
+                "email": "Verified email at abo.fi",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=gt_L3DwAAAAJ&citpid=2"
+            }
+            ,
+            {
+                "name": "James Wilsdon",
+                "link": "https://scholar.google.com/citations?user=DQlScvcAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=DQlScvcAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "DQlScvcAAAAJ",
+                "affiliations": "Digital Science Professor of Research Policy & Director, Research on Research Institute (RoRI)",
+                "email": "Verified email at sheffield.ac.uk",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=DQlScvcAAAAJ&citpid=4"
+            }
+        ]
+        ,
+        "serpapi_pagination":
+        {
+            "next": "https://serpapi.com/search.json?author_id=8jCKL1sAAAAJ&engine=google_scholar_author&hl=en&num=100&start=100"
+        }
+    }

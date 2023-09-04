@@ -1,0 +1,1944 @@
+
+    {
+        "search_metadata":
+        {
+            "id": "62384f3224e88e9913f0b380",
+            "status": "Success",
+            "json_endpoint": "https://serpapi.com/searches/3f373a86109ffd20/62384f3224e88e9913f0b380.json",
+            "created_at": "2022-03-21 10:10:58 UTC",
+            "processed_at": "2022-03-21 10:10:58 UTC",
+            "google_scholar_author_url": "https://scholar.google.com/citations?user=EJ34B9wAAAAJ&hl=en&cstart=0&pagesize=100",
+            "raw_html_file": "https://serpapi.com/searches/3f373a86109ffd20/62384f3224e88e9913f0b380.html",
+            "total_time_taken": 0.73
+        }
+        ,
+        "search_parameters":
+        {
+            "engine": "google_scholar_author",
+            "author_id": "EJ34B9wAAAAJ",
+            "hl": "en",
+            "start": 0,
+            "num": "100"
+        }
+        ,
+        "author":
+        {
+            "name": "Evaristo Jimenez-Contreras",
+            "affiliations": "Profesor de Bibliometría, EC3 - Universidad de Granada",
+            "email": "Verified email at ugr.es",
+            "interests":
+            [
+                {
+                    "title": "Bibliometrics",
+                    "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:bibliometrics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Abibliometrics"
+                }
+                ,
+                {
+                    "title": "Bibliometría",
+                    "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:bibliometr%C3%ADa",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Abibliometr%25C3%25ADa"
+                }
+                ,
+                {
+                    "title": "Scientometrics",
+                    "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:scientometrics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ascientometrics"
+                }
+                ,
+                {
+                    "title": "Science Evaluation",
+                    "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:science_evaluation",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ascience_evaluation"
+                }
+                ,
+                {
+                    "title": "Scientific Communication",
+                    "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:scientific_communication",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ascientific_communication"
+                }
+            ]
+            ,
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=EJ34B9wAAAAJ&citpid=2"
+        }
+        ,
+        "articles":
+        [
+            {
+                "title": "The evolution of research activity in Spain: The impact of the National Commission for the Evaluation of Research Activity (CNEAI)",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:u5HHmVD_uO8C",
+                "citation_id": "EJ34B9wAAAAJ:u5HHmVD_uO8C",
+                "authors": "E Jiménez-Contreras, F de Moya Anegón, ED López-Cózar",
+                "publication": "Research policy 32 (1), 123-142, 2003",
+                "cited_by":
+                {
+                    "value": 316,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12775691068753583452,14151359952827866964",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=12775691068753583452%2C14151359952827866964&engine=google_scholar&hl=en",
+                    "cites_id": "12775691068753583452,14151359952827866964"
+                }
+                ,
+                "year": "2003"
+            }
+            ,
+            {
+                "title": "La edición de revistas científicas: directrices, criterios y modelos de evaluación",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:2osOgNQ5qMEC",
+                "citation_id": "EJ34B9wAAAAJ:2osOgNQ5qMEC",
+                "authors": "E Delgado López-Cózar, R Ruiz Pérez, E Jiménez Contreras",
+                "cited_by":
+                {
+                    "value": 178,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11406548678513694039,18345322217544484566",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11406548678513694039%2C18345322217544484566&engine=google_scholar&hl=en",
+                    "cites_id": "11406548678513694039,18345322217544484566"
+                }
+                ,
+                "year": "2006"
+            }
+            ,
+            {
+                "title": "Altmetrics: New Indicators for Scientific Communication in Web 2.0",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:zLWjf1WUPmwC",
+                "citation_id": "EJ34B9wAAAAJ:zLWjf1WUPmwC",
+                "authors": "D Torres-Salinas, A Cabezas-Clavijo, E Jimenez-Contreras",
+                "publication": "arXiv preprint arXiv:1306.6595, 2013",
+                "cited_by":
+                {
+                    "value": 170,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3190784847331641286",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=3190784847331641286&engine=google_scholar&hl=en",
+                    "cites_id": "3190784847331641286"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "Análisis bibliométrico y de redes sociales aplicado a las tesis bibliométricas defendidas en España (1976-2002): temas, escuelas científicas y redes académicas",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:YsMSGLbcyi4C",
+                "citation_id": "EJ34B9wAAAAJ:YsMSGLbcyi4C",
+                "authors": "E Delgado López-Cózar, D Torres-Salinas, E Jiménez-Contreras, ...",
+                "publication": "Revista española de documentación científica 29 (4), 493-524, 2006",
+                "cited_by":
+                {
+                    "value": 155,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6714741127776607141,8679999696661633412,3834610439581944298",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=6714741127776607141%2C8679999696661633412%2C3834610439581944298&engine=google_scholar&hl=en",
+                    "cites_id": "6714741127776607141,8679999696661633412,3834610439581944298"
+                }
+                ,
+                "year": "2006"
+            }
+            ,
+            {
+                "title": "Criterios del Institute for Scientific Information para la selección de revistas científicas. Su aplicación a las revistas españolas: metodología e indicadores",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:d1gkVwhDpl0C",
+                "citation_id": "EJ34B9wAAAAJ:d1gkVwhDpl0C",
+                "authors": "R Ruiz-Pérez, E Delgado, E Jiménez-Contreras",
+                "publication": "International journal of clinical and health psychology 6 (2), 401-424, 2006",
+                "cited_by":
+                {
+                    "value": 129,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17384433545761932253,13485164909664202426,3183980255723898704",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=17384433545761932253%2C13485164909664202426%2C3183980255723898704&engine=google_scholar&hl=en",
+                    "cites_id": "17384433545761932253,13485164909664202426,3183980255723898704"
+                }
+                ,
+                "year": "2006"
+            }
+            ,
+            {
+                "title": "Research fronts in library and information science in Spain (1985–1994)",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:sSrBHYA8nusC",
+                "citation_id": "EJ34B9wAAAAJ:sSrBHYA8nusC",
+                "authors": "F de Moya Anegón, EJ Contreras, MDLM Corrochano",
+                "publication": "Scientometrics 42 (2), 229-246, 1998",
+                "cited_by":
+                {
+                    "value": 125,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11866580477098967195,6750842959586167964",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11866580477098967195%2C6750842959586167964&engine=google_scholar&hl=en",
+                    "cites_id": "11866580477098967195,6750842959586167964"
+                }
+                ,
+                "year": "1998"
+            }
+            ,
+            {
+                "title": "The journal selection criteria. Its application to Archivos de la Sociedad Espanola de Oftalmologia",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:WF5omc3nYNoC",
+                "citation_id": "EJ34B9wAAAAJ:WF5omc3nYNoC",
+                "authors": "R Ruiz-Perez, E Delgado Lopez-Cozar, E Jimenez-Contreras",
+                "publication": "ARCHIVOS-SOCIEDAD ESPANOLA DE OFTALMOLOGIA 81 (5), 245, 2006",
+                "cited_by":
+                {
+                    "value": 120,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14705098271352106730",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=14705098271352106730&engine=google_scholar&hl=en",
+                    "cites_id": "14705098271352106730"
+                }
+                ,
+                "year": "2006"
+            }
+            ,
+            {
+                "title": "Spanish personal name variations in national and international biomedical databases: implications for information retrieval and bibliometric studies",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:u-x6o8ySG0sC",
+                "citation_id": "EJ34B9wAAAAJ:u-x6o8ySG0sC",
+                "authors": "R Ruiz-Pérez, ED López-Cózar, E Jiménez-Contreras",
+                "publication": "Journal of the Medical Library Association 90 (4), 411, 2002",
+                "cited_by":
+                {
+                    "value": 120,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14705098271352106730",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=14705098271352106730&engine=google_scholar&hl=en",
+                    "cites_id": "14705098271352106730"
+                }
+                ,
+                "year": "2002"
+            }
+            ,
+            {
+                "title": "Altmetrics: nuevos indicadores para la comunicación científica en la Web 2.0",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:uc_IGeMz5qoC",
+                "citation_id": "EJ34B9wAAAAJ:uc_IGeMz5qoC",
+                "authors": "D Torres-Salinas, Á Cabezas-Clavijo, E Jiménez-Contreras",
+                "publication": "Grupo Comunicar, 2013",
+                "cited_by":
+                {
+                    "value": 117,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5625656386684017642",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=5625656386684017642&engine=google_scholar&hl=en",
+                    "cites_id": "5625656386684017642"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "Impact-factor rewards affect Spanish research",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:9yKSN-GCB0IC",
+                "citation_id": "EJ34B9wAAAAJ:9yKSN-GCB0IC",
+                "authors": "E Jiménez-Contreras, E Delgado Lopez-Cozar, R Ruiz-Pérez, ...",
+                "publication": "Nature 417 (6892), 898-898, 2002",
+                "cited_by":
+                {
+                    "value": 110,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4174566271723900872",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=4174566271723900872&engine=google_scholar&hl=en",
+                    "cites_id": "4174566271723900872"
+                }
+                ,
+                "year": "2002"
+            }
+            ,
+            {
+                "title": "Visibility of Latin American nursing research (1959–2005)",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:IjCSPb-OGe4C",
+                "citation_id": "EJ34B9wAAAAJ:IjCSPb-OGe4C",
+                "authors": "S Mendoza‐Parra, T Paravic‐Klijn, AM Muñoz‐Muñoz, OA Barriga, ...",
+                "publication": "Journal of Nursing Scholarship 41 (1), 54-63, 2009",
+                "cited_by":
+                {
+                    "value": 108,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=885784289430431890",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=885784289430431890&engine=google_scholar&hl=en",
+                    "cites_id": "885784289430431890"
+                }
+                ,
+                "year": "2009"
+            }
+            ,
+            {
+                "title": "Clasificación integrada de revistas científicas (CIRC): propuesta de categorización de las revistas en ciencias sociales y humanas",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:YOwf2qJgpHMC",
+                "citation_id": "EJ34B9wAAAAJ:YOwf2qJgpHMC",
+                "authors": "D Torres-Salinas, M Bordons, E Giménez-Toledo, ...",
+                "publication": "El profesional de la información 19 (6), 675-684, 2010",
+                "cited_by":
+                {
+                    "value": 101,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3099738966229677367",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=3099738966229677367&engine=google_scholar&hl=en",
+                    "cites_id": "3099738966229677367"
+                }
+                ,
+                "year": "2010"
+            }
+            ,
+            {
+                "title": "Introducción y estudio comparativo de los nuevos indicadores de citación sobre revistas científicas en Journal Citation Reports y Scopus",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:eQOLeE2rZwMC",
+                "citation_id": "EJ34B9wAAAAJ:eQOLeE2rZwMC",
+                "authors": "D Torres-Salinas, E Jiménez-Contreras",
+                "publication": "El profesional de la información 19 (2), 201-208, 2010",
+                "cited_by":
+                {
+                    "value": 101,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6707644922629206851",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=6707644922629206851&engine=google_scholar&hl=en",
+                    "cites_id": "6707644922629206851"
+                }
+                ,
+                "year": "2010"
+            }
+            ,
+            {
+                "title": "Ranking of departments and researchers within a university using two different databases: Web of Science versus Scopus",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:ufrVoPGSRksC",
+                "citation_id": "EJ34B9wAAAAJ:ufrVoPGSRksC",
+                "authors": "D Torres-Salinas, ED Lopez-Cózar, E Jiménez-Contreras",
+                "publication": "Scientometrics 80 (3), 761-774, 2009",
+                "cited_by":
+                {
+                    "value": 97,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6354071918094495203",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=6354071918094495203&engine=google_scholar&hl=en",
+                    "cites_id": "6354071918094495203"
+                }
+                ,
+                "year": "2009"
+            }
+            ,
+            {
+                "title": "Analyzing data citation practices using the data citation index",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:zxqBrjVgvjwC",
+                "citation_id": "EJ34B9wAAAAJ:zxqBrjVgvjwC",
+                "authors": "N Robinson‐García, E Jiménez‐Contreras, D Torres‐Salinas",
+                "publication": "Journal of the Association for Information Science and Technology 67 (12 …, 2016",
+                "cited_by":
+                {
+                    "value": 91,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4525507402948019914",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=4525507402948019914&engine=google_scholar&hl=en",
+                    "cites_id": "4525507402948019914"
+                }
+                ,
+                "year": "2016"
+            }
+            ,
+            {
+                "title": "Principios y criterios utilizados en España por la Comisión Nacional Evaluadora de la Actividad Investigadora (CNEAI) para la valoración de las publicaciones científicas: 1989-2009",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:Wp0gIr-vW9MC",
+                "citation_id": "EJ34B9wAAAAJ:Wp0gIr-vW9MC",
+                "authors": "R Ruiz Pérez, E Delgado López-Cózar, E Jiménez Contreras",
+                "publication": "Psicothema 22 (4), 898-908, 2010",
+                "cited_by":
+                {
+                    "value": 90,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17318596058626149865,10643399715879304031",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=17318596058626149865%2C10643399715879304031&engine=google_scholar&hl=en",
+                    "cites_id": "17318596058626149865,10643399715879304031"
+                }
+                ,
+                "year": "2010"
+            }
+            ,
+            {
+                "title": "A connectionist and multivariate approach to science maps: the SOM, clustering and MDS applied to library and information science research",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:UeHWp8X0CEIC",
+                "citation_id": "EJ34B9wAAAAJ:UeHWp8X0CEIC",
+                "authors": "F Moya-Anegón, V Herrero-Solana, E Jiménez-Contreras",
+                "publication": "Journal of Information Science 32 (1), 63-77, 2006",
+                "cited_by":
+                {
+                    "value": 89,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3774831911040558551",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=3774831911040558551&engine=google_scholar&hl=en",
+                    "cites_id": "3774831911040558551"
+                }
+                ,
+                "year": "2006"
+            }
+            ,
+            {
+                "title": "Hacia las unidades de bibliometría en las universidades: modelo y funciones",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:p2g8aNsByqUC",
+                "citation_id": "EJ34B9wAAAAJ:p2g8aNsByqUC",
+                "authors": "D Torres-Salinas, E Jiménez-Contreras",
+                "publication": "Revista española de Documentación Científica 35 (3), 469-480, 2012",
+                "cited_by":
+                {
+                    "value": 78,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14779724591106691941",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=14779724591106691941&engine=google_scholar&hl=en",
+                    "cites_id": "14779724591106691941"
+                }
+                ,
+                "year": "2012"
+            }
+            ,
+            {
+                "title": "Análisis de la autoria en revistas españolas de biblioteconomia y documentación, 1975-1985",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:qjMakFHDy7sC",
+                "citation_id": "EJ34B9wAAAAJ:qjMakFHDy7sC",
+                "authors": "E Jiménez Contreras, F Moya Anegón",
+                "publication": "Consejo Superior de Investigaciones Científicas (CSIC), 1997",
+                "cited_by":
+                {
+                    "value": 69,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3743649142069104435",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=3743649142069104435&engine=google_scholar&hl=en",
+                    "cites_id": "3743649142069104435"
+                }
+                ,
+                "year": "1997"
+            }
+            ,
+            {
+                "title": "La aportación española a la producción científica internacional en biblioteconomía y documentación: balance de diez años (1992–2001)",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:Tyk-4Ss8FVUC",
+                "citation_id": "EJ34B9wAAAAJ:Tyk-4Ss8FVUC",
+                "authors": "E Jiménez-Contreras",
+                "publication": "Universitat de Barcelona. Facultat de Biblioteconomia i Documentació, 2002",
+                "cited_by":
+                {
+                    "value": 66,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6555452295328385020,386582015004698841",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=6555452295328385020%2C386582015004698841&engine=google_scholar&hl=en",
+                    "cites_id": "6555452295328385020,386582015004698841"
+                }
+                ,
+                "year": "2002"
+            }
+            ,
+            {
+                "title": "Análisis bibliométrico de la situación de las mujeres investigadoras de Ciencias Sociales y Jurídicas en España",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:RHpTSmoSYBkC",
+                "citation_id": "EJ34B9wAAAAJ:RHpTSmoSYBkC",
+                "authors": "D Torres-Salinas, AM Muñoz-Muñoz, E Jiménez-Contreras",
+                "publication": "Revista Española de Documentación Científica 34 (1), 11-28, 2011",
+                "cited_by":
+                {
+                    "value": 63,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3229449160717481474,12274797253607464581",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=3229449160717481474%2C12274797253607464581&engine=google_scholar&hl=en",
+                    "cites_id": "3229449160717481474,12274797253607464581"
+                }
+                ,
+                "year": "2011"
+            }
+            ,
+            {
+                "title": "Las revistas científicas: el centro y la periferia",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:zYLM7Y9cAGgC",
+                "citation_id": "EJ34B9wAAAAJ:zYLM7Y9cAGgC",
+                "authors": "E Jimenez-Contreras",
+                "publication": "Revista Española de Documentación Científica, 1992",
+                "cited_by":
+                {
+                    "value": 60,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10303290173147481045",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10303290173147481045&engine=google_scholar&hl=en",
+                    "cites_id": "10303290173147481045"
+                }
+                ,
+                "year": "1992"
+            }
+            ,
+            {
+                "title": "Análisis de la producción de la Universidad de Navarra en revistas de Ciencias Sociales y Humanidades empleando rankings de revistas españolas y la Web of Science",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:UebtZRa9Y70C",
+                "citation_id": "EJ34B9wAAAAJ:UebtZRa9Y70C",
+                "authors": "D Torres-Salinas, E Delgado López-Cózar, E Jiménez-Contreras",
+                "publication": "Revista española de documentación científica 32 (1), 22-39, 2009",
+                "cited_by":
+                {
+                    "value": 55,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9461743661782615734,2463296867035188699",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=9461743661782615734%2C2463296867035188699&engine=google_scholar&hl=en",
+                    "cites_id": "9461743661782615734,2463296867035188699"
+                }
+                ,
+                "year": "2009"
+            }
+            ,
+            {
+                "title": "Analyzing the citation characteristics of books: edited books, book series and types of publishers in the Book Citation Index",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:9Nmd_mFXekcC",
+                "citation_id": "EJ34B9wAAAAJ:9Nmd_mFXekcC",
+                "authors": "D Torres-Salinas, N Robinson-García, Á Cabezas-Clavijo, ...",
+                "publication": "arXiv preprint arXiv:1305.1483, 2013",
+                "cited_by":
+                {
+                    "value": 53,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1471958367696745487,6472662881265981735",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=1471958367696745487%2C6472662881265981735&engine=google_scholar&hl=en",
+                    "cites_id": "1471958367696745487,6472662881265981735"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "Characterizing highly cited papers in social work through H-classics",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:bxbQgRQgr4sC",
+                "citation_id": "EJ34B9wAAAAJ:bxbQgRQgr4sC",
+                "authors": "MA Martínez, M Herrera, E Contreras, A Ruiz, E Herrera-Viedma",
+                "publication": "Scientometrics 102 (2), 1713-1729, 2015",
+                "cited_by":
+                {
+                    "value": 49,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2429542785460955216",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=2429542785460955216&engine=google_scholar&hl=en",
+                    "cites_id": "2429542785460955216"
+                }
+                ,
+                "year": "2015"
+            }
+            ,
+            {
+                "title": "On the use of Biplot analysis for multivariate bibliometric and scientific indicators",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:SdhP9T11ey4C",
+                "citation_id": "EJ34B9wAAAAJ:SdhP9T11ey4C",
+                "authors": "D Torres-Salinas, N Robinson-García, E Jiménez-Contreras, F Herrera, ...",
+                "publication": "arXiv preprint arXiv:1302.0608, 2013",
+                "cited_by":
+                {
+                    "value": 46,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10194441455775597513",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10194441455775597513&engine=google_scholar&hl=en",
+                    "cites_id": "10194441455775597513"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "Response Surface Methodology and its application in evaluating scientific activity",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:XiSMed-E-HIC",
+                "citation_id": "EJ34B9wAAAAJ:XiSMed-E-HIC",
+                "authors": "E Jiménez-Contreras, D Torres-Salinas, RB Moreno, RR Baños, ...",
+                "publication": "Scientometrics 79 (1), 201-218, 2009",
+                "cited_by":
+                {
+                    "value": 46,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15443795864970112602",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15443795864970112602&engine=google_scholar&hl=en",
+                    "cites_id": "15443795864970112602"
+                }
+                ,
+                "year": "2009"
+            }
+            ,
+            {
+                "title": "Visualization and evolution of the scientific structure of fuzzy sets research in Spain",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:LkGwnXOMwfcC",
+                "citation_id": "EJ34B9wAAAAJ:LkGwnXOMwfcC",
+                "authors": "AG López-Herrera, MJ Cobos, E Herrera Viedma, F Herrera, ...",
+                "publication": "Information Research 14 (4), 9, 2009",
+                "cited_by":
+                {
+                    "value": 44,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18330302396523551250",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=18330302396523551250&engine=google_scholar&hl=en",
+                    "cites_id": "18330302396523551250"
+                }
+                ,
+                "year": "2009"
+            }
+            ,
+            {
+                "title": "Reviewers’ ratings and bibliometric indicators: hand in hand when assessing over research proposals?",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:ML0RJ9NH7IQC",
+                "citation_id": "EJ34B9wAAAAJ:ML0RJ9NH7IQC",
+                "authors": "Á Cabezas-Clavijo, N Robinson-García, M Escabias, ...",
+                "publication": "PloS one 8 (6), e68258, 2013",
+                "cited_by":
+                {
+                    "value": 43,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=659857829232867413",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=659857829232867413&engine=google_scholar&hl=en",
+                    "cites_id": "659857829232867413"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "El análisis de las tesis doctorales como indicador evaluativo: reflexiones y propuestas",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:KxdiYzj_eL0C",
+                "citation_id": "EJ34B9wAAAAJ:KxdiYzj_eL0C",
+                "authors": "E Jiménez-Contreras, R Ruiz-Pérez, ED López-Cózar",
+                "publication": "Revista de Investigación Educativa 32 (2), 295-308, 2014",
+                "cited_by":
+                {
+                    "value": 42,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16397623817826677",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=16397623817826677&engine=google_scholar&hl=en",
+                    "cites_id": "16397623817826677"
+                }
+                ,
+                "year": "2014"
+            }
+            ,
+            {
+                "title": "Productividad e impacto de los investigadores españoles: umbrales de referencia por áreas científicas",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:4JMBOYKVnBMC",
+                "citation_id": "EJ34B9wAAAAJ:4JMBOYKVnBMC",
+                "authors": "E Jiménez-Contreras, N Robinson-García, Á Cabezas-Clavijo",
+                "publication": "Revista española de Documentación Científica 34 (4), 505-525, 2011",
+                "cited_by":
+                {
+                    "value": 42,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4944528235069634029",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=4944528235069634029&engine=google_scholar&hl=en",
+                    "cites_id": "4944528235069634029"
+                }
+                ,
+                "year": "2011"
+            }
+            ,
+            {
+                "title": "Trends in World Dental Research: an overview of the last three decades using the Web of Science",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:tOudhMTPpwUC",
+                "citation_id": "EJ34B9wAAAAJ:tOudhMTPpwUC",
+                "authors": "R Pulgar, I Jiménez-Fernández, E Jiménez-Contreras, D Torres-Salinas, ...",
+                "publication": "Clinical Oral Investigations, 1-11, 2012",
+                "cited_by":
+                {
+                    "value": 39,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=357645387683848033",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=357645387683848033&engine=google_scholar&hl=en",
+                    "cites_id": "357645387683848033"
+                }
+                ,
+                "year": "2012"
+            }
+            ,
+            {
+                "title": "Producción Española en biblioteconomía y documentación con visibilidad internacional a través del Web of Science (1995-2004)",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:8AbLer7MMksC",
+                "citation_id": "EJ34B9wAAAAJ:8AbLer7MMksC",
+                "authors": "EJ Contreras, ED López-Cózar, RR Pérez",
+                "publication": "El profesional de la información 15 (5), 373-383, 2006",
+                "cited_by":
+                {
+                    "value": 37,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13127685673630644872",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=13127685673630644872&engine=google_scholar&hl=en",
+                    "cites_id": "13127685673630644872"
+                }
+                ,
+                "year": "2006"
+            }
+            ,
+            {
+                "title": "El destino de las revistas científicas nacionales: El caso español a través de una muestra (1950-90)",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:2KloaMYe4IUC",
+                "citation_id": "EJ34B9wAAAAJ:2KloaMYe4IUC",
+                "authors": "EJ Contreras, F de Moya Anegón, CF Pérez",
+                "publication": "Revista española de documentación científica 24 (2), 147-161, 2001",
+                "cited_by":
+                {
+                    "value": 37,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5635386469396498408",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=5635386469396498408&engine=google_scholar&hl=en",
+                    "cites_id": "5635386469396498408"
+                }
+                ,
+                "year": "2001"
+            }
+            ,
+            {
+                "title": "El destino de las revistas científicas nacionales: El caso español a través de una muestra (1950-90)",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:Y0pCki6q_DkC",
+                "citation_id": "EJ34B9wAAAAJ:Y0pCki6q_DkC",
+                "authors": "E Jiménez-Contreras, F Moya-Anegon, C Faba",
+                "publication": "Revista española de documentación científica, 2001",
+                "cited_by":
+                {
+                    "value": 37,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5635386469396498408",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=5635386469396498408&engine=google_scholar&hl=en",
+                    "cites_id": "5635386469396498408"
+                }
+                ,
+                "year": "2001"
+            }
+            ,
+            {
+                "title": "Procedimientos de evaluación de las publicaciones periódicas. Estudio crítico de su empleo en las revistas científicas españolas",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:VLnqNzywnoUC",
+                "citation_id": "EJ34B9wAAAAJ:VLnqNzywnoUC",
+                "authors": "L Ferreiro, E Jimenez-Contreras",
+                "publication": "Revista española de documentación científica, 1986",
+                "cited_by":
+                {
+                    "value": 36,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16292311172720964993",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=16292311172720964993&engine=google_scholar&hl=en",
+                    "cites_id": "16292311172720964993"
+                }
+                ,
+                "year": "1986"
+            }
+            ,
+            {
+                "title": "Procedimientos de evaluación de las publicaciones periódicas. Estudio crítico de su empleo en las revistas científicas españolas",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:dQ2og3OwTAUC",
+                "citation_id": "EJ34B9wAAAAJ:dQ2og3OwTAUC",
+                "authors": "LF Aláez, EJ Contreras",
+                "cited_by":
+                {
+                    "value": 36,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16292311172720964993",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=16292311172720964993&engine=google_scholar&hl=en",
+                    "cites_id": "16292311172720964993"
+                }
+                ,
+                "year": "1986"
+            }
+            ,
+            {
+                "title": "Revistas Iberoamericanas de Educación en SciELO Citation Index y Emerging Source Citation Index",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:hx4mni8B3JkC",
+                "citation_id": "EJ34B9wAAAAJ:hx4mni8B3JkC",
+                "authors": "R Repiso, E Jiménez-Contreras, I Aguaded",
+                "publication": "Revista Española de Documentación Científica 40 (4), 1-13, 2017",
+                "cited_by":
+                {
+                    "value": 33,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5057517858511282090",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=5057517858511282090&engine=google_scholar&hl=en",
+                    "cites_id": "5057517858511282090"
+                }
+                ,
+                "year": "2017"
+            }
+            ,
+            {
+                "title": "The Revista Española de Salud Pública in the Social Science Index de Thomson Scientific",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:5nxA0vEk-isC",
+                "citation_id": "EJ34B9wAAAAJ:5nxA0vEk-isC",
+                "authors": "C Pérez Andrés, E Delgado López-Cózar, E Jiménez Contreras",
+                "publication": "Revista española de salud pública 80 (4), 293-302, 2006",
+                "cited_by":
+                {
+                    "value": 32,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14818287124845308348,10841396239671343363",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=14818287124845308348%2C10841396239671343363&engine=google_scholar&hl=en",
+                    "cites_id": "14818287124845308348,10841396239671343363"
+                }
+                ,
+                "year": "2006"
+            }
+            ,
+            {
+                "title": "Qué es y cómo utilizar el Índice de Impacto de Revistas Españolas de Ciencias Jurídicas",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:_kc_bZDykSQC",
+                "citation_id": "EJ34B9wAAAAJ:_kc_bZDykSQC",
+                "authors": "E Delgado López-Cozar, R Ruiz Pérez, E Jiménez Contreras",
+                "publication": "Aula abierta 38 (2), 3-16, 2010",
+                "cited_by":
+                {
+                    "value": 31,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4066546576836137852",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=4066546576836137852&engine=google_scholar&hl=en",
+                    "cites_id": "4066546576836137852"
+                }
+                ,
+                "year": "2010"
+            }
+            ,
+            {
+                "title": "Envejecimiento de la literatura científica en documentación. Influencia del origen nacional de las revistas. Estudio de una muestra",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:MXK_kJrjxJIC",
+                "citation_id": "EJ34B9wAAAAJ:MXK_kJrjxJIC",
+                "authors": "R Ruiz Baños, E Jimenez-Contreras",
+                "publication": "Revista española de documentación científica 19 (1), 39-49, 1996",
+                "cited_by":
+                {
+                    "value": 31,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3401917071545400824",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=3401917071545400824&engine=google_scholar&hl=en",
+                    "cites_id": "3401917071545400824"
+                }
+                ,
+                "year": "1996"
+            }
+            ,
+            {
+                "title": "JOURNAL SCHOLAR: una alternativa internacional, gratuita y de libre acceso para medir el impacto de las revistas de Arte, Humanidades y Ciencias Sociales",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:1sJd4Hv_s6UC",
+                "citation_id": "EJ34B9wAAAAJ:1sJd4Hv_s6UC",
+                "authors": "E Delgado-López-Cózar, E Orduña-Malea, D Marcos Cartagena, ...",
+                "publication": "EC3 Working Papers; 5, 2012",
+                "cited_by":
+                {
+                    "value": 30,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12858599386920432924",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=12858599386920432924&engine=google_scholar&hl=en",
+                    "cites_id": "12858599386920432924"
+                }
+                ,
+                "year": "2012"
+            }
+            ,
+            {
+                "title": "Investigación de excelencia en España:¿ protagonistas o papeles secundarios?",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:M3ejUd6NZC8C",
+                "citation_id": "EJ34B9wAAAAJ:M3ejUd6NZC8C",
+                "authors": "E Jiménez-Contreras, D Torres-Salinas, R Ruiz-Pérez, ...",
+                "publication": "Med Clin (Barc) 134 (2), 76-81, 2010",
+                "cited_by":
+                {
+                    "value": 29,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18214097090327829850,3222927846898641869",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=18214097090327829850%2C3222927846898641869&engine=google_scholar&hl=en",
+                    "cites_id": "18214097090327829850,3222927846898641869"
+                }
+                ,
+                "year": "2010"
+            }
+            ,
+            {
+                "title": "Investigación de excelencia en España:¿ actores protagonistas o papeles secundarios?",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:z_wVstp3MssC",
+                "citation_id": "EJ34B9wAAAAJ:z_wVstp3MssC",
+                "authors": "E Jiménez-Contreras, D Torres-Salinas, R Ruiz-Pérez, ...",
+                "publication": "Medicina Clínica, 2009",
+                "cited_by":
+                {
+                    "value": 29,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18214097090327829850",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=18214097090327829850&engine=google_scholar&hl=en",
+                    "cites_id": "18214097090327829850"
+                }
+                ,
+                "year": "2009"
+            }
+            ,
+            {
+                "title": "The pulsing structure of science: Ortega y Gasset, Saint Matthew, fractality and transfractality",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:kNdYIx-mwKoC",
+                "citation_id": "EJ34B9wAAAAJ:kNdYIx-mwKoC",
+                "authors": "R Bailón-Moreno, E Jurado-Alameda, R Ruiz-Baños, JP Courtial, ...",
+                "publication": "Scientometrics 71 (1), 3-24, 2007",
+                "cited_by":
+                {
+                    "value": 29,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7405227466862123617",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=7405227466862123617&engine=google_scholar&hl=en",
+                    "cites_id": "7405227466862123617"
+                }
+                ,
+                "year": "2007"
+            }
+            ,
+            {
+                "title": "[Medline criteria for scientific journals selection. Methodology and indicators. Application to Spanish medical journals paying special attention to public health].",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:BUYA1_V_uYcC",
+                "citation_id": "EJ34B9wAAAAJ:BUYA1_V_uYcC",
+                "authors": "R Ruiz-Pérez, E Jiménez-Contreras",
+                "publication": "Revista espanola de salud publica 80 (5), 521-551, 2005",
+                "cited_by":
+                {
+                    "value": 29,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14818287124845308348,3152342670614953901",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=14818287124845308348%2C3152342670614953901&engine=google_scholar&hl=en",
+                    "cites_id": "14818287124845308348,3152342670614953901"
+                }
+                ,
+                "year": "2005"
+            }
+            ,
+            {
+                "title": "España y los 25 grandes de la ciencia mundial en cifras (1992-2008)",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:qxL8FJ1GzNcC",
+                "citation_id": "EJ34B9wAAAAJ:qxL8FJ1GzNcC",
+                "authors": "E Delgado-López-Cózar, E Jiménez-Contreras, R Ruiz-Pérez",
+                "publication": "El profesional de la información 18 (1), 81-86, 2009",
+                "cited_by":
+                {
+                    "value": 27,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10676852027081725136",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10676852027081725136&engine=google_scholar&hl=en",
+                    "cites_id": "10676852027081725136"
+                }
+                ,
+                "year": "2009"
+            }
+            ,
+            {
+                "title": "INRECS: Índice de impacto de las revistas españolas de ciencias sociales",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:KlAtU1dfN6UC",
+                "citation_id": "EJ34B9wAAAAJ:KlAtU1dfN6UC",
+                "authors": "E Delgado López-Cózar, E Jiménez Contreras, R Ruiz Pérez, ...",
+                "publication": "Biblio 3w: revista bibliográfica de geografía y ciencias sociales 10, 2007",
+                "cited_by":
+                {
+                    "value": 27,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2142656118225148515",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=2142656118225148515&engine=google_scholar&hl=en",
+                    "cites_id": "2142656118225148515"
+                }
+                ,
+                "year": "2007"
+            }
+            ,
+            {
+                "title": "La ciencia española a través de la Web of Science (1996-2007): las disciplinas",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:3fE2CSJIrl8C",
+                "citation_id": "EJ34B9wAAAAJ:3fE2CSJIrl8C",
+                "authors": "E Delgado-López-Cózar, E Jiménez-Contreras, R Ruiz-Pérez",
+                "publication": "El profesional de la información 18 (4), 437-444, 2009",
+                "cited_by":
+                {
+                    "value": 24,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5139782243818533191",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=5139782243818533191&engine=google_scholar&hl=en",
+                    "cites_id": "5139782243818533191"
+                }
+                ,
+                "year": "2009"
+            }
+            ,
+            {
+                "title": "Spanish research in Knowledge Organization (1992-2001)",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:NaGl4SEjCO4C",
+                "citation_id": "EJ34B9wAAAAJ:NaGl4SEjCO4C",
+                "authors": "E Jimenez-Contreras, MJ López-Huertas",
+                "publication": "Knowledge Organization, 2005",
+                "cited_by":
+                {
+                    "value": 24,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4388656983683363155",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=4388656983683363155&engine=google_scholar&hl=en",
+                    "cites_id": "4388656983683363155"
+                }
+                ,
+                "year": "2005"
+            }
+            ,
+            {
+                "title": "Spanish research in knowledge organization 1999-2001",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:VOx2b1Wkg3QC",
+                "citation_id": "EJ34B9wAAAAJ:VOx2b1Wkg3QC",
+                "authors": "MJ López-Huertas, EJ Contreras",
+                "publication": "Knowledge organization 31 (3), 136-150, 2004",
+                "cited_by":
+                {
+                    "value": 24,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4388656983683363155",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=4388656983683363155&engine=google_scholar&hl=en",
+                    "cites_id": "4388656983683363155"
+                }
+                ,
+                "year": "2004"
+            }
+            ,
+            {
+                "title": "Criterios Medline para la selección de revistas científicas. Metodología e indicadores. Aplicación a las revistas médicas españolas con especial atención a las de salud pública",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:IWHjjKOFINEC",
+                "citation_id": "EJ34B9wAAAAJ:IWHjjKOFINEC",
+                "authors": "ED López-Cózar, R Ruiz-Pérez, E Jiménez-Contreras",
+                "publication": "Rev Esp Salud Pública 80 (5), 521-551, 2006",
+                "cited_by":
+                {
+                    "value": 23,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14818287124845308348",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=14818287124845308348&engine=google_scholar&hl=en",
+                    "cites_id": "14818287124845308348"
+                }
+                ,
+                "year": "2006"
+            }
+            ,
+            {
+                "title": "La selección de la literatura científica en el ámbito biomédico: el factor de impacto",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:Se3iqnhoufwC",
+                "citation_id": "EJ34B9wAAAAJ:Se3iqnhoufwC",
+                "authors": "E Jiménez-Contreras",
+                "publication": "Educación médica 7, 27-35, 2004",
+                "cited_by":
+                {
+                    "value": 23,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6040443943060753147",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=6040443943060753147&engine=google_scholar&hl=en",
+                    "cites_id": "6040443943060753147"
+                }
+                ,
+                "year": "2004"
+            }
+            ,
+            {
+                "title": "Redes de citación de las revistas españolas de Ciencias Sociales 1994-2006",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:TQgYirikUcIC",
+                "citation_id": "EJ34B9wAAAAJ:TQgYirikUcIC",
+                "authors": "D Torres-Salinas, E Delgado López-Cózar, E Jiménez-Contreras",
+                "publication": "Revista española de documentación científica 32 (2), 34-50, 2009",
+                "cited_by":
+                {
+                    "value": 22,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12097502670186903533,18366867310794764894",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=12097502670186903533%2C18366867310794764894&engine=google_scholar&hl=en",
+                    "cites_id": "12097502670186903533,18366867310794764894"
+                }
+                ,
+                "year": "2009"
+            }
+            ,
+            {
+                "title": "Spanish name indexing errors in international Databases",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:_FxGoFyzp5QC",
+                "citation_id": "EJ34B9wAAAAJ:_FxGoFyzp5QC",
+                "authors": "Ruiz-Pérez, Rafael, E Delgado, E Jiménez-Contreras",
+                "publication": "The lancet 361, 351-52, 2003",
+                "cited_by":
+                {
+                    "value": 22,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11069490829167397666",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11069490829167397666&engine=google_scholar&hl=en",
+                    "cites_id": "11069490829167397666"
+                }
+                ,
+                "year": "2003"
+            }
+            ,
+            {
+                "title": "Las revistas depredadoras, una nueva epidemia científica",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:CzVmvSWNoUEC",
+                "citation_id": "EJ34B9wAAAAJ:CzVmvSWNoUEC",
+                "authors": "E Jiménez-Contreras, JJ Jiménez-Segura",
+                "publication": "Ciencia y enfermería 22 (2), 7-12, 2016",
+                "cited_by":
+                {
+                    "value": 20,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3304591642577991800",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=3304591642577991800&engine=google_scholar&hl=en",
+                    "cites_id": "3304591642577991800"
+                }
+                ,
+                "year": "2016"
+            }
+            ,
+            {
+                "title": "Los métodos bibliométricos. Aplicaciones y estado de la cuestión",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:bEWYMUwI8FkC",
+                "citation_id": "EJ34B9wAAAAJ:bEWYMUwI8FkC",
+                "authors": "E Jiménez Contreras",
+                "publication": "Cuadernos de documentación multimedia, 4, 2000",
+                "cited_by":
+                {
+                    "value": 20,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1333309393676095540",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=1333309393676095540&engine=google_scholar&hl=en",
+                    "cites_id": "1333309393676095540"
+                }
+                ,
+                "year": "2000"
+            }
+            ,
+            {
+                "title": "Autores españoles más citados en Biblioteconomía y Documentación",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:8k81kl-MbHgC",
+                "citation_id": "EJ34B9wAAAAJ:8k81kl-MbHgC",
+                "authors": "F Moya Anegón, E Jiménez Contreras",
+                "publication": "Profesional de la Información, El: Information World en Español 8 (5), 28-29, 1999",
+                "cited_by":
+                {
+                    "value": 20,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14025565092017020104,15335674878465504648",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=14025565092017020104%2C15335674878465504648&engine=google_scholar&hl=en",
+                    "cites_id": "14025565092017020104,15335674878465504648"
+                }
+                ,
+                "year": "1999"
+            }
+            ,
+            {
+                "title": "Calidad editorial, difusión e indicadores bibliométricos de la Revista Española de Enfermedades Digestivas",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:W7OEmFMy1HYC",
+                "citation_id": "EJ34B9wAAAAJ:W7OEmFMy1HYC",
+                "authors": "ED López Cózar, R Ruiz Pérez, E Jiménez Contreras",
+                "publication": "Rev Esp Enferm Dig 91, 1-32, 1999",
+                "cited_by":
+                {
+                    "value": 20,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17911607294471516636,10497425947361243579,659368522192377177",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=17911607294471516636%2C10497425947361243579%2C659368522192377177&engine=google_scholar&hl=en",
+                    "cites_id": "17911607294471516636,10497425947361243579,659368522192377177"
+                }
+                ,
+                "year": "1999"
+            }
+            ,
+            {
+                "title": "Most borrowed is most cited? Library loan statistics as a proxy for monograph selection in citation indexes",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:nrtMV_XWKgEC",
+                "citation_id": "EJ34B9wAAAAJ:nrtMV_XWKgEC",
+                "authors": "Á Cabezas-Clavijo, N Robinson-García, D Torres-Salinas, ...",
+                "publication": "arXiv preprint arXiv:1305.1488, 2013",
+                "cited_by":
+                {
+                    "value": 19,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10635013774522502878",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10635013774522502878&engine=google_scholar&hl=en",
+                    "cites_id": "10635013774522502878"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "Strategic knowledge maps of the techno‐scientific network (SK maps)",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:WbkHhVStYXYC",
+                "citation_id": "EJ34B9wAAAAJ:WbkHhVStYXYC",
+                "authors": "J Pino‐Díaz, E Jiménez‐Contreras, R Ruíz‐Baños, R Bailón‐Moreno",
+                "publication": "Journal of the American Society for Information Science and Technology 63 (4 …, 2012",
+                "cited_by":
+                {
+                    "value": 19,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16070907328411612979",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=16070907328411612979&engine=google_scholar&hl=en",
+                    "cites_id": "16070907328411612979"
+                }
+                ,
+                "year": "2012"
+            }
+            ,
+            {
+                "title": "Thomson Scientific's web-based bibliometric complements: good and nice and free",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:ZfRJV9d4-WMC",
+                "citation_id": "EJ34B9wAAAAJ:ZfRJV9d4-WMC",
+                "authors": "R Ruiz-Perez, E Jimenez-Contreras, E Delgado-Lopez-Cozar",
+                "publication": "PROFESIONAL DE LA INFORMACION 17 (5), 559-563, 2008",
+                "cited_by":
+                {
+                    "value": 18,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12006061898137646516,9489518014235132229",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=12006061898137646516%2C9489518014235132229&engine=google_scholar&hl=en",
+                    "cites_id": "12006061898137646516,9489518014235132229"
+                }
+                ,
+                "year": "2008"
+            }
+            ,
+            {
+                "title": "Complementos bibliométricos de Thomson Scientific en la Web: buenos, bonitos y gratuitos",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:Zph67rFs4hoC",
+                "citation_id": "EJ34B9wAAAAJ:Zph67rFs4hoC",
+                "authors": "R Ruiz-Pérez, E Jiménez-Contreras, E Delgado-López-Cózar",
+                "publication": "El profesional de la información 17 (5), 559-563, 2008",
+                "cited_by":
+                {
+                    "value": 18,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12006061898137646516",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=12006061898137646516&engine=google_scholar&hl=en",
+                    "cites_id": "12006061898137646516"
+                }
+                ,
+                "year": "2008"
+            }
+            ,
+            {
+                "title": "Publishing abroad: Fair trade or short sell for non-English-speaking authors? A Spanish study",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:ULOm3_A8WrAC",
+                "citation_id": "EJ34B9wAAAAJ:ULOm3_A8WrAC",
+                "authors": "E Jimenez-Contreras, L Ferreiro-Aláez",
+                "publication": "Scientometrics 36 (1), 81-95, 1996",
+                "cited_by":
+                {
+                    "value": 18,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13058159232328534740",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=13058159232328534740&engine=google_scholar&hl=en",
+                    "cites_id": "13058159232328534740"
+                }
+                ,
+                "year": "1996"
+            }
+            ,
+            {
+                "title": "Evaluación de redes tecnocientíficas: la red española sobre áreas protegidas, según la Web of Science",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:k_IJM867U9cC",
+                "citation_id": "EJ34B9wAAAAJ:k_IJM867U9cC",
+                "authors": "J Pino-Díaz, E Jiménez-Contreras, R Ruíz-Baños, R Bailón-Moreno",
+                "publication": "Revista española de documentación científica 34 (3), 301-333, 2011",
+                "cited_by":
+                {
+                    "value": 17,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=595834267488077317,15235957476072652370",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=595834267488077317%2C15235957476072652370&engine=google_scholar&hl=en",
+                    "cites_id": "595834267488077317,15235957476072652370"
+                }
+                ,
+                "year": "2011"
+            }
+            ,
+            {
+                "title": "Impact of the impact factor in Spain.",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:aqlVkmm33-oC",
+                "citation_id": "EJ34B9wAAAAJ:aqlVkmm33-oC",
+                "authors": "E Delgado-Lopez-Cozar, R Ruiz-Pérez, E Jiménez-Contreras",
+                "publication": "British Medical Journal, 2007",
+                "cited_by":
+                {
+                    "value": 17,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11638720132240670379",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11638720132240670379&engine=google_scholar&hl=en",
+                    "cites_id": "11638720132240670379"
+                }
+                ,
+                "year": "2007"
+            }
+            ,
+            {
+                "title": "Structure and dynamics of scientific networks. Part I: Fundamentals of the quantitative model of translation",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:roLk4NBRz8UC",
+                "citation_id": "EJ34B9wAAAAJ:roLk4NBRz8UC",
+                "authors": "R Ruiz-Baños, R Bailón-Moreno, E Jimenez-Contreras, JP Courtial",
+                "publication": "Scientometrics 44 (2), 217-234, 1999",
+                "cited_by":
+                {
+                    "value": 17,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1437943113967324052",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=1437943113967324052&engine=google_scholar&hl=en",
+                    "cites_id": "1437943113967324052"
+                }
+                ,
+                "year": "1999"
+            }
+            ,
+            {
+                "title": "Universidad de Granada, 1975-1987: la transición científica:(un estudio sobre la difusión internacional de la literatura científica granadina",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:0EnyYjriUFMC",
+                "citation_id": "EJ34B9wAAAAJ:0EnyYjriUFMC",
+                "authors": "E Jiménez Contreras",
+                "publication": "Universidad de Granada, 1997",
+                "cited_by":
+                {
+                    "value": 16,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3032916554239358546",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=3032916554239358546&engine=google_scholar&hl=en",
+                    "cites_id": "3032916554239358546"
+                }
+                ,
+                "year": "1997"
+            }
+            ,
+            {
+                "title": "Black holes of communication Scientific communication and meta-research Introduction",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:4MWp96NkSFoC",
+                "citation_id": "EJ34B9wAAAAJ:4MWp96NkSFoC",
+                "authors": "E Gimenez-Toledo, E Jimenez-Contreras",
+                "publication": "COMUNICAR, 10-12, 2013",
+                "cited_by":
+                {
+                    "value": 15,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15134934851858094094,12392723150604349057",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15134934851858094094%2C12392723150604349057&engine=google_scholar&hl=en",
+                    "cites_id": "15134934851858094094,12392723150604349057"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "Índice H de las revistas españolas de Ciencias Sociales y Jurídicas según Google Scholar (2002-2011)",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:URolC5Kub84C",
+                "citation_id": "EJ34B9wAAAAJ:URolC5Kub84C",
+                "authors": "E Delgado López-Cózar, D Marcos Cartagena, E Jiménez-Contreras, ...",
+                "publication": "EC3: Evaluación de la Ciencia y la Comunicación Científica, 2013",
+                "cited_by":
+                {
+                    "value": 15,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16728492148015432735",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=16728492148015432735&engine=google_scholar&hl=en",
+                    "cites_id": "16728492148015432735"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "Editorial La Revista Española de Salud Pública ingresa en el Social Science Citation Index de Thomson Scientific",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:ZVmBtQ9RJaQC",
+                "citation_id": "EJ34B9wAAAAJ:ZVmBtQ9RJaQC",
+                "authors": "CP Andrés, ED López-Cózar, EJ Contreras",
+                "publication": "Revista Española de Salud Pública 80 (4), 293-302, 2006",
+                "cited_by":
+                {
+                    "value": 15,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10841396239671343363",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10841396239671343363&engine=google_scholar&hl=en",
+                    "cites_id": "10841396239671343363"
+                }
+                ,
+                "year": "2006"
+            }
+            ,
+            {
+                "title": "Proposal of a stochastic model to determine the bibliometric variables influencing the quality of a journal: application to the field of Dentistry",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:EfTNjLFZ3b0C",
+                "citation_id": "EJ34B9wAAAAJ:EfTNjLFZ3b0C",
+                "authors": "P Valderrama, M Escabias, E Jiménez-Contreras, A Rodríguez-Archilla, ...",
+                "publication": "Scientometrics 115 (2), 1087-1095, 2018",
+                "cited_by":
+                {
+                    "value": 14,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6268742948039914230",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=6268742948039914230&engine=google_scholar&hl=en",
+                    "cites_id": "6268742948039914230"
+                }
+                ,
+                "year": "2018"
+            }
+            ,
+            {
+                "title": "Bibliometría (análisis bivariante)",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:vRqMK49ujn8C",
+                "citation_id": "EJ34B9wAAAAJ:vRqMK49ujn8C",
+                "authors": "LF Aláez, EJ Contreras",
+                "publication": "Revista Española de Documentación Científica 16 (4), 409, 1993",
+                "cited_by":
+                {
+                    "value": 13,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13912828940408060927,3274482066148309691",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=13912828940408060927%2C3274482066148309691&engine=google_scholar&hl=en",
+                    "cites_id": "13912828940408060927,3274482066148309691"
+                }
+                ,
+                "year": "1993"
+            }
+            ,
+            {
+                "title": "¿ Existe relación entre el tamaño del grupo de investigación y su rendimiento científico? Estudio de caso de una universidad española",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:ipzZ9siozwsC",
+                "citation_id": "EJ34B9wAAAAJ:ipzZ9siozwsC",
+                "authors": "Á Cabezas-Clavijo, E Jiménez-Contreras, E Delgado López-Cózar",
+                "publication": "Revista española de Documentación Científica 36 (2), e006, 2013",
+                "cited_by":
+                {
+                    "value": 12,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8778595155444767383",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=8778595155444767383&engine=google_scholar&hl=en",
+                    "cites_id": "8778595155444767383"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "A bibliometric model for journal discarding policy at academic libraries",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:4DMP91E08xMC",
+                "citation_id": "EJ34B9wAAAAJ:4DMP91E08xMC",
+                "authors": "E Jiménez‐Contreras, MDL Moneda, ER Osma, R Bailón‐Moreno, ...",
+                "publication": "Journal of the American Society for Information Science and Technology 57 (2 …, 2006",
+                "cited_by":
+                {
+                    "value": 12,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11668656709802879245",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11668656709802879245&engine=google_scholar&hl=en",
+                    "cites_id": "11668656709802879245"
+                }
+                ,
+                "year": "2006"
+            }
+            ,
+            {
+                "title": "Calidad editorial, difusión e indicadores bibliométricos de la Revista Española de Enfermedades Digestivas",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:EkHepimYqZsC",
+                "citation_id": "EJ34B9wAAAAJ:EkHepimYqZsC",
+                "authors": "E Delgado López-Cózar, R Ruiz-Pérez, E Jiménez-Contreras",
+                "cited_by":
+                {
+                    "value": 12,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5975700114884893282",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=5975700114884893282&engine=google_scholar&hl=en",
+                    "cites_id": "5975700114884893282"
+                }
+                ,
+                "year": "1999"
+            }
+            ,
+            {
+                "title": "Topografía de la ciencia mundial",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:5Ul4iDaHHb8C",
+                "citation_id": "EJ34B9wAAAAJ:5Ul4iDaHHb8C",
+                "authors": "F Moya, EJ Contreras",
+                "cited_by":
+                {
+                    "value": 12,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1747747820469743397",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=1747747820469743397&engine=google_scholar&hl=en",
+                    "cites_id": "1747747820469743397"
+                }
+                ,
+                "year": "1999"
+            }
+            ,
+            {
+                "title": "Índice H de las revistas españolas de Ciencias Sociales según Google Scholar (2001-2010)",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:iH-uZ7U-co4C",
+                "citation_id": "EJ34B9wAAAAJ:iH-uZ7U-co4C",
+                "authors": "E Delgado-López-Cózar, D Marcos Cartagena, Á Cabezas-Clavijo, ...",
+                "publication": "EC3; 1, 2012",
+                "cited_by":
+                {
+                    "value": 11,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11949334363543506475,133454464195642405,8727375271565037715",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11949334363543506475%2C133454464195642405%2C8727375271565037715&engine=google_scholar&hl=en",
+                    "cites_id": "11949334363543506475,133454464195642405,8727375271565037715"
+                }
+                ,
+                "year": "2012"
+            }
+            ,
+            {
+                "title": "Tratamiento de los nombres españoles en las bases de datos internacionales: Su incidencia en la recuperación de información y en los análisis bibliométricos",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:dhFuZR0502QC",
+                "citation_id": "EJ34B9wAAAAJ:dhFuZR0502QC",
+                "authors": "R Ruiz Pérez, E Delgado López-Cózar, E Jiménez Contreras, ...",
+                "publication": "La representación y la organización del conocimiento en sus distintas …, 1999",
+                "cited_by":
+                {
+                    "value": 11,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=854580313920204921",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=854580313920204921&engine=google_scholar&hl=en",
+                    "cites_id": "854580313920204921"
+                }
+                ,
+                "year": "1999"
+            }
+            ,
+            {
+                "title": "Evaluación bibliométrica de revistas científico-técnicas españolas basada en el recuento y análisis de referencias bibliográficas. Aspectos teóricos y prácticos.",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:7PzlFSSx8tAC",
+                "citation_id": "EJ34B9wAAAAJ:7PzlFSSx8tAC",
+                "authors": "E Jiménez-Contreras, ML Diego-Carmona, L Ferreiro-Aláez",
+                "publication": "Revista española de documentación científica 10 (3), 275-296, 1987",
+                "cited_by":
+                {
+                    "value": 11,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9429298340727985748",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=9429298340727985748&engine=google_scholar&hl=en",
+                    "cites_id": "9429298340727985748"
+                }
+                ,
+                "year": "1987"
+            }
+            ,
+            {
+                "title": "Spanish psychology journals: demography, editorial tendencies and impact",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:fQNAKQ3IYiAC",
+                "citation_id": "EJ34B9wAAAAJ:fQNAKQ3IYiAC",
+                "authors": "EJ Contreras",
+                "publication": "Proceedings of the Workshop on European Psychology Publication Issues 1 (1), 2009",
+                "cited_by":
+                {
+                    "value": 10,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10988971141488901662",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10988971141488901662&engine=google_scholar&hl=en",
+                    "cites_id": "10988971141488901662"
+                }
+                ,
+                "year": "2009"
+            }
+            ,
+            {
+                "title": "Bibliometrics-Informetrics and other quantitative subjects in Library and Information Science curricula in Spain",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:ZeXyd9-uunAC",
+                "citation_id": "EJ34B9wAAAAJ:ZeXyd9-uunAC",
+                "authors": "E Jiménez-Contreras, A Pulgarín-Guerrero",
+                "publication": "Education for Information 16, 341-355, 1998",
+                "cited_by":
+                {
+                    "value": 10,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13528527258121851380",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=13528527258121851380&engine=google_scholar&hl=en",
+                    "cites_id": "13528527258121851380"
+                }
+                ,
+                "year": "1998"
+            }
+            ,
+            {
+                "title": "Selección de revistas latinoamericanas en bases de datos: criterios utilizados en Clase y Periódica",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:PR6Y55bgFSsC",
+                "citation_id": "EJ34B9wAAAAJ:PR6Y55bgFSsC",
+                "authors": "JO Alonso Gamboa",
+                "publication": "Biblioteca universitaria: revista de la Dirección General de Bibliotecas, 2003",
+                "cited_by":
+                {
+                    "value": 9,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12538262724532229879",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=12538262724532229879&engine=google_scholar&hl=en",
+                    "cites_id": "12538262724532229879"
+                }
+                ,
+                "year": "2003"
+            }
+            ,
+            {
+                "title": "The BiPublishers ranking: Main results and methodological problems when constructing rankings of academic publishers",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:0Tn0GYh_KFEC",
+                "citation_id": "EJ34B9wAAAAJ:0Tn0GYh_KFEC",
+                "authors": "D Torres-Salinas, N Robinson-Garcia, E Jiménez-Contreras, ...",
+                "publication": "arXiv preprint arXiv:1505.01074, 2015",
+                "cited_by":
+                {
+                    "value": 8,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2442316256814491391",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=2442316256814491391&engine=google_scholar&hl=en",
+                    "cites_id": "2442316256814491391"
+                }
+                ,
+                "year": "2015"
+            }
+            ,
+            {
+                "title": "Productivity and impact of Spanish researchers: reference thresholds within scientific areas",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:NhqRSupF_l8C",
+                "citation_id": "EJ34B9wAAAAJ:NhqRSupF_l8C",
+                "authors": "E Jiménez-Contreras, N Robinson-García, Á Cabezas-Clavijo",
+                "cited_by":
+                {
+                    "value": 8,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12563656130415536593",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=12563656130415536593&engine=google_scholar&hl=en",
+                    "cites_id": "12563656130415536593"
+                }
+                ,
+                "year": "2011"
+            }
+            ,
+            {
+                "title": "Situación actual de los estudios cuantitativos de la ciencia. Entrevista con Henk Moed",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:L8Ckcad2t8MC",
+                "citation_id": "EJ34B9wAAAAJ:L8Ckcad2t8MC",
+                "authors": "E Jiménez-Contreras, D Torres-Salinas",
+                "publication": "El profesional de la información 16 (5), 523-526, 2007",
+                "cited_by":
+                {
+                    "value": 8,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11537702869764229802",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11537702869764229802&engine=google_scholar&hl=en",
+                    "cites_id": "11537702869764229802"
+                }
+                ,
+                "year": "2007"
+            }
+            ,
+            {
+                "title": "Evolución de la producción científica española de los últimos 25 años.",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:9ZlFYXVOiuMC",
+                "citation_id": "EJ34B9wAAAAJ:9ZlFYXVOiuMC",
+                "authors": "F De-Moya-Anegón, E Jiménez-Contreras",
+                "publication": "El profesional de la información, 1999",
+                "cited_by":
+                {
+                    "value": 8,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5320720262060459422",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=5320720262060459422&engine=google_scholar&hl=en",
+                    "cites_id": "5320720262060459422"
+                }
+                ,
+                "year": "1999"
+            }
+            ,
+            {
+                "title": "Hacia la mejora de las revistas científicas españolas como medios de comunicación científica.",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:xtRiw3GOFMkC",
+                "citation_id": "EJ34B9wAAAAJ:xtRiw3GOFMkC",
+                "authors": "E Delgado-Lopez-Cozar, R Ruiz-Pérez, E Jiménez-Contreras",
+                "publication": "Anales de Medicina Interna, 1997",
+                "cited_by":
+                {
+                    "value": 8,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12768461069384429227,7132674469323085997",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=12768461069384429227%2C7132674469323085997&engine=google_scholar&hl=en",
+                    "cites_id": "12768461069384429227,7132674469323085997"
+                }
+                ,
+                "year": "1997"
+            }
+            ,
+            {
+                "title": "Determinación de las colecciones básicas de publicaciones periódicas en hemerotecas científicas",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:4TOpqqG69KYC",
+                "citation_id": "EJ34B9wAAAAJ:4TOpqqG69KYC",
+                "authors": "E Jiménez Contreras, M Moneda Corrochano, MD Olvera Lobo, ...",
+                "publication": "Los profesionales ante el reto del siglo XXI: integración y calidad, 215-221, 1994",
+                "cited_by":
+                {
+                    "value": 7,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1100790658211091230,13110537761878779493",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=1100790658211091230%2C13110537761878779493&engine=google_scholar&hl=en",
+                    "cites_id": "1100790658211091230,13110537761878779493"
+                }
+                ,
+                "year": "1994"
+            }
+            ,
+            {
+                "title": "Para un concepto de la Historia del Documento",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:ldfaerwXgEUC",
+                "citation_id": "EJ34B9wAAAAJ:ldfaerwXgEUC",
+                "authors": "E Jimenez-Contreras",
+                "publication": "Boletín de la Asociación Andaluza de Bibliotecarios, 1987",
+                "cited_by":
+                {
+                    "value": 7,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5935563806444448822",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=5935563806444448822&engine=google_scholar&hl=en",
+                    "cites_id": "5935563806444448822"
+                }
+                ,
+                "year": "1987"
+            }
+            ,
+            {
+                "title": "Analyzing the disciplinary focus of universities: Can rankings be a one-size-fits-all?",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:WmQWPPBrFVcC",
+                "citation_id": "EJ34B9wAAAAJ:WmQWPPBrFVcC",
+                "authors": "N Robinson-Garcia, E Jiménez-Contreras",
+                "publication": "World University Rankings and the Future of Higher Education, 161-185, 2017",
+                "cited_by":
+                {
+                    "value": 6,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7533660636906425597",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=7533660636906425597&engine=google_scholar&hl=en",
+                    "cites_id": "7533660636906425597"
+                }
+                ,
+                "year": "2017"
+            }
+            ,
+            {
+                "title": "Introduction and comparative study of the new scientific journals citation indicators in Journal Citation Reports and Scopus",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:XD-gHx7UXLsC",
+                "citation_id": "EJ34B9wAAAAJ:XD-gHx7UXLsC",
+                "authors": "D Torres-Salinas, E Jimenez-Contreras",
+                "publication": "PROFESIONAL DE LA INFORMACION 19 (2), 201-207, 2010",
+                "cited_by":
+                {
+                    "value": 6,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6332575811667457395",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=6332575811667457395&engine=google_scholar&hl=en",
+                    "cites_id": "6332575811667457395"
+                }
+                ,
+                "year": "2010"
+            }
+            ,
+            {
+                "title": "Evaluación de archivos de la Sociedad Española de Oftalmología según criterios del «Institute for Scientific Information» para la selección de revistas científicas",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:fPk4N6BV_jEC",
+                "citation_id": "EJ34B9wAAAAJ:fPk4N6BV_jEC",
+                "authors": "R Ruiz-Pérez, E Delgado López-Cózar, E Jiménez-Contreras",
+                "publication": "Archivos de la Sociedad Española de Oftalmología 81 (5), 245-268, 2006",
+                "cited_by":
+                {
+                    "value": 6,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8864351485485697805",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=8864351485485697805&engine=google_scholar&hl=en",
+                    "cites_id": "8864351485485697805"
+                }
+                ,
+                "year": "2006"
+            }
+            ,
+            {
+                "title": "El profesional de la información en el Social science citation index",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:_Re3VWB3Y0AC",
+                "citation_id": "EJ34B9wAAAAJ:_Re3VWB3Y0AC",
+                "authors": "E Delgado-López-Cózar, R Ruiz-Pérez, E Jimenez-Contreras",
+                "publication": "International Journal of Clinical and Health Psychology, 2006",
+                "cited_by":
+                {
+                    "value": 6,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16960877669413952598",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=16960877669413952598&engine=google_scholar&hl=en",
+                    "cites_id": "16960877669413952598"
+                }
+                ,
+                "year": "2006"
+            }
+            ,
+            {
+                "title": "Structure and dynamics of scientific networks. Part II: The new Zipf's law, the clusters of co-citations and the model of the descriptor presence",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:hqOjcs7Dif8C",
+                "citation_id": "EJ34B9wAAAAJ:hqOjcs7Dif8C",
+                "authors": "R Ruiz-Baños, R Bailón-Moreno, E Jiménez-Contreras, JP Courtial",
+                "publication": "Scientometrics 44 (2), 235-265, 1999",
+                "cited_by":
+                {
+                    "value": 6,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10989705123094909726",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10989705123094909726&engine=google_scholar&hl=en",
+                    "cites_id": "10989705123094909726"
+                }
+                ,
+                "year": "1999"
+            }
+            ,
+            {
+                "title": "Structure and Dynamics of Scientific Networks. Part II: The New Zipf's Law, the Clusters of Co-Citations and the Model of the Descriptor Presence",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:AvfA0Oy_GE0C",
+                "citation_id": "EJ34B9wAAAAJ:AvfA0Oy_GE0C",
+                "authors": "R Ruiz-Ba os, R Ballon-Moreno, E Jiménez-Contreras, JP Courtial",
+                "publication": "Scientometrics 44, 235-265, 1999",
+                "cited_by":
+                {
+                    "value": 6,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10989705123094909726",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10989705123094909726&engine=google_scholar&hl=en",
+                    "cites_id": "10989705123094909726"
+                }
+                ,
+                "year": "1999"
+            }
+            ,
+            {
+                "title": "¿ Existe relación entre el tamaño del grupo de investigación y su rendimiento científico? Estudio de caso de una universidad española",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:yB1At4FlUx8C",
+                "citation_id": "EJ34B9wAAAAJ:yB1At4FlUx8C",
+                "authors": "AC Clavijo, EJ Contreras, ED López-Cozar",
+                "publication": "Revista española de documentación científica 36 (2), 9-11, 2013",
+                "cited_by":
+                {
+                    "value": 5,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17822352325376127384",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=17822352325376127384&engine=google_scholar&hl=en",
+                    "cites_id": "17822352325376127384"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "La investigación sobre Organización del Conocimiento en España (2002-2010)",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:vDijr-p_gm4C",
+                "citation_id": "EJ34B9wAAAAJ:vDijr-p_gm4C",
+                "authors": "M de la Moneda Corrochano, MJLH Pérez, EJ Contreras",
+                "publication": "20 años del Capítulo Español de ISKO: actas del X Congreso ISKO-España …, 2012",
+                "cited_by":
+                {
+                    "value": 5,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7950568258697729802",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=7950568258697729802&engine=google_scholar&hl=en",
+                    "cites_id": "7950568258697729802"
+                }
+                ,
+                "year": "2012"
+            }
+            ,
+            {
+                "title": "Visualisation des Acteurs-Reseaux a Travers les Cartes Sig",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:r0BpntZqJG4C",
+                "citation_id": "EJ34B9wAAAAJ:r0BpntZqJG4C",
+                "authors": "J Pino-Díaz, E Jiménez-Contreras, R Ruiz-Baños, R Bailón-Moreno",
+                "cited_by":
+                {
+                    "value": 5,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9085100847191648614",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=9085100847191648614&engine=google_scholar&hl=en",
+                    "cites_id": "9085100847191648614"
+                }
+                ,
+                "year": "2009"
+            }
+            ,
+            {
+                "title": "Indicadores tecnológicos de la Región de la Murcia: análisis de patentes y modelos de utilidad",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EJ34B9wAAAAJ&pagesize=100&citation_for_view=EJ34B9wAAAAJ:NMxIlDl6LWMC",
+                "citation_id": "EJ34B9wAAAAJ:NMxIlDl6LWMC",
+                "authors": "E Jiménez-Contreras, E Delgado López-Cózar, R Ruiz-Pérez, ...",
+                "publication": "Murcia: Fundación Séneca, 2006",
+                "cited_by":
+                {
+                    "value": 5,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=276495310999976599",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=276495310999976599&engine=google_scholar&hl=en",
+                    "cites_id": "276495310999976599"
+                }
+                ,
+                "year": "2006"
+            }
+        ]
+        ,
+        "cited_by":
+        {
+            "table":
+            [
+                {
+                    "citations":
+                    {
+                        "all": 3949,
+                        "since_2017": 1358
+                    }
+                }
+                ,
+                {
+                    "h_index":
+                    {
+                        "all": 34,
+                        "since_2017": 21
+                    }
+                }
+                ,
+                {
+                    "i10_index":
+                    {
+                        "all": 73,
+                        "since_2017": 36
+                    }
+                }
+            ]
+            ,
+            "graph":
+            [
+                {
+                    "year": 2000,
+                    "citations": 21
+                }
+                ,
+                {
+                    "year": 2001,
+                    "citations": 24
+                }
+                ,
+                {
+                    "year": 2002,
+                    "citations": 41
+                }
+                ,
+                {
+                    "year": 2003,
+                    "citations": 46
+                }
+                ,
+                {
+                    "year": 2004,
+                    "citations": 26
+                }
+                ,
+                {
+                    "year": 2005,
+                    "citations": 79
+                }
+                ,
+                {
+                    "year": 2006,
+                    "citations": 97
+                }
+                ,
+                {
+                    "year": 2007,
+                    "citations": 115
+                }
+                ,
+                {
+                    "year": 2008,
+                    "citations": 97
+                }
+                ,
+                {
+                    "year": 2009,
+                    "citations": 120
+                }
+                ,
+                {
+                    "year": 2010,
+                    "citations": 143
+                }
+                ,
+                {
+                    "year": 2011,
+                    "citations": 176
+                }
+                ,
+                {
+                    "year": 2012,
+                    "citations": 385
+                }
+                ,
+                {
+                    "year": 2013,
+                    "citations": 269
+                }
+                ,
+                {
+                    "year": 2014,
+                    "citations": 290
+                }
+                ,
+                {
+                    "year": 2015,
+                    "citations": 291
+                }
+                ,
+                {
+                    "year": 2016,
+                    "citations": 256
+                }
+                ,
+                {
+                    "year": 2017,
+                    "citations": 247
+                }
+                ,
+                {
+                    "year": 2018,
+                    "citations": 317
+                }
+                ,
+                {
+                    "year": 2019,
+                    "citations": 271
+                }
+                ,
+                {
+                    "year": 2020,
+                    "citations": 257
+                }
+                ,
+                {
+                    "year": 2021,
+                    "citations": 236
+                }
+                ,
+                {
+                    "year": 2022,
+                    "citations": 29
+                }
+            ]
+        }
+        ,
+        "public_access":
+        {
+            "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=EJ34B9wAAAAJ",
+            "available": 8,
+            "not_available": 1
+        }
+        ,
+        "co_authors":
+        [
+            {
+                "name": "Daniel Torres-Salinas",
+                "link": "https://scholar.google.com/citations?user=wQUrJIoAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=wQUrJIoAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "wQUrJIoAAAAJ",
+                "affiliations": "Universidad de Granada - Dpto Información y Comunicación, EC3metrics spin off",
+                "email": "Verified email at ugr.es",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=wQUrJIoAAAAJ&citpid=4"
+            }
+            ,
+            {
+                "name": "Álvaro Cabezas-Clavijo",
+                "link": "https://scholar.google.com/citations?user=z9mQzfYAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=z9mQzfYAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "z9mQzfYAAAAJ",
+                "affiliations": "Universidad Internacional de la Rioja (UNIR)",
+                "email": "Verified email at unir.net",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=z9mQzfYAAAAJ&citpid=8"
+            }
+        ]
+        ,
+        "serpapi_pagination":
+        {
+            "next": "https://serpapi.com/search.json?author_id=EJ34B9wAAAAJ&engine=google_scholar_author&hl=en&num=100&start=100"
+        }
+    }

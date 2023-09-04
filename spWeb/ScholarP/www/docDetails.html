@@ -1,0 +1,497 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>sp</title>
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/fonts/fontawesome-all.min.css">
+    <link rel="stylesheet" href="assets/fonts/ionicons.min.css">
+    <link rel="stylesheet" href="assets/fonts/material-icons.min.css">
+    <link rel="stylesheet" href="assets/fonts/simple-line-icons.min.css">
+    <link rel="stylesheet" href="assets/fonts/typicons.min.css">
+    <link rel="stylesheet" href="assets/css/Footer-Dark.css">
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="stylesheet" href="assets/css/untitled.css">
+</head>
+
+<body>
+    <nav class="navbar navbar-light navbar-expand-md sticky-top shadow-sm" id="navBar" style="border-bottom-style: solid;background: var(--bs-white);">
+        <div class="container-fluid"><a class="navbar-brand" id="navbarBrand" href="#"><img id="brandLogo" src="assets/img/logo.png"></a><button data-bs-toggle="collapse" class="navbar-toggler" data-bs-target="#navBarCollapse" id="navbarToggler"><span class="visually-hidden" id="toggleNav">Toggle navigation</span><span class="navbar-toggler-icon" id="toggleIcon"></span></button>
+            <div class="collapse navbar-collapse" id="navBarCollapse">
+                <ul class="navbar-nav" id="navBarMenu">
+                    <li class="nav-item" id="navItem1"><a class="nav-link" id="navItemLink1" href="index.html">Pantalla principal/Inicio</a></li>
+                    <li class="nav-item" id="navItem2"><a class="nav-link" id="navItemLink2" href="download.html">Asistente descarga</a></li>
+                    <li class="nav-item" id="navItem3"><a class="nav-link" id="navItemLink3" href="authorProfile.html">Perfil autor</a></li>
+                    <li class="nav-item" id="navItem4"><a class="nav-link active" id="navItemLink4" href="docDetails.html">Documento</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div id="main" style="margin: 10px;padding: 10px;">
+        <div class="container" id="mContainer">
+            <div class="row" id="mRow">
+                <div class="col-md-4 col-lg-2 col-xl-2 text-center" id="mC1"><img class="rounded-circle shadow-sm" id="authImage" src="assets/img/VaultBoy.jpeg" width="150" height="150" alt="Foto del autor"><a class="text-center link-dark link-second-level" id="authImageName" href="#">Nombre del autor</a></div>
+                <div class="col-md-7" id="mC2" style="padding-left: 14px;">
+                    <h3 id="mHeader">Título del documento</h3>
+                    <div class="row" id="mR1">
+                        <div class="col-lg-3 text-end" id="mR1C1">
+                            <p id="authorsTitle" class="secondary-text-second-level">Autores</p>
+                        </div>
+                        <div class="col-lg-9" id="mR1C2">
+                            <p id="authorsNames"><button class="btn btn-sm link-dark link-second-level" id="authorToast1" type="button" data-bs-target="#Toast1" data-bs-toggle="toast" title="Haz click para mostrar información sobre el autor">Nombre1 Apellidos1</button>, <button class="btn btn-sm link-dark link-second-level" id="authorToast2" type="button" data-bs-target="#Toast2" data-bs-toggle="toast" title="Haz click para mostrar información sobre el autor">Nombre2 Apellidos2</button>, <button class="btn btn-sm link-dark link-second-level" id="authorToast3" type="button" data-bs-target="#Toast3" data-bs-toggle="toast" title="Haz click para mostrar información sobre el autor">Nombre3 Apellidos3</button>,&nbsp;<button class="btn btn-sm link-dark link-second-level" id="authorToast4" type="button" data-bs-target="#Toast4" data-bs-toggle="toast" title="Haz click para mostrar información sobre el autor">Nombre4 Apellidos4</button></p>
+                            <div class="toast-container" id="toastContainer">
+                                <div class="toast fade bg-white shadow toasts hide" role="alert" data-bs-autohide="false" id="Toast1">
+                                    <div class="toast-header text-second-level" id="t1Header" style="border-style: solid;border-color: var(--bs-red);border-bottom-style: none;border-radius: 0px;border-top-left-radius: 10px;border-top-right-radius: 10px;"><img id="t1HImage" class="me-2" src="assets/img/VaultBoy.jpeg" width="50px"><strong class="me-auto" id="t1HAuthor" style="color: var(--bs-gray-900);">Nombre Apellidos del Autor</strong><small id="t1HOrcid" style="color: var(--bs-gray-600);margin-left: 10px;"><img class="me-2" src="assets/img/orcidicon.png" width="24px"><a class="link-info" href="#">Ver ORCiD</a></small><button class="btn-close ms-2 mb-1 close" id="t1HBtnClose" data-bs-dismiss="toast"></button></div>
+                                    <div class="toast-body" role="alert" id="t1Body" style="border-style: solid;border-color: var(--bs-dark);border-top-style: none;border-radius: 0px;border-bottom-right-radius: 10px;border-bottom-left-radius: 10px;">
+                                        <div class="row" id="t1R1">
+                                            <div class="col-xl-2" id="t1R1C1"><img id="uniImage" class="me-2" src="assets/img/logoUVA.png" width="64px"></div>
+                                            <div class="col text-second-level" id="t1R1C2">
+                                                <p> Puesto actual, nombre del departamento, <a class="link-dark" href="#" style="font-weight: bold;">Institución</a>, Ciudad, Región, País</p>
+                                            </div>
+                                        </div>
+                                        <div class="row" id="t1R2">
+                                            <div class="col text-center" id="t1R2C1" style="margin-top: 10px;">
+                                                <p id="authorAreas">
+                                                <div class="btn-group btn-group-sm" role="group" id="areasBtnGroup"><a class="btn btn-outline-dark" role="button" id="areaBtn1" href="biography.html" style="font-size: 13px;">Biografía</a><a class="btn btn-outline-primary" role="button" id="areaBtn2" href="collaborators.html" style="font-size: 13px;">Colaboradores</a><a class="btn btn-outline-warning" role="button" id="areaBtn3" href="personalImpact.html" style="font-size: 13px;">Impacto Personal</a><a class="btn btn-outline-danger" role="button" id="areaBtn4" href="publications.html" style="font-size: 13px;">Publicaciones</a></div>
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="toast fade bg-white shadow toasts hide" role="alert" data-bs-autohide="false" id="Toast2">
+                                    <div class="toast-header" style="border-style: solid;border-color: var(--bs-red);border-bottom-style: none;border-radius: 0px;border-top-left-radius: 10px;border-top-right-radius: 10px;"><img class="me-2" src="assets/img/VaultBoy.jpeg" width="50px"><strong class="me-auto" style="color: var(--bs-gray-900);">Nombre Apellidos del Autor</strong><small style="color: var(--bs-gray-600);margin-left: 10px;"><img class="me-2" src="assets/img/orcidicon.png" width="24px"><a class="link-info" href="#">Ver ORCiD</a></small><button class="btn-close ms-2 mb-1 close" data-bs-dismiss="toast"></button></div>
+                                    <div class="toast-body" role="alert" style="border-style: solid;border-color: var(--bs-dark);border-top-style: none;border-radius: 0px;border-bottom-right-radius: 10px;border-bottom-left-radius: 10px;">
+                                        <div class="row">
+                                            <div class="col-xl-2"><img class="me-2" src="assets/img/logoUGR.png" width="64px"></div>
+                                            <div class="col">
+                                                <p> Puesto actual, nombre del departamento, <a class="link-dark" href="#" style="font-weight: bold;">Institución</a>, Ciudad, Región, País</p>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col text-center" style="margin-top: 10px;">
+                                                <p>
+                                                <div class="btn-group btn-group-sm" role="group"><a class="btn btn-outline-dark" role="button" href="biography.html" style="font-size: 13px;">Biografía</a><a class="btn btn-outline-primary" role="button" href="collaborators.html" style="font-size: 13px;">Colaboradores</a><a class="btn btn-outline-warning" role="button" href="personalImpact.html" style="font-size: 13px;">Impacto Personal</a><a class="btn btn-outline-danger" role="button" href="publications.html" style="font-size: 13px;">Publicaciones</a></div>
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="toast fade bg-white shadow toasts hide" role="alert" data-bs-autohide="false" id="Toast3">
+                                    <div class="toast-header" style="border-style: solid;border-color: var(--bs-red);border-bottom-style: none;border-radius: 0px;border-top-left-radius: 10px;border-top-right-radius: 10px;"><img class="me-2" src="assets/img/VaultBoy.jpeg" width="50px"><strong class="me-auto" style="color: var(--bs-gray-900);">Nombre Apellidos del Autor</strong><small style="color: var(--bs-gray-600);margin-left: 10px;"><img class="me-2" src="assets/img/orcidicon.png" width="24px"><a class="link-info" href="#">Ver ORCiD</a></small><button class="btn-close ms-2 mb-1 close" data-bs-dismiss="toast"></button></div>
+                                    <div class="toast-body" role="alert" style="border-style: solid;border-color: var(--bs-dark);border-top-style: none;border-radius: 0px;border-bottom-right-radius: 10px;border-bottom-left-radius: 10px;">
+                                        <div class="row">
+                                            <div class="col-xl-2"><img class="me-2" src="assets/img/logoUSA.png" width="64px"></div>
+                                            <div class="col">
+                                                <p> Puesto actual, nombre del departamento, <a class="link-dark" href="#" style="font-weight: bold;">Institución</a>, Ciudad, Región, País</p>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col text-center" style="margin-top: 10px;">
+                                                <p>
+                                                <div class="btn-group btn-group-sm" role="group"><a class="btn btn-outline-dark" role="button" href="biography.html" style="font-size: 13px;">Biografía</a><a class="btn btn-outline-primary" role="button" href="collaborators.html" style="font-size: 13px;">Colaboradores</a><a class="btn btn-outline-warning" role="button" href="personalImpact.html" style="font-size: 13px;">Impacto Personal</a><a class="btn btn-outline-danger" role="button" href="publications.html" style="font-size: 13px;">Publicaciones</a></div>
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="toast fade bg-white shadow toasts hide" role="alert" data-bs-autohide="false" id="Toast4">
+                                    <div class="toast-header" style="border-style: solid;border-color: var(--bs-red);border-bottom-style: none;border-radius: 0px;border-top-left-radius: 10px;border-top-right-radius: 10px;"><img class="me-2" src="assets/img/VaultBoy.jpeg" width="50px"><strong class="me-auto" style="color: var(--bs-gray-900);">Nombre Apellidos del Autor</strong><small style="color: var(--bs-gray-600);margin-left: 10px;"><img class="me-2" src="assets/img/orcidicon.png" width="24px"><a class="link-info" href="#">Ver ORCiD</a></small><button class="btn-close ms-2 mb-1 close" data-bs-dismiss="toast"></button></div>
+                                    <div class="toast-body" role="alert" style="border-style: solid;border-color: var(--bs-dark);border-top-style: none;border-radius: 0px;border-bottom-right-radius: 10px;border-bottom-left-radius: 10px;">
+                                        <div class="row">
+                                            <div class="col-xl-2"><img class="me-2" src="assets/img/logoUGR.png" width="64px"></div>
+                                            <div class="col">
+                                                <p> Puesto actual, nombre del departamento, <a class="link-dark" href="#" style="font-weight: bold;">Institución</a>, Ciudad, Región, País</p>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col text-center" style="margin-top: 10px;">
+                                                <p>
+                                                <div class="btn-group btn-group-sm" role="group"><a class="btn btn-outline-dark" role="button" href="biography.html" style="font-size: 13px;">Biografía</a><a class="btn btn-outline-primary" role="button" href="collaborators.html" style="font-size: 13px;">Colaboradores</a><a class="btn btn-outline-warning" role="button" href="personalImpact.html" style="font-size: 13px;">Impacto Personal</a><a class="btn btn-outline-danger" role="button" href="publications.html" style="font-size: 13px;">Publicaciones</a></div>
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row" id="mR2">
+                        <div class="col-lg-3 text-end" id="mR2C1">
+                            <p id="pubDateTitle" class="secondary-text-second-level">Fecha de publicación</p>
+                        </div>
+                        <div class="col-lg-9" id="mR2C2">
+                            <p id="pubDate" class="text-second-level">AAAA/MM/DD</p>
+                        </div>
+                    </div>
+                    <div class="row" id="mR3">
+                        <div class="col-lg-3 text-end" id="mR3C1">
+                            <p id="journalTitle" class="secondary-text-second-level">Revista</p>
+                        </div>
+                        <div class="col-lg-9" id="mR3C2">
+                            <p id="journalName" class="text-second-level">Nombre de la revista</p>
+                        </div>
+                    </div>
+                    <div class="row" id="mR4">
+                        <div class="col-lg-3 text-end" id="mR4C1">
+                            <p id="volTitle" class="secondary-text-second-level">Volumen</p>
+                        </div>
+                        <div class="col-lg-9" id="mR4C2">
+                            <p id="volText" class="text-second-level">##</p>
+                        </div>
+                    </div>
+                    <div class="row" id="mR5">
+                        <div class="col-lg-3 text-end" id="mR5C1">
+                            <p id="numTitle" class="secondary-text-second-level">Número</p>
+                        </div>
+                        <div class="col-lg-9" id="mR5C2">
+                            <p id="numText" class="text-second-level">##</p>
+                        </div>
+                    </div>
+                    <div class="row" id="mR6">
+                        <div class="col-lg-3 text-end" id="mR6C1">
+                            <p id="pagTitle" class="secondary-text-second-level">Páginas</p>
+                        </div>
+                        <div class="col-lg-9" id="mR6C2">
+                            <p id="pagText" class="text-second-level">##-##</p>
+                        </div>
+                    </div>
+                    <div class="row" id="mR7">
+                        <div class="col-lg-3 text-end" id="mR7C1">
+                            <p id="editorTitle" class="secondary-text-second-level">Editor</p>
+                        </div>
+                        <div class="col-lg-9" id="mR7C2">
+                            <p id="editorText" class="text-second-level">Nombre del Editor</p>
+                        </div>
+                    </div>
+                    <div class="row" id="mR8">
+                        <div class="col-lg-3 text-end" id="mR8C1">
+                            <p id="descTitle" class="secondary-text-second-level">Descripción</p>
+                        </div>
+                        <div class="col-lg-9" id="mR8C2">
+                            <p id="descText" class="text-second-level">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                        </div>
+                    </div>
+                    <div class="row" id="mR9">
+                        <div class="col-lg-3 text-end" id="mR9C1">
+                            <p id="citesTitle" class="secondary-text-second-level">Citas totales</p>
+                        </div>
+                        <div class="col-lg-9" id="mR9C2"><a class="link-dark alternative-link-second-level" id="citesText" href="#">Citado por ###</a>
+                            <div id="citesChart" style="width: 173px;height: 113px;"><canvas data-bss-chart="{&quot;type&quot;:&quot;bar&quot;,&quot;data&quot;:{&quot;labels&quot;:[&quot;2015&quot;,&quot;2016&quot;,&quot;2017&quot;,&quot;2018&quot;,&quot;2019&quot;,&quot;2020&quot;,&quot;2021&quot;,&quot;2022&quot;],&quot;datasets&quot;:[{&quot;label&quot;:&quot;Citas&quot;,&quot;backgroundColor&quot;:&quot;#4e73df&quot;,&quot;borderColor&quot;:&quot;#4e73df&quot;,&quot;data&quot;:[&quot;571&quot;,&quot;534&quot;,&quot;642&quot;,&quot;714&quot;,&quot;949&quot;,&quot;878&quot;,&quot;1040&quot;,&quot;1170&quot;]}]},&quot;options&quot;:{&quot;maintainAspectRatio&quot;:false,&quot;legend&quot;:{&quot;display&quot;:false,&quot;labels&quot;:{&quot;fontStyle&quot;:&quot;normal&quot;,&quot;fontColor&quot;:&quot;#666&quot;}},&quot;title&quot;:{&quot;fontStyle&quot;:&quot;bold&quot;,&quot;display&quot;:true,&quot;text&quot;:&quot;Citas totales&quot;,&quot;fontSize&quot;:10},&quot;scales&quot;:{&quot;xAxes&quot;:[{&quot;gridLines&quot;:{&quot;borderDash&quot;:[&quot;0&quot;],&quot;zeroLineBorderDash&quot;:[&quot;0&quot;]},&quot;ticks&quot;:{&quot;fontSize&quot;:&quot;5&quot;,&quot;lineHeight&quot;:&quot;0.2&quot;,&quot;fontStyle&quot;:&quot;normal&quot;,&quot;beginAtZero&quot;:false}}],&quot;yAxes&quot;:[{&quot;gridLines&quot;:{&quot;borderDash&quot;:[&quot;0&quot;],&quot;zeroLineBorderDash&quot;:[&quot;0&quot;]},&quot;ticks&quot;:{&quot;fontSize&quot;:&quot;5&quot;,&quot;lineHeight&quot;:&quot;0.2&quot;,&quot;fontStyle&quot;:&quot;normal&quot;,&quot;beginAtZero&quot;:false}}]}}}"></canvas></div>
+                        </div>
+                    </div>
+                    <div class="row" id="mR10">
+                        <div class="col-lg-3 text-end" id="mR10C1">
+                            <p id="articlesTitle" class="secondary-text-second-level">Artículos de Google Académico</p>
+                        </div>
+                        <div class="col-lg-9" id="mR10C2">
+                            <div class="table-responsive" id="artTable">
+                                <table class="table">
+                                    <thead id="artTabHeader">
+                                        <tr id="artTabHR"></tr>
+                                    </thead>
+                                    <tbody id="artTabBody">
+                                        <tr id="artTabR1">
+                                            <td id="artTabR1C1"><a class="link-dark link-second-level" id="articleTitle1" href="#">Título del documento</a>
+                                                <p id="pubData1" class="text-third-level" style="margin-bottom: 0px;">Autores... - Datos de publicación</p><a class="link-dark link-third-level" id="citedBy1" href="#">Citado por ##</a><a class="link-dark link-third-level" id="relatedArt1" href="#" style="margin-left: 8px;">Artículos relacionados</a><a class="link-dark link-third-level" id="versions1" href="#" style="margin-left: 8px;">Las ## versiones</a>
+                                            </td>
+                                        </tr>
+                                        <tr id="artTabR2">
+                                            <td id="artTabR2C1"><a class="link-dark link-second-level" id="articleTitle2" href="#">Título del documento</a>
+                                                <p id="pubData2" class="text-third-level" style="margin-bottom: 0px;">Autores... - Datos de publicación</p><a class="link-dark link-third-level" id="citedBy2" href="#">Citado por ##</a><a class="link-dark link-third-level" id="relatedArt2" href="#" style="margin-left: 8px;">Artículos relacionados</a><a class="link-dark link-third-level" id="versions2" href="#" style="margin-left: 8px;">Las ## versiones</a>
+                                            </td>
+                                        </tr>
+                                        <tr id="artTabR3">
+                                            <td id="artTabR3C1"><a class="link-dark link-second-level" id="articleTitle3" href="#">Título del documento</a>
+                                                <p id="pubData3" class="text-third-level" style="margin-bottom: 0px;">Autores... - Datos de publicación</p><a class="link-dark link-third-level" id="citedBy3" href="#">Citado por ##</a><a class="link-dark link-third-level" id="relatedArt3" href="#" style="margin-left: 8px;">Artículos relacionados</a><a class="link-dark link-third-level" id="versions3" href="#" style="margin-left: 8px;">Las ## versiones</a>
+                                            </td>
+                                        </tr>
+                                        <tr id="artTabR4">
+                                            <td id="artTabR4C1"><a class="link-dark link-second-level" id="articleTitle4" href="#">Título del documento</a>
+                                                <p id="pubData4" class="text-third-level" style="margin-bottom: 0px;">Autores... - Datos de publicación</p><a class="link-dark link-third-level" id="citedBy4" href="#">Citado por ##</a><a class="link-dark link-third-level" id="relatedArt4" href="#" style="margin-left: 8px;">Artículos relacionados</a><a class="link-dark link-third-level" id="versions4" href="#" style="margin-left: 8px;">Las ## versiones</a>
+                                            </td>
+                                        </tr>
+                                        <tr id="artTabR5">
+                                            <td id="artTabR5C1"><a class="link-dark link-second-level" id="articleTitle5" href="#">Título del documento</a>
+                                                <p id="pubData5" class="text-third-level" style="margin-bottom: 0px;">Autores... - Datos de publicación</p><a class="link-dark link-third-level" id="citedBy5" href="#">Citado por ##</a><a class="link-dark link-third-level" id="relatedArt5" href="#" style="margin-left: 8px;">Artículos relacionados</a><a class="link-dark link-third-level" id="versions5" href="#" style="margin-left: 8px;">Las ## versiones</a>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 text-start" id="mC3">
+                    <p id="htmlDoc" class="alternative-link-second-level"><a class="link-dark" href="#">[HTML] del documento</a></p>
+                    <p id="pdfDoc" class="alternative-link-second-level"><a class="link-dark" href="#">Obtener PDF<img src="assets/img/pdficon.png" style="width: 22px;height: 22px;"></a></p><div id="recordOfVersion" class="row">
+				<div class="col-md-12">
+					<div class="page-header">
+					  <h6>Registro de versiones</h6>
+					</div>
+					<div style="display:inline-block;width:100%;overflow-y:auto;" class="pt-2">
+					<ul class="timeline timeline-horizontal peque">
+						<li class="timeline-item">
+							<div class="timeline-badge preprint">
+                                <a title="Preprint" data-bs-toggle="popover" data-bs-trigger="hover" data-bs-placement="top" data-bs-content="nov 2021 - arXiv">
+                                    <i class="glyphicon glyphicon-check"></i>
+                                    <i class="glyphicon glyphicon-check whitebadge"></i>
+                                    <i class="glyphicon glyphicon-check transparent"></i>
+                                </a>
+                            </div>
+						</li>
+						<li class="timeline-item">
+							<div class="timeline-badge versionRev">
+                                <a title="Versión revisada" data-bs-toggle="popover" data-bs-trigger="hover" data-bs-placement="top" data-bs-content="ene 2022 - Versión revisada y aceptada. Repositorio institucional.">
+                                    <i class="glyphicon glyphicon-check"></i>
+                                    <i class="glyphicon glyphicon-check whitebadge"></i>
+                                    <i class="glyphicon glyphicon-check transparent"></i>
+                                </a>
+                            </div>
+						</li>
+						<li class="timeline-item">
+							<div class="timeline-badge versionOpen">
+                                <a title="Versiones en abierto" data-bs-toggle="popover" data-bs-trigger="hover" data-bs-placement="top" data-bs-content="feb 2022 - ResearchGate, OpenAlex.">
+                                    <i class="glyphicon glyphicon-check"></i>
+                                    <i class="glyphicon glyphicon-check whitebadge"></i>
+                                    <i class="glyphicon glyphicon-check transparent"></i>
+                                </a>
+                            </div>
+						</li>
+						<li class="timeline-item">
+							<div class="timeline-badge publisher">
+                                <a title="Versión de la editorial" data-bs-toggle="popover" data-bs-trigger="hover" data-bs-placement="top" data-bs-content="mar 2022 - Elsevier">
+                                    <i class="glyphicon glyphicon-check"></i>
+                                    <i class="glyphicon glyphicon-check whitebadge"></i>
+                                    <i class="glyphicon glyphicon-check transparent"></i>
+                                </a>
+                            </div>
+						</li>
+					</ul>
+
+				</div>
+                    <div class="fullscreen">
+                        <button class="btn btn-sm link-dark" type="button" data-bs-toggle="modal" data-bs-target="#modalTimeline" style="height: 26px;font-size: 15px;padding: 0px;width: 26px;">
+                        <i class="material-icons">fullscreen</i>
+                        </button>
+                    </div>
+				</div>
+			</div>
+                    <div class="text-end d-none"><button class="btn btn-sm link-dark" type="button" data-bs-toggle="modal" data-bs-target="#modalTimeline" style="height: 26px;font-size: 15px;padding: 0px;width: 26px;"><i class="material-icons">fullscreen</i></button></div>
+                    <div class="modal fade" role="dialog" tabindex="-1" id="modalTimeline">
+                        <div class="modal-dialog modal-lg" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h6 class="modal-title">Registro de versiones</h6><button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                </div>
+                                <div class="modal-body"><div class="row">
+				<div class="col">
+					<div style="display:inline-block;width:100%;overflow-y:auto;">
+					<ul class="timeline timeline-horizontal">
+						<li class="timeline-item">
+							<div class="timeline-badge preprint">
+                                <i class="glyphicon glyphicon-check"></i>
+                                <i class="glyphicon glyphicon-check whitebadge"></i>
+                            </div>
+							<div class="timeline-panel">
+								<div class="timeline-heading">
+									<p class="timeline-title">Preprint</p>
+									<p><small class="text-muted"><i class="glyphicon glyphicon-time"></i>nov 2021</small></p>
+								</div>
+                                <div class="timeline-body">
+									<p><a href="#" class="link-dark">arXiv </a></p>
+								</div>
+							</div>
+						</li>
+						<li class="timeline-item">
+							<div class="timeline-badge versionRev">
+                                <i class="glyphicon glyphicon-check"></i>
+                                <i class="glyphicon glyphicon-check whitebadge"></i>
+                            </div>
+							<div class="timeline-panel">
+								<div class="timeline-heading">
+									<p class="timeline-title">Versión revisada</p>
+									<p><small class="text-muted"><i class="glyphicon glyphicon-time"></i> ene 2022</small></p>
+								</div>
+								<div class="timeline-body">
+									<p>Versión revisada y aceptada. <a href="#" class="link-dark">Repositorio institucional</a></p>
+								</div>
+							</div>
+						</li>
+						<li class="timeline-item">
+							<div class="timeline-badge versionOpen">
+                                <i class="glyphicon glyphicon-check"></i>
+                                <i class="glyphicon glyphicon-check whitebadge"></i>
+                            </div>
+							<div class="timeline-panel">
+								<div class="timeline-heading">
+									<p class="timeline-title">Versiones en abierto</p>
+									<p><small class="text-muted"><i class="glyphicon glyphicon-time"></i> feb 2022</small></p>
+								</div>
+								<div class="timeline-body">
+									<p>
+                                        <a href="#" class="link-dark">ResearchGate</a>
+                                    </p>
+                                    <p>
+                                        <a href="#" class="link-dark">OpenAlex</a>
+                                    </p>
+								</div>
+							</div>
+						</li>
+						<li class="timeline-item">
+							<div class="timeline-badge publisher">
+                                <i class="glyphicon glyphicon-check"></i>
+                                <i class="glyphicon glyphicon-check whitebadge"></i>
+                            </div>
+							<div class="timeline-panel">
+								<div class="timeline-heading">
+									<p class="timeline-title">Versión de la editorial</p>
+									<p><small class="text-muted"><i class="glyphicon glyphicon-time"></i> mar 2022</small></p>
+								</div>
+								<div class="timeline-body">
+									<p><a href="#" class="link-dark">Elsevier</a></p>
+								</div>
+							</div>
+						</li>
+					</ul>
+				</div>
+				</div>
+			</div></div>
+                                <div class="modal-footer"><button class="btn btn-outline-dark btn-sm" type="button">Exportar&nbsp;<i class="typcn typcn-export"></i></button></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="table-responsive text-second-level" id="metTable">
+                        <table class="table table-hover table-borderless">
+                            <thead id="metTabHeader">
+                                <tr id="metTabHR">
+                                    <th id="metTabHRC1">Métricas de Publicación</th>
+                                </tr>
+                            </thead>
+                            <tbody id="metTabBody">
+                                <tr id="metTabR1">
+                                    <td id="metTabR1C1">Citas totales (##)</td>
+                                </tr>
+                                <tr id="metTabR2">
+                                    <td id="metTabR2C1">Citas recientes (##)</td>
+                                </tr>
+                                <tr id="metTabR3">
+                                    <td id="metTabR3C1">Ratio de citación de su campo (##)</td>
+                                </tr>
+                                <tr id="metTabR4">
+                                    <td id="metTabR4C1">Ratio de citación relativo (##)</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <hr id="sep1">
+                    <div class="table-responsive text-second-level" id="altTable">
+                        <table class="table table-borderless">
+                            <thead id="altTabHeader">
+                                <tr id="altTabHR">
+                                    <th id="altTabHRC1">Altmetric</th>
+                                </tr>
+                            </thead>
+                            <tbody id="altTabBody">
+                                <tr id="altTabR1">
+                                    <td id="altTabR1C1"><span class="badge bg-warning" id="pill1">Blogs</span>&nbsp;(##)</td>
+                                </tr>
+                                <tr id="altTabR2">
+                                    <td id="altTabR2C1"><span class="badge bg-primary" id="pill2">Twitter</span>&nbsp;(##)</td>
+                                </tr>
+                                <tr id="altTabR3">
+                                    <td id="altTabR3C1"><span class="badge bg-secondary" id="pill3">Wikipedia</span>&nbsp;(##)</td>
+                                </tr>
+                                <tr id="altTabR4">
+                                    <td id="allTabR4C1"><span class="badge bg-danger" id="pill4">Mendeley</span>&nbsp;(##)</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <hr id="sep2">
+                    <div class="table-responsive text-second-level" id="areaTable">
+                        <table class="table table-borderless">
+                            <thead id="areaTabHeader">
+                                <tr id="areaTabHR">
+                                    <th id="areaTabHRC1">Categorías/Campos de investigación</th>
+                                </tr>
+                            </thead>
+                            <tbody id="areaTabBody">
+                                <tr id="areaTabR1">
+                                    <td id="areaTabR1C1" style="font-size: 13px;"><a class="link-dark" href="#">Field/area</a></td>
+                                </tr>
+                                <tr id="areaTabR2">
+                                    <td id="areaTabR2C1" style="font-size: 13px;"><a class="link-dark" href="#">Field/area</a></td>
+                                </tr>
+                                <tr id="areaTabR3">
+                                    <td id="areaTabR3C1" style="font-size: 13px;"><a class="link-dark" href="#">Field/area</a></td>
+                                </tr>
+                                <tr id="areaTabR4">
+                                    <td id="areaTabR4C1" style="font-size: 13px;"><a class="link-dark" href="#">Field/area</a></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <hr id="sep3">
+                    <div class="table-responsive text-second-level" id="resTable">
+                        <table class="table table-borderless">
+                            <thead id="resTabHeader">
+                                <tr id="resTabHR">
+                                    <th id="resTabRC1">Recursos externos</th>
+                                </tr>
+                            </thead>
+                            <tbody id="resTabBody">
+                                <tr id="resTabR1">
+                                    <td id="resTabR1C1"><a class="link-dark" href="#">Recurso 1</a></td>
+                                </tr>
+                                <tr id="resTabR2">
+                                    <td id="resTabR2C1"><a class="link-dark" href="#">Recurso 2</a></td>
+                                </tr>
+                                <tr id="resTabR2">
+                                    <td id="resTabR3C1"><a class="link-dark" href="#">Recurso 3</a></td>
+                                </tr>
+                                <tr id="resTabR3">
+                                    <td id="resTabR4C1"><a class="link-dark" href="#">Recurso 4</a></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer id="footer" class="footer-dark">
+        <div class="container" id="footerContainer">
+            <div class="row" id="fcrow">
+                <div class="col-sm-6 col-md-3 item" id="fColServ">
+                    <h3 id="servHead">Servicios</h3>
+                    <ul id="servList">
+                        <li><a href="#">Datos bibliométricos</a></li>
+                        <li><a href="#">Soporte de uso</a></li>
+                        <li></li>
+                    </ul>
+                </div>
+                <div class="col-sm-6 col-md-3 item" id="fColAbout">
+                    <h3>About</h3>
+                    <ul>
+                        <li>Scholar+</li>
+                        <li>Equipo</li>
+                    </ul>
+                </div>
+                <div class="col-md-6 item text" id="fColText">
+                    <h3>Scholar+</h3>
+                    <p>App que permite la descarga de registros, datos de publicación, impacto y metadatos adicionales de Google Scholar, OpenAlex, CrossRef, Web of Science y Scopus.</p>
+                </div>
+                <div class="col item social" id="fColSocial"><a href="#"><i class="icon ion-social-facebook"></i></a><a href="#"><i class="icon ion-social-twitter"></i></a><a href="#"><i class="icon ion-social-snapchat"></i></a><a href="#"><i class="icon ion-social-instagram"></i></a></div>
+            </div>
+            <p id="copyright" class="copyright">Scholar+ © 2022</p>
+        </div>
+    </footer>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="assets/js/chart.min.js"></script>
+    <script src="assets/js/bs-init.js"></script>
+    <script src="assets/js/popover.js"></script>
+</body>
+
+</html>

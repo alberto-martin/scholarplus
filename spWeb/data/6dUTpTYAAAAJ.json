@@ -1,0 +1,1885 @@
+
+    {
+        "search_metadata":
+        {
+            "id": "623853890a90c74e5a10df57",
+            "status": "Success",
+            "json_endpoint": "https://serpapi.com/searches/263a3ab106fed7dc/623853890a90c74e5a10df57.json",
+            "created_at": "2022-03-21 10:29:29 UTC",
+            "processed_at": "2022-03-21 10:29:29 UTC",
+            "google_scholar_author_url": "https://scholar.google.com/citations?user=6dUTpTYAAAAJ&hl=en&cstart=0&pagesize=100",
+            "raw_html_file": "https://serpapi.com/searches/263a3ab106fed7dc/623853890a90c74e5a10df57.html",
+            "total_time_taken": 0.23
+        }
+        ,
+        "search_parameters":
+        {
+            "engine": "google_scholar_author",
+            "author_id": "6dUTpTYAAAAJ",
+            "hl": "en",
+            "start": 0,
+            "num": "100"
+        }
+        ,
+        "author":
+        {
+            "name": "Rodrigo Costas",
+            "affiliations": "CWTS Leiden University",
+            "email": "Verified email at cwts.leidenuniv.nl",
+            "website": "https://www.cwts.nl/people/rodrigo-costas",
+            "interests":
+            [
+                {
+                    "title": "Bibliometrics",
+                    "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:bibliometrics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Abibliometrics"
+                }
+                ,
+                {
+                    "title": "Scientometrics",
+                    "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:scientometrics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ascientometrics"
+                }
+                ,
+                {
+                    "title": "Databases",
+                    "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:databases",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adatabases"
+                }
+                ,
+                {
+                    "title": "Citations",
+                    "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:citations",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acitations"
+                }
+                ,
+                {
+                    "title": "Altmetrics",
+                    "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:altmetrics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aaltmetrics"
+                }
+            ]
+            ,
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=6dUTpTYAAAAJ&citpid=1"
+        }
+        ,
+        "articles":
+        [
+            {
+                "title": "Do “altmetrics” correlate with citations? Extensive comparison of altmetric indicators with citations from a multidisciplinary perspective",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:SPgmg5JLkoEC",
+                "citation_id": "6dUTpTYAAAAJ:SPgmg5JLkoEC",
+                "authors": "R Costas, Z Zahedi, P Wouters",
+                "publication": "Journal of the Association for Information Science and Technology 66 (10 …, 2015",
+                "cited_by":
+                {
+                    "value": 748,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2707803290556513028",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=2707803290556513028&engine=google_scholar&hl=en",
+                    "cites_id": "2707803290556513028"
+                }
+                ,
+                "year": "2015"
+            }
+            ,
+            {
+                "title": "The h-index: Advantages, limitations and its relation with other bibliometric indicators at the micro level",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:u5HHmVD_uO8C",
+                "citation_id": "6dUTpTYAAAAJ:u5HHmVD_uO8C",
+                "authors": "R Costas, M Bordons",
+                "publication": "Journal of informetrics 1 (3), 193-203, 2007",
+                "cited_by":
+                {
+                    "value": 551,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11556810542141631321",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11556810542141631321&engine=google_scholar&hl=en",
+                    "cites_id": "11556810542141631321"
+                }
+                ,
+                "year": "2007"
+            }
+            ,
+            {
+                "title": "How well developed are altmetrics? A cross-disciplinary analysis of the presence of ‘alternative metrics’ in scientific publications",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:rFyVMFCKTwsC",
+                "citation_id": "6dUTpTYAAAAJ:rFyVMFCKTwsC",
+                "authors": "Z Zahedi, R Costas, P Wouters",
+                "publication": "Scientometrics 101 (2), 1491-1513, 2014",
+                "cited_by":
+                {
+                    "value": 487,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13213080657473737683",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=13213080657473737683&engine=google_scholar&hl=en",
+                    "cites_id": "13213080657473737683"
+                }
+                ,
+                "year": "2014"
+            }
+            ,
+            {
+                "title": "Characterizing social media metrics of scholarly papers: The effect of document properties and collaboration patterns",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:4QKQTXcH0q8C",
+                "citation_id": "6dUTpTYAAAAJ:4QKQTXcH0q8C",
+                "authors": "S Haustein, R Costas, V Larivière",
+                "publication": "PloS one 10 (3), e0120495, 2015",
+                "cited_by":
+                {
+                    "value": 337,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17789819235000193131,7455470957029396235,12936073912252134188",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=17789819235000193131%2C7455470957029396235%2C12936073912252134188&engine=google_scholar&hl=en",
+                    "cites_id": "17789819235000193131,7455470957029396235,12936073912252134188"
+                }
+                ,
+                "year": "2015"
+            }
+            ,
+            {
+                "title": "Users, narcissism and control: tracking the impact of scholarly publications in the 21st century",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:4DMP91E08xMC",
+                "citation_id": "6dUTpTYAAAAJ:4DMP91E08xMC",
+                "authors": "P Wouters, R Costas",
+                "publication": "SURFfoundation 2, 847-857, 2012",
+                "cited_by":
+                {
+                    "value": 326,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8091397073090126109,14488066198747516358,16167409225667570952",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=8091397073090126109%2C14488066198747516358%2C16167409225667570952&engine=google_scholar&hl=en",
+                    "cites_id": "8091397073090126109,14488066198747516358,16167409225667570952"
+                }
+                ,
+                "year": "2012"
+            }
+            ,
+            {
+                "title": "Meta-assessment of bias in science",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:v_xunPV0uK0C",
+                "citation_id": "6dUTpTYAAAAJ:v_xunPV0uK0C",
+                "authors": "D Fanelli, R Costas, JPA Ioannidis",
+                "publication": "Proceedings of the National Academy of Sciences 114 (14), 3714-3719, 2017",
+                "cited_by":
+                {
+                    "value": 261,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14575889060982308028",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=14575889060982308028&engine=google_scholar&hl=en",
+                    "cites_id": "14575889060982308028"
+                }
+                ,
+                "year": "2017"
+            }
+            ,
+            {
+                "title": "A bibliometric classificatory approach for the study and assessment of research performance at the individual level: The effects of age on productivity and impact",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:qjMakFHDy7sC",
+                "citation_id": "6dUTpTYAAAAJ:qjMakFHDy7sC",
+                "authors": "R Costas, TN Van Leeuwen, M Bordons",
+                "publication": "Journal of the American society for information science and technology 61 (8 …, 2010",
+                "cited_by":
+                {
+                    "value": 221,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10523592529864611393,1814758992567100019",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10523592529864611393%2C1814758992567100019&engine=google_scholar&hl=en",
+                    "cites_id": "10523592529864611393,1814758992567100019"
+                }
+                ,
+                "year": "2010"
+            }
+            ,
+            {
+                "title": "New data, new possibilities: Exploring the insides of Altmetric. com",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:DIubQTN3OvUC",
+                "citation_id": "6dUTpTYAAAAJ:DIubQTN3OvUC",
+                "authors": "N Robinson-García, D Torres-Salinas, Z Zahedi, R Costas",
+                "publication": "arXiv preprint arXiv:1408.0135, 2014",
+                "cited_by":
+                {
+                    "value": 209,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14230379625021496586,6219578421659178119",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=14230379625021496586%2C6219578421659178119&engine=google_scholar&hl=en",
+                    "cites_id": "14230379625021496586,6219578421659178119"
+                }
+                ,
+                "year": "2014"
+            }
+            ,
+            {
+                "title": "Misconduct policies, academic culture and career stage, not gender or pressures to publish, affect scientific integrity",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:_mQi-xiA4oYC",
+                "citation_id": "6dUTpTYAAAAJ:_mQi-xiA4oYC",
+                "authors": "D Fanelli, R Costas, V Larivière",
+                "publication": "PloS one 10 (6), e0127556, 2015",
+                "cited_by":
+                {
+                    "value": 185,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9541390113747441325",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=9541390113747441325&engine=google_scholar&hl=en",
+                    "cites_id": "9541390113747441325"
+                }
+                ,
+                "year": "2015"
+            }
+            ,
+            {
+                "title": "Interpreting" altmetrics": Viewing acts on social media through the lens of citation and social theories",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:C-Rn0OCouf8C",
+                "citation_id": "6dUTpTYAAAAJ:C-Rn0OCouf8C",
+                "authors": "S Haustein, TD Bowman, R Costas",
+                "publication": "In C.R. Sugimoto (Ed.). Theories of informetrics and scholarly communication …, 2016",
+                "cited_by":
+                {
+                    "value": 175,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1467268177108218336",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=1467268177108218336&engine=google_scholar&hl=en",
+                    "cites_id": "1467268177108218336"
+                }
+                ,
+                "year": "2016"
+            }
+            ,
+            {
+                "title": "Is g-index better than h-index? An exploratory study at the individual level",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:u-x6o8ySG0sC",
+                "citation_id": "6dUTpTYAAAAJ:u-x6o8ySG0sC",
+                "authors": "R Costas, M Bordons",
+                "publication": "Scientometrics 77 (2), 267-288, 2008",
+                "cited_by":
+                {
+                    "value": 161,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13312959072034587402,3903146900067165881",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=13312959072034587402%2C3903146900067165881&engine=google_scholar&hl=en",
+                    "cites_id": "13312959072034587402,3903146900067165881"
+                }
+                ,
+                "year": "2008"
+            }
+            ,
+            {
+                "title": "F 1000 Recommendations as a potential new data source for research evaluation: A comparison with citations",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:HDshCWvjkbEC",
+                "citation_id": "6dUTpTYAAAAJ:HDshCWvjkbEC",
+                "authors": "L Waltman, R Costas",
+                "publication": "Journal of the Association for Information Science and Technology 65 (3 …, 2014",
+                "cited_by":
+                {
+                    "value": 152,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2265071478797760787",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=2265071478797760787&engine=google_scholar&hl=en",
+                    "cites_id": "2265071478797760787"
+                }
+                ,
+                "year": "2014"
+            }
+            ,
+            {
+                "title": "Self-citations at the meso and individual levels: effects of different calculation methods",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:zYLM7Y9cAGgC",
+                "citation_id": "6dUTpTYAAAAJ:zYLM7Y9cAGgC",
+                "authors": "R Costas, T van Leeuwen, M Bordons",
+                "publication": "Scientometrics 82 (3), 517-537, 2010",
+                "cited_by":
+                {
+                    "value": 135,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10303734387122548058",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10303734387122548058&engine=google_scholar&hl=en",
+                    "cites_id": "10303734387122548058"
+                }
+                ,
+                "year": "2010"
+            }
+            ,
+            {
+                "title": "Scientists have most impact when they're free to move",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:VjBpw8Hezy4C",
+                "citation_id": "6dUTpTYAAAAJ:VjBpw8Hezy4C",
+                "authors": "CR Sugimoto, N Robinson-García, DS Murray, A Yegros-Yegros, ...",
+                "publication": "Nature 550 (7674), 29-31, 2017",
+                "cited_by":
+                {
+                    "value": 128,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12789725354422230061",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=12789725354422230061&engine=google_scholar&hl=en",
+                    "cites_id": "12789725354422230061"
+                }
+                ,
+                "year": "2017"
+            }
+            ,
+            {
+                "title": "The unbearable emptiness of tweeting—About journal articles",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:xa5BkEQK8BgC",
+                "citation_id": "6dUTpTYAAAAJ:xa5BkEQK8BgC",
+                "authors": "N Robinson-García, R Costas, K Isett, J Melkers, D Hicks",
+                "publication": "PloS one 12 (8), e0183551, 2017",
+                "cited_by":
+                {
+                    "value": 117,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10306923931793894799",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10306923931793894799&engine=google_scholar&hl=en",
+                    "cites_id": "10306923931793894799"
+                }
+                ,
+                "year": "2017"
+            }
+            ,
+            {
+                "title": "Do age and professional rank influence the order of authorship in scientific publications? Some evidence from a micro-level perspective",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:YsMSGLbcyi4C",
+                "citation_id": "6dUTpTYAAAAJ:YsMSGLbcyi4C",
+                "authors": "R Costas, M Bordons",
+                "publication": "Scientometrics 88 (1), 145-161, 2011",
+                "cited_by":
+                {
+                    "value": 116,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9325760502853347783,279394899247889345,17461684547931703984",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=9325760502853347783%2C279394899247889345%2C17461684547931703984&engine=google_scholar&hl=en",
+                    "cites_id": "9325760502853347783,279394899247889345,17461684547931703984"
+                }
+                ,
+                "year": "2011"
+            }
+            ,
+            {
+                "title": "Evidence of open access of scientific publications in Google Scholar: A large-scale analysis",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:feST4K8J0scC",
+                "citation_id": "6dUTpTYAAAAJ:feST4K8J0scC",
+                "authors": "A Martín-Martín, R Costas, T van Leeuwen, ED López-Cózar",
+                "publication": "Journal of informetrics 12 (3), 819-841, 2018",
+                "cited_by":
+                {
+                    "value": 113,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1140406698598747786",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=1140406698598747786&engine=google_scholar&hl=en",
+                    "cites_id": "1140406698598747786"
+                }
+                ,
+                "year": "2018"
+            }
+            ,
+            {
+                "title": "Is scientific literature subject to a ‘Sell‐By‐Date’? A general methodology to analyze the ‘durability’of scientific documents",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:Tyk-4Ss8FVUC",
+                "citation_id": "6dUTpTYAAAAJ:Tyk-4Ss8FVUC",
+                "authors": "R Costas, TN van Leeuwen, AFJ van Raan",
+                "publication": "Journal of the American Society for Information Science and Technology 61 (2 …, 2010",
+                "cited_by":
+                {
+                    "value": 104,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3885568553167824415,13348766145486109910",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=3885568553167824415%2C13348766145486109910&engine=google_scholar&hl=en",
+                    "cites_id": "3885568553167824415,13348766145486109910"
+                }
+                ,
+                "year": "2010"
+            }
+            ,
+            {
+                "title": "Approaching the “reward triangle”: General analysis of the presence of funding acknowledgments and “peer interactive communication” in scientific publications",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:YOwf2qJgpHMC",
+                "citation_id": "6dUTpTYAAAAJ:YOwf2qJgpHMC",
+                "authors": "R Costas, TN van Leeuwen",
+                "publication": "Journal of the American Society for Information Science and Technology 63 (8 …, 2012",
+                "cited_by":
+                {
+                    "value": 103,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16223193520978335334",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=16223193520978335334&engine=google_scholar&hl=en",
+                    "cites_id": "16223193520978335334"
+                }
+                ,
+                "year": "2012"
+            }
+            ,
+            {
+                "title": "The thematic orientation of publications mentioned on social media",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:N6_Y7JlWxwsC",
+                "citation_id": "6dUTpTYAAAAJ:N6_Y7JlWxwsC",
+                "authors": "R Costas, Z Zahedi, P Wouters",
+                "publication": "Aslib Journal of Information Management 67 (3), 260-288, 2015",
+                "cited_by":
+                {
+                    "value": 99,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5612626897316154974,6518851670043859060",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=5612626897316154974%2C6518851670043859060&engine=google_scholar&hl=en",
+                    "cites_id": "5612626897316154974,6518851670043859060"
+                }
+                ,
+                "year": "2015"
+            }
+            ,
+            {
+                "title": "Using Google Scholar in research evaluation of humanities and social science programs: A comparison with Web of Science data",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:8RAEygVn5_EC",
+                "citation_id": "6dUTpTYAAAAJ:8RAEygVn5_EC",
+                "authors": "AAM Prins, R Costas, TN van Leeuwen, PF Wouters",
+                "publication": "Research Evaluation 25 (3), 264-270, 2016",
+                "cited_by":
+                {
+                    "value": 98,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10587637741375809613",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10587637741375809613&engine=google_scholar&hl=en",
+                    "cites_id": "10587637741375809613"
+                }
+                ,
+                "year": "2016"
+            }
+            ,
+            {
+                "title": "General discussion of data quality challenges in social media metrics: Extensive comparison of four major altmetric data aggregators",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:za7pDTvVV8kC",
+                "citation_id": "6dUTpTYAAAAJ:za7pDTvVV8kC",
+                "authors": "Z Zahedi, R Costas",
+                "publication": "PloS one 13 (5), e0197326, 2018",
+                "cited_by":
+                {
+                    "value": 92,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9826783977790367111",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=9826783977790367111&engine=google_scholar&hl=en",
+                    "cites_id": "9826783977790367111"
+                }
+                ,
+                "year": "2018"
+            }
+            ,
+            {
+                "title": "Una visión crítica del índice h: algunas consideraciones derivadas de su aplicación práctica",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:IjCSPb-OGe4C",
+                "citation_id": "6dUTpTYAAAAJ:IjCSPb-OGe4C",
+                "authors": "R Costas, M Bordons",
+                "publication": "Profesional de la Información 16 (5), 427-432, 2007",
+                "cited_by":
+                {
+                    "value": 88,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1885099272118399044,11879418079391936324",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=1885099272118399044%2C11879418079391936324&engine=google_scholar&hl=en",
+                    "cites_id": "1885099272118399044,11879418079391936324"
+                }
+                ,
+                "year": "2007"
+            }
+            ,
+            {
+                "title": "Characterization, description, and considerations for the use of funding acknowledgement data in Web of Science",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:BPS1z4jHU5cC",
+                "citation_id": "6dUTpTYAAAAJ:BPS1z4jHU5cC",
+                "authors": "A Paul-Hus, N Desrochers, R Costas",
+                "publication": "Scientometrics 108 (1), 167-182, 2016",
+                "cited_by":
+                {
+                    "value": 87,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10727912457440282417",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10727912457440282417&engine=google_scholar&hl=en",
+                    "cites_id": "10727912457440282417"
+                }
+                ,
+                "year": "2016"
+            }
+            ,
+            {
+                "title": "The skewness of scientific productivity",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:cB__R-XWw9UC",
+                "citation_id": "6dUTpTYAAAAJ:cB__R-XWw9UC",
+                "authors": "J Ruiz-Castillo, R Costas",
+                "publication": "Journal of informetrics 8 (4), 917-934, 2014",
+                "cited_by":
+                {
+                    "value": 81,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16726105319792263069,12961267266994261398",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=16726105319792263069%2C12961267266994261398&engine=google_scholar&hl=en",
+                    "cites_id": "16726105319792263069,12961267266994261398"
+                }
+                ,
+                "year": "2014"
+            }
+            ,
+            {
+                "title": "The many faces of mobility: Using bibliometric data to measure the movement of scientists",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:IvSMUa3B7yYC",
+                "citation_id": "6dUTpTYAAAAJ:IvSMUa3B7yYC",
+                "authors": "N Robinson-Garcia, CR Sugimoto, D Murray, A Yegros-Yegros, ...",
+                "publication": "Journal of Informetrics 13 (1), 50-63, 2019",
+                "cited_by":
+                {
+                    "value": 69,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16004581022517453636,5272955089524722215",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=16004581022517453636%2C5272955089524722215&engine=google_scholar&hl=en",
+                    "cites_id": "16004581022517453636,5272955089524722215"
+                }
+                ,
+                "year": "2019"
+            }
+            ,
+            {
+                "title": "How many is too many? On the relationship between research productivity and impact",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:I9gX6wnfuA8C",
+                "citation_id": "6dUTpTYAAAAJ:I9gX6wnfuA8C",
+                "authors": "V Larivière, R Costas",
+                "publication": "PloS one 11 (9), e0162709, 2016",
+                "cited_by":
+                {
+                    "value": 64,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12566721091234125318",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=12566721091234125318&engine=google_scholar&hl=en",
+                    "cites_id": "12566721091234125318"
+                }
+                ,
+                "year": "2016"
+            }
+            ,
+            {
+                "title": "The value of research data–Metrics for datasets from a cultural and technical point of view",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:wGzT3bKASkAC",
+                "citation_id": "6dUTpTYAAAAJ:wGzT3bKASkAC",
+                "authors": "R Costas, I Meijer, Z Zahedi, P Wouters",
+                "publication": "A Knowledge Exchange Report. Retrieved January 30, 2014, 2013",
+                "cited_by":
+                {
+                    "value": 62,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11001185870159974572,15425356119306172088",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11001185870159974572%2C15425356119306172088&engine=google_scholar&hl=en",
+                    "cites_id": "11001185870159974572,15425356119306172088"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "A scientometric overview of CORD-19",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:mJbmKSuM8toC",
+                "citation_id": "6dUTpTYAAAAJ:mJbmKSuM8toC",
+                "authors": "G Colavizza, R Costas, VA Traag, NJ van Eck, T van Leeuwen, L Waltman",
+                "publication": "PLoS One 16 (1), e0244839, 2021",
+                "cited_by":
+                {
+                    "value": 60,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10392876117699417991",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10392876117699417991&engine=google_scholar&hl=en",
+                    "cites_id": "10392876117699417991"
+                }
+                ,
+                "year": "2021"
+            }
+            ,
+            {
+                "title": "Bibliometric indicators at the micro-level: some results in the area of natural resources at the Spanish CSIC",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:d1gkVwhDpl0C",
+                "citation_id": "6dUTpTYAAAAJ:d1gkVwhDpl0C",
+                "authors": "R Costas, M Bordons",
+                "publication": "Research evaluation 14 (2), 110-120, 2005",
+                "cited_by":
+                {
+                    "value": 59,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13603251501511290603",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=13603251501511290603&engine=google_scholar&hl=en",
+                    "cites_id": "13603251501511290603"
+                }
+                ,
+                "year": "2005"
+            }
+            ,
+            {
+                "title": "Social media metrics for new research evaluation",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:IyxfXMz2bNAC",
+                "citation_id": "6dUTpTYAAAAJ:IyxfXMz2bNAC",
+                "authors": "P Wouters, Z Zahedi, R Costas",
+                "publication": "Springer handbook of science and technology indicators, 687-713, 2019",
+                "cited_by":
+                {
+                    "value": 58,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10092914191819384809",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10092914191819384809&engine=google_scholar&hl=en",
+                    "cites_id": "10092914191819384809"
+                }
+                ,
+                "year": "2019"
+            }
+            ,
+            {
+                "title": "Mendeley readership as a filtering tool to identify highly cited publications",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:ufKn5pxu7C0C",
+                "citation_id": "6dUTpTYAAAAJ:ufKn5pxu7C0C",
+                "authors": "Z Zahedi, R Costas, P Wouters",
+                "publication": "Journal of the Association for Information Science and Technology 68 (10 …, 2017",
+                "cited_by":
+                {
+                    "value": 55,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16202825692382019686",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=16202825692382019686&engine=google_scholar&hl=en",
+                    "cites_id": "16202825692382019686"
+                }
+                ,
+                "year": "2017"
+            }
+            ,
+            {
+                "title": "Scaling rules in the science system: Influence of field‐specific citation characteristics on the impact of individual researchers",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:2osOgNQ5qMEC",
+                "citation_id": "6dUTpTYAAAAJ:2osOgNQ5qMEC",
+                "authors": "R Costas, M Bordons, TN Van Leeuwen, AFJ Van Raan",
+                "publication": "Journal of the American Society for Information Science and Technology 60 (4 …, 2009",
+                "cited_by":
+                {
+                    "value": 51,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15620470947922300138",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15620470947922300138&engine=google_scholar&hl=en",
+                    "cites_id": "15620470947922300138"
+                }
+                ,
+                "year": "2009"
+            }
+            ,
+            {
+                "title": "Heterogeneity of collaboration and its relationship with research impact in a biomedical field",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:QIV2ME_5wuYC",
+                "citation_id": "6dUTpTYAAAAJ:QIV2ME_5wuYC",
+                "authors": "M Bordons, J Aparicio, R Costas",
+                "publication": "Scientometrics 96 (2), 443-466, 2013",
+                "cited_by":
+                {
+                    "value": 49,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13648376810046429715",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=13648376810046429715&engine=google_scholar&hl=en",
+                    "cites_id": "13648376810046429715"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "Towards a second generation of ‘social media metrics’: Characterizing Twitter communities of attention around science",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:o-PowTg_VKEC",
+                "citation_id": "6dUTpTYAAAAJ:o-PowTg_VKEC",
+                "authors": "AA Díaz-Faes, TD Bowman, R Costas",
+                "publication": "PloS one 14 (5), e0216408, 2019",
+                "cited_by":
+                {
+                    "value": 46,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6872257300044349321",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=6872257300044349321&engine=google_scholar&hl=en",
+                    "cites_id": "6872257300044349321"
+                }
+                ,
+                "year": "2019"
+            }
+            ,
+            {
+                "title": "When is an article actually published? An analysis of online availability, publication, and indexation dates",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:oldoQiaHq2UC",
+                "citation_id": "6dUTpTYAAAAJ:oldoQiaHq2UC",
+                "authors": "S Haustein, TD Bowman, R Costas",
+                "publication": "Proceedings of the 15th International Society of Scientometrics and …, 2015",
+                "cited_by":
+                {
+                    "value": 45,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2849726836595245944",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=2849726836595245944&engine=google_scholar&hl=en",
+                    "cites_id": "2849726836595245944"
+                }
+                ,
+                "year": "2015"
+            }
+            ,
+            {
+                "title": "Authorship, citations, acknowledgments and visibility in social media: Symbolic capital in the multifaceted reward system of science",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:2Q0AJrNhS-QC",
+                "citation_id": "6dUTpTYAAAAJ:2Q0AJrNhS-QC",
+                "authors": "N Desrochers, A Paul-Hus, S Haustein, R Costas, P Mongeon, ...",
+                "publication": "Social science information 57 (2), 223-248, 2018",
+                "cited_by":
+                {
+                    "value": 44,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17666024640063948653",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=17666024640063948653&engine=google_scholar&hl=en",
+                    "cites_id": "17666024640063948653"
+                }
+                ,
+                "year": "2018"
+            }
+            ,
+            {
+                "title": "Algoritmos para solventar la falta de normalización de nombres de autor en los estudios bibliométricos",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:UeHWp8X0CEIC",
+                "citation_id": "6dUTpTYAAAAJ:UeHWp8X0CEIC",
+                "authors": "R Costas, M Bordons",
+                "publication": "Investigación bibliotecológica 21 (42), 13-32, 2007",
+                "cited_by":
+                {
+                    "value": 43,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4737989504953600444,7517232374840697443",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=4737989504953600444%2C7517232374840697443&engine=google_scholar&hl=en",
+                    "cites_id": "4737989504953600444,7517232374840697443"
+                }
+                ,
+                "year": "2007"
+            }
+            ,
+            {
+                "title": "The “Mendel syndrome” in science: durability of scientific literature and its effects on bibliometric analysis of individual scientists",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:eQOLeE2rZwMC",
+                "citation_id": "6dUTpTYAAAAJ:eQOLeE2rZwMC",
+                "authors": "R Costas, TN van Leeuwen, AFJ van Raan",
+                "publication": "Scientometrics 89 (1), 177-205, 2011",
+                "cited_by":
+                {
+                    "value": 42,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4743779356573536661",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=4743779356573536661&engine=google_scholar&hl=en",
+                    "cites_id": "4743779356573536661"
+                }
+                ,
+                "year": "2011"
+            }
+            ,
+            {
+                "title": "A global comparison of scientific mobility and collaboration according to national scientific capacities",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:MNNNGtAgD4EC",
+                "citation_id": "6dUTpTYAAAAJ:MNNNGtAgD4EC",
+                "authors": "Z Chinchilla-Rodríguez, L Miao, D Murray, N Robinson-García, R Costas, ...",
+                "publication": "Frontiers in research metrics and analytics 3, 17, 2018",
+                "cited_by":
+                {
+                    "value": 41,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2453291985866088840",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=2453291985866088840&engine=google_scholar&hl=en",
+                    "cites_id": "2453291985866088840"
+                }
+                ,
+                "year": "2018"
+            }
+            ,
+            {
+                "title": "‘Seed+ expand’: a general methodology for detecting publication oeuvres of individual researchers",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:K4-iKlO5MD4C",
+                "citation_id": "6dUTpTYAAAAJ:K4-iKlO5MD4C",
+                "authors": "L Reijnhoudt, R Costas, E Noyons, K Börner, A Scharnhorst",
+                "publication": "Scientometrics 101 (2), 1403-1417, 2014",
+                "cited_by":
+                {
+                    "value": 39,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4344554620799008477,2504562777330819170",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=4344554620799008477%2C2504562777330819170&engine=google_scholar&hl=en",
+                    "cites_id": "4344554620799008477,2504562777330819170"
+                }
+                ,
+                "year": "2014"
+            }
+            ,
+            {
+                "title": "How consistent are altmetrics providers? Study of 1000 PLOS ONE publications using the PLOS ALM, Mendeley and Altmetric. com APIs",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:ShjGdcaqzI0C",
+                "citation_id": "6dUTpTYAAAAJ:ShjGdcaqzI0C",
+                "authors": "Z Zahedi, M Fenner, R Costas",
+                "publication": "Altmetrics 14. Workshop at the Web Science Conference, Bloomington, USA, 2014",
+                "cited_by":
+                {
+                    "value": 39,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6024202599183933955",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=6024202599183933955&engine=google_scholar&hl=en",
+                    "cites_id": "6024202599183933955"
+                }
+                ,
+                "year": "2014"
+            }
+            ,
+            {
+                "title": "Assessing the impact of publications saved by Mendeley users: Is there any different pattern among users?",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:ojlX30-wUrgC",
+                "citation_id": "6dUTpTYAAAAJ:ojlX30-wUrgC",
+                "authors": "Z Zahedi, R Costas, P Wouters",
+                "publication": "IATUL Conference, 2014",
+                "cited_by":
+                {
+                    "value": 37,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9153841411049055000,8894586310637910206",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=9153841411049055000%2C8894586310637910206&engine=google_scholar&hl=en",
+                    "cites_id": "9153841411049055000,8894586310637910206"
+                }
+                ,
+                "year": "2014"
+            }
+            ,
+            {
+                "title": "Solapamiento y singularidad de MEDLINE, WoS e IME para el análisis de la actividad científica de una región en Ciencias de la Salud",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:W7OEmFMy1HYC",
+                "citation_id": "6dUTpTYAAAAJ:W7OEmFMy1HYC",
+                "authors": "R Costas, L Moreno, M Bordons",
+                "publication": "Revista espanola de documentación científica 31 (3), 327-343, 2008",
+                "cited_by":
+                {
+                    "value": 37,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10179925069172725840,14807988025979600763,1846243015090355073",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10179925069172725840%2C14807988025979600763%2C1846243015090355073&engine=google_scholar&hl=en",
+                    "cites_id": "10179925069172725840,14807988025979600763,1846243015090355073"
+                }
+                ,
+                "year": "2008"
+            }
+            ,
+            {
+                "title": "Studying the accumulation velocity of altmetric data tracked by Altmetric. com",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:nroGzMJTTpEC",
+                "citation_id": "6dUTpTYAAAAJ:nroGzMJTTpEC",
+                "authors": "Z Fang, R Costas",
+                "publication": "Scientometrics 123 (2), 1077-1101, 2020",
+                "cited_by":
+                {
+                    "value": 35,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=437749351314083377",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=437749351314083377&engine=google_scholar&hl=en",
+                    "cites_id": "437749351314083377"
+                }
+                ,
+                "year": "2020"
+            }
+            ,
+            {
+                "title": "DataCite as a novel bibliometric source: Coverage, strengths and limitations",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:xii_ZKWM4-0C",
+                "citation_id": "6dUTpTYAAAAJ:xii_ZKWM4-0C",
+                "authors": "N Robinson-Garcia, P Mongeon, W Jeng, R Costas",
+                "publication": "Journal of Informetrics 11 (3), 841-854, 2017",
+                "cited_by":
+                {
+                    "value": 33,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16461070257954915398",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=16461070257954915398&engine=google_scholar&hl=en",
+                    "cites_id": "16461070257954915398"
+                }
+                ,
+                "year": "2017"
+            }
+            ,
+            {
+                "title": "The role of editorial material in bibliometric research performance assessments",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:Wp0gIr-vW9MC",
+                "citation_id": "6dUTpTYAAAAJ:Wp0gIr-vW9MC",
+                "authors": "T van Leeuwen, R Costas, C Calero-Medina, M Visser",
+                "publication": "Scientometrics 95 (2), 817-828, 2013",
+                "cited_by":
+                {
+                    "value": 33,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1563019298366026672",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=1563019298366026672&engine=google_scholar&hl=en",
+                    "cites_id": "1563019298366026672"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "Variations in content and format of ISI databases in their different versions: The case of the Science Citation Index in CD-ROM and the Web of Science",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:9yKSN-GCB0IC",
+                "citation_id": "6dUTpTYAAAAJ:9yKSN-GCB0IC",
+                "authors": "R Costas, I Iribarren-Maestro",
+                "publication": "Scientometrics 72 (2), 167-183, 2007",
+                "cited_by":
+                {
+                    "value": 30,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16795598106699433423",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=16795598106699433423&engine=google_scholar&hl=en",
+                    "cites_id": "16795598106699433423"
+                }
+                ,
+                "year": "2007"
+            }
+            ,
+            {
+                "title": "Testing hypotheses on risk factors for scientific misconduct via matched-control analysis of papers containing problematic image duplications",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:E8ajGqO0XoUC",
+                "citation_id": "6dUTpTYAAAAJ:E8ajGqO0XoUC",
+                "authors": "D Fanelli, R Costas, FC Fang, A Casadevall, EM Bik",
+                "publication": "Science and engineering ethics 25 (3), 771-789, 2019",
+                "cited_by":
+                {
+                    "value": 29,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1424324780903173923",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=1424324780903173923&engine=google_scholar&hl=en",
+                    "cites_id": "1424324780903173923"
+                }
+                ,
+                "year": "2019"
+            }
+            ,
+            {
+                "title": "Travel bans and scientific mobility: utility of asymmetry and affinity indexes to inform science policy",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:KqnX2w3egDsC",
+                "citation_id": "6dUTpTYAAAAJ:KqnX2w3egDsC",
+                "authors": "Z Chinchilla-Rodríguez, Y Bu, N Robinson-García, R Costas, ...",
+                "publication": "Scientometrics 116 (1), 569-590, 2018",
+                "cited_by":
+                {
+                    "value": 29,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2299228685200759974",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=2299228685200759974&engine=google_scholar&hl=en",
+                    "cites_id": "2299228685200759974"
+                }
+                ,
+                "year": "2018"
+            }
+            ,
+            {
+                "title": "Open Access uptake by universities worldwide",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:ZYsTHYU9jrMC",
+                "citation_id": "6dUTpTYAAAAJ:ZYsTHYU9jrMC",
+                "authors": "N Robinson-Garcia, R Costas, TN van Leeuwen",
+                "publication": "PeerJ 8, e9410, 2020",
+                "cited_by":
+                {
+                    "value": 28,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16278847663163014534",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=16278847663163014534&engine=google_scholar&hl=en",
+                    "cites_id": "16278847663163014534"
+                }
+                ,
+                "year": "2020"
+            }
+            ,
+            {
+                "title": "Reflections around ‘the cautionary use’of the h-index: response to Teixeira da Silva and Dobránszki",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:L7vk9XBBNxgC",
+                "citation_id": "6dUTpTYAAAAJ:L7vk9XBBNxgC",
+                "authors": "R Costas, T Franssen",
+                "publication": "Scientometrics 115 (2), 1125-1130, 2018",
+                "cited_by":
+                {
+                    "value": 28,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2671958934094028476",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=2671958934094028476&engine=google_scholar&hl=en",
+                    "cites_id": "2671958934094028476"
+                }
+                ,
+                "year": "2018"
+            }
+            ,
+            {
+                "title": "Consistency among altmetrics data provider/aggregators: What are the challenges?",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:NZNkWSpQBv0C",
+                "citation_id": "6dUTpTYAAAAJ:NZNkWSpQBv0C",
+                "authors": "R Zahedi, Zohreh, Fenner, Martin, Costas",
+                "publication": "altmetrics15: 5 years in, what do we know?, 2015",
+                "cited_by":
+                {
+                    "value": 28,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11418551993284592332",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11418551993284592332&engine=google_scholar&hl=en",
+                    "cites_id": "11418551993284592332"
+                }
+                ,
+                "year": "2015"
+            }
+            ,
+            {
+                "title": "What is the impact of the publications read by the different mendeley users? could they help to identify alternative types of impact? plos alm workshop, san francisco",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:3MwzVuqRcA0C",
+                "citation_id": "6dUTpTYAAAAJ:3MwzVuqRcA0C",
+                "authors": "Z Zahedi, R Costas, PF Wouters",
+                "publication": "Plos alm workshop, 2013",
+                "cited_by":
+                {
+                    "value": 27,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10846238761358710671",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10846238761358710671&engine=google_scholar&hl=en",
+                    "cites_id": "10846238761358710671"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "Referencing patterns of individual researchers: Do top scientists rely on more extensive information sources?",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:_kc_bZDykSQC",
+                "citation_id": "6dUTpTYAAAAJ:_kc_bZDykSQC",
+                "authors": "R Costas, TN van Leeuwen, M Bordons",
+                "publication": "Journal of the American Society for Information Science and Technology 63 …, 2012",
+                "cited_by":
+                {
+                    "value": 27,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5476950302567845520",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=5476950302567845520&engine=google_scholar&hl=en",
+                    "cites_id": "5476950302567845520"
+                }
+                ,
+                "year": "2012"
+            }
+            ,
+            {
+                "title": "Incorporating data sharing to the reward system of science: Linking DataCite records to authors in the Web of Science",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:nU66GSXDKhoC",
+                "citation_id": "6dUTpTYAAAAJ:nU66GSXDKhoC",
+                "authors": "P Mongeon, N Robinson-Garcia, W Jeng, R Costas",
+                "publication": "Aslib Journal of Information Management, 2017",
+                "cited_by":
+                {
+                    "value": 25,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5206383784784565941,11746043660436447787",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=5206383784784565941%2C11746043660436447787&engine=google_scholar&hl=en",
+                    "cites_id": "5206383784784565941,11746043660436447787"
+                }
+                ,
+                "year": "2017"
+            }
+            ,
+            {
+                "title": "Identifying Twitter audiences: who is tweeting about scientific papers?",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:Nnq8S6OXqDYC",
+                "citation_id": "6dUTpTYAAAAJ:Nnq8S6OXqDYC",
+                "authors": "S Haustein, R Costas",
+                "publication": "ASIS&T SIG/MET Metrics 2015 workshop, 2015",
+                "cited_by":
+                {
+                    "value": 24,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10735225672905296849",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10735225672905296849&engine=google_scholar&hl=en",
+                    "cites_id": "10735225672905296849"
+                }
+                ,
+                "year": "2015"
+            }
+            ,
+            {
+                "title": "An extensive analysis of the presence of altmetric data for Web of Science publications across subject fields and research topics",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:dMpQl7XwOw4C",
+                "citation_id": "6dUTpTYAAAAJ:dMpQl7XwOw4C",
+                "authors": "Z Fang, R Costas, W Tian, X Wang, P Wouters",
+                "publication": "Scientometrics 124 (3), 2519-2549, 2020",
+                "cited_by":
+                {
+                    "value": 23,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2380449148332755297",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=2380449148332755297&engine=google_scholar&hl=en",
+                    "cites_id": "2380449148332755297"
+                }
+                ,
+                "year": "2020"
+            }
+            ,
+            {
+                "title": "Scholars on Twitter: who and how many are they?",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:uoRD4RTSUPoC",
+                "citation_id": "6dUTpTYAAAAJ:uoRD4RTSUPoC",
+                "authors": "R Costas, J van Honk, T Franssen",
+                "publication": "arXiv preprint arXiv:1712.05667, 2017",
+                "cited_by":
+                {
+                    "value": 23,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10813211046984621344",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10813211046984621344&engine=google_scholar&hl=en",
+                    "cites_id": "10813211046984621344"
+                }
+                ,
+                "year": "2017"
+            }
+            ,
+            {
+                "title": "Towards the social media studies of science: social media metrics, present and future",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:ZysSsiWj_g4C",
+                "citation_id": "6dUTpTYAAAAJ:ZysSsiWj_g4C",
+                "authors": "R Costas",
+                "publication": "Bibliotecas Anales de investigación 13 (1), 1-5, 2017",
+                "cited_by":
+                {
+                    "value": 23,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17519001218926931763,4698411030479233649",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=17519001218926931763%2C4698411030479233649&engine=google_scholar&hl=en",
+                    "cites_id": "17519001218926931763,4698411030479233649"
+                }
+                ,
+                "year": "2017"
+            }
+            ,
+            {
+                "title": "Identifying potential “breakthrough” publications using refined citation analyses: Three related explorative approaches",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:GJVTs2krol4C",
+                "citation_id": "6dUTpTYAAAAJ:GJVTs2krol4C",
+                "authors": "JW Schneider, R Costas",
+                "publication": "Journal of the Association for Information Science and Technology 68 (3 …, 2017",
+                "cited_by":
+                {
+                    "value": 22,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5165286221199599315",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=5165286221199599315&engine=google_scholar&hl=en",
+                    "cites_id": "5165286221199599315"
+                }
+                ,
+                "year": "2017"
+            }
+            ,
+            {
+                "title": "General discussion on the most relevant characteristics of research infrastructures for scientometrics",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:4oJvMfeQlr8C",
+                "citation_id": "6dUTpTYAAAAJ:4oJvMfeQlr8C",
+                "authors": "R Costas",
+                "publication": "BIBLIOMETRIA E CIENTOMETRIA NO BRASIL: INFRAESTRUTURA PARA AVALIAÇÃO DA …, 2017",
+                "cited_by":
+                {
+                    "value": 21,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13082936506021574878,8368525348002528752",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=13082936506021574878%2C8368525348002528752&engine=google_scholar&hl=en",
+                    "cites_id": "13082936506021574878,8368525348002528752"
+                }
+                ,
+                "year": "2017"
+            }
+            ,
+            {
+                "title": "Towards a global scientific brain: Indicators of researcher mobility using co-affiliation data",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:j8pvxH-kN2QC",
+                "citation_id": "6dUTpTYAAAAJ:j8pvxH-kN2QC",
+                "authors": "CR Sugimoto, N Robinson-García, R Costas",
+                "publication": "arXiv preprint arXiv:1609.06499, 2016",
+                "cited_by":
+                {
+                    "value": 21,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11500190832074783512",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11500190832074783512&engine=google_scholar&hl=en",
+                    "cites_id": "11500190832074783512"
+                }
+                ,
+                "year": "2016"
+            }
+            ,
+            {
+                "title": "Predicting the age of researchers using bibliometric data",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:vD2iS2Kej30C",
+                "citation_id": "6dUTpTYAAAAJ:vD2iS2Kej30C",
+                "authors": "GF Nane, V Larivière, R Costas",
+                "publication": "Journal of informetrics 11 (3), 713-729, 2017",
+                "cited_by":
+                {
+                    "value": 20,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11047059776158512026",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11047059776158512026&engine=google_scholar&hl=en",
+                    "cites_id": "11047059776158512026"
+                }
+                ,
+                "year": "2017"
+            }
+            ,
+            {
+                "title": "Getting to know science tweeters: A pilot analysis of South African Twitter users tweeting about research articles",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:BFa5h04uPMwC",
+                "citation_id": "6dUTpTYAAAAJ:BFa5h04uPMwC",
+                "authors": "M Joubert, R Costas",
+                "publication": "Journal of altmetrics 2 (1), 2, 2020",
+                "cited_by":
+                {
+                    "value": 19,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7658068569249118552",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=7658068569249118552&engine=google_scholar&hl=en",
+                    "cites_id": "7658068569249118552"
+                }
+                ,
+                "year": "2020"
+            }
+            ,
+            {
+                "title": "Beyond funding: Acknowledgement patterns in biomedical, natural and social sciences",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:Cvh0bltMcLgC",
+                "citation_id": "6dUTpTYAAAAJ:Cvh0bltMcLgC",
+                "authors": "A Paul-Hus, AA Díaz-Faes, M Sainte-Marie, N Desrochers, R Costas, ...",
+                "publication": "PloS one 12 (10), e0185578, 2017",
+                "cited_by":
+                {
+                    "value": 18,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7548700122809140857",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=7548700122809140857&engine=google_scholar&hl=en",
+                    "cites_id": "7548700122809140857"
+                }
+                ,
+                "year": "2017"
+            }
+            ,
+            {
+                "title": "Do Mendeley readership counts help to filter highly cited WoS publications better than average citation impact of journals (JCS)?",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:Gb6Hms-Uo9kC",
+                "citation_id": "6dUTpTYAAAAJ:Gb6Hms-Uo9kC",
+                "authors": "Z Zahedi, R Costas, P Wouters",
+                "publication": "arXiv preprint arXiv:1507.02093, 2015",
+                "cited_by":
+                {
+                    "value": 18,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9388700969054606466",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=9388700969054606466&engine=google_scholar&hl=en",
+                    "cites_id": "9388700969054606466"
+                }
+                ,
+                "year": "2015"
+            }
+            ,
+            {
+                "title": "Some limitations of the h index: A commentary on Ruscio and colleagues' analysis of bibliometric indices",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:9ZlFYXVOiuMC",
+                "citation_id": "6dUTpTYAAAAJ:9ZlFYXVOiuMC",
+                "authors": "L Waltman, R Costas, N Jan van Eck",
+                "publication": "Measurement: Interdisciplinary Research and Perspectives 10 (3), 172-175, 2012",
+                "cited_by":
+                {
+                    "value": 18,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10081393659529557700",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10081393659529557700&engine=google_scholar&hl=en",
+                    "cites_id": "10081393659529557700"
+                }
+                ,
+                "year": "2012"
+            }
+            ,
+            {
+                "title": "Las ciencias y tecnologías marinas en España",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:8k81kl-MbHgC",
+                "citation_id": "6dUTpTYAAAAJ:8k81kl-MbHgC",
+                "authors": "CM Duarte, SH León",
+                "publication": "Consejo Superior de Investigacines Cientficas, 2006",
+                "cited_by":
+                {
+                    "value": 18,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15748500646100857783",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15748500646100857783&engine=google_scholar&hl=en",
+                    "cites_id": "15748500646100857783"
+                }
+                ,
+                "year": "2006"
+            }
+            ,
+            {
+                "title": "Tracking the Twitter attention around the research efforts on the COVID-19 pandemic",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:F9HO9s0W2bwC",
+                "citation_id": "6dUTpTYAAAAJ:F9HO9s0W2bwC",
+                "authors": "Z Fang, R Costas",
+                "publication": "arXiv preprint arXiv:2006.05783, 2020",
+                "cited_by":
+                {
+                    "value": 16,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=909433746231383621",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=909433746231383621&engine=google_scholar&hl=en",
+                    "cites_id": "909433746231383621"
+                }
+                ,
+                "year": "2020"
+            }
+            ,
+            {
+                "title": "Possibilities of Funding Acknowledgement analysis for the bibliometric study of research funding organizations: case study of the Austrian Science Fund (FWF)",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:sJK75vZXtG0C",
+                "citation_id": "6dUTpTYAAAAJ:sJK75vZXtG0C",
+                "authors": "R Costas, A Yegros-Yegros",
+                "publication": "Proceedings of ISSI 2013 Vienna, 1401-1408, 2013",
+                "cited_by":
+                {
+                    "value": 15,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2307768315102234542",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=2307768315102234542&engine=google_scholar&hl=en",
+                    "cites_id": "2307768315102234542"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "Determining Twitter audiences: geolocation and number of followers",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:hKjooKYXoHIC",
+                "citation_id": "6dUTpTYAAAAJ:hKjooKYXoHIC",
+                "authors": "S Haustein, R Costas",
+                "publication": "altmetrics15: 5 years in, what do we know?, 2015",
+                "cited_by":
+                {
+                    "value": 14,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3938194427002818467",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=3938194427002818467&engine=google_scholar&hl=en",
+                    "cites_id": "3938194427002818467"
+                }
+                ,
+                "year": "2015"
+            }
+            ,
+            {
+                "title": "Developing indicators on Open Access by combining evidence from diverse data sources",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:_IsBomjs8bsC",
+                "citation_id": "6dUTpTYAAAAJ:_IsBomjs8bsC",
+                "authors": "T van Leeuwen, I Meijer, A Yegros-Yegros, R Costas",
+                "publication": "arXiv preprint arXiv:1802.02827, 2018",
+                "cited_by":
+                {
+                    "value": 13,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6340609746828269158",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=6340609746828269158&engine=google_scholar&hl=en",
+                    "cites_id": "6340609746828269158"
+                }
+                ,
+                "year": "2018"
+            }
+            ,
+            {
+                "title": "Unravelling the performance of individual scholars: Use of Canonical Biplot analysis to explore the performance of scientists by academic rank and scientific field",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:GiYFt9mpioMC",
+                "citation_id": "6dUTpTYAAAAJ:GiYFt9mpioMC",
+                "authors": "AA Díaz-Faes, R Costas, MP Galindo, M Bordons",
+                "publication": "Journal of Informetrics 9 (4), 722-733, 2015",
+                "cited_by":
+                {
+                    "value": 13,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=928458544525266371",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=928458544525266371&engine=google_scholar&hl=en",
+                    "cites_id": "928458544525266371"
+                }
+                ,
+                "year": "2015"
+            }
+            ,
+            {
+                "title": "The stability of Twitter metrics: A study on unavailable Twitter mentions of scientific publications",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:h1pkognVyKwC",
+                "citation_id": "6dUTpTYAAAAJ:h1pkognVyKwC",
+                "authors": "Z Fang, J Dudek, R Costas",
+                "publication": "Journal of the Association for Information Science and Technology 71 (12 …, 2020",
+                "cited_by":
+                {
+                    "value": 12,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8894596700529898633",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=8894596700529898633&engine=google_scholar&hl=en",
+                    "cites_id": "8894596700529898633"
+                }
+                ,
+                "year": "2020"
+            }
+            ,
+            {
+                "title": "How do academic topics shift across altmetric sources? A case study of the research area of Big Data",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:koF6b02d8EEC",
+                "citation_id": "6dUTpTYAAAAJ:koF6b02d8EEC",
+                "authors": "X Lyu, R Costas",
+                "publication": "Scientometrics 123 (2), 909-943, 2020",
+                "cited_by":
+                {
+                    "value": 12,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9424072703937495954",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=9424072703937495954&engine=google_scholar&hl=en",
+                    "cites_id": "9424072703937495954"
+                }
+                ,
+                "year": "2020"
+            }
+            ,
+            {
+                "title": "Beyond the dependencies of altmetrics: Conceptualizing ‘heterogeneous couplings’ between social media and science",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:rpSJNIKeXWsC",
+                "citation_id": "6dUTpTYAAAAJ:rpSJNIKeXWsC",
+                "authors": "R Costas, S de Rijcke, N Marres",
+                "publication": "The 2017 Altmetrics Workshop [Internet], 2017",
+                "cited_by":
+                {
+                    "value": 12,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6901797069601061516",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=6901797069601061516&engine=google_scholar&hl=en",
+                    "cites_id": "6901797069601061516"
+                }
+                ,
+                "year": "2017"
+            }
+            ,
+            {
+                "title": "Is the Year of First Publication a Good Proxy of Scholars’ Academic Age?",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:LWqeokA2EBkC",
+                "citation_id": "6dUTpTYAAAAJ:LWqeokA2EBkC",
+                "authors": "R Costas, T Nane, V Larivière",
+                "cited_by":
+                {
+                    "value": 11,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=822292731049532782",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=822292731049532782&engine=google_scholar&hl=en",
+                    "cites_id": "822292731049532782"
+                }
+                ,
+                "year": "2015"
+            }
+            ,
+            {
+                "title": "How consistent are altmetrics providers",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:qCaWouos7ogC",
+                "citation_id": "6dUTpTYAAAAJ:qCaWouos7ogC",
+                "authors": "Z Zahedi, M Fenner, R Costas",
+                "publication": "Study of 1000, 2014",
+                "cited_by":
+                {
+                    "value": 11,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11068440578787924421",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11068440578787924421&engine=google_scholar&hl=en",
+                    "cites_id": "11068440578787924421"
+                }
+                ,
+                "year": "2014"
+            }
+            ,
+            {
+                "title": "Effects of the durability of scientific literature at the group level: Case study of chemistry research groups in the Netherlands",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:7PzlFSSx8tAC",
+                "citation_id": "6dUTpTYAAAAJ:7PzlFSSx8tAC",
+                "authors": "R Costas, TN van Leeuwen, AFJ van Raan",
+                "publication": "Research Policy 42 (4), 886-894, 2013",
+                "cited_by":
+                {
+                    "value": 11,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3134651816607396374",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=3134651816607396374&engine=google_scholar&hl=en",
+                    "cites_id": "3134651816607396374"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "F1000 recommendations as a new data source for research evaluation: A comparison with citations",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:vkuYBMKU6wEC",
+                "citation_id": "6dUTpTYAAAAJ:vkuYBMKU6wEC",
+                "authors": "L Waltman, R Costas",
+                "publication": "arXiv preprint arXiv:1303.3875, 2013",
+                "cited_by":
+                {
+                    "value": 11,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5535426676204089815",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=5535426676204089815&engine=google_scholar&hl=en",
+                    "cites_id": "5535426676204089815"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "On the relationship between author collaboration and impact of scientific publications",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:aqlVkmm33-oC",
+                "citation_id": "6dUTpTYAAAAJ:aqlVkmm33-oC",
+                "authors": "R Costas, C van Bochove",
+                "publication": "Proceedings of 17th international conference on science and technology …, 2012",
+                "cited_by":
+                {
+                    "value": 11,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10251883490939198138",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10251883490939198138&engine=google_scholar&hl=en",
+                    "cites_id": "10251883490939198138"
+                }
+                ,
+                "year": "2012"
+            }
+            ,
+            {
+                "title": "Link-based approach to study scientific software usage: The case of VOSviewer",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:Oo_WeVVXg5wC",
+                "citation_id": "6dUTpTYAAAAJ:Oo_WeVVXg5wC",
+                "authors": "E Orduña-Malea, R Costas",
+                "publication": "Scientometrics 126 (9), 8153-8186, 2021",
+                "cited_by":
+                {
+                    "value": 10,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4208206509680387909",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=4208206509680387909&engine=google_scholar&hl=en",
+                    "cites_id": "4208206509680387909"
+                }
+                ,
+                "year": "2021"
+            }
+            ,
+            {
+                "title": "Unveiling the Research Landscape of Sustainable Development Goals and Their Inclusion in Higher Education Institutions and Research Centers: Major Trends in 2000–2017",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:Oj-SLI0tZTcC",
+                "citation_id": "6dUTpTYAAAAJ:Oj-SLI0tZTcC",
+                "authors": "N Bautista-Puig, AM Aleixo, S Leal, U Azeiteiro, R Costas",
+                "publication": "Frontiers in Sustainability, 12, 2021",
+                "cited_by":
+                {
+                    "value": 10,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17725462340968659720",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=17725462340968659720&engine=google_scholar&hl=en",
+                    "cites_id": "17725462340968659720"
+                }
+                ,
+                "year": "2021"
+            }
+            ,
+            {
+                "title": "Communities of shared interests and cognitive bridges: The case of the anti-vaccination movement on Twitter",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:KqW5X_olkfQC",
+                "citation_id": "6dUTpTYAAAAJ:KqW5X_olkfQC",
+                "authors": "F van Schalkwyk, J Dudek, R Costas",
+                "publication": "Scientometrics 125 (2), 1499-1516, 2020",
+                "cited_by":
+                {
+                    "value": 10,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3445371121365128117",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=3445371121365128117&engine=google_scholar&hl=en",
+                    "cites_id": "3445371121365128117"
+                }
+                ,
+                "year": "2020"
+            }
+            ,
+            {
+                "title": "Meta-Research: Task specialization across research careers",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:6pF0wJmtdfAC",
+                "citation_id": "6dUTpTYAAAAJ:6pF0wJmtdfAC",
+                "authors": "N Robinson-Garcia, R Costas, CR Sugimoto, V Larivière, GF Nane",
+                "publication": "eLife 9, e60586, 2020",
+                "cited_by":
+                {
+                    "value": 10,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4541319977382101805,4122083165438992420",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=4541319977382101805%2C4122083165438992420&engine=google_scholar&hl=en",
+                    "cites_id": "4541319977382101805,4122083165438992420"
+                }
+                ,
+                "year": "2020"
+            }
+            ,
+            {
+                "title": "Research funding landscapes in Africa",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:g30IDTdgJMgC",
+                "citation_id": "6dUTpTYAAAAJ:g30IDTdgJMgC",
+                "authors": "C Kozma, C Calero-Medina, R Costas",
+                "publication": "The Next Generation of Scientists in Africa, 26-42, 2018",
+                "cited_by":
+                {
+                    "value": 10,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7783501617601485288",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=7783501617601485288&engine=google_scholar&hl=en",
+                    "cites_id": "7783501617601485288"
+                }
+                ,
+                "year": "2018"
+            }
+            ,
+            {
+                "title": "How visible are the research of different countries: an analysis of global vs. local reach of WoS publications on Twitter",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:5VjbC5aozO0C",
+                "citation_id": "6dUTpTYAAAAJ:5VjbC5aozO0C",
+                "authors": "Z Zahedi, R Costas",
+                "publication": "16th International Conference on Scientometrics & Informetrics (ISSI2017), 2017",
+                "cited_by":
+                {
+                    "value": 10,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15192608680676882904",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15192608680676882904&engine=google_scholar&hl=en",
+                    "cites_id": "15192608680676882904"
+                }
+                ,
+                "year": "2017"
+            }
+            ,
+            {
+                "title": "Networks of international collaboration and mobility: a comparative study",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:DGzKIA18-3YC",
+                "citation_id": "6dUTpTYAAAAJ:DGzKIA18-3YC",
+                "authors": "Z Chinchilla-Rodríguez, L Miao, D Murray, N Robinson-García, ...",
+                "publication": "International Society of Scientometrics and Informetrics, 2017",
+                "cited_by":
+                {
+                    "value": 10,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13896711965248589145",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=13896711965248589145&engine=google_scholar&hl=en",
+                    "cites_id": "13896711965248589145"
+                }
+                ,
+                "year": "2017"
+            }
+            ,
+            {
+                "title": "Why do scientists fabricate and falsify data? A matched-control analysis of papers containing problematic image duplications",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:SWgZeABleR0C",
+                "citation_id": "6dUTpTYAAAAJ:SWgZeABleR0C",
+                "authors": "D Fanelli, R Costas, FC Fang, A Casadevall, EM Bik",
+                "publication": "BioRxiv, 126805, 2017",
+                "cited_by":
+                {
+                    "value": 10,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17010659095488475408",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=17010659095488475408&engine=google_scholar&hl=en",
+                    "cites_id": "17010659095488475408"
+                }
+                ,
+                "year": "2017"
+            }
+            ,
+            {
+                "title": "Scientific mobility indicators in practice: International mobility profiles at the country level",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:TeJ9juy8vcMC",
+                "citation_id": "6dUTpTYAAAAJ:TeJ9juy8vcMC",
+                "authors": "N Robinson-García, CR Sugimoto, D Murray, A Yegros-Yegros, ...",
+                "publication": "arXiv preprint arXiv:1806.07815, 2018",
+                "cited_by":
+                {
+                    "value": 9,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7901544398034672945",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=7901544398034672945&engine=google_scholar&hl=en",
+                    "cites_id": "7901544398034672945"
+                }
+                ,
+                "year": "2018"
+            }
+            ,
+            {
+                "title": "On the quest for currencies of science: Field “exchange rates” for citations and Mendeley readership",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:urP0JZOBBUsC",
+                "citation_id": "6dUTpTYAAAAJ:urP0JZOBBUsC",
+                "authors": "R Costas, A Perianes-Rodríguez, J Ruiz-Castillo",
+                "publication": "Aslib Journal of Information Management, 2017",
+                "cited_by":
+                {
+                    "value": 9,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9917371426131723834,2538776652298455134",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=9917371426131723834%2C2538776652298455134&engine=google_scholar&hl=en",
+                    "cites_id": "9917371426131723834,2538776652298455134"
+                }
+                ,
+                "year": "2017"
+            }
+            ,
+            {
+                "title": "Integrating context in Twitter metrics: preliminary investigation on the possibilities of hashtags as an altmetric resource",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:o9ULDYDKYbIC",
+                "citation_id": "6dUTpTYAAAAJ:o9ULDYDKYbIC",
+                "authors": "J van Honk, R Costas",
+                "publication": "altmetrics16. Moving beyond counts: integrating context, 2016",
+                "cited_by":
+                {
+                    "value": 9,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17226752673691053343",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=17226752673691053343&engine=google_scholar&hl=en",
+                    "cites_id": "17226752673691053343"
+                }
+                ,
+                "year": "2016"
+            }
+            ,
+            {
+                "title": "Análisis bibliométrico de la actividad científica de los investigadores del CSIC en tres áreas, Biología y Biomedicina, Ciencia de los Materiales y Recursos Naturales: una …",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:KlAtU1dfN6UC",
+                "citation_id": "6dUTpTYAAAAJ:KlAtU1dfN6UC",
+                "authors": "R Costas Comesaña",
+                "cited_by":
+                {
+                    "value": 9,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3598432827918286422,11203855665244478901",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=3598432827918286422%2C11203855665244478901&engine=google_scholar&hl=en",
+                    "cites_id": "3598432827918286422,11203855665244478901"
+                }
+                ,
+                "year": "2008"
+            }
+            ,
+            {
+                "title": "State of open access penetration in universities worldwide",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:onKP9CxGSkIC",
+                "citation_id": "6dUTpTYAAAAJ:onKP9CxGSkIC",
+                "authors": "N Robinson-Garcia, R Costas, TN van Leeuwen",
+                "publication": "Preprint, 2020",
+                "cited_by":
+                {
+                    "value": 8,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18089066439376304607",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=18089066439376304607&engine=google_scholar&hl=en",
+                    "cites_id": "18089066439376304607"
+                }
+                ,
+                "year": "2020"
+            }
+            ,
+            {
+                "title": "Individual and field citation distributions in 29 broad scientific fields",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:vofGIMt6cyEC",
+                "citation_id": "6dUTpTYAAAAJ:vofGIMt6cyEC",
+                "authors": "J Ruiz-Castillo, R Costas",
+                "publication": "Journal of Informetrics 12 (3), 868-892, 2018",
+                "cited_by":
+                {
+                    "value": 8,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7992044597935099826,8834483406154940870",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=7992044597935099826%2C8834483406154940870&engine=google_scholar&hl=en",
+                    "cites_id": "7992044597935099826,8834483406154940870"
+                }
+                ,
+                "year": "2018"
+            }
+            ,
+            {
+                "title": "Building ties across countries: International collaboration, field specialization, and global leadership",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:TiIbgCYny7sC",
+                "citation_id": "6dUTpTYAAAAJ:TiIbgCYny7sC",
+                "authors": "Z Chinchilla-Rodríguez, V Larivière, R Costas Comesaña, ...",
+                "cited_by":
+                {
+                    "value": 8,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15596634201648172862",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15596634201648172862&engine=google_scholar&hl=en",
+                    "cites_id": "15596634201648172862"
+                }
+                ,
+                "year": "2018"
+            }
+            ,
+            {
+                "title": "Funding acknowledgements in the Web of Science: inconsistencies in data collection and standardization of funding organizations",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:cdwqcPQS8ssC",
+                "citation_id": "6dUTpTYAAAAJ:cdwqcPQS8ssC",
+                "authors": "J Van Honk, C Calero-Medina, R Costas",
+                "publication": "21st International Conference on Science and Technology Indicators-STI 2016 …, 2016",
+                "cited_by":
+                {
+                    "value": 8,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2702408918613612522",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=2702408918613612522&engine=google_scholar&hl=en",
+                    "cites_id": "2702408918613612522"
+                }
+                ,
+                "year": "2016"
+            }
+            ,
+            {
+                "title": "Authorship, patents, citations, acknowledgments, tweets, reader counts and the multifaceted reward system of science",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:mVC4hKzE2FoC",
+                "citation_id": "6dUTpTYAAAAJ:mVC4hKzE2FoC",
+                "authors": "N Desrochers, TD Bowman, S Haustein, P Mongeon, A Quan‐Haase, ...",
+                "publication": "Proceedings of the Association for Information Science and Technology 52 (1 …, 2015",
+                "cited_by":
+                {
+                    "value": 8,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9859765549679674654",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=9859765549679674654&engine=google_scholar&hl=en",
+                    "cites_id": "9859765549679674654"
+                }
+                ,
+                "year": "2015"
+            }
+            ,
+            {
+                "title": "“Heterogeneous couplings”: Operationalizing network perspectives to study science‐society interactions through social media metrics",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6dUTpTYAAAAJ&pagesize=100&citation_for_view=6dUTpTYAAAAJ:k8to_Y4Q4_EC",
+                "citation_id": "6dUTpTYAAAAJ:k8to_Y4Q4_EC",
+                "authors": "R Costas, S de Rijcke, N Marres",
+                "publication": "Journal of the Association for Information Science and Technology 72 (5 …, 2021",
+                "cited_by":
+                {
+                    "value": 7,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4694885093613545406",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=4694885093613545406&engine=google_scholar&hl=en",
+                    "cites_id": "4694885093613545406"
+                }
+                ,
+                "year": "2021"
+            }
+        ]
+        ,
+        "cited_by":
+        {
+            "table":
+            [
+                {
+                    "citations":
+                    {
+                        "all": 7304,
+                        "since_2017": 5203
+                    }
+                }
+                ,
+                {
+                    "h_index":
+                    {
+                        "all": 40,
+                        "since_2017": 35
+                    }
+                }
+                ,
+                {
+                    "i10_index":
+                    {
+                        "all": 90,
+                        "since_2017": 79
+                    }
+                }
+            ]
+            ,
+            "graph":
+            [
+                {
+                    "year": 2008,
+                    "citations": 43
+                }
+                ,
+                {
+                    "year": 2009,
+                    "citations": 61
+                }
+                ,
+                {
+                    "year": 2010,
+                    "citations": 79
+                }
+                ,
+                {
+                    "year": 2011,
+                    "citations": 105
+                }
+                ,
+                {
+                    "year": 2012,
+                    "citations": 126
+                }
+                ,
+                {
+                    "year": 2013,
+                    "citations": 162
+                }
+                ,
+                {
+                    "year": 2014,
+                    "citations": 323
+                }
+                ,
+                {
+                    "year": 2015,
+                    "citations": 535
+                }
+                ,
+                {
+                    "year": 2016,
+                    "citations": 541
+                }
+                ,
+                {
+                    "year": 2017,
+                    "citations": 670
+                }
+                ,
+                {
+                    "year": 2018,
+                    "citations": 906
+                }
+                ,
+                {
+                    "year": 2019,
+                    "citations": 986
+                }
+                ,
+                {
+                    "year": 2020,
+                    "citations": 1146
+                }
+                ,
+                {
+                    "year": 2021,
+                    "citations": 1282
+                }
+                ,
+                {
+                    "year": 2022,
+                    "citations": 196
+                }
+            ]
+        }
+        ,
+        "public_access":
+        {
+            "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=6dUTpTYAAAAJ",
+            "available": 64,
+            "not_available": 2
+        }
+        ,
+        "serpapi_pagination":
+        {
+            "next": "https://serpapi.com/search.json?author_id=6dUTpTYAAAAJ&engine=google_scholar_author&hl=en&num=100&start=100"
+        }
+    }

@@ -1,0 +1,250 @@
+
+    {
+        "search_metadata":
+        {
+            "id": "6242f191ada54bb762134187",
+            "status": "Success",
+            "json_endpoint": "https://serpapi.com/searches/d2373d6d31b223f8/6242f191ada54bb762134187.json",
+            "created_at": "2022-03-29 11:46:25 UTC",
+            "processed_at": "2022-03-29 11:46:25 UTC",
+            "google_scholar_url": "https://scholar.google.com/scholar?cites=887046824691204912&hl=en&scipsc=1",
+            "raw_html_file": "https://serpapi.com/searches/d2373d6d31b223f8/6242f191ada54bb762134187.html",
+            "total_time_taken": 2.39
+        }
+        ,
+        "search_parameters":
+        {
+            "engine": "google_scholar",
+            "cites": "887046824691204912",
+            "hl": "en"
+        }
+        ,
+        "search_information":
+        {
+            "organic_results_state": "Results for exact spelling",
+            "total_results": 4,
+            "time_taken_displayed": 0.01
+        }
+        ,
+        "profiles":
+        {
+            "link": "https://scholar.google.com/scholar?cluster=887046824691204912&hl=en&as_sdt=2005&sciodt=0,5",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en"
+        }
+        ,
+        "organic_results":
+        [
+            {
+                "position": 0,
+                "title": "Research and academic leadership: gaming with altmetrics in the digital age",
+                "result_id": "rmzqwFH_cPQJ",
+                "link": "https://link.springer.com/chapter/10.1007/978-3-030-15495-0_32",
+                "snippet": "Our paper aimed at contemplating over the novel measures of research functionality and efficiency used for measuring academic leadership from the point of view of …",
+                "publication_info":
+                {
+                    "summary": "W Strielkowski, O Chigisheva - Sustainable Leadership for Entrepreneurs …, 2019 - Springer",
+                    "authors":
+                    [
+                        {
+                            "name": "W Strielkowski",
+                            "link": "https://scholar.google.com/citations?user=04kL2HUAAAAJ&hl=en&oi=sra",
+                            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=04kL2HUAAAAJ&engine=google_scholar_author&hl=en",
+                            "author_id": "04kL2HUAAAAJ"
+                        }
+                    ]
+                }
+                ,
+                "resources":
+                [
+                    {
+                        "title": "researchgate.net",
+                        "file_format": "PDF",
+                        "link": "https://www.researchgate.net/profile/Ganna-Kashina/publication/334825763_Commercialization_of_Research_and_Education_as_a_Factor_of_Leadership_in_the_Global_Educational_Space/links/5d42d98d4585153e5932c643/Commercialization-of-Research-and-Education-as-a-Factor-of-Leadership-in-the-Global-Educational-Space.pdf#page=297"
+                    }
+                ]
+                ,
+                "inline_links":
+                {
+                    "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=rmzqwFH_cPQJ",
+                    "cited_by":
+                    {
+                        "total": 6,
+                        "link": "https://scholar.google.com/scholar?cites=17613858869240032430&as_sdt=2005&sciodt=0,5&hl=en",
+                        "cites_id": "17613858869240032430",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=17613858869240032430&engine=google_scholar&hl=en"
+                    }
+                    ,
+                    "related_pages_link": "https://scholar.google.com/scholar?q=related:rmzqwFH_cPQJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+                    "versions":
+                    {
+                        "total": 7,
+                        "link": "https://scholar.google.com/scholar?cluster=17613858869240032430&hl=en&as_sdt=2005&sciodt=0,5",
+                        "cluster_id": "17613858869240032430",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=17613858869240032430&engine=google_scholar&hl=en"
+                    }
+                }
+            }
+            ,
+            {
+                "position": 1,
+                "title": "The current and future uses of machine learning in ecosystem service research",
+                "result_id": "wmO5XAsgsRoJ",
+                "type": "Html",
+                "link": "https://www.sciencedirect.com/science/article/pii/S0048969721043369",
+                "snippet": "Abstract Machine learning (ML) expands traditional data analysis and presents a range of opportunities in ecosystem service (ES) research, offering rapid processing of 'big data'and …",
+                "publication_info":
+                {
+                    "summary": "M Scowen, IN Athanasiadis, JM Bullock… - Science of the Total …, 2021 - Elsevier",
+                    "authors":
+                    [
+                        {
+                            "name": "M Scowen",
+                            "link": "https://scholar.google.com/citations?user=3JoIrEIAAAAJ&hl=en&oi=sra",
+                            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=3JoIrEIAAAAJ&engine=google_scholar_author&hl=en",
+                            "author_id": "3JoIrEIAAAAJ"
+                        }
+                        ,
+                        {
+                            "name": "IN Athanasiadis",
+                            "link": "https://scholar.google.com/citations?user=effzbRYAAAAJ&hl=en&oi=sra",
+                            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=effzbRYAAAAJ&engine=google_scholar_author&hl=en",
+                            "author_id": "effzbRYAAAAJ"
+                        }
+                        ,
+                        {
+                            "name": "JM Bullock",
+                            "link": "https://scholar.google.com/citations?user=xfGsqi0AAAAJ&hl=en&oi=sra",
+                            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=xfGsqi0AAAAJ&engine=google_scholar_author&hl=en",
+                            "author_id": "xfGsqi0AAAAJ"
+                        }
+                    ]
+                }
+                ,
+                "resources":
+                [
+                    {
+                        "title": "sciencedirect.com",
+                        "file_format": "HTML",
+                        "link": "https://www.sciencedirect.com/science/article/pii/S0048969721043369"
+                    }
+                ]
+                ,
+                "inline_links":
+                {
+                    "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=wmO5XAsgsRoJ",
+                    "html_version": "https://www.sciencedirect.com/science/article/pii/S0048969721043369",
+                    "cited_by":
+                    {
+                        "total": 3,
+                        "link": "https://scholar.google.com/scholar?cites=1923353749036295106&as_sdt=2005&sciodt=0,5&hl=en",
+                        "cites_id": "1923353749036295106",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=1923353749036295106&engine=google_scholar&hl=en"
+                    }
+                    ,
+                    "related_pages_link": "https://scholar.google.com/scholar?q=related:wmO5XAsgsRoJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+                    "versions":
+                    {
+                        "total": 9,
+                        "link": "https://scholar.google.com/scholar?cluster=1923353749036295106&hl=en&as_sdt=2005&sciodt=0,5",
+                        "cluster_id": "1923353749036295106",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=1923353749036295106&engine=google_scholar&hl=en"
+                    }
+                }
+            }
+            ,
+            {
+                "position": 2,
+                "title": "Avian species richness in cities: A review of the Spanish-language literature from the Southern Cone of South America",
+                "result_id": "CMBaMrXCs4QJ",
+                "link": "https://link.springer.com/article/10.1007/s11252-021-01180-w",
+                "snippet": "South America sustains an important part of the world's terrestrial biodiversity and its population is highly urbanized. Global syntheses have revealed a paucity of urban …",
+                "publication_info":
+                {
+                    "summary": "CB Muñoz-Pacheco, NR Villaseñor - Urban Ecosystems, 2021 - Springer",
+                    "authors":
+                    [
+                        {
+                            "name": "CB Muñoz-Pacheco",
+                            "link": "https://scholar.google.com/citations?user=ux_phJwAAAAJ&hl=en&oi=sra",
+                            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ux_phJwAAAAJ&engine=google_scholar_author&hl=en",
+                            "author_id": "ux_phJwAAAAJ"
+                        }
+                        ,
+                        {
+                            "name": "NR Villaseñor",
+                            "link": "https://scholar.google.com/citations?user=AeGEXeUAAAAJ&hl=en&oi=sra",
+                            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=AeGEXeUAAAAJ&engine=google_scholar_author&hl=en",
+                            "author_id": "AeGEXeUAAAAJ"
+                        }
+                    ]
+                }
+                ,
+                "resources":
+                [
+                    {
+                        "title": "researchsquare.com",
+                        "file_format": "PDF",
+                        "link": "https://www.researchsquare.com/article/rs-157419/latest.pdf"
+                    }
+                ]
+                ,
+                "inline_links":
+                {
+                    "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=CMBaMrXCs4QJ",
+                    "cited_by":
+                    {
+                        "total": 2,
+                        "link": "https://scholar.google.com/scholar?cites=9562200517327372296&as_sdt=2005&sciodt=0,5&hl=en",
+                        "cites_id": "9562200517327372296",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=9562200517327372296&engine=google_scholar&hl=en"
+                    }
+                    ,
+                    "related_pages_link": "https://scholar.google.com/scholar?q=related:CMBaMrXCs4QJ:scholar.google.com/&scioq=&hl=en&as_sdt=2005&sciodt=0,5",
+                    "versions":
+                    {
+                        "total": 5,
+                        "link": "https://scholar.google.com/scholar?cluster=9562200517327372296&hl=en&as_sdt=2005&sciodt=0,5",
+                        "cluster_id": "9562200517327372296",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cluster=9562200517327372296&engine=google_scholar&hl=en"
+                    }
+                }
+            }
+            ,
+            {
+                "position": 3,
+                "title": "Systematic literature review of context-awareness applications supported by smart cities' infrastructures",
+                "result_id": "kX1X2UO6izwJ",
+                "type": "Html",
+                "link": "https://link.springer.com/article/10.1007/s42452-022-04979-0",
+                "snippet": "Since none of the existing systematic reviews of the literature related to smart cities have focused on smart cities applications using context-aware features, this study aims to provide …",
+                "publication_info":
+                {
+                    "summary": "N Pacheco Rocha, A Dias, G Santinha… - SN Applied …, 2022 - Springer",
+                    "authors":
+                    [
+                        {
+                            "name": "N Pacheco Rocha",
+                            "link": "https://scholar.google.com/citations?user=9EK9PCwAAAAJ&hl=en&oi=sra",
+                            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=9EK9PCwAAAAJ&engine=google_scholar_author&hl=en",
+                            "author_id": "9EK9PCwAAAAJ"
+                        }
+                    ]
+                }
+                ,
+                "resources":
+                [
+                    {
+                        "title": "springer.com",
+                        "file_format": "HTML",
+                        "link": "https://link.springer.com/article/10.1007/s42452-022-04979-0"
+                    }
+                ]
+                ,
+                "inline_links":
+                {
+                    "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=kX1X2UO6izwJ",
+                    "html_version": "https://link.springer.com/article/10.1007/s42452-022-04979-0"
+                }
+            }
+        ]
+    }

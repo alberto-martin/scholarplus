@@ -1,0 +1,2131 @@
+
+    {
+        "search_metadata":
+        {
+            "id": "623854e818ca862ec1d15f67",
+            "status": "Success",
+            "json_endpoint": "https://serpapi.com/searches/3f70fe8de9029851/623854e818ca862ec1d15f67.json",
+            "created_at": "2022-03-21 10:35:20 UTC",
+            "processed_at": "2022-03-21 10:35:20 UTC",
+            "google_scholar_author_url": "https://scholar.google.com/citations?user=HULIk-QAAAAJ&hl=en&cstart=0&pagesize=100",
+            "raw_html_file": "https://serpapi.com/searches/3f70fe8de9029851/623854e818ca862ec1d15f67.html",
+            "total_time_taken": 0.25
+        }
+        ,
+        "search_parameters":
+        {
+            "engine": "google_scholar_author",
+            "author_id": "HULIk-QAAAAJ",
+            "hl": "en",
+            "start": 0,
+            "num": "100"
+        }
+        ,
+        "author":
+        {
+            "name": "Francisco Herrera",
+            "affiliations": "Professor Computer Science and AI, Granada University, Spain",
+            "email": "Verified email at decsai.ugr.es",
+            "website": "http://decsai.ugr.es/~herrera/",
+            "interests":
+            [
+                {
+                    "title": "Artificial Intelligence",
+                    "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:artificial_intelligence",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aartificial_intelligence"
+                }
+                ,
+                {
+                    "title": "Computational Intelligence",
+                    "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computational_intelligence",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acomputational_intelligence"
+                }
+                ,
+                {
+                    "title": "Data mining",
+                    "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:data_mining",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adata_mining"
+                }
+                ,
+                {
+                    "title": "Evolutionary Algorithms",
+                    "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:evolutionary_algorithms",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aevolutionary_algorithms"
+                }
+                ,
+                {
+                    "title": "Big Data Analytics",
+                    "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:big_data_analytics",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Abig_data_analytics"
+                }
+            ]
+            ,
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=HULIk-QAAAAJ&citpid=8"
+        }
+        ,
+        "articles":
+        [
+            {
+                "title": "A practical tutorial on the use of nonparametric statistical tests as a methodology for comparing evolutionary and swarm intelligence algorithms",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:geHnlv5EZngC",
+                "citation_id": "HULIk-QAAAAJ:geHnlv5EZngC",
+                "authors": "J Derrac, S García, D Molina, F Herrera",
+                "publication": "Swarm and Evolutionary Computation 1 (1), 3-18, 2011",
+                "cited_by":
+                {
+                    "value": 3400,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14214741108174619185",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=14214741108174619185&engine=google_scholar&hl=en",
+                    "cites_id": "14214741108174619185"
+                }
+                ,
+                "year": "2011"
+            }
+            ,
+            {
+                "title": "A 2-tuple fuzzy linguistic representation model for computing with words",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:u-x6o8ySG0sC",
+                "citation_id": "HULIk-QAAAAJ:u-x6o8ySG0sC",
+                "authors": "F Herrera, L Martínez",
+                "publication": "Fuzzy Systems, IEEE Transactions on 8 (6), 746-752, 2000",
+                "cited_by":
+                {
+                    "value": 2909,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1219182974236821107",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=1219182974236821107&engine=google_scholar&hl=en",
+                    "cites_id": "1219182974236821107"
+                }
+                ,
+                "year": "2000"
+            }
+            ,
+            {
+                "title": "Keel data-mining software tool: Data set repository, integration of algorithms and experimental analysis framework",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:YFjsv_pBGBYC",
+                "citation_id": "HULIk-QAAAAJ:YFjsv_pBGBYC",
+                "authors": "J Alcalá, A Fernández, J Luengo, J Derrac, S García, L Sánchez, ...",
+                "publication": "Journal of Multiple-Valued Logic and Soft Computing 17 (2-3), 255-287, 2011",
+                "cited_by":
+                {
+                    "value": 2258,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3854862322134639935,12733085239001955529",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=3854862322134639935%2C12733085239001955529&engine=google_scholar&hl=en",
+                    "cites_id": "3854862322134639935,12733085239001955529"
+                }
+                ,
+                "year": "2011"
+            }
+            ,
+            {
+                "title": "A Review on Ensembles for the Class Imbalance Problem: Bagging-, Boosting-, and Hybrid-Based Approaches",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:48xauSegjOkC",
+                "citation_id": "HULIk-QAAAAJ:48xauSegjOkC",
+                "authors": "M Galar, A Fernández, E Barrenechea, H Bustince, F Herrera",
+                "publication": "Systems, Man, and Cybernetics, Part C: Applications and Reviews, IEEE …, 2012",
+                "cited_by":
+                {
+                    "value": 2255,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16313092636936498754",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=16313092636936498754&engine=google_scholar&hl=en",
+                    "cites_id": "16313092636936498754"
+                }
+                ,
+                "year": "2012"
+            }
+            ,
+            {
+                "title": "Linguistic decision analysis: steps for solving decision problems under linguistic information",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:t-hv7AR41mYC",
+                "citation_id": "HULIk-QAAAAJ:t-hv7AR41mYC",
+                "authors": "F Herrera, E Herrera-Viedma",
+                "publication": "Fuzzy Sets and systems 115 (1), 67-82, 2000",
+                "cited_by":
+                {
+                    "value": 1921,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3831783526840735681",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=3831783526840735681&engine=google_scholar&hl=en",
+                    "cites_id": "3831783526840735681"
+                }
+                ,
+                "year": "2000"
+            }
+            ,
+            {
+                "title": "Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:H-3wYkpcA84C",
+                "citation_id": "HULIk-QAAAAJ:H-3wYkpcA84C",
+                "authors": "AB Arrieta, N Díaz-Rodríguez, J Del Ser, A Bennetot, S Tabik, A Barbado, ...",
+                "publication": "Information Fusion 58, Pages 82-115, 2020",
+                "cited_by":
+                {
+                    "value": 1896,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=315312605783825658",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=315312605783825658&engine=google_scholar&hl=en",
+                    "cites_id": "315312605783825658"
+                }
+                ,
+                "year": "2020"
+            }
+            ,
+            {
+                "title": "Hesitant Fuzzy Linguistic Terms Sets for Decision Making",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:F2UWTTQJPOcC",
+                "citation_id": "HULIk-QAAAAJ:F2UWTTQJPOcC",
+                "authors": "R Rodriguez, L Martinez, F Herrera",
+                "publication": "IEEE Transactions on Fuzzy Systems 20 (1), 109-119, 2012",
+                "cited_by":
+                {
+                    "value": 1822,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8134517362947789733",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=8134517362947789733&engine=google_scholar&hl=en",
+                    "cites_id": "8134517362947789733"
+                }
+                ,
+                "year": "2012"
+            }
+            ,
+            {
+                "title": "Advanced nonparametric tests for multiple comparisons in the design of experiments in computational intelligence and data mining: Experimental analysis of power",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:HDshCWvjkbEC",
+                "citation_id": "HULIk-QAAAAJ:HDshCWvjkbEC",
+                "authors": "S García, A Fernández, J Luengo, F Herrera",
+                "publication": "Information Sciences 180 (10), 2044-2064, 2010",
+                "cited_by":
+                {
+                    "value": 1662,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12402487008774005873",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=12402487008774005873&engine=google_scholar&hl=en",
+                    "cites_id": "12402487008774005873"
+                }
+                ,
+                "year": "2010"
+            }
+            ,
+            {
+                "title": "Tackling real-coded genetic algorithms: Operators and tools for behavioural analysis",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:u5HHmVD_uO8C",
+                "citation_id": "HULIk-QAAAAJ:u5HHmVD_uO8C",
+                "authors": "F Herrera, M Lozano, JL Verdegay",
+                "publication": "Artificial Intelligence Review 12 (4), 265-319, 1998",
+                "cited_by":
+                {
+                    "value": 1640,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17816569936479267961",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=17816569936479267961&engine=google_scholar&hl=en",
+                    "cites_id": "17816569936479267961"
+                }
+                ,
+                "year": "1998"
+            }
+            ,
+            {
+                "title": "A study on the use of non-parametric tests for analyzing the evolutionary algorithms’ behaviour: a case study on the CEC’2005 special session on real parameter optimization",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:UebtZRa9Y70C",
+                "citation_id": "HULIk-QAAAAJ:UebtZRa9Y70C",
+                "authors": "S García, D Molina, M Lozano, F Herrera",
+                "publication": "Journal of Heuristics 15 (6), 617-644, 2009",
+                "cited_by":
+                {
+                    "value": 1596,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11338104107093411602",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11338104107093411602&engine=google_scholar&hl=en",
+                    "cites_id": "11338104107093411602"
+                }
+                ,
+                "year": "2009"
+            }
+            ,
+            {
+                "title": "An extension on statistical comparisons of classifiers over multiple data sets for all pairwise comparisons",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:eQOLeE2rZwMC",
+                "citation_id": "HULIk-QAAAAJ:eQOLeE2rZwMC",
+                "authors": "S Garcıa, F Herrera",
+                "publication": "Journal of Machine Learning Research 9 (2677-2694), 66, 2008",
+                "cited_by":
+                {
+                    "value": 1446,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2820094434144530657",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=2820094434144530657&engine=google_scholar&hl=en",
+                    "cites_id": "2820094434144530657"
+                }
+                ,
+                "year": "2008"
+            }
+            ,
+            {
+                "title": "Genetic fuzzy systems: evolutionary tuning and learning of fuzzy knowledge bases",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:zGdJYJv2LkUC",
+                "citation_id": "HULIk-QAAAAJ:zGdJYJv2LkUC",
+                "authors": "LM O. Cordón, F. Herrera, F. Hoffmann",
+                "publication": "World Scientific Pub Co Inc, 2001",
+                "cited_by":
+                {
+                    "value": 1407,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17313121191153952282",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=17313121191153952282&engine=google_scholar&hl=en",
+                    "cites_id": "17313121191153952282"
+                }
+                ,
+                "year": "2001"
+            }
+            ,
+            {
+                "title": "Science mapping software tools: Review, analysis, and cooperative study among tools",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:EkHepimYqZsC",
+                "citation_id": "HULIk-QAAAAJ:EkHepimYqZsC",
+                "authors": "MJ Cobo, AG López‐Herrera, E Herrera‐Viedma, F Herrera",
+                "publication": "Journal of the American Society for Information Science and Technology 62 (7 …, 2011",
+                "cited_by":
+                {
+                    "value": 1375,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4252655242340076611",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=4252655242340076611&engine=google_scholar&hl=en",
+                    "cites_id": "4252655242340076611"
+                }
+                ,
+                "year": "2011"
+            }
+            ,
+            {
+                "title": "An insight into classification with imbalanced data: Empirical results and current trends on using data intrinsic characteristics",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:SpPTWFSNUtQC",
+                "citation_id": "HULIk-QAAAAJ:SpPTWFSNUtQC",
+                "authors": "V López, A Fernández, S García, V Palade, F Herrera",
+                "publication": "Information Sciences 250, 113-141, 2013",
+                "cited_by":
+                {
+                    "value": 1329,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4356127007802952928",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=4356127007802952928&engine=google_scholar&hl=en",
+                    "cites_id": "4356127007802952928"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "KEEL: a software tool to assess evolutionary algorithms for data mining problems",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:s85pQhAUCrAC",
+                "citation_id": "HULIk-QAAAAJ:s85pQhAUCrAC",
+                "authors": "J Alcalá-Fdez, L Sánchez, S García, MJ Del Jesus, S Ventura, JM Garrell, ...",
+                "publication": "Soft Computing-A Fusion of Foundations, Methodologies and Applications 13 (3 …, 2009",
+                "cited_by":
+                {
+                    "value": 1328,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13831780072743665990",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=13831780072743665990&engine=google_scholar&hl=en",
+                    "cites_id": "13831780072743665990"
+                }
+                ,
+                "year": "2009"
+            }
+            ,
+            {
+                "title": "A model of consensus in group decision making under linguistic assessments",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:oPLKW5k6eA4C",
+                "citation_id": "HULIk-QAAAAJ:oPLKW5k6eA4C",
+                "authors": "F Herrera, JL Herrera-Viedma, E, Verdegay",
+                "publication": "Fuzzy sets and Systems 78 (1), 73-87, 1996",
+                "cited_by":
+                {
+                    "value": 1265,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11207022546590518218",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11207022546590518218&engine=google_scholar&hl=en",
+                    "cites_id": "11207022546590518218"
+                }
+                ,
+                "year": "1996"
+            }
+            ,
+            {
+                "title": "A model based on linguistic 2-tuples for dealing with multigranular hierarchical linguistic contexts in multi-expert decision-making",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:2osOgNQ5qMEC",
+                "citation_id": "HULIk-QAAAAJ:2osOgNQ5qMEC",
+                "authors": "F Herrera, L Martínez",
+                "publication": "IEEE Transactions on Systems, Man, and Cybernetics, Part B (Cybernetics) 31 …, 2001",
+                "cited_by":
+                {
+                    "value": 1168,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17253027854496547372",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=17253027854496547372&engine=google_scholar&hl=en",
+                    "cites_id": "17253027854496547372"
+                }
+                ,
+                "year": "2001"
+            }
+            ,
+            {
+                "title": "Ten years of genetic fuzzy systems: current framework and new trends",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:d1gkVwhDpl0C",
+                "citation_id": "HULIk-QAAAAJ:d1gkVwhDpl0C",
+                "authors": "O Cordón, F Herrera, F Gomide, F Hoffmann, L Magdalena",
+                "publication": "Fuzzy Sets and Sytems 141, 5-31, 2004",
+                "cited_by":
+                {
+                    "value": 1111,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15200327456240887376",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15200327456240887376&engine=google_scholar&hl=en",
+                    "cites_id": "15200327456240887376"
+                }
+                ,
+                "year": "2004"
+            }
+            ,
+            {
+                "title": "An approach for detecting, quantifying, and visualizing the evolution of a research field: A practical application to the fuzzy sets theory field",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:tzM49s52ZIMC",
+                "citation_id": "HULIk-QAAAAJ:tzM49s52ZIMC",
+                "authors": "MJ Cobo, AG López-Herrera, E Herrera-Viedma, F Herrera",
+                "publication": "Journal of Informetrics 5 (1), 146-166, 2011",
+                "cited_by":
+                {
+                    "value": 1056,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17217381171755439545",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=17217381171755439545&engine=google_scholar&hl=en",
+                    "cites_id": "17217381171755439545"
+                }
+                ,
+                "year": "2011"
+            }
+            ,
+            {
+                "title": "Some issues on consistency of fuzzy preference relations",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:nPT8s1NX_-sC",
+                "citation_id": "HULIk-QAAAAJ:nPT8s1NX_-sC",
+                "authors": "E Herrera-Viedma, F Herrera, F Chiclana, M Luque",
+                "publication": "European Journal of Operational Research 154 (1), 98-109, 2004",
+                "cited_by":
+                {
+                    "value": 1012,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13259683073155401066",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=13259683073155401066&engine=google_scholar&hl=en",
+                    "cites_id": "13259683073155401066"
+                }
+                ,
+                "year": "2004"
+            }
+            ,
+            {
+                "title": "Integrating three representation models in fuzzy multipurpose decision making based on fuzzy preference relations",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:YTuZlYwrTOUC",
+                "citation_id": "HULIk-QAAAAJ:YTuZlYwrTOUC",
+                "authors": "F Chiclana, F Herrera, E Herrera-Viedma",
+                "publication": "Fuzzy sets and Systems 97 (1), 33-48, 1998",
+                "cited_by":
+                {
+                    "value": 999,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14328200268658298363",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=14328200268658298363&engine=google_scholar&hl=en",
+                    "cites_id": "14328200268658298363"
+                }
+                ,
+                "year": "1998"
+            }
+            ,
+            {
+                "title": "Data Preprocessing in Data Mining",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:1EqfMoDn7-AC",
+                "citation_id": "HULIk-QAAAAJ:1EqfMoDn7-AC",
+                "authors": "S García, J Luengo, F Herrera",
+                "publication": "Springer, 2015",
+                "cited_by":
+                {
+                    "value": 990,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2413413594574826501",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=2413413594574826501&engine=google_scholar&hl=en",
+                    "cites_id": "2413413594574826501"
+                }
+                ,
+                "year": "2015"
+            }
+            ,
+            {
+                "title": "A fusion approach for managing multi-granularity linguistic term sets in decision making",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:hQUaER0FWQ4C",
+                "citation_id": "HULIk-QAAAAJ:hQUaER0FWQ4C",
+                "authors": "F Herrera, E Herrera-Viedma, L Martínez",
+                "publication": "Fuzzy Sets and Systems 114 (1), 43-58, 2000",
+                "cited_by":
+                {
+                    "value": 984,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8000542361301874057",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=8000542361301874057&engine=google_scholar&hl=en",
+                    "cites_id": "8000542361301874057"
+                }
+                ,
+                "year": "2000"
+            }
+            ,
+            {
+                "title": "Direct approach processes in group decision making using linguistic OWA operators",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:9yKSN-GCB0IC",
+                "citation_id": "HULIk-QAAAAJ:9yKSN-GCB0IC",
+                "authors": "F Herrera, E Herrera-Viedma, JL Verdegay",
+                "publication": "Fuzzy Sets and Systems 79 (2), 175-190, 1996",
+                "cited_by":
+                {
+                    "value": 894,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10910244964371562981",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10910244964371562981&engine=google_scholar&hl=en",
+                    "cites_id": "10910244964371562981"
+                }
+                ,
+                "year": "1996"
+            }
+            ,
+            {
+                "title": "A consensus model for multiperson decision making with different preference structures",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:Y0pCki6q_DkC",
+                "citation_id": "HULIk-QAAAAJ:Y0pCki6q_DkC",
+                "authors": "E Herrera-Viedma, F Herrera, F Chiclana",
+                "publication": "IEEE Transactions on Systems, Man, and Cybernetics-Part A: Systems and …, 2002",
+                "cited_by":
+                {
+                    "value": 790,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15816311170885255390",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15816311170885255390&engine=google_scholar&hl=en",
+                    "cites_id": "15816311170885255390"
+                }
+                ,
+                "year": "2002"
+            }
+            ,
+            {
+                "title": "Managing non-homogeneous information in group decision making",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:LK8CI43ZvvMC",
+                "citation_id": "HULIk-QAAAAJ:LK8CI43ZvvMC",
+                "authors": "F Herrera, L Martinez, PJ Sánchez",
+                "publication": "European Journal of Operational Research 166 (1), 115-132, 2005",
+                "cited_by":
+                {
+                    "value": 787,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8869158474159105202",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=8869158474159105202&engine=google_scholar&hl=en",
+                    "cites_id": "8869158474159105202"
+                }
+                ,
+                "year": "2005"
+            }
+            ,
+            {
+                "title": "h-Index: A review focused in its variants, computation and standardization for different scientific fields",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:QIV2ME_5wuYC",
+                "citation_id": "HULIk-QAAAAJ:QIV2ME_5wuYC",
+                "authors": "S Alonso, FJ Cabrerizo, E Herrera-Viedma, F Herrera",
+                "publication": "Journal of Informetrics 3 (4), 273-289, 2009",
+                "cited_by":
+                {
+                    "value": 762,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8651918576393057907",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=8651918576393057907&engine=google_scholar&hl=en",
+                    "cites_id": "8651918576393057907"
+                }
+                ,
+                "year": "2009"
+            }
+            ,
+            {
+                "title": "A sequential selection process in group decision making with a linguistic assessment approach",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:IjCSPb-OGe4C",
+                "citation_id": "HULIk-QAAAAJ:IjCSPb-OGe4C",
+                "authors": "F Herrera, E Herrera-Viedma, JL Verdegay",
+                "publication": "Information Sciences 85 (4), 223-239, 1995",
+                "cited_by":
+                {
+                    "value": 729,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=867461952717107446",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=867461952717107446&engine=google_scholar&hl=en",
+                    "cites_id": "867461952717107446"
+                }
+                ,
+                "year": "1995"
+            }
+            ,
+            {
+                "title": "Genetic fuzzy systems: taxonomy, current research trends and prospects",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:Se3iqnhoufwC",
+                "citation_id": "HULIk-QAAAAJ:Se3iqnhoufwC",
+                "authors": "F Herrera",
+                "publication": "Evolutionary Intelligence 1 (1), 27-46, 2008",
+                "cited_by":
+                {
+                    "value": 695,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8903714386052713604",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=8903714386052713604&engine=google_scholar&hl=en",
+                    "cites_id": "8903714386052713604"
+                }
+                ,
+                "year": "2008"
+            }
+            ,
+            {
+                "title": "Prototype selection for nearest neighbor classification: Taxonomy and empirical study",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:nrtMV_XWKgEC",
+                "citation_id": "HULIk-QAAAAJ:nrtMV_XWKgEC",
+                "authors": "S Garcıa, J Derrac, JR Cano, F Herrera",
+                "publication": "IEEE Transactions on Pattern Analysis and Machine Intelligence 34 (3), 417-435, 2012",
+                "cited_by":
+                {
+                    "value": 688,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3808731502963525186",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=3808731502963525186&engine=google_scholar&hl=en",
+                    "cites_id": "3808731502963525186"
+                }
+                ,
+                "year": "2012"
+            }
+            ,
+            {
+                "title": "An overview of ensemble methods for binary classifiers in multi-class problems: Experimental study on one-vs-one and one-vs-all schemes",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:uWiczbcajpAC",
+                "citation_id": "HULIk-QAAAAJ:uWiczbcajpAC",
+                "authors": "M Galar, A Fernández, E Barrenechea, H Bustince, F Herrera",
+                "publication": "Pattern Recognition 44 (8), 1761-1776, 2011",
+                "cited_by":
+                {
+                    "value": 686,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11000412941738625033",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11000412941738625033&engine=google_scholar&hl=en",
+                    "cites_id": "11000412941738625033"
+                }
+                ,
+                "year": "2011"
+            }
+            ,
+            {
+                "title": "A study of statistical techniques and performance measures for genetics-based machine learning: accuracy and interpretability",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:_kc_bZDykSQC",
+                "citation_id": "HULIk-QAAAAJ:_kc_bZDykSQC",
+                "authors": "S García, A Fernández, J Luengo, F Herrera",
+                "publication": "Soft Computing 13 (10), 959-977, 2009",
+                "cited_by":
+                {
+                    "value": 679,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12780648641308537956",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=12780648641308537956&engine=google_scholar&hl=en",
+                    "cites_id": "12780648641308537956"
+                }
+                ,
+                "year": "2009"
+            }
+            ,
+            {
+                "title": "SciMAT: A new science mapping analysis software tool",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:3_LpOwP6eMYC",
+                "citation_id": "HULIk-QAAAAJ:3_LpOwP6eMYC",
+                "authors": "MJ Cobo, AG López‐Herrera, E Herrera‐Viedma, F Herrera",
+                "publication": "Journal of the American Society for Information Science and Technology 63 (8 …, 2012",
+                "cited_by":
+                {
+                    "value": 665,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=774810818433688073",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=774810818433688073&engine=google_scholar&hl=en",
+                    "cites_id": "774810818433688073"
+                }
+                ,
+                "year": "2012"
+            }
+            ,
+            {
+                "title": "A consensus model for group decision making with incomplete fuzzy preference relations",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:mVmsd5A6BfQC",
+                "citation_id": "HULIk-QAAAAJ:mVmsd5A6BfQC",
+                "authors": "E Herrera-Viedma, S Alonso, F Chiclana, F Herrera",
+                "publication": "IEEE Transactions on fuzzy Systems 15 (5), 863-877, 2007",
+                "cited_by":
+                {
+                    "value": 657,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=258852708346715196",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=258852708346715196&engine=google_scholar&hl=en",
+                    "cites_id": "258852708346715196"
+                }
+                ,
+                "year": "2007"
+            }
+            ,
+            {
+                "title": "SMOTE for Learning from Imbalanced Data: Progress and Challenges. Marking the 15-year Anniversary",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:-LHtoeeytlUC",
+                "citation_id": "HULIk-QAAAAJ:-LHtoeeytlUC",
+                "authors": "A Fernández, S Garcıa, F Herrera, NV Chawla",
+                "publication": "Journal of Artificial Intelligence Research 61, pages 863-905, 2018",
+                "cited_by":
+                {
+                    "value": 621,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=741880414287263746,16287614023270817546",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=741880414287263746%2C16287614023270817546&engine=google_scholar&hl=en",
+                    "cites_id": "741880414287263746,16287614023270817546"
+                }
+                ,
+                "year": "2018"
+            }
+            ,
+            {
+                "title": "Integrating multiplicative preference relations in a multipurpose decision-making model based on fuzzy preference relations",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:LGlY6t8CeOMC",
+                "citation_id": "HULIk-QAAAAJ:LGlY6t8CeOMC",
+                "authors": "F Chiclana, F Herrera, E Herrera-Viedma",
+                "publication": "Fuzzy Sets and Systems 122 (2), 277-291, 2001",
+                "cited_by":
+                {
+                    "value": 614,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14970752361650619284",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=14970752361650619284&engine=google_scholar&hl=en",
+                    "cites_id": "14970752361650619284"
+                }
+                ,
+                "year": "2001"
+            }
+            ,
+            {
+                "title": "Multiperson decision-making based on multiplicative preference relations",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:zUl2_INMlC4C",
+                "citation_id": "HULIk-QAAAAJ:zUl2_INMlC4C",
+                "authors": "F Herrera, E Herrera-Viedma, F Chiclana",
+                "publication": "European journal of operational research 129 (2), 372-385, 2001",
+                "cited_by":
+                {
+                    "value": 606,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15749354828686481164",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15749354828686481164&engine=google_scholar&hl=en",
+                    "cites_id": "15749354828686481164"
+                }
+                ,
+                "year": "2001"
+            }
+            ,
+            {
+                "title": "Aggregation operators for linguistic weighted information",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:qjMakFHDy7sC",
+                "citation_id": "HULIk-QAAAAJ:qjMakFHDy7sC",
+                "authors": "F Herrera, E Herrera-Viedma",
+                "publication": "IEEE Transactions on Systems, Man, and Cybernetics, Part A: Systems and …, 1997",
+                "cited_by":
+                {
+                    "value": 597,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12245031997363793768",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=12245031997363793768&engine=google_scholar&hl=en",
+                    "cites_id": "12245031997363793768"
+                }
+                ,
+                "year": "1997"
+            }
+            ,
+            {
+                "title": "A unifying view on dataset shift in classification",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:6yz0xqPARnAC",
+                "citation_id": "HULIk-QAAAAJ:6yz0xqPARnAC",
+                "authors": "JG Moreno-Torres, T Raeder, R Alaiz-Rodríguez, NV Chawla, F Herrera",
+                "publication": "Pattern Recognition 45 (1), 521-530, 2012",
+                "cited_by":
+                {
+                    "value": 589,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10298038627265526029",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10298038627265526029&engine=google_scholar&hl=en",
+                    "cites_id": "10298038627265526029"
+                }
+                ,
+                "year": "2012"
+            }
+            ,
+            {
+                "title": "Group decision-making model with incomplete fuzzy preference relations based on additive consistency",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:4DMP91E08xMC",
+                "citation_id": "HULIk-QAAAAJ:4DMP91E08xMC",
+                "authors": "E Herrera-Viedma, F Chiclana, F Herrera, S Alonso",
+                "publication": "IEEE Transactions on Systems, Man, and Cybernetics, Part B (Cybernetics) 37 …, 2007",
+                "cited_by":
+                {
+                    "value": 585,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4669066183288239520",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=4669066183288239520&engine=google_scholar&hl=en",
+                    "cites_id": "4669066183288239520"
+                }
+                ,
+                "year": "2007"
+            }
+            ,
+            {
+                "title": "A survey on the application of genetic programming to classification",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:hMod-77fHWUC",
+                "citation_id": "HULIk-QAAAAJ:hMod-77fHWUC",
+                "authors": "PG Espejo, S Ventura, F Herrera",
+                "publication": "IEEE Transactions on Systems, Man, and Cybernetics, Part C (Applications and …, 2009",
+                "cited_by":
+                {
+                    "value": 578,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9925471879782489527",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=9925471879782489527&engine=google_scholar&hl=en",
+                    "cites_id": "9925471879782489527"
+                }
+                ,
+                "year": "2009"
+            }
+            ,
+            {
+                "title": "A fuzzy linguistic methodology to deal with unbalanced linguistic term sets",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:qUcmZB5y_30C",
+                "citation_id": "HULIk-QAAAAJ:qUcmZB5y_30C",
+                "authors": "F Herrera, E Herrera-Viedma, L Martínez",
+                "publication": "IEEE Transactions on fuzzy Systems 16 (2), 354-370, 2008",
+                "cited_by":
+                {
+                    "value": 576,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12217618386250222764",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=12217618386250222764&engine=google_scholar&hl=en",
+                    "cites_id": "12217618386250222764"
+                }
+                ,
+                "year": "2008"
+            }
+            ,
+            {
+                "title": "Computing with words in decision making: foundations, trends and prospects",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:iyewoVqAXLQC",
+                "citation_id": "HULIk-QAAAAJ:iyewoVqAXLQC",
+                "authors": "F Herrera, S Alonso, F Chiclana, E Herrera-Viedma",
+                "publication": "Fuzzy Optimization and Decision Making 8 (4), 337-364, 2009",
+                "cited_by":
+                {
+                    "value": 568,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15388581824484178611",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15388581824484178611&engine=google_scholar&hl=en",
+                    "cites_id": "15388581824484178611"
+                }
+                ,
+                "year": "2009"
+            }
+            ,
+            {
+                "title": "Interpretability issues in fuzzy modeling. Studies in Fuzziness and Soft Computing.",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:F9HO9s0W2bwC",
+                "citation_id": "HULIk-QAAAAJ:F9HO9s0W2bwC",
+                "authors": "LM J. Casillas, O. Cordon, F. Herrera",
+                "publication": "Springer, 2003",
+                "cited_by":
+                {
+                    "value": 564,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3319351021818566519,9654534957447361113,11213894707302746172",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=3319351021818566519%2C9654534957447361113%2C11213894707302746172&engine=google_scholar&hl=en",
+                    "cites_id": "3319351021818566519,9654534957447361113,11213894707302746172"
+                }
+                ,
+                "year": "2003"
+            }
+            ,
+            {
+                "title": "A review of microarray datasets and applied feature selection methods",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:vxA22ZmNLkoC",
+                "citation_id": "HULIk-QAAAAJ:vxA22ZmNLkoC",
+                "authors": "FH V Bolón-Canedo, N Sánchez-Maroño, A Alonso-Betanzos, JM Benítez",
+                "publication": "Information Sciences 282, 111-135, 2014",
+                "cited_by":
+                {
+                    "value": 550,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7879674583932730469",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=7879674583932730469&engine=google_scholar&hl=en",
+                    "cites_id": "7879674583932730469"
+                }
+                ,
+                "year": "2014"
+            }
+            ,
+            {
+                "title": "Tuning fuzzy logic controllers by genetic algorithms",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:UeHWp8X0CEIC",
+                "citation_id": "HULIk-QAAAAJ:UeHWp8X0CEIC",
+                "authors": "F Herrera, M Lozano, JL Verdegay",
+                "publication": "International Journal of Approximate Reasoning 12 (3-4), 299-315, 1995",
+                "cited_by":
+                {
+                    "value": 546,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8877335910843209627",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=8877335910843209627&engine=google_scholar&hl=en",
+                    "cites_id": "8877335910843209627"
+                }
+                ,
+                "year": "1995"
+            }
+            ,
+            {
+                "title": "An overview on the 2-tuple linguistic model for computing with words in decision making: Extensions, applications and challenges",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:uUvzmPk0f8oC",
+                "citation_id": "HULIk-QAAAAJ:uUvzmPk0f8oC",
+                "authors": "L Martínez, F Herrera",
+                "publication": "Information Sciences 207 (1), 1-18, 2012",
+                "cited_by":
+                {
+                    "value": 511,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=891374447696240210",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=891374447696240210&engine=google_scholar&hl=en",
+                    "cites_id": "891374447696240210"
+                }
+                ,
+                "year": "2012"
+            }
+            ,
+            {
+                "title": "A group decision making model dealing with comparative linguistic expressions based on hesitant fuzzy linguistic term sets",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:vnF2_uLGgtgC",
+                "citation_id": "HULIk-QAAAAJ:vnF2_uLGgtgC",
+                "authors": "RM Rodríguez, L Martı́nez, F Herrera",
+                "publication": "Information Sciences 241, 28-42, 2013",
+                "cited_by":
+                {
+                    "value": 509,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12208174777591406063",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=12208174777591406063&engine=google_scholar&hl=en",
+                    "cites_id": "12208174777591406063"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "A Survey of Discretization Techniques: Taxonomy and Empirical Analysis in Supervised Learning",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:x21FZCSn4ZoC",
+                "citation_id": "HULIk-QAAAAJ:x21FZCSn4ZoC",
+                "authors": "S García, J Luengo, JA Sáez, V López, F Herrera",
+                "publication": "IEEE Transactions on Knowledge and Data Engineering 25 (4), 734-750, 2013",
+                "cited_by":
+                {
+                    "value": 508,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17845095445843649455",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=17845095445843649455&engine=google_scholar&hl=en",
+                    "cites_id": "17845095445843649455"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "An approach for combining linguistic and numerical information based on the 2-tuple fuzzy linguistic representation model in decision-making",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:pYKElYtJMmwC",
+                "citation_id": "HULIk-QAAAAJ:pYKElYtJMmwC",
+                "authors": "F Herrera, L Martinez",
+                "publication": "International Journal Of Uncertainty Fuzziness And Knowledge Based Systems 8 …, 2000",
+                "cited_by":
+                {
+                    "value": 505,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15699889845156403003",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15699889845156403003&engine=google_scholar&hl=en",
+                    "cites_id": "15699889845156403003"
+                }
+                ,
+                "year": "2000"
+            }
+            ,
+            {
+                "title": "A proposal on reasoning methods in fuzzy rule-based classification systems",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:W7OEmFMy1HYC",
+                "citation_id": "HULIk-QAAAAJ:W7OEmFMy1HYC",
+                "authors": "O Cordón, MJ del Jesus, F Herrera",
+                "publication": "International Journal of Approximate Reasoning 20 (1), 21-45, 1999",
+                "cited_by":
+                {
+                    "value": 499,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11435617717039660326",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11435617717039660326&engine=google_scholar&hl=en",
+                    "cites_id": "11435617717039660326"
+                }
+                ,
+                "year": "1999"
+            }
+            ,
+            {
+                "title": "Interpretability of linguistic fuzzy rule-based systems: An overview of interpretability measures",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:1r-w4gtu6w8C",
+                "citation_id": "HULIk-QAAAAJ:1r-w4gtu6w8C",
+                "authors": "MJ Gacto, R Alcalá, F Herrera",
+                "publication": "Information Sciences 181 (20), 4340–4360, 2011",
+                "cited_by":
+                {
+                    "value": 487,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=24885140719378963",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=24885140719378963&engine=google_scholar&hl=en",
+                    "cites_id": "24885140719378963"
+                }
+                ,
+                "year": "2011"
+            }
+            ,
+            {
+                "title": "A taxonomy for the crossover operator for real‐coded genetic algorithms: An experimental study",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:hqOjcs7Dif8C",
+                "citation_id": "HULIk-QAAAAJ:hqOjcs7Dif8C",
+                "authors": "F Herrera, M Lozano, AM Sánchez",
+                "publication": "International Journal of Intelligent Systems 18 (3), 309-338, 2003",
+                "cited_by":
+                {
+                    "value": 473,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6453140471246024739",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=6453140471246024739&engine=google_scholar&hl=en",
+                    "cites_id": "6453140471246024739"
+                }
+                ,
+                "year": "2003"
+            }
+            ,
+            {
+                "title": "Learning from Imbalanced Data Sets",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:0urtJCGzaFQC",
+                "citation_id": "HULIk-QAAAAJ:0urtJCGzaFQC",
+                "authors": "A Fernández, S García, M Galar, RC Prati, B Krawczyk, F Herrera",
+                "publication": "Springer, 2018",
+                "cited_by":
+                {
+                    "value": 466,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9183964914888782577",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=9183964914888782577&engine=google_scholar&hl=en",
+                    "cites_id": "9183964914888782577"
+                }
+                ,
+                "year": "2018"
+            }
+            ,
+            {
+                "title": "Combining numerical and linguistic information in group decision making",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:zYLM7Y9cAGgC",
+                "citation_id": "HULIk-QAAAAJ:zYLM7Y9cAGgC",
+                "authors": "M Delgado, F Herrera, E Herrera-Viedma, L Martinez",
+                "publication": "Information Sciences 107 (1-4), 177-194, 1998",
+                "cited_by":
+                {
+                    "value": 450,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15445350625785757294",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15445350625785757294&engine=google_scholar&hl=en",
+                    "cites_id": "15445350625785757294"
+                }
+                ,
+                "year": "1998"
+            }
+            ,
+            {
+                "title": "A taxonomy and an empirical analysis of multiple objective ant colony optimization algorithms for the bi-criteria TSP",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:yCjxvIMm6_oC",
+                "citation_id": "HULIk-QAAAAJ:yCjxvIMm6_oC",
+                "authors": "C Garcıa-Martınez, O Cordón, F Herrera",
+                "publication": "European Journal of Operational Research 180 (1), 116-148, 2007",
+                "cited_by":
+                {
+                    "value": 417,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11171591768508818221,2308461972790581317",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11171591768508818221%2C2308461972790581317&engine=google_scholar&hl=en",
+                    "cites_id": "11171591768508818221,2308461972790581317"
+                }
+                ,
+                "year": "2007"
+            }
+            ,
+            {
+                "title": "Real-coded memetic algorithms with crossover hill-climbing",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:WF5omc3nYNoC",
+                "citation_id": "HULIk-QAAAAJ:WF5omc3nYNoC",
+                "authors": "M Lozano, F Herrera, N Krasnogor, D Molina",
+                "publication": "Evolutionary computation 12 (3), 273-302, 2004",
+                "cited_by":
+                {
+                    "value": 417,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8565086264352514665",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=8565086264352514665&engine=google_scholar&hl=en",
+                    "cites_id": "8565086264352514665"
+                }
+                ,
+                "year": "2004"
+            }
+            ,
+            {
+                "title": "A rational consensus model in group decision making using linguistic assessments",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:LkGwnXOMwfcC",
+                "citation_id": "HULIk-QAAAAJ:LkGwnXOMwfcC",
+                "authors": "F Herrera, E Herrera-Viedma, JL Verdegay",
+                "publication": "Fuzzy Sets and Systems 88 (1), 31-49, 1997",
+                "cited_by":
+                {
+                    "value": 414,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2315030649216965898",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=2315030649216965898&engine=google_scholar&hl=en",
+                    "cites_id": "2315030649216965898"
+                }
+                ,
+                "year": "1997"
+            }
+            ,
+            {
+                "title": "Using evolutionary algorithms as instance selection for data reduction in KDD: an experimental study",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:kNdYIx-mwKoC",
+                "citation_id": "HULIk-QAAAAJ:kNdYIx-mwKoC",
+                "authors": "JR Cano, F Herrera, M Lozano",
+                "publication": "IEEE Transactions on Evolutionary Computation 7 (6), 561-575, 2003",
+                "cited_by":
+                {
+                    "value": 407,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9254918242873032277",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=9254918242873032277&engine=google_scholar&hl=en",
+                    "cites_id": "9254918242873032277"
+                }
+                ,
+                "year": "2003"
+            }
+            ,
+            {
+                "title": "Hesitant Fuzzy Sets: State of the Art and Future Directions",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:Tfl4UtY-dJUC",
+                "citation_id": "HULIk-QAAAAJ:Tfl4UtY-dJUC",
+                "authors": "RM Rodríguez, L Martínez, V Torra, ZS Xu, F Herrera",
+                "publication": "International Journal of Intelligent Systems 29 (6), 495-524, 2014",
+                "cited_by":
+                {
+                    "value": 403,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15793818572799648253",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15793818572799648253&engine=google_scholar&hl=en",
+                    "cites_id": "15793818572799648253"
+                }
+                ,
+                "year": "2014"
+            }
+            ,
+            {
+                "title": "Choice functions and mechanisms for linguistic preference relations",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:_AeoHAGD03cC",
+                "citation_id": "HULIk-QAAAAJ:_AeoHAGD03cC",
+                "authors": "F Herrera, E Herrera-Viedma",
+                "publication": "European Journal of Operational Research 120 (1), 144-161, 2000",
+                "cited_by":
+                {
+                    "value": 401,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4433717334087789049",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=4433717334087789049&engine=google_scholar&hl=en",
+                    "cites_id": "4433717334087789049"
+                }
+                ,
+                "year": "2000"
+            }
+            ,
+            {
+                "title": "Self-labeled techniques for semi-supervised learning: taxonomy, software and empirical study",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:qCpRzq7zkD8C",
+                "citation_id": "HULIk-QAAAAJ:qCpRzq7zkD8C",
+                "authors": "I Triguero, S García, F Herrera",
+                "publication": "Knowledge and Information Systems 42, 245-284, 2015",
+                "cited_by":
+                {
+                    "value": 397,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3033000057479273141",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=3033000057479273141&engine=google_scholar&hl=en",
+                    "cites_id": "3033000057479273141"
+                }
+                ,
+                "year": "2015"
+            }
+            ,
+            {
+                "title": "Some induced ordered weighted averaging operators and their use for solving group decision-making problems based on fuzzy preference relations",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:IWHjjKOFINEC",
+                "citation_id": "HULIk-QAAAAJ:IWHjjKOFINEC",
+                "authors": "F Chiclana, E Herrera-Viedma, F Herrera, S Alonso",
+                "publication": "European Journal of Operational Research 182 (1), 383-399, 2007",
+                "cited_by":
+                {
+                    "value": 392,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4739597783998304452",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=4739597783998304452&engine=google_scholar&hl=en",
+                    "cites_id": "4739597783998304452"
+                }
+                ,
+                "year": "2007"
+            }
+            ,
+            {
+                "title": "Evolutionary undersampling for classification with imbalanced datasets: Proposals and taxonomy",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:HoB7MX3m0LUC",
+                "citation_id": "HULIk-QAAAAJ:HoB7MX3m0LUC",
+                "authors": "S García, F Herrera",
+                "publication": "Evolutionary Computation 17 (3), 275-306, 2009",
+                "cited_by":
+                {
+                    "value": 382,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11064039609924867",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11064039609924867&engine=google_scholar&hl=en",
+                    "cites_id": "11064039609924867"
+                }
+                ,
+                "year": "2009"
+            }
+            ,
+            {
+                "title": "Cardinal consistency of reciprocal preference relations: a characterization of multiplicative transitivity",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:P5F9QuxV20EC",
+                "citation_id": "HULIk-QAAAAJ:P5F9QuxV20EC",
+                "authors": "F Chiclana, E Herrera-Viedma, S Alonso, F Herrera",
+                "publication": "IEEE Transactions on fuzzy Systems 17 (1), 14-23, 2008",
+                "cited_by":
+                {
+                    "value": 380,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=303893600778602702",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=303893600778602702&engine=google_scholar&hl=en",
+                    "cites_id": "303893600778602702"
+                }
+                ,
+                "year": "2008"
+            }
+            ,
+            {
+                "title": "A historical account of types of fuzzy sets and their relationships",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:1xBWf43XMUgC",
+                "citation_id": "HULIk-QAAAAJ:1xBWf43XMUgC",
+                "authors": "H Bustince, E Barrenechea, M Pagola, J Fernandez, Z Xu, B Bedregal, ...",
+                "publication": "IEEE Transactions on Fuzzy Systems 24 (1), 179 - 194, 2016",
+                "cited_by":
+                {
+                    "value": 376,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8182353575537643466",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=8182353575537643466&engine=google_scholar&hl=en",
+                    "cites_id": "8182353575537643466"
+                }
+                ,
+                "year": "2016"
+            }
+            ,
+            {
+                "title": "Gradual distributed real-coded genetic algorithms",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:Tyk-4Ss8FVUC",
+                "citation_id": "HULIk-QAAAAJ:Tyk-4Ss8FVUC",
+                "authors": "F Herrera, M Lozano",
+                "publication": "IEEE Transactions on Evolutionary computation 4 (1), 43-63, 2000",
+                "cited_by":
+                {
+                    "value": 374,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8066218055756795750",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=8066218055756795750&engine=google_scholar&hl=en",
+                    "cites_id": "8066218055756795750"
+                }
+                ,
+                "year": "2000"
+            }
+            ,
+            {
+                "title": "A Fuzzy Association Rule-Based Classification Model for High-Dimensional Problems With Genetic Rule Selection and Lateral Tuning",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:FiytvqdAVhgC",
+                "citation_id": "HULIk-QAAAAJ:FiytvqdAVhgC",
+                "authors": "J Alcalá-Fdez, R Alcalá, F Herrera",
+                "publication": "IEEE TRANSACTIONS ON FUZZY SYSTEMS 19 (5), 857-872, 2011",
+                "cited_by":
+                {
+                    "value": 369,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7201473189245165123",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=7201473189245165123&engine=google_scholar&hl=en",
+                    "cites_id": "7201473189245165123"
+                }
+                ,
+                "year": "2011"
+            }
+            ,
+            {
+                "title": "Analysing the classification of imbalanced data-sets with multiple classes: Binarization techniques and ad-hoc approaches",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:PuOEWVtPfzwC",
+                "citation_id": "HULIk-QAAAAJ:PuOEWVtPfzwC",
+                "authors": "A Fernández, V López, M Galar, M José del Jesus, F Herrera",
+                "publication": "Knowledge-Based Systems 42, 97-110, 2013",
+                "cited_by":
+                {
+                    "value": 357,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=272605931182159770",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=272605931182159770&engine=google_scholar&hl=en",
+                    "cites_id": "272605931182159770"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "SMOTE-RSB*: a hybrid preprocessing approach based on oversampling and undersampling for high imbalanced data-sets using SMOTE and rough sets theory",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:RoXSNcbkSzsC",
+                "citation_id": "HULIk-QAAAAJ:RoXSNcbkSzsC",
+                "authors": "E Ramentol, Y Caballero, R Bello, F Herrera",
+                "publication": "Knowledge and Information Systems 33 (2), 245-265, 2012",
+                "cited_by":
+                {
+                    "value": 357,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1853688106843268642",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=1853688106843268642&engine=google_scholar&hl=en",
+                    "cites_id": "1853688106843268642"
+                }
+                ,
+                "year": "2012"
+            }
+            ,
+            {
+                "title": "SMOTE–IPF: Addressing the noisy and borderline examples problem in imbalanced classification by a re-sampling method with filtering",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:gmHTDCtJMcoC",
+                "citation_id": "HULIk-QAAAAJ:gmHTDCtJMcoC",
+                "authors": "JA Sáez, J Luengo, J Stefanowski, F Herrera",
+                "publication": "Information Sciences 291, 184-203, 2015",
+                "cited_by":
+                {
+                    "value": 356,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16339492228333990205",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=16339492228333990205&engine=google_scholar&hl=en",
+                    "cites_id": "16339492228333990205"
+                }
+                ,
+                "year": "2015"
+            }
+            ,
+            {
+                "title": "On the use of MapReduce for imbalanced big data using Random Forest",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:Oo1CbQkBAzEC",
+                "citation_id": "HULIk-QAAAAJ:Oo1CbQkBAzEC",
+                "authors": "S del Río, V López, JM Benítez, F Herrera",
+                "publication": "Information Sciences 285, 112–137, 2014",
+                "cited_by":
+                {
+                    "value": 354,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1787175639961425711",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=1787175639961425711&engine=google_scholar&hl=en",
+                    "cites_id": "1787175639961425711"
+                }
+                ,
+                "year": "2014"
+            }
+            ,
+            {
+                "title": "EUSBoost: Enhancing ensembles for highly imbalanced data-sets by evolutionary undersampling",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:KI9T_ytC6pkC",
+                "citation_id": "HULIk-QAAAAJ:KI9T_ytC6pkC",
+                "authors": "M Galar, A Fernández, E Barrenechea, F Herrera",
+                "publication": "Pattern Recognition 46 (12), 3460-3471, 2013",
+                "cited_by":
+                {
+                    "value": 352,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14838960270951772905",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=14838960270951772905&engine=google_scholar&hl=en",
+                    "cites_id": "14838960270951772905"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "Generating the knowledge base of a fuzzy rule-based system by the genetic learning of the data base",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:_FxGoFyzp5QC",
+                "citation_id": "HULIk-QAAAAJ:_FxGoFyzp5QC",
+                "authors": "O Cordón, F Herrera, P Villar",
+                "publication": "IEEE Transactions on Fuzzy Systems 9 (4), 667-674, 2001",
+                "cited_by":
+                {
+                    "value": 346,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14911210962511021773",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=14911210962511021773&engine=google_scholar&hl=en",
+                    "cites_id": "14911210962511021773"
+                }
+                ,
+                "year": "2001"
+            }
+            ,
+            {
+                "title": "A web based consensus support system for group decision making problems and incomplete preferences",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:yY3RG6sOEgwC",
+                "citation_id": "HULIk-QAAAAJ:yY3RG6sOEgwC",
+                "authors": "S Alonso, E Herrera-Viedma, F Chiclana, F Herrera",
+                "publication": "Information Sciences 180 (23), 4477-4495, 2010",
+                "cited_by":
+                {
+                    "value": 339,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2605225707091471950",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=2605225707091471950&engine=google_scholar&hl=en",
+                    "cites_id": "2605225707091471950"
+                }
+                ,
+                "year": "2010"
+            }
+            ,
+            {
+                "title": "Big data preprocessing: methods and prospects",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:gkldIfsazJcC",
+                "citation_id": "HULIk-QAAAAJ:gkldIfsazJcC",
+                "authors": "S García, S Ramírez-Gallego, J Luengo, JM Benítez, F Herrera",
+                "publication": "Big Data Analytics 1 (9), 22 pages, DOI: 10.1186/s41044-016-0014-0, 2016",
+                "cited_by":
+                {
+                    "value": 334,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12899825734570213821",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=12899825734570213821&engine=google_scholar&hl=en",
+                    "cites_id": "12899825734570213821"
+                }
+                ,
+                "year": "2016"
+            }
+            ,
+            {
+                "title": "A Consensus Model to Detect and Manage Non-Cooperative Behaviors in Large Scale Group Decision Making",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:BJtnxTr0fRcC",
+                "citation_id": "HULIk-QAAAAJ:BJtnxTr0fRcC",
+                "authors": "I Palomares, L Martınez, F Herrera",
+                "publication": "IEEE Transactions on Fuzzy Systems 22 (3), 516 - 530, 2014",
+                "cited_by":
+                {
+                    "value": 334,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11885605917068256066",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11885605917068256066&engine=google_scholar&hl=en",
+                    "cites_id": "11885605917068256066"
+                }
+                ,
+                "year": "2014"
+            }
+            ,
+            {
+                "title": "Computing with words in decision support systems: An overview on models and applications",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:VOx2b1Wkg3QC",
+                "citation_id": "HULIk-QAAAAJ:VOx2b1Wkg3QC",
+                "authors": "L Martınez, D Ruan, F Herrera",
+                "publication": "International Journal of Computational Intelligence Systems 3 (4), 382-395, 2010",
+                "cited_by":
+                {
+                    "value": 334,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5993405142180635530",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=5993405142180635530&engine=google_scholar&hl=en",
+                    "cites_id": "5993405142180635530"
+                }
+                ,
+                "year": "2010"
+            }
+            ,
+            {
+                "title": "A survey on data preprocessing for data stream mining: Current status and future directions",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:e9bUPLv0EjcC",
+                "citation_id": "HULIk-QAAAAJ:e9bUPLv0EjcC",
+                "authors": "S Ramírez-Gallego, B Krawczyk, S García, M Woźniak, F Herrera",
+                "publication": "Neurocomputing 239, 39-57, 2017",
+                "cited_by":
+                {
+                    "value": 330,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14875413732792424387",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=14875413732792424387&engine=google_scholar&hl=en",
+                    "cites_id": "14875413732792424387"
+                }
+                ,
+                "year": "2017"
+            }
+            ,
+            {
+                "title": "An overview on subgroup discovery: Foundations and applications",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:nPTYJWkExTIC",
+                "citation_id": "HULIk-QAAAAJ:nPTYJWkExTIC",
+                "authors": "F Herrera, CJ Carmona, P González, MJ del Jesus",
+                "publication": "Knowledge and Information Systems 29 (3), 495-525, 2011",
+                "cited_by":
+                {
+                    "value": 327,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15935545207549161815",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15935545207549161815&engine=google_scholar&hl=en",
+                    "cites_id": "15935545207549161815"
+                }
+                ,
+                "year": "2011"
+            }
+            ,
+            {
+                "title": "A review of the application of multi-objective evolutionary fuzzy systems: Current status and further directions",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:xyvS_IvSCKsC",
+                "citation_id": "HULIk-QAAAAJ:xyvS_IvSCKsC",
+                "authors": "M Fazzolari, R Alcalá, Y Nojima, H Ishibuchi, F Herrera",
+                "publication": "IEEE Transactions on Fuzzy Systems 21 (1), 45-65, 2013",
+                "cited_by":
+                {
+                    "value": 317,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7402332276595261709",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=7402332276595261709&engine=google_scholar&hl=en",
+                    "cites_id": "7402332276595261709"
+                }
+                ,
+                "year": "2013"
+            }
+            ,
+            {
+                "title": "A learning process for fuzzy control rules using genetic algorithms",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:YsMSGLbcyi4C",
+                "citation_id": "HULIk-QAAAAJ:YsMSGLbcyi4C",
+                "authors": "F Herrera, M Lozano, JL Verdegay",
+                "publication": "Fuzzy sets and systems 100 (1-3), 143-158, 1998",
+                "cited_by":
+                {
+                    "value": 313,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2756492582784887767",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=2756492582784887767&engine=google_scholar&hl=en",
+                    "cites_id": "2756492582784887767"
+                }
+                ,
+                "year": "1998"
+            }
+            ,
+            {
+                "title": "Group decision making with incomplete fuzzy linguistic preference relations",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:BOlwja0KXvYC",
+                "citation_id": "HULIk-QAAAAJ:BOlwja0KXvYC",
+                "authors": "S Alonso, FJ Cabrerizo, F Chiclana, F Herrera, E Herrera‐Viedma",
+                "publication": "International Journal of Intelligent Systems 24 (2), 201-222, 2009",
+                "cited_by":
+                {
+                    "value": 307,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8501985664970563412",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=8501985664970563412&engine=google_scholar&hl=en",
+                    "cites_id": "8501985664970563412"
+                }
+                ,
+                "year": "2009"
+            }
+            ,
+            {
+                "title": "A study of the behaviour of linguistic fuzzy rule based classification systems in the framework of imbalanced data-sets",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:NaGl4SEjCO4C",
+                "citation_id": "HULIk-QAAAAJ:NaGl4SEjCO4C",
+                "authors": "A Fernández, S García, MJ del Jesus, F Herrera",
+                "publication": "Fuzzy Sets and Systems 159 (18), 2378-2398, 2008",
+                "cited_by":
+                {
+                    "value": 304,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5899521238048647385",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=5899521238048647385&engine=google_scholar&hl=en",
+                    "cites_id": "5899521238048647385"
+                }
+                ,
+                "year": "2008"
+            }
+            ,
+            {
+                "title": "Genetic tuning of fuzzy rule deep structures preserving interpretability and its interaction with fuzzy rule set reduction",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:roLk4NBRz8UC",
+                "citation_id": "HULIk-QAAAAJ:roLk4NBRz8UC",
+                "authors": "J Casillas, O Cordón, MJ Del Jesus, F Herrera",
+                "publication": "IEEE Transactions on Fuzzy Systems 13 (1), 13-29, 2005",
+                "cited_by":
+                {
+                    "value": 304,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5178627683779500582",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=5178627683779500582&engine=google_scholar&hl=en",
+                    "cites_id": "5178627683779500582"
+                }
+                ,
+                "year": "2005"
+            }
+            ,
+            {
+                "title": "The 2-tuple linguistic computational model: advantages of its linguistic description, accuracy and consistency",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:ULOm3_A8WrAC",
+                "citation_id": "HULIk-QAAAAJ:ULOm3_A8WrAC",
+                "authors": "F Herrera, L Martinez",
+                "publication": "International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems …, 2001",
+                "cited_by":
+                {
+                    "value": 303,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15738292467517332285",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15738292467517332285&engine=google_scholar&hl=en",
+                    "cites_id": "15738292467517332285"
+                }
+                ,
+                "year": "2001"
+            }
+            ,
+            {
+                "title": "A taxonomy and experimental study on prototype generation for nearest neighbor classification",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:k8Z6L05lTy4C",
+                "citation_id": "HULIk-QAAAAJ:k8Z6L05lTy4C",
+                "authors": "I Triguero, J Derrac, S Garcia, F Herrera",
+                "publication": "IEEE Transactions on Systems, Man, and Cybernetics, Part C: Applications and …, 2012",
+                "cited_by":
+                {
+                    "value": 300,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16915992932257258878",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=16915992932257258878&engine=google_scholar&hl=en",
+                    "cites_id": "16915992932257258878"
+                }
+                ,
+                "year": "2012"
+            }
+            ,
+            {
+                "title": "The ordered weighted geometric operator: Properties and application in MCDM problems",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:ufKn5pxu7C0C",
+                "citation_id": "HULIk-QAAAAJ:ufKn5pxu7C0C",
+                "authors": "F Chiclana, F Herrera, E Herrera-Viedma",
+                "publication": "Technologies for Constructing Intelligent Systems 2, 173-183, 2002",
+                "cited_by":
+                {
+                    "value": 297,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14976534475558115771",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=14976534475558115771&engine=google_scholar&hl=en",
+                    "cites_id": "14976534475558115771"
+                }
+                ,
+                "year": "2002"
+            }
+            ,
+            {
+                "title": "The ordered weighted geometric operator: Properties and application in MCDM problems",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:BwyfMAYsbu0C",
+                "citation_id": "HULIk-QAAAAJ:BwyfMAYsbu0C",
+                "authors": "F Chiclana, F Herrera, E Herrera-Viedma",
+                "publication": "Technologies for Constructing Intelligent Systems 2, 173-183, 2002",
+                "cited_by":
+                {
+                    "value": 297,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14976534475558115771",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=14976534475558115771&engine=google_scholar&hl=en",
+                    "cites_id": "14976534475558115771"
+                }
+                ,
+                "year": "2002"
+            }
+            ,
+            {
+                "title": "The ordered weighted geometric operator: Properties and application in MCDM problems",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:R3hNpaxXUhUC",
+                "citation_id": "HULIk-QAAAAJ:R3hNpaxXUhUC",
+                "authors": "F Chiclana, F Herrera, E Herrera-Viedma",
+                "publication": "Technologies for Constructing Intelligent Systems 2, 173-183, 2002",
+                "cited_by":
+                {
+                    "value": 297,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14976534475558115771",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=14976534475558115771&engine=google_scholar&hl=en",
+                    "cites_id": "14976534475558115771"
+                }
+                ,
+                "year": "2002"
+            }
+            ,
+            {
+                "title": "A consistency‐based procedure to estimate missing pairwise preference values",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:naSTrk-c4S8C",
+                "citation_id": "HULIk-QAAAAJ:naSTrk-c4S8C",
+                "authors": "S Alonso, F Chiclana, F Herrera, E Herrera‐Viedma, J Alcalá‐Fdez, ...",
+                "publication": "International Journal of Intelligent Systems 23 (2), 155-175, 2008",
+                "cited_by":
+                {
+                    "value": 296,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10058915908153498203",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10058915908153498203&engine=google_scholar&hl=en",
+                    "cites_id": "10058915908153498203"
+                }
+                ,
+                "year": "2008"
+            }
+            ,
+            {
+                "title": "Adaptation of genetic algorithm parameters based on fuzzy logic controllers",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:8k81kl-MbHgC",
+                "citation_id": "HULIk-QAAAAJ:8k81kl-MbHgC",
+                "authors": "F Herrera, M Lozano",
+                "publication": "Genetic Algorithms and Soft Computing 8, 95-125, 1996",
+                "cited_by":
+                {
+                    "value": 292,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5927177226844713796",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=5927177226844713796&engine=google_scholar&hl=en",
+                    "cites_id": "5927177226844713796"
+                }
+                ,
+                "year": "1996"
+            }
+            ,
+            {
+                "title": "Big Data with Cloud Computing: an insight on the computing environment, MapReduce, and programming frameworks",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:4QKQTXcH0q8C",
+                "citation_id": "HULIk-QAAAAJ:4QKQTXcH0q8C",
+                "authors": "A Fernández, S del Río, V López, A Bawakid, MJ del Jesus, JM Benítez, ...",
+                "publication": "WIRES Data Mining and Knowledge Discovery 4 (5), 380–409, 2014",
+                "cited_by":
+                {
+                    "value": 284,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7157233448269490885",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=7157233448269490885&engine=google_scholar&hl=en",
+                    "cites_id": "7157233448269490885"
+                }
+                ,
+                "year": "2014"
+            }
+            ,
+            {
+                "title": "Bio-inspired computation: Where we stand and what's next",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:pYRxIbzCxX0C",
+                "citation_id": "HULIk-QAAAAJ:pYRxIbzCxX0C",
+                "authors": "J Del Ser, E Osaba, D Molina, XS Yang, S Salcedo-Sanz, D Camacho, ...",
+                "publication": "Swarm and Evolutionary Computation 48, Pages 220-250, 2019",
+                "cited_by":
+                {
+                    "value": 283,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12003008019021389025",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=12003008019021389025&engine=google_scholar&hl=en",
+                    "cites_id": "12003008019021389025"
+                }
+                ,
+                "year": "2019"
+            }
+            ,
+            {
+                "title": "Study on the Impact of Partition-Induced Dataset Shift on -Fold Cross-Validation",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:TesyEGJKHF4C",
+                "citation_id": "HULIk-QAAAAJ:TesyEGJKHF4C",
+                "authors": "JG Moreno-Torres, JA Sáez, F Herrera",
+                "publication": "IEEE Transactions on Neural Networks and Learning Systems 23 (8), 1304-1312, 2012",
+                "cited_by":
+                {
+                    "value": 282,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17542872528729601329",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=17542872528729601329&engine=google_scholar&hl=en",
+                    "cites_id": "17542872528729601329"
+                }
+                ,
+                "year": "2012"
+            }
+            ,
+            {
+                "title": "Deep Learning in Video Multi-Object Tracking: A Survey",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:q7LczdTNAjsC",
+                "citation_id": "HULIk-QAAAAJ:q7LczdTNAjsC",
+                "authors": "G Ciaparrone, FL Sánchez, S Tabik, L Troiano, R Tagliaferri, F Herrera",
+                "publication": "Neurocomputing 381, Pages 61-88, 2020",
+                "cited_by":
+                {
+                    "value": 280,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14147157813751240302",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=14147157813751240302&engine=google_scholar&hl=en",
+                    "cites_id": "14147157813751240302"
+                }
+                ,
+                "year": "2020"
+            }
+            ,
+            {
+                "title": "Analysis of preprocessing vs. cost-sensitive learning for imbalanced classification. Open problems on intrinsic data characteristics",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:lg2tdxc6qMwC",
+                "citation_id": "HULIk-QAAAAJ:lg2tdxc6qMwC",
+                "authors": "V López, A Fernández, JG Moreno-Torres, F Herrera",
+                "publication": "Expert Systems with Applications 39 (7), 6585-6608, 2012",
+                "cited_by":
+                {
+                    "value": 280,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15592500810337240487",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=15592500810337240487&engine=google_scholar&hl=en",
+                    "cites_id": "15592500810337240487"
+                }
+                ,
+                "year": "2012"
+            }
+            ,
+            {
+                "title": "A three-stage evolutionary process for learning descriptive and approximate fuzzy-logic-controller knowledge bases from examples",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:ufrVoPGSRksC",
+                "citation_id": "HULIk-QAAAAJ:ufrVoPGSRksC",
+                "authors": "O Cordón, F Herrera",
+                "publication": "International Journal of Approximate Reasoning 17 (4), 369-407, 1997",
+                "cited_by":
+                {
+                    "value": 278,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5534568716714838044,6578917949741116902",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=5534568716714838044%2C6578917949741116902&engine=google_scholar&hl=en",
+                    "cites_id": "5534568716714838044,6578917949741116902"
+                }
+                ,
+                "year": "1997"
+            }
+            ,
+            {
+                "title": "Personalized individual semantics in Computing with Words for supporting linguistic Group Decision Making. An Application on Consensus reaching",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:uEM9VtRl8xsC",
+                "citation_id": "HULIk-QAAAAJ:uEM9VtRl8xsC",
+                "authors": "CC Li, Y Dong, F Herrera, E Herrera-Viedma, L Martínez",
+                "publication": "Information Fusion 33, 29-40, 2017",
+                "cited_by":
+                {
+                    "value": 274,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10220274367147971547",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=10220274367147971547&engine=google_scholar&hl=en",
+                    "cites_id": "10220274367147971547"
+                }
+                ,
+                "year": "2017"
+            }
+            ,
+            {
+                "title": "A review on the ant colony optimization metaheuristic: basis, models and new trends",
+                "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HULIk-QAAAAJ&pagesize=100&citation_for_view=HULIk-QAAAAJ:4TOpqqG69KYC",
+                "citation_id": "HULIk-QAAAAJ:4TOpqqG69KYC",
+                "authors": "OC García, FH Triguero, T Stützle",
+                "publication": "Mathware & Soft Computing 9 (3), 141-175, 2002",
+                "cited_by":
+                {
+                    "value": 273,
+                    "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11020140529551839178",
+                    "serpapi_link": "https://serpapi.com/search.json?cites=11020140529551839178&engine=google_scholar&hl=en",
+                    "cites_id": "11020140529551839178"
+                }
+                ,
+                "year": "2002"
+            }
+        ]
+        ,
+        "cited_by":
+        {
+            "table":
+            [
+                {
+                    "citations":
+                    {
+                        "all": 110281,
+                        "since_2017": 58151
+                    }
+                }
+                ,
+                {
+                    "h_index":
+                    {
+                        "all": 160,
+                        "since_2017": 119
+                    }
+                }
+                ,
+                {
+                    "i10_index":
+                    {
+                        "all": 664,
+                        "since_2017": 514
+                    }
+                }
+            ]
+            ,
+            "graph":
+            [
+                {
+                    "year": 2000,
+                    "citations": 322
+                }
+                ,
+                {
+                    "year": 2001,
+                    "citations": 491
+                }
+                ,
+                {
+                    "year": 2002,
+                    "citations": 531
+                }
+                ,
+                {
+                    "year": 2003,
+                    "citations": 767
+                }
+                ,
+                {
+                    "year": 2004,
+                    "citations": 875
+                }
+                ,
+                {
+                    "year": 2005,
+                    "citations": 1235
+                }
+                ,
+                {
+                    "year": 2006,
+                    "citations": 1592
+                }
+                ,
+                {
+                    "year": 2007,
+                    "citations": 2204
+                }
+                ,
+                {
+                    "year": 2008,
+                    "citations": 2344
+                }
+                ,
+                {
+                    "year": 2009,
+                    "citations": 2951
+                }
+                ,
+                {
+                    "year": 2010,
+                    "citations": 3226
+                }
+                ,
+                {
+                    "year": 2011,
+                    "citations": 3800
+                }
+                ,
+                {
+                    "year": 2012,
+                    "citations": 4190
+                }
+                ,
+                {
+                    "year": 2013,
+                    "citations": 4936
+                }
+                ,
+                {
+                    "year": 2014,
+                    "citations": 6210
+                }
+                ,
+                {
+                    "year": 2015,
+                    "citations": 6912
+                }
+                ,
+                {
+                    "year": 2016,
+                    "citations": 7466
+                }
+                ,
+                {
+                    "year": 2017,
+                    "citations": 7689
+                }
+                ,
+                {
+                    "year": 2018,
+                    "citations": 9462
+                }
+                ,
+                {
+                    "year": 2019,
+                    "citations": 11167
+                }
+                ,
+                {
+                    "year": 2020,
+                    "citations": 11618
+                }
+                ,
+                {
+                    "year": 2021,
+                    "citations": 14955
+                }
+                ,
+                {
+                    "year": 2022,
+                    "citations": 3183
+                }
+            ]
+        }
+        ,
+        "public_access":
+        {
+            "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=HULIk-QAAAAJ",
+            "available": 266,
+            "not_available": 92
+        }
+        ,
+        "co_authors":
+        [
+            {
+                "name": "Salvador García",
+                "link": "https://scholar.google.com/citations?user=vIC06a0AAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=vIC06a0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "vIC06a0AAAAJ",
+                "affiliations": "Full Professor of Computer Science and Artificial Intelligence. University of Granada.",
+                "email": "Verified email at decsai.ugr.es",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=vIC06a0AAAAJ&citpid=4"
+            }
+            ,
+            {
+                "name": "Enrique Herrera-Viedma",
+                "link": "https://scholar.google.com/citations?user=g8ZXTuYAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=g8ZXTuYAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "g8ZXTuYAAAAJ",
+                "affiliations": "Professor of Computer Science and Artificial Intelligence, Spain, University of Granada",
+                "email": "Verified email at decsai.ugr.es",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=g8ZXTuYAAAAJ&citpid=3"
+            }
+            ,
+            {
+                "name": "Alberto Fernández",
+                "link": "https://scholar.google.com/citations?user=FI0eA8kAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=FI0eA8kAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "FI0eA8kAAAAJ",
+                "affiliations": "Associate Professor in Computer Science and Artificial Intelligence, University of Granada",
+                "email": "Verified email at decsai.ugr.es",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=FI0eA8kAAAAJ&citpid=6"
+            }
+            ,
+            {
+                "name": "Oscar Cordón",
+                "link": "https://scholar.google.com/citations?user=oUmv8xgAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=oUmv8xgAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "oUmv8xgAAAAJ",
+                "affiliations": "Professor, IEEE-IFSA Fellow, Natl. Computer Science Award. DaSCI Research Institute & DECSAI, UGR",
+                "email": "Verified email at decsai.ugr.es",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=oUmv8xgAAAAJ&citpid=6"
+            }
+            ,
+            {
+                "name": "Julián Luengo Martín",
+                "link": "https://scholar.google.com/citations?user=aqb9xm8AAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=aqb9xm8AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "aqb9xm8AAAAJ",
+                "affiliations": "Associate Professor at University of Granada",
+                "email": "Verified email at decsai.ugr.es",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=aqb9xm8AAAAJ&citpid=3"
+            }
+            ,
+            {
+                "name": "María José Del Jesus Díaz",
+                "link": "https://scholar.google.com/citations?user=1n84M0kAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=1n84M0kAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "1n84M0kAAAAJ",
+                "affiliations": "Associate professor of Computer Science, University of Jaén",
+                "email": "Verified email at ujaen.es",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=1n84M0kAAAAJ&citpid=3"
+            }
+            ,
+            {
+                "name": "Luis Martínez",
+                "link": "https://scholar.google.com/citations?user=PG3D8UMAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=PG3D8UMAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "PG3D8UMAAAAJ",
+                "affiliations": "Professor of Computer Science, University of Jaén",
+                "email": "Verified email at ujaen.es",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=PG3D8UMAAAAJ&citpid=3"
+            }
+            ,
+            {
+                "name": "Daniel Molina Cabrera",
+                "link": "https://scholar.google.com/citations?user=jlv-GY0AAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=jlv-GY0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "jlv-GY0AAAAJ",
+                "affiliations": "Computer Science, Granada University",
+                "email": "Verified email at decsai.ugr.es",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=jlv-GY0AAAAJ&citpid=5"
+            }
+            ,
+            {
+                "name": "Rafael Alcalá",
+                "link": "https://scholar.google.com/citations?user=XZAvcZAAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=XZAvcZAAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "XZAvcZAAAAAJ",
+                "affiliations": "Full Professor of Computer Science and Artificial Intelligence, University of Granada",
+                "email": "Verified email at decsai.ugr.es",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=XZAvcZAAAAAJ&citpid=2"
+            }
+            ,
+            {
+                "name": "José Luis Verdegay",
+                "link": "https://scholar.google.com/citations?user=7AjYKlcAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=7AjYKlcAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "7AjYKlcAAAAJ",
+                "affiliations": "Professor of Computer Science and Artificial Intelligence, University of Granada",
+                "email": "Verified email at ugr.es",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=7AjYKlcAAAAJ&citpid=10"
+            }
+            ,
+            {
+                "name": "Jose M. Benitez",
+                "link": "https://scholar.google.com/citations?user=1iSTbIkAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=1iSTbIkAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "1iSTbIkAAAAJ",
+                "affiliations": "Full Professor, Universidad de Granada",
+                "email": "Verified email at decsai.ugr.es",
+                "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+            }
+            ,
+            {
+                "name": "Joaquin Derrac Rus",
+                "link": "https://scholar.google.com/citations?user=yu7NytwAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=yu7NytwAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "yu7NytwAAAAJ",
+                "affiliations": "Data Scientist",
+                "email": "Verified email at gresearch.co.uk",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=yu7NytwAAAAJ&citpid=4"
+            }
+            ,
+            {
+                "name": "Francisco Chiclana",
+                "link": "https://scholar.google.com/citations?user=qDOxZIIAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=qDOxZIIAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "qDOxZIIAAAAJ",
+                "affiliations": "Professor of Computational Intelligence and Decision Making, De Montfort University, UK",
+                "email": "Verified email at dmu.ac.uk",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=qDOxZIIAAAAJ&citpid=4"
+            }
+            ,
+            {
+                "name": "Jesus Alcala-Fdez",
+                "link": "https://scholar.google.com/citations?user=nD0L_j0AAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=nD0L_j0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "nD0L_j0AAAAJ",
+                "affiliations": "Associate Professor of Computer Science and Artificial Intelligence, University of Granada",
+                "email": "Verified email at decsai.ugr.es",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=nD0L_j0AAAAJ&citpid=4"
+            }
+            ,
+            {
+                "name": "Humberto Bustince",
+                "link": "https://scholar.google.com/citations?user=9SI4W2kAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=9SI4W2kAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "9SI4W2kAAAAJ",
+                "affiliations": "Professor of Computer Science, Universidad Publica de Navarra",
+                "email": "Verified email at unavarra.es",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=9SI4W2kAAAAJ&citpid=2"
+            }
+            ,
+            {
+                "name": "Mikel Galar",
+                "link": "https://scholar.google.com/citations?user=V_MNUskAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=V_MNUskAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "V_MNUskAAAAJ",
+                "affiliations": "Associate Professor of Computer Science and Artificial Intelligence, Universidad Pública de Navarra",
+                "email": "Verified email at unavarra.es",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=V_MNUskAAAAJ&citpid=6"
+            }
+            ,
+            {
+                "name": "Isaac Triguero Velázquez",
+                "link": "https://scholar.google.com/citations?user=KogUP4YAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=KogUP4YAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "KogUP4YAAAAJ",
+                "affiliations": "Associate Professor in Data Science, School of Computer Science, University of Nottingham",
+                "email": "Verified email at nottingham.ac.uk",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=KogUP4YAAAAJ&citpid=8"
+            }
+            ,
+            {
+                "name": "Manuel Lozano",
+                "link": "https://scholar.google.com/citations?user=9jzFa4gAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=9jzFa4gAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "9jzFa4gAAAAJ",
+                "affiliations": "Dept. Computer Science and A.I. - University Granada",
+                "email": "Verified email at decsai.ugr.es",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=9jzFa4gAAAAJ&citpid=4"
+            }
+            ,
+            {
+                "name": "Sergio Alonso",
+                "link": "https://scholar.google.com/citations?user=1ZWCt84AAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=1ZWCt84AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "1ZWCt84AAAAJ",
+                "affiliations": "Titular de Universidad, Universidad de Granada",
+                "email": "Verified email at ugr.es",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=1ZWCt84AAAAJ&citpid=2"
+            }
+            ,
+            {
+                "name": "Siham Tabik",
+                "link": "https://scholar.google.com/citations?user=jsPSrRQAAAAJ&hl=en",
+                "serpapi_link": "https://serpapi.com/search.json?author_id=jsPSrRQAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+                "author_id": "jsPSrRQAAAAJ",
+                "affiliations": "Associate Professor, Dpt. Computer Science and Artificial Intelligence, University of Granada",
+                "email": "Verified email at ugr.es",
+                "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=jsPSrRQAAAAJ&citpid=3"
+            }
+        ]
+        ,
+        "serpapi_pagination":
+        {
+            "next": "https://serpapi.com/search.json?author_id=HULIk-QAAAAJ&engine=google_scholar_author&hl=en&num=100&start=100"
+        }
+    }

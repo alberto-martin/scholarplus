@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>sp</title>
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/fonts/fontawesome-all.min.css">
+    <link rel="stylesheet" href="assets/fonts/ionicons.min.css">
+    <link rel="stylesheet" href="assets/fonts/material-icons.min.css">
+    <link rel="stylesheet" href="assets/fonts/simple-line-icons.min.css">
+    <link rel="stylesheet" href="assets/fonts/typicons.min.css">
+    <link rel="stylesheet" href="assets/css/Footer-Dark.css">
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="stylesheet" href="assets/css/untitled.css">
+</head>
+
+<body>
+    <nav class="navbar navbar-light navbar-expand-md sticky-top shadow-sm" id="navBar" style="border-bottom-style: solid;background: var(--bs-white);">
+        <div class="container-fluid"><a class="navbar-brand" id="navbarBrand" href="#"><img id="brandLogo" src="assets/img/logo.png"></a><button data-bs-toggle="collapse" class="navbar-toggler" data-bs-target="#navBarCollapse" id="navbarToggler"><span class="visually-hidden" id="toggleNav">Toggle navigation</span><span class="navbar-toggler-icon" id="toggleIcon"></span></button>
+            <div class="collapse navbar-collapse" id="navBarCollapse">
+                <ul class="navbar-nav" id="navBarMenu">
+                    <li class="nav-item" id="navItem1"><a class="nav-link" id="navItemLink1" href="index.html">Pantalla principal/Inicio</a></li>
+                    <li class="nav-item" id="navItem2"><a class="nav-link active" id="navItemLink2" href="download.html">Asistente descarga</a></li>
+                    <li class="nav-item" id="navItem3"><a class="nav-link disabled" id="navItemLink3" href="authorProfile.html">Perfil autor</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div id="main" style="margin: 10px;padding: 50px;padding-top: 20px;">
+        <div class="accordion accordion-flush text-dark bg-white border-white" role="tablist" id="mAccordion">
+            <div class="accordion-item text-dark bg-white border-white" id="accItem1">
+                <h2 class="accordion-header text-dark bg-white border-white" role="tab" id="accItem1Head"><button class="accordion-button text-dark bg-white border-white" data-bs-toggle="collapse" data-bs-target="#mAccordion .item-1" aria-expanded="true" aria-controls="mAccordion .item-1" id="item1HeadButton">Progreso de descarga</button></h2>
+                <div class="accordion-collapse collapse show item-1 text-dark bg-white border-white" role="tabpanel" data-bs-parent="#mAccordion" id="accItem1Cont">
+                    <div class="accordion-body">
+                        <div id="item1C1">
+                            <div class="container" id="c1Container">
+                                <div class="row" id="cont1Row">
+                                    <div class="col-md-6" id="cont1Col1">
+                                        <p class="lead text-start" id="cont1C1Paragr" style="height: 23px;">Descargando datos básicos del perfil...</p>
+                                    </div>
+                                    <div class="col-md-6" id="cont1Col2">
+                                        <p id="cont1C2Paragr">First -&gt;&nbsp;<span class="spinner-border spinner-border-sm" role="status" style="color: var(--bs-danger);"></span>&nbsp;<span class="spinner-grow spinner-grow-sm" role="status" style="color: var(--bs-danger);"></span> , then -&gt;&nbsp;<i class="fas fa-check" style="color: var(--bs-danger);"></i><i class="fas fa-check" style="color: #5ce309;"></i></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="item1C2">
+                            <div class="container" id="c2Container">
+                                <div class="row" id="cont2Row">
+                                    <div class="col-md-6" id="cont2Col1">
+                                        <p class="lead text-start" id="cont2C1Paragr" style="height: 23px;">Descargando los documentos del perfil...</p>
+                                    </div>
+                                    <div class="col-md-6" id="cont2Col2">
+                                        <p id="cont2C2Paragr">First -&gt;&nbsp;<span class="spinner-border spinner-border-sm" role="status" style="color: var(--bs-danger);"></span>&nbsp;<span class="spinner-grow spinner-grow-sm" role="status" style="color: var(--bs-danger);"></span> , then -&gt;&nbsp;<i class="fas fa-check" style="color: var(--bs-danger);"></i><i class="fas fa-check" style="color: #5ce309;"></i></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="item1C3">
+                            <div class="container" id="c3Container">
+                                <div class="row" id="cont3Row">
+                                    <div class="col-md-6" id="cont3Col1">
+                                        <p class="lead text-start" id="cont3C1Paragr" style="height: 23px;">Descargando los metadatos de autores y publicación...</p>
+                                    </div>
+                                    <div class="col-md-6" id="cont3Col2">
+                                        <p id="cont3C2Paragr">First -&gt;&nbsp;<span class="spinner-border spinner-border-sm" role="status" style="color: var(--bs-danger);"></span>&nbsp;<span class="spinner-grow spinner-grow-sm" role="status" style="color: var(--bs-danger);"></span> , then -&gt;&nbsp;<i class="fas fa-check" style="color: var(--bs-danger);"></i><i class="fas fa-check" style="color: #5ce309;"></i></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="item1C4">
+                            <div class="container" id="c4Container">
+                                <div class="row" id="cont4Row">
+                                    <div class="col-md-6" id="cont4Col1">
+                                        <p class="lead text-start" id="cont4C1Paragr" style="height: 23px;">Descargando los datos de citas...</p>
+                                    </div>
+                                    <div class="col-md-6" id="cont4Col2">
+                                        <p id="cont4C2Paragr">First -&gt;&nbsp;<span class="spinner-border spinner-border-sm" role="status" style="color: var(--bs-danger);"></span>&nbsp;<span class="spinner-grow spinner-grow-sm" role="status" style="color: var(--bs-danger);"></span> , then -&gt;&nbsp;<i class="fas fa-check" style="color: var(--bs-danger);"></i><i class="fas fa-check" style="color: #5ce309;"></i></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="item1C5">
+                            <div class="container" id="c5Container">
+                                <div class="row" id="cont5Row">
+                                    <div class="col-md-6" id="cont5Col1">
+                                        <p class="lead text-start" id="cont5C1Paragr" style="height: 23px;">Descarga del perfil completada</p>
+                                    </div>
+                                    <div class="col-md-6" id="cont5Col2">
+                                        <p id="cont5C2Paragr"><i class="fas fa-check" style="color: var(--bs-danger);"></i><i class="fas fa-check" style="color: #5ce309;"></i></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="item1C6" style="height: 58px;">
+                            <div class="container" id="c6Container">
+                                <div class="row" id="cont6Row" style="height: 39px;">
+                                    <div class="col-md-6" id="cont6Col1">
+                                        <div class="progress" style="margin-bottom: 8px;margin-top: 8px;">
+                                            <div class="progress-bar bg-danger progress-bar-striped progress-bar-animated" aria-valuenow="15" aria-valuemin="0" aria-valuemax="100" style="width: 15%;"><span class="visually-hidden">15%</span></div>
+                                        </div>
+                                        <div class="progress">
+                                            <div class="progress-bar bg-dark progress-bar-striped progress-bar-animated" aria-valuenow="15" aria-valuemin="0" aria-valuemax="100" style="width: 15%;"><span class="visually-hidden">15%</span></div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6" id="cont6Col2"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="item1C7" style="height: 58px;">
+                            <div class="container" id="c7Container">
+                                <div class="row" id="cont7Row" style="height: 39px;">
+                                    <div class="col-md-6" id="cont7Col1">
+                                        <div class="progress" style="margin-bottom: 8px;">
+                                            <div class="progress-bar bg-danger progress-bar-striped progress-bar-animated" aria-valuenow="35" aria-valuemin="0" aria-valuemax="100" style="width: 35%;"><span class="visually-hidden">35%</span></div>
+                                        </div>
+                                        <div class="progress">
+                                            <div class="progress-bar bg-dark progress-bar-striped progress-bar-animated" aria-valuenow="35" aria-valuemin="0" aria-valuemax="100" style="width: 35%;"><span class="visually-hidden">35%</span></div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6" id="cont7Col2"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="item1C8" style="height: 58px;">
+                            <div class="container" id="c8Container">
+                                <div class="row" id="cont8Row" style="height: 39px;">
+                                    <div class="col-md-6" id="cont8Col1">
+                                        <div class="progress" style="margin-bottom: 8px;">
+                                            <div class="progress-bar bg-danger" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100" style="width: 55%;"><span class="visually-hidden">55%</span></div>
+                                        </div>
+                                        <div class="progress">
+                                            <div class="progress-bar bg-dark" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100" style="width: 55%;"><span class="visually-hidden">55%</span></div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6" id="cont8Col2"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="item1C9" style="height: 58px;">
+                            <div class="container" id="c9Container">
+                                <div class="row" id="cont9Row" style="height: 39px;">
+                                    <div class="col-md-6" id="cont9Col1">
+                                        <div class="progress" style="margin-bottom: 8px;">
+                                            <div class="progress-bar bg-danger" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 75%;"><span class="visually-hidden">75%</span></div>
+                                        </div>
+                                        <div class="progress">
+                                            <div class="progress-bar bg-dark" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 75%;"><span class="visually-hidden">75%</span></div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6" id="cont9Col2"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="item1C10" style="height: 58px;">
+                            <div class="container" id="c10Container">
+                                <div class="row" id="cont10Row" style="height: 39px;">
+                                    <div class="col-md-6" id="cont10Col1">
+                                        <div class="progress" style="margin-bottom: 8px;">
+                                            <div class="progress-bar bg-danger" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%;"><span class="visually-hidden">100%</span></div>
+                                        </div>
+                                        <div class="progress">
+                                            <div class="progress-bar bg-dark" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%;"><span class="visually-hidden">100%</span></div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6" id="cont10Col2"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item text-dark bg-white border-white" id="accItem2">
+                <h2 class="accordion-header text-dark bg-white border-white" role="tab" id="accItem2Head"><button class="accordion-button collapsed text-dark bg-white border-white" data-bs-toggle="collapse" data-bs-target="#mAccordion .item-2" aria-expanded="false" aria-controls="mAccordion .item-2" id="item2HeadButton">Menú de opciones</button></h2>
+                <div class="accordion-collapse collapse item-2 text-dark bg-white border-white" role="tabpanel" data-bs-parent="#mAccordion" id="accItem2Cont">
+                    <div class="accordion-body">
+                        <div class="row" id="item2Row">
+                            <div class="col" id="item2C1">
+                                <form id="item2C1Form" style="padding: 4px;">
+                                    <div class="form-check"><input class="form-check-input" type="radio" id="formCheck-1" name="radioda"><label class="form-check-label" for="formCheck-1">Todos</label></div>
+                                    <div class="form-check" style="margin-top: 2px;"><input class="form-check-input" type="radio" id="formCheck-4" name="radioda"><label class="form-check-label" for="formCheck-4">Últimos 5 años</label></div>
+                                    <div class="form-check" style="margin-top: 2px;"><input class="form-check-input" type="radio" id="formCheck-2" name="radioda"><label class="form-check-label" for="formCheck-2">Top 10 más citados</label></div>
+                                    <div class="form-check" style="margin-top: 2px;"><input class="form-check-input" type="radio" id="formCheck-3" name="radioda"><label class="form-check-label" for="formCheck-3">Top 20 más citados</label></div><select class="form-select" style="margin-top: 2px;">
+                                        <optgroup label="Documentos por pagina">
+                                            <option value="10" selected="">Mostrar 10</option>
+                                            <option value="20">Mostrar 20</option>
+                                            <option value="50">Mostrar 50</option>
+                                            <option value="100">Mostrar 100</option>
+                                            <option value="100">Mostrar todos</option>
+                                        </optgroup>
+                                    </select>
+                                </form>
+                            </div>
+                            <div class="col offset-md-0" id="item2C2" style="padding-top: 0px;padding-left: 20px;">
+                                <form id="item2C2Form">
+                                    <p>&nbsp;Desde&nbsp;&nbsp;<input class="form-control" type="date"></p>
+                                    <p>&nbsp;Hasta&nbsp; &nbsp;<input class="form-control" type="date"></p>
+                                </form>
+                            </div>
+                        </div>
+                        <div id="item2Bttns">
+                            <div class="container" id="bttnsCont">
+                                <div class="row" id="bttnsContRow">
+                                    <div class="col-md-6" id="bttnsC1"><button class="btn btn-outline-dark btn-lg" type="button">Aplicar</button></div>
+                                    <div class="col-md-6 text-end" id="bttnsC2"><button class="btn btn-outline-danger btn-lg" type="button">Saltar</button></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="downloadResults" style="margin: 10px;padding: 10px;">
+            <div id="dResultsHead">
+                <div class="row" id="resultsHeadRow">
+                    <div class="col align-self-center" id="resultsHeadC1"><a href="#" style="padding: 2px;color: var(--bs-gray-dark);font-weight: bold;text-align: center;">DOCUMENTOS</a></div>
+                    <div class="col-lg-2 text-center d-none d-print-inline d-sm-none d-md-none d-lg-inline d-xl-inline d-xxl-inline align-self-center" id="resultsHeadC2"><a href="#" style="padding: 2px;font-weight: bold;color: var(--bs-gray-dark);text-align: center;">AÑO</a></div>
+                </div>
+            </div>
+            <hr id="separator1">
+            <div id="dResultsBody">
+                <div class="row" id="resultsRow1">
+                    <div class="col align-self-center" id="resultsR1C1">
+                        <p class="lead text-start text-dark" id="docTitle" style="margin-bottom: 5px;">Titulo documento 1<br></p>
+                        <p id="docAuthors" class="alternative-text-first-level" style="margin-bottom: 5px;">Autores documento 1<br></p>
+                        <p id="docPub">Datos de publicación documento 1<br></p>
+                    </div>
+                    <div class="col-lg-2 text-center d-none d-print-inline d-sm-none d-md-none d-lg-inline d-xl-inline d-xxl-inline align-self-start" id="resultsR1C2">
+                        <p id="docYear">Año 1</p>
+                    </div>
+                </div>
+                <hr id="rowSeparator1">
+                <div class="row">
+                    <div class="col align-self-center">
+                        <p class="lead text-start text-dark" style="margin-bottom: 5px;">Titulo documento 2<br></p>
+                        <p class="alternative-text-first-level" style="margin-bottom: 5px;">Autores documento 2<br></p>
+                        <p>Datos de publicación documento 2<br></p>
+                    </div>
+                    <div class="col-lg-2 text-center d-none d-print-inline d-sm-none d-md-none d-lg-inline d-xl-inline d-xxl-inline align-self-start">
+                        <p>Año 2</p>
+                    </div>
+                </div>
+                <hr>
+                <div class="row">
+                    <div class="col align-self-center">
+                        <p class="lead text-start text-dark" style="margin-bottom: 5px;">Titulo documento 3<br></p>
+                        <p class="alternative-text-first-level" style="margin-bottom: 5px;">Autores documento 3<br></p>
+                        <p>Datos de publicación documento 3<br></p>
+                    </div>
+                    <div class="col-lg-2 text-center d-none d-print-inline d-sm-none d-md-none d-lg-inline d-xl-inline d-xxl-inline align-self-start">
+                        <p>Año 3</p>
+                    </div>
+                </div>
+                <hr>
+                <div class="row">
+                    <div class="col align-self-center">
+                        <p class="lead text-start text-dark" style="margin-bottom: 5px;">Titulo documento 4<br></p>
+                        <p class="alternative-text-first-level" style="margin-bottom: 5px;">Autores documento 4<br></p>
+                        <p>Datos de publicación documento 4<br></p>
+                    </div>
+                    <div class="col-lg-2 text-center d-none d-print-inline d-sm-none d-md-none d-lg-inline d-xl-inline d-xxl-inline align-self-start">
+                        <p>Año 4</p>
+                    </div>
+                </div>
+                <hr>
+                <div class="row">
+                    <div class="col align-self-center">
+                        <p class="lead text-start text-dark" style="margin-bottom: 5px;">Titulo documento 5<br></p>
+                        <p class="alternative-text-first-level" style="margin-bottom: 5px;">Autores documento 5<br></p>
+                        <p>Datos de publicación documento 5<br></p>
+                    </div>
+                    <div class="col-lg-2 text-center d-none d-print-inline d-sm-none d-md-none d-lg-inline d-xl-inline d-xxl-inline align-self-start">
+                        <p>Año 5</p>
+                    </div>
+                </div>
+                <hr>
+                <div class="row">
+                    <div class="col align-self-center">
+                        <p class="lead text-start text-dark" style="margin-bottom: 5px;">Titulo documento 6<br></p>
+                        <p class="alternative-text-first-level" style="margin-bottom: 5px;">Autores documento 6<br></p>
+                        <p>Datos de publicación documento 6<br></p>
+                    </div>
+                    <div class="col-lg-2 text-center d-none d-print-inline d-sm-none d-md-none d-lg-inline d-xl-inline d-xxl-inline align-self-start">
+                        <p>Año 6</p>
+                    </div>
+                </div>
+                <hr>
+                <div class="row">
+                    <div class="col align-self-center">
+                        <p class="lead text-start text-dark" style="margin-bottom: 5px;">Titulo documento 7<br></p>
+                        <p class="alternative-text-first-level" style="margin-bottom: 5px;">Autores documento 7<br></p>
+                        <p>Datos de publicación documento 7<br></p>
+                    </div>
+                    <div class="col-lg-2 text-center d-none d-print-inline d-sm-none d-md-none d-lg-inline d-xl-inline d-xxl-inline align-self-start">
+                        <p>Año 7</p>
+                    </div>
+                </div>
+                <hr>
+                <div class="row">
+                    <div class="col align-self-center">
+                        <p class="lead text-start text-dark" style="margin-bottom: 5px;">Titulo documento 8<br></p>
+                        <p class="alternative-text-first-level" style="margin-bottom: 5px;">Autores documento 8<br></p>
+                        <p>Datos de publicación documento 8<br></p>
+                    </div>
+                    <div class="col-lg-2 text-center d-none d-print-inline d-sm-none d-md-none d-lg-inline d-xl-inline d-xxl-inline align-self-start">
+                        <p>Año 8</p>
+                    </div>
+                </div>
+                <hr>
+                <div class="row">
+                    <div class="col align-self-center">
+                        <p class="lead text-start text-dark" style="margin-bottom: 5px;">Titulo documento 9<br></p>
+                        <p class="alternative-text-first-level" style="margin-bottom: 5px;">Autores documento 9<br></p>
+                        <p>Datos de publicación documento 9<br></p>
+                    </div>
+                    <div class="col-lg-2 text-center d-none d-print-inline d-sm-none d-md-none d-lg-inline d-xl-inline d-xxl-inline align-self-start">
+                        <p>Año 9</p>
+                    </div>
+                </div>
+                <hr>
+                <div class="row">
+                    <div class="col align-self-center">
+                        <p class="lead text-start text-dark" style="margin-bottom: 5px;">Titulo documento 10<br></p>
+                        <p class="alternative-text-first-level" style="margin-bottom: 5px;">Autores documento 10<br></p>
+                        <p>Datos de publicación documento 10<br></p>
+                    </div>
+                    <div class="col-lg-2 text-center d-none d-print-inline d-sm-none d-md-none d-lg-inline d-xl-inline d-xxl-inline align-self-start">
+                        <p>Año 10</p>
+                    </div>
+                </div>
+                <hr>
+            </div>
+        </div>
+    </div>
+    <footer id="footer" class="footer-dark">
+        <div class="container" id="footerContainer">
+            <div class="row" id="fcrow">
+                <div class="col-sm-6 col-md-3 item" id="fColServ">
+                    <h3 id="servHead">Servicios</h3>
+                    <ul id="servList">
+                        <li><a href="#">Datos bibliométricos</a></li>
+                        <li><a href="#">Soporte de uso</a></li>
+                        <li></li>
+                    </ul>
+                </div>
+                <div class="col-sm-6 col-md-3 item" id="fColAbout">
+                    <h3>About</h3>
+                    <ul>
+                        <li>Scholar+</li>
+                        <li>Equipo</li>
+                    </ul>
+                </div>
+                <div class="col-md-6 item text" id="fColText">
+                    <h3>Scholar+</h3>
+                    <p>App que permite la descarga de registros, datos de publicación, impacto y metadatos adicionales de Google Scholar, OpenAlex, CrossRef, Web of Science y Scopus.</p>
+                </div>
+                <div class="col item social" id="fColSocial"><a href="#"><i class="icon ion-social-facebook"></i></a><a href="#"><i class="icon ion-social-twitter"></i></a><a href="#"><i class="icon ion-social-snapchat"></i></a><a href="#"><i class="icon ion-social-instagram"></i></a></div>
+            </div>
+            <p id="copyright" class="copyright">Scholar+ © 2022</p>
+        </div>
+    </footer>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="assets/js/bs-init.js"></script>
+    <script src="assets/js/popover.js"></script>
+</body>
+
+</html>
